@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4455</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-04">2010-03-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4455b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Price</part>
+<part localType="givenname">Esther</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Farmer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Esther Price was a journalist contributing to rural publications, running her own promotions and design business, looking after her two children and working on her farm when the first ABC Rural Woman of the Year Award was established.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-537698">
+<relationEntry>
+Price, Esther (1968-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Price, Esther', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Price, Esther</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4455b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004717.htm">
+<relationEntry localType="published">Book Section: Esther Price</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bowden, Ros</name>
+<title render="quoted">Esther Price</title>
+<imprint>
+<place>Sydney</place>
+<publisher>ABC Books</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Women of The Land: Stories of Australia's Rural Women as told to Ros Bowden</title>
+<name type="author">Ros Bowden</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002425.htm">
+<relationEntry localType="archival">Esther Price interviewed by Ros Bowden in the Women of the land oral history project</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Oral History and Folklore Collection</repository>
+<unittitle>Esther Price interviewed by Ros Bowden in the Women of the land oral history project</unittitle>
+<unitid>ORAL TRC 3406/8</unitid>
+<abstract>Price, a farmer and rural journalist, speaks of her farming background, career in rural journalism, running her own rural publicity business, impact of having children, local networks, being accepted in a male-dominated industry, the children's educational prospects, virtues of family farms versus farms managed for a wage, and her currently limited social life.
+Recorded in 1995</abstract>
+<physdesc>
+<extent>1 Sound cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

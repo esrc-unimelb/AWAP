@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1078</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-22">2004-09-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1078b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Society of Women Writers Western Australia Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Society of Women Writers (Australia) West Australian Branch</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>POPO Box 434, Northbridge, WA 6865
+Email: sww_wa@hotmail.com</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Arts organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Society of Women Writers Western Australia Inc. began in 1977 with five members as a Magazine Branch of the Society of Women Writers (Australia). In 1981, with a membership of approximately fifty, it became a full Branch, and it 2000 it became a
+an independent incorporated body when the national society was disbanded. The Society's main aim is to draw together women writers to support each other in their writing endeavours, and various seminars, worshops and other activities are organised towards this end.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1073b.htm">
+<relationEntry localType="Corporate Body">
+Society of Women Writers (Australia) (1980 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-532568">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Society of Women Writers Western Australia Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Society of Women Writers Western Australia Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1078b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003327.htm">
+<relationEntry localType="published">Newsletter: In print: Official newsletter of the Society of the Women Writers, W.A. Branch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">In print: Official newsletter of the Society of the Women Writers, W.A. Branch</title>
+<imprint>
+<date>1982-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003326.htm">
+<relationEntry localType="published">Book: A History of the Western Australian Women Writers Club</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lang, Jean</name>
+<title render="italic">A History of the Western Australian Women Writers Club</title>
+<imprint>
+<date>1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003314.htm">
+<relationEntry localType="published">Newsletter: In print: Official newsletter of the Society of the Women Writers, W.A. Branch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">In print: Official newsletter of the Society of the Women Writers, W.A. Branch</title>
+<imprint>
+<place>Perth</place>
+<publisher>The Branch</publisher>
+<date>1994-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001841.htm">
+<relationEntry localType="archival">Society of Women Writers (Australia). W.A. Branch.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Society of Women Writers (Australia). W.A. Branch.</unittitle>
+<unitid>MN 866/ACC 3022A</unitid>
+<unitdate>1977 - 1981</unitdate>
+<abstract>Cash books, 1977-1981; Correspondence, 1977-1981; Files, 1977-1981; Magazines, 1977-1981 (including Atelier); Press releases, 1980; Reports, 1980; Circulars.</abstract>
+<physdesc>
+<extent>0.56 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001813.htm">
+<relationEntry localType="archival">Society of Women Writers (Australia). W.A. Branch Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Society of Women Writers (Australia). W.A. Branch Records</unittitle>
+<unitid>MN 866/ACC 3022A</unitid>
+<unitdate>1977 - 1981</unitdate>
+<abstract>Cash books, 1977-1981; Correspondence, 1977-1981; Files, 1977-1981; Magazines, 1977-1981 (including Atelier); Press releases, 1980; Reports, 1980; Circulars.</abstract>
+<physdesc>
+<extent>0.56 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001842.htm">
+<relationEntry localType="archival">Society of Women Writers (Australia) Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Society of Women Writers (Australia) Records</unittitle>
+<unitid>NLA MS 6777</unitid>
+<unitdate>1925 - 1990</unitdate>
+<abstract>The collection includes the Sydney office's records, correspondence of the various state branches, constitutional details, newsletters, manuscripts from various literary competitions and workshops, publications of the Society, membership lists, accounts, applications for grants, conference papers and minutes of the Society's meetings. A large component of the collection is that concerning the Society's 1978 short story competition, for which there are many letters of application and numerous manuscripts.</abstract>
+<physdesc>
+<extent>4.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

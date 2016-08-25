@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0298</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-26">2002-11-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0298b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cocks</part>
+<part localType="givenname">Fanny Kate Boadicea</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1875-05-05">5 May 1875</fromDate>
+<toDate standardDate="1954-08-20">20 August 1954</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Moonta, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Policewoman</term>
+</occupation>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Fanny Kate Boadicea Cocks was appointed as a Member of the Order of the British Empire (Civil) on 3 June 1935 for her role as 'Principal of the Women's Police' in South Australia. According to the <span style="font-style:italic">Australian Dictionary of Biography</span>, Cocks began her career as a schoolmistress and sub-matron before entering the State Children's Council (South Australia) and being appointed as the State's first probation officer for juvenile first offenders. In 1915 Cocks became South Australia's first woman police constable. She was concerned with issues such as adolescent sexuality and alcoholism, prostitution, domestic violence and self-defence. Her care for homeless girls led to her involvement in the Methodist Women's Welfare Department as a volunteer superintendent for fifteen years after her retirement in 1935. She made a bequest to the Methodist home for babies, which was later re-named the Kate Cocks Babies Home.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4253b.htm">
+<relationEntry localType="Corporate Body">
+Methodist Deaconess Order in South Australia (1942 - )
+</relationEntry>
+<descriptiveNote>
+<p>Kate Cocks was a strong advocate of the establishment of a Deaconess order in South Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766054">
+<relationEntry>
+Cocks, Fanny Kate Boadicea (1875-1954)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cocks, Fanny Kate Boadicea', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cocks, Fanny Kate Boadicea</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0298b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001623.htm">
+<relationEntry localType="published">Book: Everybody's friend : the inspiring career of Kate Cocks, M.B.E.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Abbott, E. S</name>
+<title render="italic">Everybody's friend : the inspiring career of Kate Cocks, M.B.E.</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Hassell Press</publisher>
+<date>1939</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001622.htm">
+<relationEntry localType="published">Book: Miss Kate Cocks, her life and work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Shapley, George William</name>
+<title render="italic">Miss Kate Cocks, her life and work</title>
+<imprint>
+<place>Adelaide?</place>
+<publisher>South Australian Methodist Historical Society</publisher>
+<date>1964</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001620.htm">
+<relationEntry localType="published">Resource Section: Cocks, Fanny Kate Boadicea (1875-1954)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mune, Marie</name>
+<title render="quoted">Cocks, Fanny Kate Boadicea (1875-1954)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography</title>
+<num type="volume">08</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080050b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001624.htm">
+<relationEntry localType="published">Book: To walk a fair beat : a history of the South Australian women police 1915-1987</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Higgs, Patricia</name>
+<title render="italic">To walk a fair beat : a history of the South Australian women police 1915-1987</title>
+<imprint>
+<place>Lockleys, S. Aust.</place>
+<publisher>Past and Present Women Police Association</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001284.htm">
+<relationEntry localType="published">Edited Book: S.A.'s greats: the men and women of the North Terrace plaques</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Healey, John</name>
+<title render="italic">S.A.'s greats: the men and women of the North Terrace plaques</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Historical Society of South Australia</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000565.htm">
+<relationEntry localType="archival">[Biographical cuttings on Kate Cocks, former founder of the SA Women Police and also founder of the Kate Cocks Babies' Home at Hove]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Kate Cocks, former founder of the SA Women Police and also founder of the Kate Cocks Babies' Home at Hove]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

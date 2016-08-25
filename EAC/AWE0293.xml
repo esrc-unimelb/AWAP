@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0293</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-02-13">2002-02-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0293b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Connor</part>
+<part localType="givenname">Marjorie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1906-01-01">1906</fromDate>
+<toDate standardDate="1991-05-07">7 May 1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Colac, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Miss Marjorie Connor was born in Colac, Victoria in 1906 and died in Balwyn on 7 May 1991 aged 84. She was educated by a governess an later attended Lauriston before training as a nurse at the Alfred Hospital 1925-1928. After graduation she worked in the private consulting rooms of a dermatologist who used radium. She sustained some radium burns to the hand. From 1945-1972 she was the Executive Secretary of the Royal Victorian College of Nursing. Both it and its successor the RANF Vic. Branch awarded her Honorary Life Memberships. After her retirement she became the Hon. Secretary/Treasurer of the Florence Nightingale Committee Vic. Br. until shortly before her death.
+
+(Source: Historical Note <span style="font-style:italic">University Melbourne Archives</span>)</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-755093">
+<relationEntry>
+Connor, Marjorie
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Connor, Marjorie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Connor, Marjorie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0293b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000255.htm">
+<relationEntry localType="archival">Connor, Marjorie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Connor, Marjorie</unittitle>
+<unitid>95/100</unitid>
+<unitdate>c. 1920 - 1990</unitdate>
+<physdesc>
+<extent>39 Archive boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

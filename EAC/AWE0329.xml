@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0329</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-03-15">2002-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0329b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Rowan</part>
+<part localType="givenname">Marian Ellis</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1848-07-30">30 July 1848</fromDate>
+<toDate standardDate="1922-10-04">4 October 1922</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ellis Rowan was a botanical artist who had no formal art training. She received encouragement from her family and husband, Frederick Charles Rowan, whom she married in 1873, to develop her own style in painting wildflowers.
+Her work was exhibited in both Australia and overseas for which she won a variety of art prizes.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0330b.htm">
+<relationEntry localType="Cultural Artefact">
+Ellis Rowan Building (1966 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-620637">
+<relationEntry>
+Rowan, Ellis (1848-1922)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rowan, Marian Ellis', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rowan, Marian Ellis</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0329b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100462.htm">
+<relationEntry localType="published">Resource Section: Rowan, Marian Ellis (1848-1922)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hazzard, Margaret</name>
+<title render="quoted">Rowan, Marian Ellis (1848-1922)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110473b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000680.htm">
+<relationEntry localType="published">Book: Catalogue of Water Colour Drawings of Wild Flowers etc.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowan, Marian Ellis (Ryan), 1847-1922</name>
+<title render="italic">Catalogue of Water Colour Drawings of Wild Flowers etc.</title>
+<imprint>
+<place>[Melbourne, n.d.]</place>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000682.htm">
+<relationEntry localType="published">Book: Bill Baillie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowan, Ellis, 1848-1922</name>
+<title render="italic">Bill Baillie</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Whitecombe and Tombs</publisher>
+<date>1908</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000676.htm">
+<relationEntry localType="published">Resource Section: Rowan, Marian Ellis (1848 - 1922), Biographical Entry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Rowan, Marian Ellis (1848 - 1922), Biographical Entry</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P002817b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000677.htm">
+<relationEntry localType="published">Resource Section: Ellis Rowan (1848-1922)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harvey, Rod</name>
+<title render="quoted">Ellis Rowan (1848-1922)</title>
+<imprint>
+<publisher>Australian National Botancial Gardens</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.anbg.gov.au/biography/rowan.biography.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000681.htm">
+<relationEntry localType="published">Book: Flower Paintings of Ellis Rowan: from the collection of the National Library of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowan, Ellis, 1848-1922</name>
+<title render="italic">Flower Paintings of Ellis Rowan: from the collection of the National Library of Australia</title>
+<imprint>
+<place>Canberra</place>
+<publisher>National Library of Australia</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000683.htm">
+<relationEntry localType="published">Book: Ellis Rowan 1848-1922: A Biographical Sketch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Collins, Kate</name>
+<title render="italic">Ellis Rowan 1848-1922: A Biographical Sketch</title>
+<imprint>
+<place>Milton, Qld</place>
+<publisher>Oz Publishing</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000684.htm">
+<relationEntry localType="published">Book: Ellis Rowan, A Flower-Hunter in Queensland</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McKay, Judith</name>
+<title render="italic">Ellis Rowan, A Flower-Hunter in Queensland</title>
+<imprint>
+<place>South Brisbane</place>
+<publisher>Queensland Museum</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000685.htm">
+<relationEntry localType="published">Book: A Flower-Hunter in Queensland &amp; New Zealand</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowan, Ellis</name>
+<title render="italic">A Flower-Hunter in Queensland &amp; New Zealand</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1898</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000686.htm">
+<relationEntry localType="published">Book: Press Opinions of Mrs F C Rowan's Water-color Flower Drawings</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Press Opinions of Mrs F C Rowan's Water-color Flower Drawings</title>
+<imprint>
+<place>[London]</place>
+<publisher>Stenlake &amp; Simpson, Printers</publisher>
+<date>[1905]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000679.htm">
+<relationEntry localType="published">Journal Article: Botanical and Wildlife Artist, Intrepid Explorer and Writer</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Whitaker, Dinah</name>
+<title render="quoted">Botanical and Wildlife Artist, Intrepid Explorer and Writer</title>
+<imprint>
+<date>1966</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Garden History</title>
+<num type="volume">7</num>
+<num type="issue">6</num>
+<num type="pages">7-9</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000687.htm">
+<relationEntry localType="published">Book: A Guide to the Trees</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lounsberry, Alice</name>
+<title render="italic">A Guide to the Trees</title>
+<imprint>
+<place>New York</place>
+<publisher>Frederick A Stokes Co.</publisher>
+<date>c1900</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000690.htm">
+<relationEntry localType="published">Book: The Human Side of Trees: Wonders of the World</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dixon, Royal</name>
+<title render="italic">The Human Side of Trees: Wonders of the World</title>
+<imprint>
+<place>New York</place>
+<publisher>Frederick A Stokes Co.</publisher>
+<date>c1917</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000689.htm">
+<relationEntry localType="published">Book: Southern Wild Flowers and Trees: Together with Shrubs, Vines and various forms of growth through the Mountains, the Middle District and the Low Country of the South</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lounsberry, Alice</name>
+<title render="italic">Southern Wild Flowers and Trees: Together with Shrubs, Vines and various forms of growth through the Mountains, the Middle District and the Low Country of the South</title>
+<imprint>
+<place>New York</place>
+<publisher>Frederick A Stokes</publisher>
+<date>1901</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000688.htm">
+<relationEntry localType="published">Book: A Guide to the Wild Flowers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lounsberry, Alice</name>
+<title render="italic">A Guide to the Wild Flowers</title>
+<imprint>
+<place>New York</place>
+<publisher>Frederick A Stokes</publisher>
+<date>1899</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000289.htm">
+<relationEntry localType="archival">Cutting book of Ellis Rowan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Cutting book of Ellis Rowan</unittitle>
+<unitid>MS 2203</unitid>
+<unitdate>1895 - 1922</unitdate>
+<abstract>Scrapbook containing cuttings relating to Ellis Rowan's paintings of Australian wildflowers and some correspondence concerning the purchase of her collection by the Australian Commonwealth government.</abstract>
+<physdesc>
+<extent>0.02 m, 1 v</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000288.htm">
+<relationEntry localType="archival">Papers of Ellis Rowan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Ellis Rowan</unittitle>
+<unitid>MS 2206</unitid>
+<unitdate>1873 - 1895</unitdate>
+<abstract>Letters including 5 from von Mueller 1895-1896 to Ellis Rowan; note by George Meudell on the watercolours by Ellis Rowan which were exhibited at Stanford University; list of medals awarded to Ellis Rowan; photograph of Ellis Rowan; menu and programme.</abstract>
+<physdesc>
+<extent>0.01 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000290.htm">
+<relationEntry localType="archival">Collection of papers relating to Ellis Rowan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Collection of papers relating to Ellis Rowan</unittitle>
+<unitid>MS 422</unitid>
+<unitdate>1892 - 1896</unitdate>
+<abstract>Letters, 1892-1896 to Mrs. Ellis Rowan and Mr. Charles Ryan, Ellis Rowan's father. The letters discuss the identification of plants in Rowan's art work by Baron von Mueller, as well as an appeal to Rowan to support endeavours to mobilise an Admiralty expedition to the Antarctic. It also includes a draft preface to a proposed publication of Ellis Rowan's work, presumably written by the publishers, and biographical notes on Ellis Rowan, prepared in 1956.</abstract>
+<physdesc>
+<extent>0.01 m, 1 folder</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00303.htm">
+<relationEntry localType="digitalObject">Portrait of Ellis Rowan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Portrait of Ellis Rowan</unittitle>
+<unitdate>1873</unitdate>
+<note label="rights">Item Held at the National Library of Australia. See catalogue record for copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

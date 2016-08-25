@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4028</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-28">2009-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4028b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bedford</part>
+<part localType="givenname">Frances</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Australian Labor Party, Frances Bedford was elected to the seat of Florey in the House of Assembly of the Parliament of South Australia at the election, which was held on 11 October 1997. She was re-elected in 2002, 2006 and 2010.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-729067">
+<relationEntry>
+Bedford, Frances
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bedford, Frances', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bedford, Frances</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4028b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002228.htm">
+<relationEntry localType="archival">Interview with Frances Bedford [sound recording] Interviewer: Allison Murchie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Interview with Frances Bedford [sound recording] Interviewer: Allison Murchie</unittitle>
+<unitid>OH 576/9</unitid>
+<unitdate>2000</unitdate>
+<abstract>5 hours 15 minutes. 'More Working Women' series</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

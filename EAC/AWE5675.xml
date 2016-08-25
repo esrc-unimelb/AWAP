@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5675</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-05-23">2016-05-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-23">2016-05-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5675b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">May</part>
+<part localType="givenname">Michelle</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Judge</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Justice Michelle May is a judge of the Family Court of Australia, Appeal Division and President of the Australasian Institute of Judicial Administration.
+
+Justice May has managed to combine her stellar career in the law with raising three (triplets) children.</abstract>
+<p>Born in Englnad but brought up in Brisbane, Australia, Mustice Michell May attended primary school in Coorparoo and then secondary College at Sy Margaret's Anglican School. She lived a simple but happy childhood, which included watching American sitcoms and television dramas of the 1960s, including the courtroom drama of Perry Mason.</p>
+<p>She was awarded a Commonwealth Scholarship to attend the University of Queensland to study an Arts Law degree. Before starting her degree, she spent a year in the United States (1974) on a Rotary Exchange dcholarship. She attended the State University of New York, where completed a general study year, one that influenced her greatly. During her time away she developed a great interest in political theory, so she chose to major in that when she returned to Brisbane. She was tutored in her law subjects by both Margaret White (now a justice of the Supreme Court if Queensland) and Quentin Bryce, who went on to be Australia's first women Governor-General.</p>
+<p>After graduating with an LLB from the University of Queensland, she held the position of Associate to Judge Helman of the District Court of Queensland before being called to the Bar in 1978. Justice May was appointed Queen's Counsel in 1993. She was the first barrister with a predominately family law practice to achieve that level of seniority in Queensland.</p>
+<p>Justice May has served as the chairperson of the Family Law Panel of the Bar Association of Queensland and as a member of the Family Law Council. On 7 September 1995 her Honour was appointed as Judge of the Family Court of Australia, being the first female appointment to that court from Queensland.</p>
+<p>In 2003 she was elevated by the Attorney-General to the Appeal Division of the Family Court. That same year, she was appointed a Co-ordinating Judge, a role entailing administrative responsibilities for Queensland, Northern New South Wales and the Northern Territory.</p>
+<p> Justice May became involved in the Australasian Institute of Judicial Administration in 2005 when she was appointed as a Council member. She was elected as a Deputy President in 2011 and elected as President in October 2013, a position which she currently holds.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4213b.htm">
+<relationEntry localType="Person">
+Bryce, Quentin (1942 - )
+</relationEntry>
+<descriptiveNote>
+<p>Michelle May was tutored by Quentin Bryce while studying law at the University of Melbourne.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'May, Michelle', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">May, Michelle</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5675b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005899.htm">
+<relationEntry localType="published">Book Section: Michelle May</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elphinstone, Kara</name>
+<title render="quoted">Michelle May</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Supreme Court of Queensland Library</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">A Woman's Place: 100 Years of Queensland Women Lawyers</title>
+<name type="author">Susan Purdon and Aladin Rahemtula</name>
+<num type="pages">347-355</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

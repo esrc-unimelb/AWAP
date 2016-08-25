@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2255</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-01-12">2007-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-18">2015-09-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2255b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>South Australian Women's Amateur Sports Council</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Sporting organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The South Australian Women's Amateur Sports Council was established with financial and administrative assistance from the National Fitness Council to promote the interests of sportswomen in South Australia, and to help formulate "a common policy on planning and development for women's sport". One of its most important initiatives, in cooperation with the National Fitness Council of South Australia, was the establishment of the Women's Memorial Playing Fields on the corner of Shepherds Hill Road and Ayliffes Road, St. Marys.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2258b.htm">
+<relationEntry localType="Person">
+Mills, May (1890 - 1984)
+</relationEntry>
+<descriptiveNote>
+<p>May Mills was president of the South Australian Women's Amateur Sports Council in 1953</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2254b.htm">
+<relationEntry localType="Corporate Body">
+National Fitness Council of South Australia (1939 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>The South Australian Women's Amateur Sports Council and the National Fitness Council campaigned together succssfully to gain funding and resources that would evenutaly lead to the establishment of the South Australian Women's Memorial Playing Fields.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714063">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'South Australian Women's Amateur Sports Council', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">South Australian Women's Amateur Sports Council</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2255b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003773.htm">
+<relationEntry localType="published">Thesis: A Fair Go?: Women in Sport in South Australia: 1945 - 1965</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Randall, Leonie M.</name>
+<title render="quoted">A Fair Go?: Women in Sport in South Australia: 1945 - 1965</title>
+<imprint>
+<publisher>Flinders University</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002064.htm">
+<relationEntry localType="archival">South Australian Women's Memorial Playing Fields Trust - Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>South Australian Women's Memorial Playing Fields Trust - Papers</unittitle>
+<unitid>SRG 255</unitid>
+<unitdate>1950 - 1983</unitdate>
+<abstract>Records of the South Australian Women's Memorial Playing Fields Trust Incorporated comprising minutes, reports, correspondence, leases, legal agreements, plans, 1981 memorial service address, various papers relating to the Trust, film and notes prepared in the S.A. Archives on the history of The S.A. Women's Amateur Sports Council and Playing Fields Trust. Additional papers of Miss May Mills comprising correspondence and associated papers, photographs and plans (1950-1983) are not sorted.
+Series list for first 18 series only available at the Mortlock Library Reference Desk.</abstract>
+<physdesc>
+<extent>3 m</extent>
+<physfacet>Typescript; handwritten; photoprint; newspaper cutting; brochure; drawing (dyeline)</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002062.htm">
+<relationEntry localType="archival">National Fitness Council records
+National Fitness Council records
+National Fitness Council records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Records of South Australia</repository>
+<unittitle>National Fitness Council records
+National Fitness Council records
+National Fitness Council records</unittitle>
+<unitid>GRG95</unitid>
+<unitdate>1939 - 1975</unitdate>
+<abstract>Includes minutes, subject files, financial records, printers blocks, press cuttings, and examples of publications.
+
+For preliminary box listing see the Series List for GRG 95 in Research Centres.
+
+For notes by A.E. Simpson concerning the history of the National Fitness Council see Box 95 Numbers 1008-1010. See also records of Outward Bound SA Inc SRG 305 in the State Library of South Australia.</abstract>
+<physdesc>
+<extent>114 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002063.htm">
+<relationEntry localType="archival">Papers relating to the National Fitness Council of South Australia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Papers relating to the National Fitness Council of South Australia</unittitle>
+<unitid>PRG 1366/38</unitid>
+<unitdate>1964 - 1976</unitdate>
+<abstract>Comprises: Policy statement; annual reports; minutes of meetings; correspondence; membership lists; papers relating to the Duke of Edinburgh's Award; course program and training notes for courses in Camp leadership, Recreation, Fitness, Youth Leadership, Creative Art-Craft, Tabloid Sports, Basketball/Netball, Circuit Training and Track and Field Coaching; questionnaires and evaluation report forms; Cataloguing and Indexing Procedure; film distribution list; and papers from the Youth Hostels Association of South Australia, Outward Bound South Australia, South Australian Veterans Amateur Athletic Club, Mitcham Hills Hockey Club, the South Australian Women's Memorial Playing Fields Trust and the South Australian Women's Keep Fit Association..</abstract>
+<physdesc>
+<extent>0.08 m</extent>
+<physfacet>Typescript; handwritten; brochure</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1324</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-06">2005-12-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1324b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Allport</part>
+<part localType="givenname">Carolyn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+<occupation>
+<term>Academic</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Carolyn Allport ran for parliament only once (Independent Candidate for Camden, New South Wales Legislative Assembly, 1995), but has continued in elected office in her union for more than a decade.</abstract>
+<p>Carolyn Allport has held an academic position in the university sector since 1974. She was elected the first President of the National Tertiary Education Union in 1994 and re-elected in 1998. She represents the Union's 25,000 academic and general staff members in matters relating to tertiary education funding, policy and industrial relations issues.<br />
+She was a member of the Higher Education Council 1995-1999 and a member of the Australian Council of Trade Unions Executive.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3099b.htm">
+<relationEntry localType="Exhibition">
+Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-476448">
+<relationEntry>
+Allport, Carolyn
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Allport, Carolyn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Allport, Carolyn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1324b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001808.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2003</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Micheli, Catherine and Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2003</title>
+<edition>39</edition>
+<imprint>
+<place>North Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

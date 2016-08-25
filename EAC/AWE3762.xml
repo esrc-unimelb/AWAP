@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3762</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-13">2008-10-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3762b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">West</part>
+<part localType="givenname">Winifred May</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1881-12-21">21 December 1881</fromDate>
+<toDate standardDate="1971-09-26">26 September 1971</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Frensham, Surrey, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Headmistress</term>
+</occupation>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Winifred West arrived in Sydney in 1907 and took up work as an illustrator for the Australian Museum. In 1913 she founded the Frensham boarding school for girls at Mittagong, 120km out of Sydney. She remained there as headmistress until 1938. West built up a solid reputation based upon the philosophy of Frensham with its experimental curriculum and emphasis on the arts and physical education. She was a great inspiration to many of her students.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4848b.htm">
+<relationEntry localType="Person">
+Dobson, Rosemary de Brissac (1920 - 2012)
+</relationEntry>
+<descriptiveNote>
+<p>Founder of Frensham who offered Dobson's a job as housemistress and a place at the school for both her daughters when Dobson's father died.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3123b.htm">
+<relationEntry localType="Person">
+Holmes, Pat (1915 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3775b.htm">
+<relationEntry localType="Person">
+Hamlin, Catherine (1924 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-752098">
+<relationEntry>
+West, Winifred May (1881-1971)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'West, Winifred May', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">West, Winifred May</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3762b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100553.htm">
+<relationEntry localType="published">Resource Section: West, Winifred Mary (1881-1971)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kennedy, Priscilla</name>
+<title render="quoted">West, Winifred Mary (1881-1971)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A120500b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004193.htm">
+<relationEntry localType="published">Book: Portrait of Winifred West</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kennedy, Priscilla</name>
+<title render="italic">Portrait of Winifred West</title>
+<imprint>
+<place>Gordon, NSW</place>
+<publisher>Fine Arts Press</publisher>
+<date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00156</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00156b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Berry</part>
+<part localType="givenname">Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1832-08-24">24 August 1832</fromDate>
+<toDate standardDate="1918-11-03">3 November 1918</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Naas, Kildare, Ireland</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>New Farm, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Educationist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Immigrating to Australia in 1856 to begin her career as a teacher, Margaret Berry was soon appointed to the position of headmistress and teacher trainer at Brisbane National School in 1860. She later moved to the Brisbane Girls' Normal School, where she became the first headmistress, serving there for forty-three years. Taking a stand for female teachers and students in Queensland, Berry was the only female teacher to give evidence to the <span style="font-style:italic">Royal Commission into Education</span> in 1874. She also campaigned for the equal pay of female teachers, as well as stressing her faith in the ability of senior girls to undertake advanced scientific subjects.  Late in her career, she became an official examiner of female teachers.
+
+Berry always expected the highest standards from her pupils and above all, she wanted her them to maintain a cultured mind and charming personality.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-750057">
+<relationEntry>
+Berry, Margaret (1832-1918)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Berry, Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Berry, Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00156b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00148.htm">
+<relationEntry localType="published">Book Section: Miss Berry: The Normal (Girls and Infants) School</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McMullen, C.</name>
+<title render="quoted">Miss Berry: The Normal (Girls and Infants) School</title>
+<imprint>
+<place>Nathan</place>
+<publisher>Griffith University</publisher>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">Women in History, Places of Purpose</title>
+<name type="author">Penberthy, P. and Liddle, P. </name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00147.htm">
+<relationEntry localType="published">Resource Section: Berry, Margaret (1832 - 1918)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, T.</name>
+<title render="quoted">Berry, Margaret (1832 - 1918)</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online </title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/AS10035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00153.htm">
+<relationEntry localType="published">Journal: Unicorn</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Unicorn</title>
+<imprint>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00152.htm">
+<relationEntry localType="published">Report: Minister of Public Instruction (Queensland), Annual Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Minister of Public Instruction (Queensland), Annual Report</title>
+<imprint>
+<date>1876</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00151.htm">
+<relationEntry localType="published">Report: Board of General Education (Queensland), Annual Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Board of General Education (Queensland), Annual Report</title>
+<imprint>
+<date>1860</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00150.htm">
+<relationEntry localType="published">Report: Royal Commissison in Education, Votes and Proceedings (Queensland)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Royal Commissison in Education, Votes and Proceedings (Queensland)</title>
+<imprint>
+<date>1875</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00149.htm">
+<relationEntry localType="published">Book Section: There Was a Spirit About the Place</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, T.</name>
+<title render="quoted">There Was a Spirit About the Place</title>
+<imprint>
+<place>Brisbane</place>
+<date>1992</date>
+</imprint>
+<bibseries>
+<title render="italic">Soldiers of Service</title>
+<name type="author">Logan, G. and Watson, T. </name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00155.htm">
+<relationEntry localType="archival">Female Teachers Registrar</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Queensland State Archives</repository>
+<unittitle>Female Teachers Registrar</unittitle>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00154.htm">
+<relationEntry localType="archival">Brisbane Normal School file</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Queensland State Archives</repository>
+<unittitle>Brisbane Normal School file</unittitle>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

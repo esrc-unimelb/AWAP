@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3970</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-08">2008-12-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3970b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Austin</part>
+<part localType="givenname">Elizabeth Phillips</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Harding, Elizabeth</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1821-08-14">14 August 1821</fromDate>
+<toDate standardDate="1910-09-02">2 September 1910</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Somerset, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Winchelsea, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Pastoralist</term>
+</occupation>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Austin was the benefactor of Melbourne's Austin Hospital, and 'a pioneer of female benefaction in Victoria'.</abstract>
+<p>Elizabeth was the fourth daughter of Robert Harding, a yeoman farmer, and his wife Mary (née Phillips). She sailed for Australia in 1841 with her brother William, who settled in Winchelsea. In 1945 Elizabeth married her neighbour, Thomas Austin, in Melbourne. She had eleven children, three of whom died in infancy. The Austins lived at Barwon Park, where they entertained the Duke of Edinburgh in 1867. Embarrassed by their 'undistinguished homestead', Elizabeth persuaded her husband to build a new home, and a bluestone mansion was completed by 1871. Thomas Austin passed away shortly afterwards.</p>
+<p>According to historian Paul de Serville, Elizabeth Austin - described by grandchildren as a 'shrewd, determined woman' - had 'quietly begun a second career, as a philanthropist' by 1880. She responded to an appeal to found a hospital for incurables in Melbourne, offering £6,000 (via an intermediary) to launch it. Reputedly, her interest in incurable disease 'derived from a case among her staff'. On her birthday in 1882, the Austin Hospital for Incurables was opened. She continued to give money for maintenance, and paid for the establishment of a children's ward in 1898. Austin visited the hospital once a month, and three of her granddaughters served on its committee until the 1960s.</p>
+<p>Another major philanthropic gift went to the Austin Homes for Women at South Geelong, built as part of the Jubilee celebrations for Queen Victoria in 1887. Austin also gave to the Servants' Training Institute, St Thomas's Church (Winchelsea), the Ladies' Benevolent Society and local charities. She was buried in the Geelong cemetery with Anglican rites.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00637b.htm">
+<relationEntry localType="Corporate Body">
+Geelong and Western District Ladies Benevolent Association (1855 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-769066">
+<relationEntry>
+Austin, Elizabeth Phillips (18210814-19100902)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Austin, Elizabeth Phillips', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Austin, Elizabeth Phillips</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3970b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB101112.htm">
+<relationEntry localType="published">Resource Section: Austin, Elizabeth Phillips (1821-1911)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Serville, Paul de</name>
+<title render="quoted">Austin, Elizabeth Phillips (1821-1911)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/AS10016b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004288.htm">
+<relationEntry localType="published">Journal Article: Perhaps to Spite her Children: The Philanthropy of Elizabeth Austin</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="quoted">Perhaps to Spite her Children: The Philanthropy of Elizabeth Austin</title>
+<imprint>
+<date>1996</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Philanthropy</title>
+<num type="issue">30</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004213.htm">
+<relationEntry localType="published">Thesis: In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lemon, Barbara</name>
+<title render="quoted">In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>School of Historical Studies, University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004361.htm">
+<relationEntry localType="published">Site Exhibition: In Her Gift: Women Philanthropists in Australian History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">In Her Gift: Women Philanthropists in Australian History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wiph/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

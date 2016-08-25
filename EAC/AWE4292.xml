@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4292</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-03">2009-09-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4292b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>U Committee</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="previous name"><part>U Ball Committee</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1963-01-01">1963</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Kensington, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social organisation</term>
+</function>
+<function>
+<term>Philanthropic organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The U Committee exists to raise funds for the University of New South Wales through activities such as the Book Fair and the sale of memorabilia. It has supported numerous scholarly and community activities including the University of New South Wales Art Prize and Travelling Scholarship, the Literary Fellowship and the Kensington Lectures for High School Students. Women played a leading role in the group.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477371">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'U Committee', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">U Committee</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4292b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004602.htm">
+<relationEntry localType="published">Book: Unique Providers: Money raising and the University of New South Wales U Committee 1963 - 1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horne, Julia and Louella McCarthy</name>
+<title render="italic">Unique Providers: Money raising and the University of New South Wales U Committee 1963 - 1993</title>
+<imprint>
+<place>Sydney</place>
+<publisher>University Archives, University of New South Wales</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002317.htm">
+<relationEntry localType="archival">U Committee Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of New South Wales Archives</repository>
+<unittitle>U Committee Collection</unittitle>
+<unitid>CN 446; CN 661; CN 937; CN 1256; 97A29, 97A103, 97A117, 97A170, 99A73.</unitid>
+<unitdate>c. 1960 - c. 2000</unitdate>
+<abstract>The material concerning the U Committee comes from the Committee's own records as well as other accessions. It includes minutes, correspondence, reports, sound recordings, memorabilia, and press cuttings. The Archives holds related material in its oral history, photograph and publications collections.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

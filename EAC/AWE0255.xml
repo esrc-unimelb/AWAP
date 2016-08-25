@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0255</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-01-30">2002-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0255b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Marcus</part>
+<part localType="givenname">Julie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1944-07-26">26 July 1944</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Anthropologist</term>
+</occupation>
+<occupation>
+<term>Academic</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marcus's doctoral research was on the impact of Islam on the lives of Turkish women. She has published articles on racism, gender and sexuality in Australian culture. Also Marcus research interests include the Arrernte opposition to the damming of the Todd River in Alice Springs as well as collecting material on the life of Olive Pink.
+(Source: <span style="font-style:italic">Australian Garden History</span>.)</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0254b.htm">
+<relationEntry localType="Place">
+Olive Pink Botanic Garden (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-579598">
+<relationEntry>
+Marcus, Julie (1944-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Marcus, Julie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Marcus, Julie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0255b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000613.htm">
+<relationEntry localType="published">Journal Article: Miss Pink's Garden: The Creation of an Arid Zone Botanic Garden</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="quoted">Miss Pink's Garden: The Creation of an Arid Zone Botanic Garden</title>
+<imprint>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Garden History</title>
+<num type="volume">10</num>
+<num type="issue">3</num>
+<num type="pages">11-14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000400.htm">
+<relationEntry localType="published">Book: The Indomitable Miss Pink: A Life in Anthropology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="italic">The Indomitable Miss Pink: A Life in Anthropology</title>
+<imprint>
+<publisher>UNSW Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000399.htm">
+<relationEntry localType="published">Book: Yours truly, Olive M. Pink</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="italic">Yours truly, Olive M. Pink</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Olive Pink Society</publisher>
+<date>1991c</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000393.htm">
+<relationEntry localType="published">Book Section: The Beauty, Simplicity and Honour of Truth: Olive Pink in the 1940s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="quoted">The Beauty, Simplicity and Honour of Truth: Olive Pink in the 1940s</title>
+<imprint>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">First in Their Field: Women and Australian Anthropology</title>
+<name type="author">Marcus, Julie</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000071.htm">
+<relationEntry localType="published">Book: First in Their Field: Women and Australian Anthropology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie; Lepervanche, Marie de; McBryde, Isabel; Prior, Mary Ellen Murray; White, Isobel; Morris, Miranda; O'Gorman, Anne; Marcus, Julie and Cheater, Christine</name>
+<title render="italic">First in Their Field: Women and Australian Anthropology</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

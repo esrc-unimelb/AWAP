@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1904</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-01-31">2006-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1904b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McClung</part>
+<part localType="givenname">Jean</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Farmer</term>
+</occupation>
+<occupation>
+<term>Carer</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A follower of Lyndon LaRouche's economic theories, Jean McClung was a Citizens Electoral Council candidate in the following elections:
+House of Representatives, Hume, 1998
+House of Representatives, Gilmore, 2001, 2004
+New South Wales Legislative Assembly, Southern Highlands, 2003
+
+Jean McLung, who had previously owned and run a small farm in the Gunning area, moved to Bowral in the late 1990s to care for her elderly mother. She believed passionately that Australian society had degenerated and there was despair and apathy amongst all age groups which had to be eradicated. This belief and her opposition to privatisation and deregulation led her to the policies of Lyndon LaRouche, the American founder of the Citizens Electoral Council. She was also in favour of Australia becoming a republic.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3099b.htm">
+<relationEntry localType="Exhibition">
+Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-749065">
+<relationEntry>
+McClung, Jean
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McClung, Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McClung, Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1904b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

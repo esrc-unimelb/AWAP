@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2766</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-10-10">2007-10-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2766b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Walsh</part>
+<part localType="givenname">Nonee</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Radio journalist</term>
+</occupation>
+<occupation>
+<term>Television journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 2003, Nonee Walsh was a passenge on a train that derailed at Waterfall near Sydney, New South Wales. Suffering personal injuries and trapped in the train, she still managed to report on the news that was unfolding around her.</abstract>
+<p>Nonee Walsh is a senior journalist with ABC radio. After studying Anthropology she turned her Honours thesis into a radio series and moved into radio journalism. Based in the ABC's Sydney Newsroom, she covered the Aboriginal Deaths in Custody and Chamberlain Royal Commissions and the 'Independent Commission Against Corruption' in the early 1990's. Nonee turned towards science journalism, reporting on environment issues for news and Radio National from 1994 before switching to reporting health in 1997. She also writes and runs journalist training courses for the ABC and was the coordinator of the ABC's Science media fellows intake for 1999. Since then she has worked for the ABC's investigative unit.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">c. 1980</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2003-01-01">2003</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+<event>Walkley Award (Radio) - Radio News Reporting -  Waterfall Train Crash - Australian Broadcasting Corporation</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2765b.htm">
+<relationEntry localType="Person">
+Brown, Michelle
+</relationEntry>
+<descriptiveNote>
+<p>Nonee Walsh and Michelle Brown worked together in 2003 to cover the Waterfall Train Crash for ABC radio</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-738079">
+<relationEntry>
+Walsh, Nonee
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Walsh, Nonee', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Walsh, Nonee</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2766b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

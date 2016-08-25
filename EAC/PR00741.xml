@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00741</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-05">2009-10-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Janet Butler</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00741b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McHenry</part>
+<part localType="givenname">Zoe Rosalind</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-05-12">12 May 1901</fromDate>
+<toDate standardDate="1971-07-31">July 1971</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>St Kilda, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Musician</term>
+</occupation>
+<occupation>
+<term>Composer</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Accompanist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Zoe McHenry was the great -grand-daughter of Brunswick, Victoria, pioneers Luisa and Thomas Wilkinson, and the grand-daughter of Victoria's first woman pharmacist, Sarah George. A pianist and music teacher, Zoe Henry was employed in 1943, its inaugural year, by the ABC's  Kindergaten of the Air, as a pianist.  Recognising the dearth of appropriate music for children's activities,  Zoe  began to compose for the program.  She continued to do so after leaving the program in order to care for her father, who was ill.  She published several books of music and songs for kindergarten,  travelling to London in 1962 to record.  Her music is still recorded and used today, including on the ABC's 'Play School'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00756b.htm">
+<relationEntry localType="Person">
+George, Sarah Ann (1839 - 1919)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-461214">
+<relationEntry>
+McHenry, Zöe (19010512-19710731)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McHenry, Zoe Rosalind', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McHenry, Zoe Rosalind</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00741b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00742.htm">
+<relationEntry localType="published">Book: Kindergarten of the Air:  As I Knew It</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dreyer, Anne</name>
+<title render="italic">Kindergarten of the Air:  As I Knew It</title>
+<imprint>
+<place>Blackburn South, Victoria</place>
+<publisher>Anne Dreyer</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00746.htm">
+<relationEntry localType="archival">Wilkinson/George/McHenry Family Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Wilkinson/George/McHenry Family Records</unittitle>
+<abstract>Photographs, family recollections, notes prepared for study of Zoe McHenry; letters; certificates; Jennifer Gilmour Hearn, <span style="font-style:italic">The Wedding Blessing: Ada Grace Rosa Brown, 1888-1973</span>, self-published booklet detailing life of subject until her marriage.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00760.htm">
+<relationEntry localType="archival">Kindergarten of the Air</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Sydney Office</repository>
+<unittitle>Kindergarten of the Air</unittitle>
+<unitid>Series Nos. C1849, Control Symbols: 96 PART 1 and 96; Series No. SP341/1, Control Symbol: 18/2; Series No. SP724/1, Control Sym</unitid>
+<unitdate>1942 - 1970</unitdate>
+<abstract>These early files may contain references to Zoe McHenry.
+
+The following numbers relate to the various file sequences: Kindergarten of the Air: Part 1 and Part 2, Series</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

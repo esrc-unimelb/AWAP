@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0614</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-23">2003-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0614b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Wheatley</part>
+<part localType="givenname">Alice Jean</part>
+<part localType="honorific title">OBE, ARRC</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-08-03">3 August 1904</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bridgetown, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Matron</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in Bridgetown, Western Australia, Alice Wheatley was educated at Perth College. She undertook her nursing training at the Fremantle Hospital, Western Australia and the Queen Victoria Hospital, Victoria. In 1941 Wheatley enlisted in the Royal Australian Air Force Nursing Service (RAAFNS). On 10 March 1944 she was awarded the Royal Red Cross Medal Second Class for her work in charge of the first nursing party of the RAAFNS in New Guinea. In 1946 Wheatley represented the RAAFNS in the Victory Contingent to England. From 1946 until 1951 she held the position of Matron-in-Chief. On 1 January 1951 Wheatley was appointed an Officer of the British Empire in recognition of her service with the RAAFNS.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<event>Joined the Royal Australian Air Force Nusing Service (RAAFNS)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1941-01-01">1941?</fromDate>
+<toDate standardDate="1946-12-31">1946?</toDate>
+</dateRange>
+<event>Area matron with the RAAFNS and served in New Guinea area</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1944-03-10">10 March 1944</fromDate>
+<toDate standardDate="1944-03-10">10 March 1944</toDate>
+</dateRange>
+<event>Royal Red Cross (2nd Class) (ARRC)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1946-01-01">1946</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+<event>Represented the RAAFNS in the Victory Contingent to England</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1946-01-01">1946</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+<event>Matron-in-Chief of the RAAFNS</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1951-01-01">1 January 1951</fromDate>
+<toDate standardDate="1951-01-01">1 January 1951</toDate>
+</dateRange>
+<event>Officer of the Order of the British Empire (Military) (OBE)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1951-03-12">12 March 1951</fromDate>
+<toDate standardDate="1951-03-12">12 March 1951</toDate>
+</dateRange>
+<event>Discharged from the RAAFNS</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0573b.htm">
+<relationEntry localType="Corporate Body">
+Royal Australian Air Force Nursing Service (RAAFNS) (1940 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1951-03-12">12 March 1951</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: N5906; Matron-in-Chief 1946-1951</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0049b.htm">
+<relationEntry localType="Corporate Body">
+Queen Victoria Hospital (1896 - 1977)
+</relationEntry>
+<descriptiveNote>
+<p>Alice Wheatley completed some of her nursing training at the hospital</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756051">
+<relationEntry>
+Wheatley, Alice Jean (1904-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wheatley, Alice Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wheatley, Alice Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0614b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002177.htm">
+<relationEntry localType="published">Resource Section: WHEATLEY, ALICE JEAN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">WHEATLEY, ALICE JEAN</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1077570"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002552.htm">
+<relationEntry localType="published">Book: Story of the RAAF nursing service : 1940-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Halstead, Gay.</name>
+<title render="italic">Story of the RAAF nursing service : 1940-1990</title>
+<imprint>
+<place>Metung, Vic.</place>
+<publisher>Nungurner Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000251.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1962</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1962</title>
+<edition>17</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Colorgravure Publications</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

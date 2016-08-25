@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1346</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-06">2005-12-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1346b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bannon</part>
+<part localType="givenname">Agnes Emily</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1987-09-19">19 September 1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Music teacher</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Agnes Bannon was a committed Democratic Labor Party member who ran for election three times: for Burwood in the New South Wales Legislative Assembly in1973 and for Lowe in the House of Representatives in 1969 and in 1972.</abstract>
+<p>Agnes Bannon was the mother of two sons and two daughters. She lived most of her life in the Strathfield/Burwood area, and had taught music there for many years when she first ran for election in 1969. She campaigned by inviting people to "information afternoons" at her home, which consisted of afternoon tea and a discussion of policy. She also door-knocked extensively in the Strathfield area. She was strongly in favour of state aid.</p>
+<p>In 1972 the Women's Electoral Lobby ranked her responses to their questions as the second lowest of the nine candidates standing.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-734062">
+<relationEntry>
+Bannon, Agnes Emily (1987-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bannon, Agnes Emily', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bannon, Agnes Emily</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1346b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

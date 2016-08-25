@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0556</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-19">2003-09-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0556b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Austral Salon of Music, Literature and the Arts</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">1890</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>The Austral Salon of Music, Literature and the Arts was founded by a small group of women journalists in Melbourne as a club for women writers. It developed into a club for artistic and intellectual women interested in any of the fine arts and provided an important entre for many aspiring women musicians. The Salon continues it main aim of encouraging young artists by awarding scholarships and hosting student performances.</abstract>
+<p>The Salon was one of the first four groups to affiliate with the National Council of Women of Victoria in 1902. Such artists as Ada Crossley, Amy Castles, Nellie Melba, Florence Autral, Marjorie Lawrence, Denise Dowling and Tilly Ashton were first heard at the Austral Salon.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2887b.htm">
+<relationEntry localType="Person">
+Murphy, Agnes G. (c. 1865 - 1936)
+</relationEntry>
+<descriptiveNote>
+<p>Agnes Murphy was a founding member of the Austral Salon</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1134b.htm">
+<relationEntry localType="Person">
+Clarke, Janet Marion (1851 - 1909)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0560b.htm">
+<relationEntry localType="Person">
+Crossley, Ada Jemima (1871 - 1929)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0558b.htm">
+<relationEntry localType="Person">
+Austral, Florence Mary (1892 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0157b.htm">
+<relationEntry localType="Person">
+Lawrence, Marjorie Florence (1909 - 1979)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0003b.htm">
+<relationEntry localType="Person">
+Melba, Nellie (1861 - 1931)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<descriptiveNote>
+<p>represented at the inaugural meeting held on 19 March 1902</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0559b.htm">
+<relationEntry localType="Person">
+Castles, Amy Eliza (1880 - 1951)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1899-03-16">16 March 1899</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Amy Castles made her debut in Melbourne at the annual meeting of the Austral Salon</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-706097">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Austral Salon of Music, Literature and the Arts', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Austral Salon of Music, Literature and the Arts</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0556b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002425.htm">
+<relationEntry localType="published">Book: Some memories of the Austral Salon</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davies, Ivor T., Mrs.</name>
+<title render="italic">Some memories of the Austral Salon</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>[The Salon]</publisher>
+<date>[1980]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002130.htm">
+<relationEntry localType="published">Thesis: The 'Woman Question' in Melbourne, 1880-1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kelly, Farley</name>
+<title render="quoted">The 'Woman Question' in Melbourne, 1880-1914</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Monash University</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001938.htm">
+<relationEntry localType="published">Book: From Vision to Reality: Histories of the affiliates of the National Council of Women of Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">From Vision to Reality: Histories of the affiliates of the National Council of Women of Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>YWCA</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001098.htm">
+<relationEntry localType="archival">Austral Salon (Melbourne, Vic.) Records, [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Austral Salon (Melbourne, Vic.) Records, [manuscript]</unittitle>
+<unitid>MS 12379</unitid>
+<unitdate>1890 - 1982</unitdate>
+<abstract>Records of Austral Salon 1890-1982, includes annual reports 1914-1984; minutes 1902-1982; financial records 1906-1974, membership lists 1890-1925, scrapbooks, ca. 1931-1980; autograph books, 1891-1983; membership applications and nomination papers 1920s-1970s; visitors' books 1929-1975; attendance registers 1966-1975; ephemera 1921-ca. 1982; activity books 1929-1974 and correspondence 1916-1979.</abstract>
+<physdesc>
+<extent>1.15 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

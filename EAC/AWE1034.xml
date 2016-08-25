@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1034</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-07-23">2004-07-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb and Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1034b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women's Art Movement</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-08-07">7 August 1976</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Feminist organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Initiated by women already in the art world, the Women's Art Movement (hereinafter named W.A.M.) was part of an international trend somewhat belated in Australia, which lead women artists to look at their position as women in society and to analyse their position as artists through a feminist frame. The W.A.M offered women artists support within an alternative group structure. The group began with the aim of supporting and promoting women artists, educating members on the problem of discrimination and working with one another to overcome sexism in the arts and society. Fifty women ranging in age from 18 to 65 attended the first meeting. As attendance numbers grew, funding was required. Such monetary resources were obtained from the South Australia Arts Grant Advisory Committee (A.G.A.C), the Community Arts Board (C.A.B), and the Visual Arts Board (V.A.B) for salary and administrative costs, workshops and the publication of the book Women's Art Movement 1978-1979, Adelaide, South Australia, respectively.</abstract>
+<p>Members produced contemporary and often confronting art pieces that tackled subject matter that is specific to the life experiences of women.  Rape, abortion, reproduction and motherhood were some of the themes addressed in a variety of mediums including: hand painting, sculpture, life drawing, lithograph, silk screening, installation art, patchwork and other folk art, film and photography, music, dance, street theatre and poetry.  By the mid 1980s, the W.A.M had become a highly respected art movement both nationally and internationally.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-772054">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women's Art Movement', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women's Art Movement</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1034b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003132.htm">
+<relationEntry localType="published">Edited Book: Setting the pace: the Women's Art Movement, 1980-1983</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kent, Jane</name>
+<title render="italic">Setting the pace: the Women's Art Movement, 1980-1983</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Women's Art Movement</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

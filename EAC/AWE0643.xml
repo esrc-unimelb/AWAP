@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0643</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-12-12">2003-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0643b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Airline Hostesses' Association</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Trade union</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Airline Hostesses' Association was formed in 1957 when the Victorian Branch was established. Members of the Union were hostesses working for TAA, Ansett and Qantas, plus Ansett subsidiaries Con Air and East West. The name was changed in 1984 to the Australian Flight Attendants' Association when the association combined with the Flight Stewards' Association of Australia (1958 - 1984) to acknowledge the employment of male flight attendants by domestic airlines. In 1992 there was a merger with the Australian International Cabin Crew Association (1984 - 1992). The new organisation became the Flight Attendants Association.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5381b.htm">
+<relationEntry localType="Person">
+Swain, Elaine Junette (1927 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-758053">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Airline Hostesses' Association', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Airline Hostesses' Association</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0643b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002325.htm">
+<relationEntry localType="published">Book: Rules.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Airline Hostesses' Association</name>
+<title render="italic">Rules.</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Airline Hostesses' Association</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002317.htm">
+<relationEntry localType="published">Resource Section: Airline Hostesses Association (1956 - 1984)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith, Bruce A</name>
+<title render="quoted">Airline Hostesses Association (1956 - 1984)</title>
+<imprint>
+<publisher>University of Melbourne</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Australian Trade Union Archives</title>
+<name type="author">University of Melbourne</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.atua.org.au/biogs/ALE0038b.htm#related"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002316.htm">
+<relationEntry localType="published">Book: Inside Australia's top 100 trade unions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">[Huntly, Pat written and researched by]</name>
+<title render="italic">Inside Australia's top 100 trade unions</title>
+<edition>1986</edition>
+<imprint>
+<place>Northbridge, NSW</place>
+<publisher>Ian Huntley Pty. Ltd</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

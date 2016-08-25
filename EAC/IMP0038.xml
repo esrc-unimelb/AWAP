@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0038</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0038b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Litchfield</part>
+<part localType="givenname">Ruby Beatrice</part>
+<part localType="honorific title">Dame, DBE, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Skinner, Ruby Beatrice</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-09-05">5 September 1912</fromDate>
+<toDate standardDate="2001-08-14">14 August 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Subiaco, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Actor</term>
+</occupation>
+<occupation>
+<term>Director</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ruby Litchfield was appointed as a Dames Commander of the Order of the British Empire on 13 June 1981 for service to the performing arts and the community. She had earlier been appointed as an Officer of the Order of the British Empire (Civil), on 1 January 1959, for social welfare.</abstract>
+<p>Ruby Beatrice Litchfield (née Skinner) was born in Subiaco, Western Australia on 5 September 1912. She died on 14 August 2001. She grew up in Adelaide, attended North Adelaide Primary School and Presbyterian Girls' College. Litchfield's work and interests spanned theatre, tennis, and service to many community and charity organisations. She directed 35 plays for the Adelaide Repertory Theatre up until 1983, and acted in several plays. She was South Australian hard-court tennis champion three years in a row (1932-1935), and President of the Sportswomen's Association from 1969-1974. Litchfield was the first woman appointed to the Board of the Adelaide Festival Trust (1971). She was also a board member of the Adelaide Festival of Arts and chair of the Youth Performing Arts Council. </p>
+<p>Her involvement in the community and charity sectors included services for the Queen Victoria Maternity Hospital, the Kidney Foundation, the Red Cross Society (South Australia), the Crippled Children's Association, the Sudden Infant Death Syndrome Research Foundation and the Regency Park Centre for Young Disabled.</p>
+<p>For her community work, Litchfield was appointed OBE (1959). She was later awarded the Queen's Silver Jubilee Medal (1977). Litchfield was further honoured in 1981, being appointed DBE, this time for service to the performing arts and the community.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742064">
+<relationEntry>
+Litchfield, Ruby Beatrice (-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Litchfield, Ruby Beatrice', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Litchfield, Ruby Beatrice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0038b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002240.htm">
+<relationEntry localType="published">Newspaper Article: Dame Ruby : a person for the people</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lloyd, Tim</name>
+<title render="quoted">Dame Ruby : a person for the people</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Advertiser</title>
+<num type="pages">70</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002239.htm">
+<relationEntry localType="published">Newspaper Article: A champion of the arts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Archdall, Susan</name>
+<title render="quoted">A champion of the arts</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Advertiser</title>
+<num type="pages">23</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001284.htm">
+<relationEntry localType="published">Edited Book: S.A.'s greats: the men and women of the North Terrace plaques</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Healey, John</name>
+<title render="italic">S.A.'s greats: the men and women of the North Terrace plaques</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Historical Society of South Australia</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001283.htm">
+<relationEntry localType="published">Book: The World Who's Who of Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The World Who's Who of Women</title>
+<imprint>
+<place>Cambridge</place>
+<publisher>Melrose Press</publisher>
+<date>1973-1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000147.htm">
+<relationEntry localType="published">Edited Book: Who's Who of Australian Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lofthouse, Andrea</name>
+<title render="italic">Who's Who of Australian Women</title>
+<imprint>
+<place>North Ryde (NSW)</place>
+<publisher>Methuen Australia</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

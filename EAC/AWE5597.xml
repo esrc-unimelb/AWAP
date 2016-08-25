@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5597</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-06">2016-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Sally Brown (with Nikki Henningham)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-06">2016-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5597b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Brown</part>
+<part localType="givenname">Sally</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Hamilton, Brown</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Magistrate</term>
+</occupation>
+<occupation>
+<term>Chief Magistrate</term>
+</occupation>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Legal academic</term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+<occupation>
+<term>Chairperson</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sally Brown was at the forefront of women advancing in the Victorian judiciary, as one of the first female magistrates appointed in Victoria in 1985.She was appointed Chief Magistrate in 1990, and then a Justice of the Family Court of Australia in 1993. She has served on a number of boards, including as Chair of the Australian Institute of Criminology.</abstract>
+<p>After time as a solicitor, tertiary lecturer and barrister, Sally Brown was appointed a magistrate in Victoria in 1985; in 1990 she was appointed Chief Magistrate, the first woman to head a Victorian Court. Between November 1993 and June 2010 she was a judge of the Family Court of Australia and for much of that time was the Judge Administrator for the Southern Region, which included Tasmania and South Australia.</p>
+<p>Brown was instrumental in the development and delivery of judicial education in Australia, particularly education relating to gender and culture, and the incidence and impact of family violence. She has maintained a long-standing interest in juvenile justice, child protection and children's rights. Other interests, pursued through a range of organizations, relate to support of the marginalised and disenfranchised, including the homeless and prisoners after release, and maintenance of the rule of law.</p>
+<p>In 2003 she was appointed to the Victorian Honour Roll of Women and in 2006 was made a member of the Order of Australia. She has been a member or chair of the board of numerous organizations including the Alfred Hospital, the Australian Institute of Criminology, the Australian Institute of Judicial Administration, the Australian Drug and Alcohol Foundation, the International Commission of Jurists (Victorian Chapter), the National Judicial College and the Australian Community Support Organisation.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5444b.htm">
+<relationEntry localType="Person">
+Rizkalla, Margaret (1953 - )
+</relationEntry>
+<descriptiveNote>
+<p>In 1985 Sally Brown and Margaret Rizkalla were the first women to be appointed to the Victorian Magistrates Court.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Brown, Sally', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Brown, Sally</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5597b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005623.htm">
+<relationEntry localType="published">Resource: Women Barristers in Victoria: Then and Now</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Victorian Bar</name>
+<title render="italic">Women Barristers in Victoria: Then and Now</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.vicbar.com.au/wba/home.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002839.htm">
+<relationEntry localType="archival">Sally Brown interviewed by Ruth Campbell in the Law in Australian society oral history project</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Sally Brown interviewed by Ruth Campbell in the Law in Australian society oral history project</unittitle>
+<unitid>ORAL TRC 3385</unitid>
+<abstract>Hon Justice Sally Brown, Justice of the Family Court of Australia speaks of her family background and childhood, her interest in reading and music, church involvement, choice of career and time at University, part-time jobs, Rob Hamilton, her marriage, early career, Pat Kennedy, the value of knowing the system in which you work, lecturing in law at Footscray Institute of Technology and RMIT, period as a barrister, support (or lack of it) given to women lawyers, Tramways Board, being a criminal lawyer, Magistrates Court 1978-85, appointed as the first female judge at the Victorian Magistrates Court (along with Margaret Rizkalla), the value of women in the magistracy, ethics of maintaining your distance, Chief Magistracy of Victoria, computerisation of the Courts, experiment of the Night Court, important qualities for a magistrate and Chief Magistrate, Chair of the Institute of Criminology, Family Court, issue of gender bias, continuing education of judges (esp. in social issues) workings of the court, areas of relaxation (travel, spending time with her parents, cooking, music, reading).
+
+163 Minutes.
+Interviewed completed in 1995 by Ruth Cambell as part of the Law in Australian society oral history project.</abstract>
+<physdesc>
+<extent>2 Audio Tapes</extent>
+<physfacet>Sound Recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

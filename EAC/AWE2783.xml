@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2783</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-10-25">2007-10-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2783b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dolling</part>
+<part localType="givenname">Dorothy Eleanor Ethel Victoria Georgina Barber</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>Barbour, Eleanor</part>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>March, Marian</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-06-09">9 June 1897</fromDate>
+<toDate standardDate="1967-06-27">27 June 1967</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Woodhaugh, Dunedin, New Zealand</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Trained mathematician Dorothy Dolling devoted much of her life to the work of the South Australian Country Women's Association. During wartime she worked with the Allied Forces Information Bureau. Dolling also enjoyed a long career in journalism, writing for the Adelaide <span style="font-style:italic">Advertiser</span> from 1936.</abstract>
+<p>Daughter of English-born parents, Edgar Scott Clarke and his wife Alice Jane (née Barber), Dorothy Dolling was educated at Otago Girls' High School and the University of Otago. She completed a Bachelor of Science in 1918 and Master of Science in 1919. After two years teaching mathematics and physics at the University of Leeds, England, she returned to study advanced mathematics in New Zealand and married medical practitioner Charles Edward Dolling.</p>
+<p>In the years before the Second World War, particularly during the Depression, Dorothy occupied herself with the activities of the South Australian Country Women's Association (C.W.A.), organising handicraft classes, fundraising for bushfire and flood relief, and distributing blankets and necessities. She became a member of the Women's Centenary Council of South Australia and, during wartime, initiated a register of volunteer personnel. She served with the Allied Forces Information Bureau and Women's Air Training Corps, and chaired the central welfare committee of the Women's Land Army. After the war, Dorothy established leadership schools for C.W.A. officers in the interests of developing their education.</p>
+<p>From 1936, Dorothy had also begun work as a journalist, editing the women's pages of the <span style="font-style:italic">Advertiser</span> as 'Marian March', and editing its weekly rural newspaper, the <span style="font-style:italic">Chronicle</span>, as 'Eleanor Barbour'. She retired from the <span style="font-style:italic">Chronicle</span> in 1966.</p>
+<p>Dorothy Dolling died of hypertensive heart disease in 1967, survived by a daughter and a son. Her son founded the Dorothy Dolling memorial trust, assisting country women and their children to obtain further education.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1936-01-01">1936</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0828b.htm">
+<relationEntry localType="Person">
+Dolling, Alison Mary (1917 - 2006)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-739070">
+<relationEntry>
+Dolling, Dorothy Eleanor (1897-1967)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dolling, Dorothy Eleanor Ethel Victoria Georgina Barber', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dolling, Dorothy Eleanor Ethel Victoria Georgina Barber</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2783b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004492.htm">
+<relationEntry localType="published">Resource Section: Dolling, Dorothy Eleanor Ethel Victoria Georgina Barber (1897 - 1967)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dolling, Alison M.</name>
+<title render="quoted">Dolling, Dorothy Eleanor Ethel Victoria Georgina Barber (1897 - 1967)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A140019b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

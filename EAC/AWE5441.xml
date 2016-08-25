@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5441</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-10-12">2015-10-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Alan Moss (with Nikki Henningham)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5441b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Markiv</part>
+<part localType="givenname">Lydia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Family name"><part>Makowijczuk, Lydia</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1954-01-01">1954</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Magistrate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lydia Markiv is a South Australian Magistrate who developed a reputation for expertise in Child Protection Law and in 2010 was appointed a Magistrate in the Adelaide Youth Court. She graduated with an LLB from Adelaide University, LLB (1972-1975) and was awarded a GDLP from the University of South Australia in 1976.</abstract>
+<p>Lydia Makiv is a first generation Ukrainian Australian whose parents migrated to South Australia in 1949. They had fled Western Ukraine in the latter stages of World War 11 and finally ended up in a refugee camp in Germany. Her parents' new life in Australia was not initially easy as they had no English or money upon arrival and were forced to take on long term unskilled work as the father's university studies in Europe were not recognised.</p>
+<p>Lydia's parents were determined that Lydia and her older brother, Emilian, would have a good education and made sacrifices to ensure that occurred. Emilian became a dentist and practised in Victoria and Lydia became a lawyer. She believes that her parents' example and opportunities at university motivated her to succeed.</p>
+<p>Lydia joined the South Australian Crown Solicitor's Office in 1977 when the Office had a strong reputation for professional excellence. It provided a high standard of ethical and professional training for its practitioners and produced many of the State's judges and magistrates. Lydia valued the strong mentorship within the Office and subsequently, became a generous and committed mentor to junior practitioners. She remained at the Crown for nearly 30 years, steadily rising through the ranks to become a senior solicitor.</p>
+<p>Although her experience there was very broad and included administrative law and appellate work, it was in the area of child protection law that Lydia excelled and established a strong professional reputation acting both as solicitor and counsel in her cases. She conducted numerous lengthy, complex and sometimes controversial trials, earning in the process the respect of social workers, doctors and psychologists, the courts and opposing practitioners who knew that her word could be completely relied upon. Lydia also conducted a large number of international child abduction cases and represented South Australia at national conferences on child abduction.</p>
+<p>In 2007, Lydia was appointed a magistrate and in 2010, a magistrate at the Adelaide Youth Court where she works in both the criminal and child protection jurisdictions of the court. In 2014, Lydia was elected national secretary of the Australian Association of Magistrates. She is also a member of the Adelaide Chorus, the Ukrainian Women's Association in S.A and the Australian Women's Judges Association</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1625040">
+<relationEntry>
+Markiv, Lydia (1954-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Markiv, Lydia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Markiv, Lydia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5441b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0557</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-19">2003-09-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0557b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bage</part>
+<part localType="givenname">Jessie Eleanor</part>
+<part localType="honorific title">OBE, OStJ</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Yarra, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Social welfare</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1935 Jessie Bage became the first woman appointed to the Royal Melbourne Hospital Management committee. Educated at Melbourne Church of England Girls Grammar School Bage was a member of the school council. Jessie Bage House, which accommodates Year 12 students boarding at the school, is named in her honour. For her service with a number of social welfare associations Jessie Bage was appointed an Officer to the Order of the British Empire on 2 Janurary 1956.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1916-01-01">1916</fromDate>
+<toDate standardDate="1920-12-31">1920</toDate>
+</dateRange>
+<event>Served with the Military Voluntary Aid Detachment in English and French Hospitals during World War I</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1934-12-31">1934</toDate>
+</dateRange>
+<event>Honorary secretary of the Royal Melbourne Hospital Auxiliary</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1928-01-01">1928</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+<event>Council member of the Melbourne Church of England Girls' Grammar School</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1935-01-01">1935</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+<event>Member of the Committee of Management at the Royal Melbourne Hospital</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1956-01-02">2 Janurary 1956</fromDate>
+<toDate standardDate="1956-01-02">2 Janurary 1956</toDate>
+</dateRange>
+<event>Appointed Officer to the Order of the British Empire</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0210b.htm">
+<relationEntry localType="Corporate Body">
+The Alexandra Club (1903 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0054b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Melbourne) (1912 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-758097">
+<relationEntry>
+Bage, Jessie Eleanor (1890-1980)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bage, Jessie Eleanor', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bage, Jessie Eleanor</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0557b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000880.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1980</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Draper, W J</name>
+<title render="italic">Who's Who in Australia 1980</title>
+<edition>23</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1908</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

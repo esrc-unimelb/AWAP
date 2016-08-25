@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00585</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-25">2009-11-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00585b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ravlich</part>
+<part localType="givenname">Ljiljanna Maria </part>
+<part localType="honorific title">BA(SocSc), DipEd, DipEd(Admin)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1958-01-09">9 January 1958</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Split, Croatia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ljiljanna Ravlich was elected to the Legislative Council of the Thirty-fifth Parliament of Western Australia as the Australian Labor Party member for East Metropolitan Region on 14 December 1996 for term commencing 22 May 1997. She was re-elected in 2001, 2005, 2009 (for terms commencing 22 May).
+
+</abstract>
+<p>Ljiljanna Ravlich was born in Croatia in 1958, daughter of Ivisa Ravlich and his wife Ljubica. She migrated with her family to Western Australia in 1963, and attended Governer Stirling Senior High School. Ravlich then completed a Bachelor of Arts, and graduate diplomas in Education and Education administration at Curtin University in Perth. She taught in secondary schools from 1980-1988, and joined the Australian Labor Party in the mid-1980s. Ravlich was elected to the Legislative Council of the Parliament of Western Australia for the East Metropolitan Region for the term commencing 22 May 1997. She was re-elected in 2001, 2005, and 2009.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477447">
+<relationEntry>
+Ravlich, Ljiljanna Maria (19580109-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ravlich, Ljiljanna Maria ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ravlich, Ljiljanna Maria </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00585b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00595</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-21">2009-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00595b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hallahan</part>
+<part localType="givenname">Elsie Kay</part>
+<part localType="honorific title">AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Kay Hallahan</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-11-04">4 November 1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia , Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Policewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kay Hallahan was the first woman to sit in both houses of Western Australian Parliament. An Australian Labor Party member she was elected to the Legislative Council of Western Australia on 19 February 1983. She served until 13 January 1993. She switched to the Legislative Assembly when she was elected 6 February 1993, serving until 14 December 1996.</abstract>
+<p>Elsie Kay Downing (Kay) was born in Perth in 1941 to Eric Stanley Downing, a timber worker, and his wife Elsie. She attended Perth Girls High School, then worked as a calculator operator and office worker, and also undertook various forms of community work. She joined the police force in 1969, and was forced to stand down three years later when she married Pat Hallahan in May, 1972. Hallahan then studied social work and graduated with a degree in 1981, after which she worked at various community health care and rehabilitation facilities, including the Alcohol and Drug Authority. She joined the Australian Labor Party in 1976, and was elected to Legislative Council of the Western Australian Parliament in 1983. She served until 1993, and was then elected to the Legislative Assembly where she remained until 1996. Kay Hallahan was the first woman to sit in both houses of Western Australian Parliament. In 2002 Hallahan received an Order of Australia for her contribution to the State Parliament and a wide range of community organisations.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477423">
+<relationEntry>
+Hallahan, Elsie Kay (19411104-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hallahan, Elsie Kay', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hallahan, Elsie Kay</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00595b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00737.htm">
+<relationEntry localType="published">Book: We Hold Up Half the Sky: The Voices of Western Australian ALP Women in Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, Judyth [ed.]</name>
+<title render="italic">We Hold Up Half the Sky: The Voices of Western Australian ALP Women in Parliament</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Australian Labour Party</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00735.htm">
+<relationEntry localType="published">Edited Book: Biographical Register of Members of the Parliament of Western Australia, Vol. 2, 1930-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Bolton, Geoffrey </name>
+<title render="italic">Biographical Register of Members of the Parliament of Western Australia, Vol. 2, 1930-1990</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Western Australian Parliamentary History Project</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

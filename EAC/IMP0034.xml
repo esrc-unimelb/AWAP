@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0034</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-19">2015-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0034b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hammond</part>
+<part localType="givenname">Joan Hood</part>
+<part localType="honorific title">Dame, DBE, CMG, CBE, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-05-24">24 May 1912</fromDate>
+<toDate standardDate="1996-11-26">26 November 1996</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Christchurch, New Zealand</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Singer</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Joan Hammond was appointed DBE 1974, CMG 1972, CBE 1963, OBE 1953. She received the Sir Charles Santley award from the Worshipful Company of Musicians, London 1970, 'Musician of the Year'. In 1988 she was awarded the Lifetime Achievement Award from the Green Room Awards Association as well as the Lifetime Achievement Award for Excellence in Recording for the Australasian Sound Recording Association, in 1994.</abstract>
+<p>The daughter of Samuel and Hilda (née Blandford) Hammond, Joan Hammond who was educated at Presbyterian Ladies' College, Pymble New South Wales, established an early interest in sports. An expert swimmer during her teens Hammond, transferred to the sport of golf. She won the women's state golf championship for New South Wales in 1932, 1934, 1935 and the junior championship in 1929.</p>
+<p>Hammond also played violin for three years with the Sydney Philharmonic Orchestra before studying singing in Vienna in 1936. She returned to Australia for concert tours in 1946, 1949 and 1953, and completed world concert tours between 1946 and 1961. After retiring in 1965, Hammond became artistic director of the Victoria Opera Company (1971-1976) and was then head of vocal studies and vocal consultant at the Victorian College of the Arts from 1975 to 1992. Her autobiography <span style="font-style:italic">A voice, a life</span> was published in 1970.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-707081">
+<relationEntry>
+Hammond, Joan Hood (1912-1996)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hammond, Joan Hood', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hammond, Joan Hood</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0034b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003066.htm">
+<relationEntry localType="published">Resource Section: Papers of Dame Joan Hammond</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="quoted">Papers of Dame Joan Hammond</title>
+<bibseries>
+<title render="italic">Finding Aids Manuscripts</title>
+<name type="author">National Library of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.ms-ms8648"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000821.htm">
+<relationEntry localType="published">Book: A voice, a life : autobiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hammond, Joan, Dame</name>
+<title render="italic">A voice, a life : autobiography</title>
+<imprint>
+<place>London</place>
+<publisher>Gollancz</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001218.htm">
+<relationEntry localType="published">Book: 100 great Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Macklin, Robert</name>
+<title render="italic">100 great Australians</title>
+<imprint>
+<place>South Yarra, Vic.</place>
+<publisher>Currey O'Neil Ross</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000818.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1996</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sharpe, Neill (Researcher)</name>
+<title render="italic">Who's Who in Australia 1996</title>
+<edition>32</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Information Australia Group Pty Ltd</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000817.htm">
+<relationEntry localType="published">Book: 1000 Famous Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">1000 Famous Australians</title>
+<imprint>
+<publisher>Rigby</publisher>
+<date>1978</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000147.htm">
+<relationEntry localType="published">Edited Book: Who's Who of Australian Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lofthouse, Andrea</name>
+<title render="italic">Who's Who of Australian Women</title>
+<imprint>
+<place>North Ryde (NSW)</place>
+<publisher>Methuen Australia</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000821.htm">
+<relationEntry localType="archival">Interview with Joan Hammond, Australian opera singer historical recordings of important happenings recorded by 2GB News (sound recording)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Interview with Joan Hammond, Australian opera singer historical recordings of important happenings recorded by 2GB News (sound recording)</unittitle>
+<unitid>ORAL TRC 22/3</unitid>
+<unitdate>12 February 1960</unitdate>
+<abstract>Joan Hammond on her return to Australia to star in "Salome" and "Madame Butterfly" during the Sydney opera season at the Elizabethan Theatre.
+
+1 sound tape reel : analog, 7 1/2 ips, mono. ; 7 in.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001733.htm">
+<relationEntry localType="archival">Letters of Dame Joan Hammond, Geelong, to H. S. Young, Sydney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Letters of Dame Joan Hammond, Geelong, to H. S. Young, Sydney</unittitle>
+<unitid>MS 9704</unitid>
+<abstract>The letters, dated November and December 1967, are addressed to the Superintendent, Radio Branch, Postmaster-General's Department, Sydney. Miss Hammond refers to her application for an Australian Ship Station Licence for the British registered ship, 'Pankina', moored at Church Point, Sydney. Miss Hammond and companion Miss Marriott lived aboard the ship.</abstract>
+<physdesc>
+<extent>3 items (3 p. in 1 folder)</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000310.htm">
+<relationEntry localType="archival">Hammond, Joan, Dame; Papers, [manuscript]. 1928-1994 (bulk 1983-1993)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Hammond, Joan, Dame; Papers, [manuscript]. 1928-1994 (bulk 1983-1993)</unittitle>
+<unitid>MS 8648</unitid>
+<unitdate>1928 - 1994</unitdate>
+<abstract>Diaries, correspondence, biographical notes, concert programs, scrapbooks, press cuttings, photographs, music scores, teaching material for the Victorian College of the Arts, speeches and other papers. The papers relate mainly to Dame Joan's career as an opera singer and teacher, but also cover such topics as: Presbyterian Ladies' College, Pymble; the loss of Dame Joan's house in the 1983 Ash Wendesday bushfires; the Australian Opera; the Victoria State Opera; golf; and Dame Joan's friendship with Lolita Marriott.
+
+An on-line finding aid is available from the catalogue record</abstract>
+<physdesc>
+<extent>2.66 m, 19 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001732.htm">
+<relationEntry localType="archival">[Biographical cuttings on Joan Hammond]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Joan Hammond]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000472.htm">
+<relationEntry localType="archival">Papers of Kenneth Russell Henderson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Kenneth Russell Henderson</unittitle>
+<unitid>MS 7111</unitid>
+<unitdate>1976 - 1978</unitdate>
+<abstract>Correspondence, typescript of articles, press cutting, photographs relating to attempts to set up a music scholarship fund in honour of Winifred Burston. The initiators of the fund were Canberra musicians Larry Sitsky, Alan Jenkins and Ken Henderson. Correspondents include Marjorie Hesse and Dame Joan Hammond (photocopy only).</abstract>
+<physdesc>
+<extent>0.06 m, 3 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

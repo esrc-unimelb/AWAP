@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0872</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0872b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cranswick</part>
+<part localType="givenname">Isobel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Hogarth, Hilary</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-17">17 January 1915</fromDate>
+<toDate standardDate="2007-09-19">19 September 2007</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Hilary Cranswick, née Hogarth, was born in Victoria. When her father enlisted in the war Hilary came with her mother and sister to live with relatives in Adelaide. Her father was killed during the war. She went to Britain in 1939 and held many wartime nursing positions including accompanying children of one of her employers to Canada when the blitz necessitated their evacuation. On returning to Australia in 1942 Hilary joined the Australian Army Nursing Service and had postings in Papua New Guinea and in New South Wales. She retired from nursing after her marriage.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-01-20">20 January 1943</fromDate>
+<toDate standardDate="1946-11-06">6 November 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service nos: SFX28192 (S112079)</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765072">
+<relationEntry>
+Cranswick, Isobel (1915-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cranswick, Isobel (Hilary)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cranswick, Isobel (Hilary)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0872b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002745.htm">
+<relationEntry localType="published">Resource Section: HOGARTH, ISOBEL HILARY</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">HOGARTH, ISOBEL HILARY</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=691113"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001446.htm">
+<relationEntry localType="archival">Interview with Hilary Cranswick [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Hilary Cranswick [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/13</unitid>
+<unitdate>12 August 1987</unitdate>
+<abstract>History of Nursing in South Australia
+
+Hilary Cranswick, nee Hogarth, was born in Victoria. When her father enlisted in the war Hilary came with her mother and sister to live with relatives in Adelaide. Her father was killed during the war. After leaving school Hilary took a course in Domestic Science at the School of Mines before beginning training at the Children's Hospital. Later she nursed in Sydney and went to England in 1939. Her wartime nursing in Britain included working as an occupational health nurse with the Bowater paper manufacturing firm. She accompanied children of the employees to Canada when the blitz necessitated their evacuation. On returning to Australia in 1942 Hilary joined the Australian Army Nursing Service and had postings in Papua New Guinea and in New South Wales. After discharge from the army Hilary went to the United States to take a course in psychiatric nursing. She retired from nursing after her marriage.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

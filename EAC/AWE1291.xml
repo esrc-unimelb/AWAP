@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1291</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-09-09">2005-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1291b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Carbines</part>
+<part localType="givenname">Elaine Cafferty</part>
+<part localType="honorific title">The Honourable</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Cafferty, Elaine</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-02-04">4 February 1957</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Manchester, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Australian Labor Party since 1975, Elaine Carbines stood unsuccessfully in the Legislative Assembly seat of Bellarine at the Victorian state election, which was held on 30 March 1996. She was successful at her second attempt.  She was elected as the Member for Geelong Province in the Legislative Council of the Victorian Parliament in 1999. She held the position of Parliamentary Secretary, Education and Training from March-December 2002, and was Parliamentary Secretary, Environment, from December 2002. She was an unsuccessful candidate at the November 2006 Victorian state election when the Legislative Council was re-organised into regions rather than provinces. She stood in the Western Victoria Region.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-727059">
+<relationEntry>
+Carbines, Elaine Cafferty (1957-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Carbines, Elaine Cafferty', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Carbines, Elaine Cafferty</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1291b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003581.htm">
+<relationEntry localType="published">Resource: Elaine Carbines MLC, Member for Geelong Province</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Elaine Carbines MLC, Member for Geelong Province</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.elainecarbines.com/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003578.htm">
+<relationEntry localType="published">Book: Victorian Parliamentary Handbook, no. 8, the 55th Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Victorian Parliamentary Handbook, no. 8, the 55th Parliament</title>
+<imprint>
+<place>Melbourne, Vic.</place>
+<publisher>The Parliamentary Library, Parliament of Victoria</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

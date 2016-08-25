@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0449</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-02-26">2003-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0449b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Darling</part>
+<part localType="givenname">Margaret Florence</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Anderson, Margaret</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1923-05-10">10 May 1923</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1923-05-10">10 May 1923</fromDate>
+<toDate standardDate="2010-11-06">6 November 2010</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Company director</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The daughter of R G and F H Anderson, Margaret Darling was educated at St Catherine's College Toorak. After serving with the Women's Royal Australian Navy Service from 1943 to 1945, she married L G Darling and they had four children. A member of the Alexandra Club (Melbourne), Margaret Darling enjoys travel, gardening, music and country pursuits. On 10 June 1991, Margaret Darling was made a Member of the Order of Australia (AM) for service to the National Trust of Victoria.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+<event>Served with the Womens Royal Australian Navy Service, attained rank of Third Officer</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+<event>Council Member, National Trust Australia (Vic.)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+<event>President, National Trust Australia (Vic.)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+<event>Vice-President, National Trust Australia (Vic.)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<event>Chairman, Australian Garden History Society</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1999-01-01">1999</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<event>Patron, Australian Garden History Society</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0210b.htm">
+<relationEntry localType="Corporate Body">
+The Alexandra Club (1903 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0387b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Naval Service (WRANS) (1941 - 1984)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-01-25">25 January 1943</fromDate>
+<toDate standardDate="1945-05-04">4 May 1945</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-744078">
+<relationEntry>
+Darling, Margaret Florence (1923-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Darling, Margaret Florence', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Darling, Margaret Florence</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0449b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005306.htm">
+<relationEntry localType="published">Newspaper Article: Margaret Florence Darling, AM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cairncross, Lynne</name>
+<title render="quoted">Margaret Florence Darling, AM</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="pages">17</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001812.htm">
+<relationEntry localType="published">Resource Section: DARLING, MARGARET FLORENCE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">DARLING, MARGARET FLORENCE</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1188871"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

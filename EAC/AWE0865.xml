@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0865</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-11">2015-09-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0865b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Michelmore</part>
+<part localType="givenname">Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+<toDate standardDate="2002-05-27">27 May 2002</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Nurse educator</term>
+</occupation>
+<occupation>
+<term>Nursing administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catherine Michelmore was born in Adelaide. She began training at the Adelaide Children's Hospital (ACH) after the outbreak of war in 1939. In 1947 she returned to the ACH she set up and conducted the first Preliminary Training School in South Australia. In 1960 she was appointed Deputy Matron at the ACH, from which post she retired in 1970. Miss Michelmore served as a council member of the Royal College of Nursing, Australia, and in 1965 was National President of the College.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-758076">
+<relationEntry>
+Michelmore, Catherine (1910-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Michelmore, Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Michelmore, Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0865b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001438.htm">
+<relationEntry localType="archival">Interview with Catherine Michelmore [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Catherine Michelmore [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/37</unitid>
+<unitdate>1 May 1988</unitdate>
+<abstract>History of Nursing in South Australia 
+
+Catherine Michelmore was born in Adelaide and was educated at Girton School. She began training at the Adelaide Children's Hospital after the outbreak of war in 1939. On completion of training Catherine nursed at the Wakefield Street Private Hospital. In 1946 she did midwifery training in Sydney. The following year, on return to the ACH, she set up and conducted the first Preliminary Training School in South Australia. In 1950 she attended the first course for Sister Tutors at the Royal College of Nursing, Australia, in Melbourne and on her return to the ACH was appointed Senior Tutor Sister. In 1957 she went to the Alfred Hospital in Melbourne where she spent a year in the School of Nursing. In 1960 she was appointed Deputy Matron at the ACH, from which post she retired in 1970. Miss Michelmore served as a council member of the Royal College of Nursing, Australia, and in 1965 was National President of the College.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

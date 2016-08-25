@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1189</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-25">2005-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1189b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Roughsey</part>
+<part localType="givenname">Elsie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1923-01-01">1923</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mornington Island, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+<occupation>
+<term>Aboriginal health worker</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elsie Roughsey (Labumore), of Lardil descent, was born on Mornington Island in Queensland. She was taken from her parents and placed in the local mission school at the age of eight. She stayed there until World War Two, not knowing that her own brother and sister were living in the same dormitory. When the missionaries were evacuated during the war, she returned to her family and lived in the bush learning Lardil customs.
+
+In 1946 Elsie married Dick Roughsey, then a stockman but later an artist and author. She worked as a nursing aide, teacher's assistant and voluntary community worker on Mornington Island.
+
+In 1984 she published her autobiography, which became a best seller, and her visits to southern capitals to promote it attracted widespread media interest. She continues living on the island where she is an authority on local history and a famed maker of cottonwood dolls.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-492576">
+<relationEntry>
+Roughsey, Elsie (1923-2000)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Roughsey, Elsie (Labumore)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Roughsey, Elsie (Labumore)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1189b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003487.htm">
+<relationEntry localType="published">Book: An Aboriginal mother tells of the old and the new</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Roughsey, Elsie (ed. P. Memmott &amp; R. Horsman)</name>
+<title render="italic">An Aboriginal mother tells of the old and the new</title>
+<imprint>
+<publisher>McPhee Gribble/Penguin</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

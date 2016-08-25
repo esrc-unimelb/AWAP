@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0581</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-02">2003-10-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0581b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Princess Ida Club</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-07-21">21 July 1888</fromDate>
+<toDate standardDate="1915-12-31">1915</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Princes Ida Club was established on 21 July 1888 and intended to "promote the common interests of, and to form a bond of union between the present and past women students" of The University of Melbourne. The women students' club took its name from Tennyson's <span style="font-style:italic">The Princess</span> and their colours were lilac and daffodil. The activities of the Club included social functions, debates, and literary discussions. In 1915 the Club merged with the University Union Women's Representative Committee.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0631b.htm">
+<relationEntry localType="Person">
+Brennan, Anna Teresa (1879 - 1962)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="1913-12-31">1913</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Joined the Club in 1904, held office in 1907-1909 and remained on the committee until 1913</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0580b.htm">
+<relationEntry localType="Person">
+Webb, Jessie Stobo Watson (1880 - 1944)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+<toDate standardDate="1915-12-31">1915</toDate>
+</dateRange>
+<descriptiveNote>
+<p>One of the 35 founding organisations</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754056">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Princess Ida Club', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Princess Ida Club</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0581b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004878.htm">
+<relationEntry localType="published">Journal Article: Medievalism and Sorority: The Princess Ida Club</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hickey, Helen</name>
+<title render="quoted">Medievalism and Sorority: The Princess Ida Club</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Antithesis</title>
+<num type="volume">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002595.htm">
+<relationEntry localType="published">Resource Section: Admission of Women 1880</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">University of Melbourne Archives</name>
+<title render="quoted">Admission of Women 1880</title>
+<imprint>
+<publisher>University of Melbourne Archives</publisher>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Keys to the Past</title>
+<name type="author">University of Melbourne Archives</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.lib.unimelb.edu.au/collections/archives/keys/web/061.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002156.htm">
+<relationEntry localType="published">Book: Jessie Webb, a memoir</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ridley, Ronald T</name>
+<title render="italic">Jessie Webb, a memoir</title>
+<imprint>
+<place>Parkville, Vic.</place>
+<publisher>University of Melbourne, Department of History</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002130.htm">
+<relationEntry localType="published">Thesis: The 'Woman Question' in Melbourne, 1880-1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kelly, Farley</name>
+<title render="quoted">The 'Woman Question' in Melbourne, 1880-1914</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Monash University</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000454.htm">
+<relationEntry localType="published">Book: Degrees of liberation : a short history of women in the University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kelly, Farley</name>
+<title render="italic">Degrees of liberation : a short history of women in the University of Melbourne</title>
+<imprint>
+<place>Parkville, Vic.</place>
+<publisher>Women Graduates Centenary Committee, University of Melbourne</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001274.htm">
+<relationEntry localType="archival">Princess Ida Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Princess Ida Club</unittitle>
+<unitid>88/168</unitid>
+<unitdate>1888 - 1915</unitdate>
+<abstract>Minute book containing club rules and reports of meetings July 1888 - April 1894; correspondence 1914-1915.</abstract>
+<physdesc>
+<extent>0.12 m, 1 archives box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001273.htm">
+<relationEntry localType="archival">Princess Ida Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Princess Ida Club</unittitle>
+<unitid>63/30</unitid>
+<unitdate>1895 - 1915</unitdate>
+<abstract>Minutes 1897-1915; reports 1895-1912; club notices 1897-1907; correspondence 1896-1915; membership lists; rules</abstract>
+<physdesc>
+<extent>0.12 m, 1 archives box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001293.htm">
+<relationEntry localType="archival">RIDLEY, RONALD THOMAS</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>RIDLEY, RONALD THOMAS</unittitle>
+<unitid>93/157</unitid>
+<unitdate>1899 - 1925</unitdate>
+<abstract>Material collected in the course of writing a biographical memoir on Jessie Webb: T.A. Pyman's notes of her lctures in Ancient History, 1935; photocopied items, letters; print of photograph of the members of the Princess Ida Club grouped outside the Club Rooms. Enid Derham's photographs taken during her travels in the 1920's.</abstract>
+<physdesc>
+<extent>0.12 m, 1 archives box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

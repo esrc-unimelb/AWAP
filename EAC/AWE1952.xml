@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1952</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-01">2006-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1952b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lawless</part>
+<part localType="givenname">Sheila</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Snaith, Sheila</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-07-04">4 July 1929</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Newcastle-upon-Tyne, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Homemaker</term>
+</occupation>
+<occupation>
+<term>Administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sheila Lawless migrated to Australia with her husband Lawrence and first child in 1955, one family among the hundreds of thousands of "ten pound poms" who travelled to Australia after the Second World War under the government assisted passage scheme.</abstract>
+<p>The Lawless family arrived in Adelaide on 26 July 1955, ready to join Sheila's parents who had already settled in Parkside. Both Sheila and Lawrence found work quickly, and before long had managed to build their own home in the new housing estate of Windsor Gardens. Still in its earliest stages of development, the suburban plot had little to offer in the way of services and entertainment. Sheila befriended Molly McGrath at the local Catholic church, and before long their morning coffees with other local women had transformed into a mother's club. Members of the club supported each other and lobbied successfully for a local parish primary school.</p>
+<p>Sheila was to have three more children. She returned to work after seventeen years out of the paid workforce under a new government scheme in 1973, and secured an administrative position at Kildare College in Adelaide. </p>
+<p>In 1999 Sheila was diagnosed with breast cancer but was fortunate to make a full recovery. On 26 July 2005 she celebrated the fiftieth anniversary of her arrival in Australia; fifty years of dedicated homemaking and community building.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1824b.htm">
+<relationEntry localType="Exhibition">
+Australian In My Difference: Women and Migration in Australia Since 1945
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-736069">
+<relationEntry>
+Lawless, Sheila (1929-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lawless, Sheila', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lawless, Sheila</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1952b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

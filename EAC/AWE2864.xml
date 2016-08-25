@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2864</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-11-20">2007-11-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2864b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Keavney</part>
+<part localType="givenname">Kay</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Keane, Kay</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Kearney, Katherine</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Kearney, Kay</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1989-06-28">28 June, 1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Drummoyne, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in Sydney, Kay Keavney completed a Bachelor of Arts at the University of Sydney before being employed by the ABC. She was both the youngest person and the first woman to be hired as a scriptwriter by the national broadcaster. In the late 1940s she wrote serials and plays for various networks and production companies but unfortunately most of the scripts of these shows were not preserved. Keavney also adapted many plays for the Macquarie Radio Theatre, and books for the Library of the Air. She won two Walkley Awards for articles published in the <span style="font-style:italic">Australian Women's Weekly</span> and was a regular columnist for that magazine.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1940-01-01">c. 1940</fromDate>
+<toDate standardDate="1980-12-31">c. 1980</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+<event>Walkley Award (Print) - Best Story Published in an Australian Magazine, The Australian Women's Weekly</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+<event>Walkley Award (Print) - Best Story Published in an Australian Magazine, The Australian Women's Weekly</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741076">
+<relationEntry>
+Keavney, Kay (1921-1989)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Keavney, Kay', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Keavney, Kay</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2864b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004440.htm">
+<relationEntry localType="published">Resource: AustLit: The Australian Literature Resource</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">AustLit: The Australian Literature Resource</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austlit.edu.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

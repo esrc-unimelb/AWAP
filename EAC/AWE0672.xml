@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0672</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0672b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Homann</part>
+<part localType="givenname">Luise</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Wendtlandt, Luise</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1855-07-13">13 July 1855</fromDate>
+<toDate standardDate="1867-10-03">3 October 1867</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1837-07-21">21 July 1837</fromDate>
+<toDate standardDate="1932-12-31">1932</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Hanover, Germany</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Luise Homann was born on 21 August 1837 in Hanover Germany. She married Wilhelm Wendtlandt, a Lutheran missionary on 13 July 1855 and had 4 children. They travelled widely, first to Madras then to South Africa, South America, England and then back to Germany. Wendtlandt died in 1861. After his death, Luise became a missionary in Germany. She remarried Ernst Homann 3 October 1867 and followed her husband to South Australia, where they worked at Hermannsburg Mission station.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-732075">
+<relationEntry>
+Homann, Luise (1837-1932)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Homann, Luise', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Homann, Luise</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0672b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002437.htm">
+<relationEntry localType="published">Book: Like a bird on the wing : the story of Luise Homann, based on her journal and other sources</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hardy, Olga, 1917- [compiled by]</name>
+<title render="italic">Like a bird on the wing : the story of Luise Homann, based on her journal and other sources</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Lutheran Publishing House</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002436.htm">
+<relationEntry localType="published">Book: Journal of a life of many moves</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Homann, Luise, 1837-1932</name>
+<title render="italic">Journal of a life of many moves</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>[Olga Homann]</publisher>
+<date>1965</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001141.htm">
+<relationEntry localType="archival">A journal of a life of many moves by Luise Homann (autobiography)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>A journal of a life of many moves by Luise Homann (autobiography)</unittitle>
+<unitid>D 4723(Lit Ms)</unitid>
+<physdesc>
+<extent>0.05 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001140.htm">
+<relationEntry localType="archival">A life of many moves (biography)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>A life of many moves (biography)</unittitle>
+<unitid>D 4560/1(L)</unitid>
+<abstract>'Ein viel bewegtes leben' 'A life of many moves' by Mrs Luise Homann. The wife of Pastor E. Homann (2nd husband), the manuscript describes a Lutheran pastor's household in Australia and overseas. Includes brief references to Killapaninna and the Lutheran church in Adelaide. (Two parts - original German version and English translation).</abstract>
+<physdesc>
+<extent>0.03 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001139.htm">
+<relationEntry localType="archival">Diary of Luise Wendtlandt – Homann</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Diary of Luise Wendtlandt – Homann</unittitle>
+<unitid>Refer to Archivist</unitid>
+<unitdate>1837 - 1932</unitdate>
+<abstract>Diary details mission life including daily interactions with Aboriginal people there. Later moved to Adelaide as pastor's wife for 16 years.
+Collection comprises a hand written diary in old German script with 2 published books and 1 privately published pamphlet.
+Journal of a Life of Many Moves by Luise Homann (transl. Lotte Liszewski) Ed. Olga Homann. Adelaide, 1965 [privately printed pamphlet - further publishing details not known]
+Zugveger kennen ihre zeit: Als Missionarsfrau in vier Erdteilen Verlag der ev. - Lutheran Mission Missionshandlung Hermansburg, 1987
+Like a Bird on the Wing: The story of Luise Homann based on her journal and other sources. Olga Hardy (nee Homann) Lutheran Publishing House, Adelaide, 1984</abstract>
+<physdesc>
+<extent>4 Archive boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1197</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-27">2005-05-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-03">2016-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1197b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Chambers</part>
+<part localType="givenname">Joan Heywood</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1930-03-18">18 March 1930</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Elsternwick, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Joan Chambers joined the Mortlake branch of the Liberal Party in 1969 and was elected Member of the Legislative Assembly for the seat of Ballarat South in the Victorian Parliament in 1979. She served on the Subordinate Legislation Committee in 1979 and the Public Review Committee, 1980-82. She suffered defeat at the 1982 election, but was an unsuccessful candidate again in the 1988 election. In 1992 she stood as an Independent candidate in the Legislative Assembly seat of Ballarat West.</abstract>
+<p>Joan Chambers was the daughter of James McNab Murray, a company manager and Annie Hale Shaw. Educated at Ormond State School, Tintern Church of England Girls' Grammar School and the University of Melbourne, she qualified as a secondary school teacher in 1951 with a Bachelor of Arts degree and Diploma of Education. Her teaching career included appointments at Kyabram High School in 1952, Hampton High School 1953, Mortlake High School 1968-77 and Ballarat High School 1978-79 and 1982-1990.</p>
+<p>On 15 November 1953 she married John Alexander Chambers, a soldier settler farmer. They had six children, two daughters and four sons.</p>
+<p>Her community involvement included serving on the Ballarat Regional and Alcohol Dependence Association and the Ballarat Emergency Accommodation Committee. She was a member of the Mathematical Association of Victoria and a Presbyterian-Uniting Church Elder.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728090">
+<relationEntry>
+Chambers, Joan Heywood (1930-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Chambers, Joan Heywood', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Chambers, Joan Heywood</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1197b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

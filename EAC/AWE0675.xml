@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0675</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0675b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Strehlow</part>
+<part localType="givenname">Friedericke</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Keysser, Frieda</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1875-08-31">31 August 1875</fromDate>
+<toDate standardDate="1895-09-25">25 September 1895</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1875-08-31">31 August 1875</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Geroldsgruen, Bavaria, Germany</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Germany</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Frieda Johanna Henriette Strehlow (née Keysser) was born 31 August 1875 at Geroldsgruen in Bavaria. She arrived in Australia 15 September 1895 and 10 days later married missionary Karl Strehlow to whom she bore 6 children. Visiting Germany, in 1911, she and Karl left all but the youngest there for their education and the family were then separated for many years by the war. She worked at Hermannsburg Mission for 28 years with the Aboriginal people there until Karl died in 1922. She then became housekeeper for Pastor R Held and then matron at the Lutheran College and Seminary in North Adelaide for 6 years. She returned to Germany in 1931 where she died in 1957.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742081">
+<relationEntry>
+Strehlow, Friedericke (1875-1957)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Strehlow, Friedericke (Frieda) Johanna Henriette', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Strehlow, Friedericke (Frieda) Johanna Henriette</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0675b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002441.htm">
+<relationEntry localType="published">Journal Article: The Tale of Frieda Keysser, Part 2</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Strehlow, John</name>
+<title render="quoted">The Tale of Frieda Keysser, Part 2</title>
+<imprint>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">The Adelaide Review</title>
+<num type="issue">November</num>
+<num type="pages">22-23</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002440.htm">
+<relationEntry localType="published">Journal Article: The Tale of Frieda Keysser, Part 1</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Strehlow, John</name>
+<title render="quoted">The Tale of Frieda Keysser, Part 1</title>
+<imprint>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">The Adelaide Review</title>
+<num type="issue">July</num>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002439.htm">
+<relationEntry localType="published">Newspaper Article: Frieda Joanna Henriette Strehlow, Obituary</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Frieda Joanna Henriette Strehlow, Obituary</title>
+<imprint>
+<date>1957</date>
+</imprint>
+<bibseries>
+<title render="italic">The Lutheran Herald</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001145.htm">
+<relationEntry localType="archival">Hermannsburg Mission Correspondence to the Chairman of the Lutheran Mission Board from Missionaries and their Wives including Frieda Strehlow</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Hermannsburg Mission Correspondence to the Chairman of the Lutheran Mission Board from Missionaries and their Wives including Frieda Strehlow</unittitle>
+<unitid>Refer to Archivist</unitid>
+<abstract>There is a separate folder with four letters from her amongst a huge volume of missionary correspondence some of which is from Frieda Strehlow and other missionary wives.  The letters are in the process of being individually indexed.</abstract>
+<physdesc>
+<extent>200 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

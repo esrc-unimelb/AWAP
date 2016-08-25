@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0697</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-02">2004-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0697b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jeffreys</part>
+<part localType="givenname">Irene Florence</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-06-22">22 June 1913</fromDate>
+<toDate standardDate="2004-06-08">8 June 2004</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Accountant</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Irene Jeffreys was born in London, England. She migrated to Australia in 1922 with her parents. Determined from the age of 12 to be an accountant, Irene attended Adelaide Technical High school. She went to work at the age of 16 but studied for the Federal Institute of Accountants diploma at night at the School of Mines. In 1942 she was the first South Australian woman to qualify by examination for the Institute of Chartered Accountants. Irene's accountancy practice and personal interests included much involvement in the Church of England, particularly the Church Missionary Society and the General Synod, where she pioneered the involvement of South Australian women. Irene supported the movement for the ordination of women and is herself licensed as a lay preacher. For many years she was involved with the National Council of Women. On 3 June 1978 Irene Jeffreys was appointed an Officer to the Order of the British Empire for service to the church, women, children and the aged.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0545b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of South Australia (1902 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0714b.htm">
+<relationEntry localType="Corporate Body">
+The Australian Anglican Church's Movement for the Ordination of Women (MOW)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768062">
+<relationEntry>
+Jeffreys, Irene Florence (1913-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jeffreys, Irene Florence', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jeffreys, Irene Florence</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0697b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001171.htm">
+<relationEntry localType="archival">Interview with Irene Jeffreys [sound recording] Interviewer: Helen Chryssides</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Irene Jeffreys [sound recording] Interviewer: Helen Chryssides</unittitle>
+<unitid>OH 250/21</unitid>
+<abstract>Irene Florence Jeffreys was born in London, England. She migrated to Australia in 1922 with her parents. Determined from the age of 12 to be an accountant, Irene attended Adelaide Technical Highschool and after beginning work at 16, studied for the Federal Institute of Accountants diploma at night at the School of Mines. In 1942 she was the first South Australian woman to qualify by examination for the Institute of Chartered Accountants. Irene's accountancy practice and personal interests included much involvement in the Church of England, particularly the Church Missionary Society and the General Synod, where again she pioneered the involvement of South Australian women. Irene supported the movement for the ordination of women and is herself licensed as a lay preacher. Irene speaks in less detail about her many years of involvement in the National Council of Women. She concludes by describing receiving her OBE at Buckingham Palace in 1978.
+
+Recorded on 5 August 1994, 2 hours.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

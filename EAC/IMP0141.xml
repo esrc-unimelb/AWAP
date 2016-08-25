@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0141</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-08">2002-10-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0141b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Young</part>
+<part localType="givenname">Jeanne Forster</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>Forster, Goodman</part>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Forster, Sarah Jane</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1876-01-01">1876</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Unley, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A novelist, biographer and political candidate, Jeanne Forster Young passionately advocated proportional representation for women in parliament. She became president of the Democratic Women's Association of South Australia.</abstract>
+<p>Jeanne Young was born Sarah Jane Forster, one of eight children of John Goodman and Sarah Jane Forster. She became a freelance journalist with the <span style="font-style:italic">Register</span> and joined Catherine Helen Spence in 1896 in campaigning for proportional representation in parliament. On 23 January 1889, she married the Foreign Editor of the South Australian <span style="font-style:italic">Advertiser</span>, Alfred Howard Young. They were to have three sons and one daughter.</p>
+<p>Jeanne Young was the first and only woman on the Board of Governors of the South Australian Public Library, Museum and Art Gallery (1916-1928). She was appointed to the Magistracy in 1917 and stood for parliament on a non-party ticket in 1918. During the First World War, Young was a member of the Central Red Cross and later became an administrator of the South Australian Soldiers' Fund. She stood for the Senate in 1937 and was elected president of the Democratic Women's Association of South Australia.</p>
+<p>After the death of Catherine Helen Spence in 1910, Young completed Spence's autobiography. She founded the C H Spence Scholarship for Women, and in 1937 wrote <span style="font-style:italic">Catherine Helen Spence: a study and an appreciation</span>.</p>
+<p>Young produced several pamphlets on proportional representation, and wrote variously under the pen names of Jeanne F. Young, Sarah Jane Forster and Goodman Forster. On 9 June 1938, Jeanne Young was appointed to The Order of the British Empire - Officer (Civil) (OBE) for her services to social welfare. She died at Rose Park, South Australia in 1955.</p>
+<p>In 1994, as part of celebrations for the South Australian Women's Suffrage Centenary, the centenary committee published Jeanne Forster Young's novel, <span style="font-style:italic">Jenifer</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0221b.htm">
+<relationEntry localType="Person">
+Spence, Catherine Helen (1825 - 1910)
+</relationEntry>
+<descriptiveNote>
+<p>Jeanne Young joined Catherine Helen Spence in campaigning for proportional representation and completed Spence's autobiography (in the first person) after her death.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-636636">
+<relationEntry>
+Young, Jeanne F (1876-1955)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Young, Jeanne Forster', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Young, Jeanne Forster</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0141b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001693.htm">
+<relationEntry localType="published">Book: Proportional representation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Proportional representation</title>
+<imprint>
+<place>[Adelaide]</place>
+<date>[1911]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001692.htm">
+<relationEntry localType="published">Book: Effective voting; how to vote, how to count votes! : diagrams showing inequalities and injustice of single electorates and block votes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Effective voting; how to vote, how to count votes! : diagrams showing inequalities and injustice of single electorates and block votes</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>W.K. Thomas, Ptrs.</publisher>
+<date>1911</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001691.htm">
+<relationEntry localType="published">Book: Effective voting : an explanation of Hare's single transferable vote</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Effective voting : an explanation of Hare's single transferable vote</title>
+<imprint>
+<place>[Adelaide]</place>
+<date>[1917]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001690.htm">
+<relationEntry localType="published">Book: The Senate - as it is and as it should be : a plea for proportional representation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">The Senate - as it is and as it should be : a plea for proportional representation</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>W.K. Thomas, Ptrs.</publisher>
+<date>1917</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001689.htm">
+<relationEntry localType="published">Book: Preferential voting in single electorates not a reform</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Preferential voting in single electorates not a reform</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Effective Voting (P.R.) League of S.A.</publisher>
+<date>[1920]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001688.htm">
+<relationEntry localType="published">Book: Proportional representation : what it means and how it would work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Proportional representation : what it means and how it would work</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Publishers Ltd., Ptrs</publisher>
+<date>1931</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001687.htm">
+<relationEntry localType="published">Book: Proportional representation in a nutshell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Proportional representation in a nutshell</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>P.R. League</publisher>
+<date>[1945]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001686.htm">
+<relationEntry localType="published">Book: Jenifer : a novel / by Goodman Forster (Jeanne Forster Young 1876-1955)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne Forster</name>
+<title render="italic">Jenifer : a novel / by Goodman Forster (Jeanne Forster Young 1876-1955)</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>Women's Suffrage Centenary</publisher>
+<date>[1994]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000500.htm">
+<relationEntry localType="published">Book: Catherine Helen Spence : a study and an appreciation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Jeanne F</name>
+<title render="italic">Catherine Helen Spence : a study and an appreciation</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Lothian</publisher>
+<date>1937</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000499.htm">
+<relationEntry localType="published">Book: An autobiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Spence, Catherine Helen [edited and introduced by Jeanne F. Young]</name>
+<title render="italic">An autobiography</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Libraries Board of South Australia</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000886.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1944</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1944</title>
+<edition>12</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1944</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000647.htm">
+<relationEntry localType="archival">The Grand Old Woman of Australia (literary manuscript)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>The Grand Old Woman of Australia (literary manuscript)</unittitle>
+<unitid>D 6972(Lit Ms)</unitid>
+<unitdate>c. 1936</unitdate>
+<abstract>Manuscript of J.F. Young's biography of Catherine Helen Spence 'The Grand Old Woman of Australia'.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+<physfacet>Handwritten</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000646.htm">
+<relationEntry localType="archival">Jenifer (literary manuscript)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Jenifer (literary manuscript)</unittitle>
+<unitid>D 7208(Lit Ms)</unitid>
+<abstract>Manuscript of a novel written in the 1920s under the nom-de-plume Goodman Forster.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1130</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-10">2004-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1130b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Women's Guild of Empire</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Political organisation</term>
+</function>
+<function>
+<term>Lobby group</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Women's Guild of Empire was founded in 1928 by Adela Pankhurst Walsh. It was modelled on and affiliated with the London based Women's Guild of Empire. 
+The Guild initially raised money for working class women and children hit by the Depression. It also advocated the need for industrial cooperation, and Pankhurst frequently spoke out against strikes. It was a conservative, patriotic organisation which developed strong anti-communist sentiments.</abstract>
+<p>Throughout its its existence, the Guild adopted the following objectives:<br />
+1. To combat Communism and all forms of class government.<br />
+2. To establish industrial co-operation and peave.<br />
+3. to uphold the Christian ideasl of life and safeguard the family.<br />
+4. To awaken the peoples to a sense of responsibility for the well-being of the community. <br />
+5. To deepen th realization of the value of British citizenship. <br />
+6. To assist in the development of Australia as a part of the British Empire.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0097b.htm">
+<relationEntry localType="Person">
+Pankhurst, Adela (1885 - 1961)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-590539">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Women's Guild of Empire', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Women's Guild of Empire</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1130b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003435.htm">
+<relationEntry localType="published">Book Section: The Australian Women's Guild of Empire</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Castle, Josie</name>
+<title render="quoted">The Australian Women's Guild of Empire</title>
+<imprint>
+<place>Sdney</place>
+<publisher>Fontana/Collins</publisher>
+<date>1980</date>
+</imprint>
+<bibseries>
+<title render="italic">Women, class and history: feminist perspectives on Australia, 1788-1978</title>
+<name type="author">Elizabeth Windschuttle</name>
+<num type="pages">287-312</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003434.htm">
+<relationEntry localType="published">Book Section: Anti political political thought. -Non/ Labor reactions against party politics during the Great Depression in New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loveday, Peter</name>
+<title render="quoted">Anti political political thought. -Non/ Labor reactions against party politics during the Great Depression in New South Wales</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1981</date>
+</imprint>
+<bibseries>
+<title render="italic">The Wasted Years?: Australia's great depression</title>
+<name type="author">Judy Mackinolty</name>
+<num type="pages">129- 145</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003433.htm">
+<relationEntry localType="published">Journal Article: The Enthusiasms of Adela Pankhurst Walsh</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Damousi, Joy</name>
+<title render="quoted">The Enthusiasms of Adela Pankhurst Walsh</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Historical Studies</title>
+<num type="volume">25</num>
+<num type="issue">100</num>
+<num type="pages">422-436</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003431.htm">
+<relationEntry localType="published">Book Section: Brazen hussies and God's police fighting back in the depression years. [Revised version of article published in Hecate, v.8, no.1, 1982]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stone, Janey</name>
+<title render="quoted">Brazen hussies and God's police fighting back in the depression years. [Revised version of article published in Hecate, v.8, no.1, 1982]</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Interventions</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Rebel Women in Australian Working Class History</title>
+<name type="author">Sandra Bloodworth &amp; Tom O'Lincoln</name>
+<num type="pages">(39)-60</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003429.htm">
+<relationEntry localType="published">Pamphlet: Industrial co-operation: Policy speech of the Australian Women's Guild of Empire</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Adela Pankhurst</name>
+<title render="italic">Industrial co-operation: Policy speech of the Australian Women's Guild of Empire</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Australian Women's Guild of Empire</publisher>
+<date>1931</date>
+</imprint>
+<bibseries>
+<title render="italic">"Delivered at the Sydney Town Hall, November 30, 1931".</title>
+<num type="pages">11</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003427.htm">
+<relationEntry localType="published">Newspaper: The Empire Gazette</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Empire Gazette</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Australian Women's Guild of Empire</publisher>
+<date>1929-1940</date>
+</imprint>
+<bibseries>
+<title render="italic">"Edited by Adela Pankhurst Walsh"</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003426.htm">
+<relationEntry localType="published">Book: Australia and the Empire</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Adela Pankhurst</name>
+<title render="italic">Australia and the Empire</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Guild of Empire</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

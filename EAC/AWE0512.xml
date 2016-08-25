@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0512</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-08-28">2003-08-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0512b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gordon</part>
+<part localType="givenname">Margaret Bracken</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Kelly, Margaret Bracken</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1917-01-07">7 January 1917</fromDate>
+<toDate standardDate="1938-04-11">11 April 1938</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-01-07">7 January 1917</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1948-01-01">1948</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Foundation member of the War Widows' Guild of Australia</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1953-12-31">1953</toDate>
+</dateRange>
+<event>State President of the War Widows' Guild of Queensland</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1960-12-31">1960</toDate>
+</dateRange>
+<event>Chairman of the State Women's Council, Queensland Division, of the Liberal Party</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1958-01-01">1958</fromDate>
+<toDate standardDate="1959-12-31">1959</toDate>
+</dateRange>
+<event>Chairman if the Federal Women's Committee of the Liberal Party</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1961-12-31">1961</toDate>
+</dateRange>
+<event>Federal Vice-president of the Women's Committee for the Liberal Party</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0438b.htm">
+<relationEntry localType="Corporate Body">
+War Widows' Guild of Australia (1947 - )
+</relationEntry>
+<descriptiveNote>
+<p>Foundation member</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2681b.htm">
+<relationEntry localType="Corporate Body">
+War Widows' Guild of Australia (Queensland) Inc (1947 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1951-01-01">1951</fromDate>
+<toDate standardDate="1954-12-31">1954</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-711056">
+<relationEntry>
+Gordon, Margaret Bracken (1917-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gordon, Margaret Bracken', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gordon, Margaret Bracken</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0512b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001308.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Legge, J S</name>
+<title render="italic">Who's Who in Australia, 1971</title>
+<edition>20</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

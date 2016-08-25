@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3968</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-08">2008-12-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-19">2015-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3968b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cuthbertson</part>
+<part localType="givenname">Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1864-09-06">6 September 1864</fromDate>
+<toDate standardDate="1944-11-17">17 November 1944</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bacchus March, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Public servant</term>
+</occupation>
+<occupation>
+<term>Factory inspector</term>
+</occupation>
+<occupation>
+<term>Women's rights activist</term>
+</occupation>
+<occupation>
+<term>Child welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In March 1894 Margaret Cuthbertson was appointed to a three month trial as the first Female Inspector of Factories in Victoria. Having joined the public service six years earlier (she was employed as a Telephone Switch Operator in the Department of Postmaster-General on 25 July 1888) she was the succesful applicant for a position that required someone capable of reporting on the sanitary arrangements, hours of labour, remuneration etc of all places where women were employed. She was also expected to visit the premises of outworkers and make occasional visit to rural and regional centres. She was the main conduit of information between women workers and the Chief Inspector of Factories.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0218b.htm">
+<relationEntry localType="Person">
+Goldstein, Vida (1869 - 1949)
+</relationEntry>
+<descriptiveNote>
+<p>Worked together to assist unemployed women during World War I.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1150b.htm">
+<relationEntry localType="Exhibition">
+First Ladies: Finding Women in Public Record Office Victoria
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+<toDate standardDate="1920-12-31">1920?</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Represented the Victorian Women's Public Service Association on the National Council of Women</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2889b.htm">
+<relationEntry localType="Person">
+McGowan, Henrietta Celeste ( - 1937)
+</relationEntry>
+<descriptiveNote>
+<p>Margaret Cuthbertson and Henrietta McGowan coauthored a book about women's working  conditions in Victoria in the early twentieth century.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-759093">
+<relationEntry>
+Cuthbertson, Margaret (1864-1944)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cuthbertson, Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cuthbertson, Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3968b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004518.htm">
+<relationEntry localType="published">Resource Section: Cuthbertson, Margaret Gardiner (1864 - 1944)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hyslop, Anthea</name>
+<title render="quoted">Cuthbertson, Margaret Gardiner (1864 - 1944)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080206b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004286.htm">
+<relationEntry localType="published">Book Section: Margaret Cuthbertson, factory inspection and the political lives of working women, 1890-1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Damousi, Joy</name>
+<title render="quoted">Margaret Cuthbertson, factory inspection and the political lives of working women, 1890-1914</title>
+<imprint>
+<place>Annandale</place>
+<publisher>Pluto Press</publisher>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Working Nation: Working life and Federation, 1890-1914</title>
+<name type="author">Mark Hearn  and Greg Patmore</name>
+<num type="pages">249-263</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003940.htm">
+<relationEntry localType="published">Book: Woman's Work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cuthbertson, Margaret and McGowan, Henrietta</name>
+<title render="italic">Woman's Work</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Lothian</publisher>
+<date>1913</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003464.htm">
+<relationEntry localType="published">Resource Section: Ten Victorian Women: Caroline Chisholm</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Public Record Office Victoria</name>
+<title render="quoted">Ten Victorian Women: Caroline Chisholm</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">First Ladies: Finding Women in Public Record Office Victoria</title>
+<name type="author">Australian Women's Archive Project and Public Record Office Victoria</name>
+</bibseries>
+<extptr linktype="simple" href="http://womenaustralia.info/exhib/fl/flten01.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

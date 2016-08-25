@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4900</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-14">2013-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Patricia Clarke</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4900b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tillyard</part>
+<part localType="givenname">Pattie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth"><part>Craske, Pattie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1880-08-30">30 August 1880</fromDate>
+<toDate standardDate="1971-03-10">10 March 1971</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Borstal, Kent, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Canberra, Australian Capital Territory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Community Leader</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A student of Newnham College, Cambridge, and a suffragist, Pattie Craske completed a natural sciences degree in botany with second-class honours at a time when the university did not grant degrees to women. After teaching in England, she married Australian entomologist, Robin Tillyard, in Sydney. In 1928, by then the mother of four daughters, she moved to the small, isolated community of Canberra where she became a leader in community, sporting and university organisations and was elected to the Canberra Community Hospital Board in 1935. She was the social face of the growing city, renowned for her welcome to newcomers, in later years being regarded as the 'grande dame' of Canberra.</abstract>
+<p>A student of Newnham College, Cambridge, and a suffragist, Pattie Craske completed a natural sciences degree in botany with second-class honours at a time when the university did not grant degrees to women. After teaching in England, she married Australian entomologist, Robin Tillyard, in Sydney. In 1928, by then the mother of four daughters, she moved to the small, isolated community of Canberra where she became a leader in community, sporting and university organisations and was elected to the Canberra Community Hospital Board in 1935. She was the social face of the growing city, renowned for her welcome to newcomers, in later years being regarded as the 'grande dame' of Canberra.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4784b.htm">
+<relationEntry localType="Person">
+Hewitt, Alison Hope (1915 - 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4782b.htm">
+<relationEntry localType="Person">
+Wardle, Patience Australie (1910 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1465024">
+<relationEntry>
+Tillyard, Pattie (18800830-19710310)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tillyard, Pattie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tillyard, Pattie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4900b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005362.htm">
+<relationEntry localType="published">Resource Section: Tillyard, Pattie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Clarke, Patricia</name>
+<title render="quoted">Tillyard, Pattie</title>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography, National Centre of Biography, Australian National University</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/tillyard-pattie-8816/text15463"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00732.htm">
+<relationEntry localType="digitalObject">Pattie Tillyard cutting her 75th birthday cake at a party held at the Harold Whites' home in Mugga Way, Canberra, in August 1955</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository><span style="font-style:italic">Canberra Historical Journal</span>, No. 24, September 1989. Used with permission.</repository>
+<unittitle>Pattie Tillyard cutting her 75th birthday cake at a party held at the Harold Whites' home in Mugga Way, Canberra, in August 1955</unittitle>
+<unitdate>1955</unitdate>
+<abstract>Standing to the right is Elizabeth White. Other women (from left) include: Doris Nott, Nita Park and Nora Randall. </abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

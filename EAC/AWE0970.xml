@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0970</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-24">2004-05-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Francesca Bussey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0970b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Stevenson</part>
+<part localType="givenname">Jean</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1881-11-07">7 November 1881</fromDate>
+<toDate standardDate="1948-04-19">19 April 1948</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Dunedin, New Zealand</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Wellington, New Zealand</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Stevenson was General Secretary of the Melbourne Young Women's Christian Association 1915-1919 and was Industrial Secretary of the National Young Women's Christian Association for a time before resigning in 1922/24 [exact dates are disputed by sources]. She continued her work with the Young Women's Christian Association at a local level, becoming General Secretary of the Auckland Association.</abstract>
+<p>With a background as a factory worker, Jean Stevenson was trained by the Young Women's Christian Association in Adelaide and by the same organisation's American Training School in New York. A vociferous advocate for women's rights in the workplace, Stevenson is understood as instrumental in pushing active support for the 1920 Champery (Switzerland) Young Women's Christian Association Conference, which had recommended campaigning for: eight hour days for women; public employment bureaus for women; and maternity benefits for married women. In support of this 'Women in Industry' campaign, Stevenson requested all Australian Associations to submit studies on the impact of industry on workers. None did.</p>
+<p>Stevenson is noted as expressing disdain for this lack of action and the 1922 Young Women's Christian Association Australasian Convention resolution, despite advocating the Swiss Conference's resolutions, resulted in what seems to have been interpreted by Stevenson and others as a vote of no confidence for the Industrial Secretary: the motion was moved to leave the Department Secretary position vacant for a period and to reduce National administration to a minimum. In particular, delegates seem to have been uncomfortable with the National staff's push for Industrial and 'girls work'- a response Warne sees as indicative of a nation - wide internal fear of the 'politicisation' of the Young Women's Christian Organisation.</p>
+<p>Stevenson resigned in protest after the 1922 conference and became local General Secretary of the Auckland Young Women's Christian Association.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0212b.htm">
+<relationEntry localType="Corporate Body">
+YWCA of Australia
+</relationEntry>
+<descriptiveNote>
+<p>Industrial secretary</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0967b.htm">
+<relationEntry localType="Corporate Body">
+Melbourne Young Women's Christian Association (Melbourne Y.W.C.A.), World Young Women's Christian Association (World Y.W.C.A .1855 -) (1882 - 1999)
+</relationEntry>
+<descriptiveNote>
+<p>General secretary 1915-1919</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2225b.htm">
+<relationEntry localType="Corporate Body">
+City Girls' Amateur Sports Association (1918 - c. 1935)
+</relationEntry>
+<descriptiveNote>
+<p>Jean Stevenson helped to establish the City Girls' Amateur Sports Association</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1041b.htm">
+<relationEntry localType="Person">
+Hinder, Eleanor Mary (1893 - 1963)
+</relationEntry>
+<descriptiveNote>
+<p>Hinder and Stevenson worked together to form the City Girls Amateur Sports Association.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768081">
+<relationEntry>
+Stevenson, Jean (1881-1948)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stevenson, Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stevenson, Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0970b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004321.htm">
+<relationEntry localType="published">Online Resource: Stevenson, Jean 1881 - 1948</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coney, Sandra  
+URL: http://www.dnzb.govt.nz/</name>
+<title render="italic">Stevenson, Jean 1881 - 1948</title>
+<edition>June 2007</edition>
+<imprint>
+<place>Wellington, New Zealand</place>
+<publisher>Ministry of Culture and Heritage</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Dictionary of New Zealand Biography</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002927.htm">
+<relationEntry localType="published">Book: Y.W.C.A. 1882-1982 : Melbourne pictorial history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Durrant, Leoni</name>
+<title render="italic">Y.W.C.A. 1882-1982 : Melbourne pictorial history</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Ian Murray and Associates</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004520.htm">
+<relationEntry localType="published">Resource Section: Hinder, Eleanor Mary (1893 - 1963)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Foley, Meredith and Radi, Heather</name>
+<title render="quoted">Hinder, Eleanor Mary (1893 - 1963)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090310b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002928.htm">
+<relationEntry localType="published">Thesis: The Mother's anxious future : Australian Christian Women's Organisations meet the modern world, 1890s-1930s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Warne, Ellen Mary</name>
+<title render="quoted">The Mother's anxious future : Australian Christian Women's Organisations meet the modern world, 1890s-1930s</title>
+<imprint>
+<publisher>University of Melbourne, Department of History</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002925.htm">
+<relationEntry localType="published">Book: The Dauntless Bunch : The Story of the YWCA in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dunn, Margaret</name>
+<title render="italic">The Dauntless Bunch : The Story of the YWCA in Australia</title>
+<imprint>
+<place>Clifton Hill, Vic.</place>
+<publisher>YWCA,</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001607.htm">
+<relationEntry localType="archival">Young Women's Christian Association</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Young Women's Christian Association</unittitle>
+<unitid>84/66</unitid>
+<unitdate>1894 - 1984</unitdate>
+<abstract>History files 1895-1984; constitution; committee material; correspondence; conference material; immigration files; subject files; projects; surveys; finance material; war sercvices; personnel; training files; Worl Council files; World YWCA files; regional YWCA files; publications; scrapbooks; memorabilia' photographs; films; slides; public relations files; training records.</abstract>
+<physdesc>
+<extent>314 archives boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

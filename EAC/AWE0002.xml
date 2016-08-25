@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0002</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2000-05-03">2000-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0002b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ryan</part>
+<part localType="givenname">Julia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1937-09-29">29 September 1937</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Women's liberationist</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ryan was a member of the first Canberra Women's Liberation Group in the 1970s and remained in the movement from that time. She was Honorary Secretary of the National Foundation for Australian Women 1991-1996.</abstract>
+<p>Member of first Canberra Women's Liberation Group 1970s; Public Officer, Canberra Women's Refuge 1975 - 1977; Women's Studies, Australian National University, 1981-1982; Governor General's nominee, Australian National University Council (including appointee to Equal Employment Opportunity Committee) 1984-1991; ACT Women's Consultative Council Convenor 1992-1993, Member 1989-1993; Honorary Secretary, National Foundation for Australian Women 1991-1996; Trustee and Assessor, Beryl Henderson Foundation 1988 - 2000; Trustee, Pamela Denoon Trust 1990 - 2000.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0007b.htm">
+<relationEntry localType="Corporate Body">
+Women's Studies Program, Australian National University, Australian National University (1976 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1981-01-01">1981</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0003b.htm">
+<relationEntry localType="Corporate Body">
+Canberra Women's Liberation Group (1970 - 1976)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0004b.htm">
+<relationEntry localType="Person">
+Ryan, Edna Minna (1904 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0014b.htm">
+<relationEntry localType="Person">
+Ryan, Lyndall (1943 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-771056">
+<relationEntry>
+Ryan, Julia (1937-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ryan, Julia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ryan, Julia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0002b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000003.htm">
+<relationEntry localType="published">Journal Article: Capitalism and the Family</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Capitalism and the Family</title>
+<imprint>
+<date>1975</date>
+</imprint>
+<bibseries>
+<title render="italic">Refractory Girl</title>
+<num type="issue">No. 7</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000002.htm">
+<relationEntry localType="published">Book: Gender Equity at Canberra High</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ryan, Julia and Curtain, Anne</name>
+<title render="italic">Gender Equity at Canberra High</title>
+<imprint>
+<place>Canberra, ACT</place>
+<publisher>Canberra High School</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000003.htm">
+<relationEntry localType="archival">Papers of Julia Ryan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Papers of Julia Ryan</unittitle>
+<unitdate>c. 1970 - c. 1990</unitdate>
+<abstract>11 boxes of papers and associated records pertaining to feminist activities in Canberra, including a typed copy of the minutes of the Canberra Women's Liberation movement 1970-1973.</abstract>
+<physdesc>
+<extent>1.2 m, 11 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000002.htm">
+<relationEntry localType="archival">Papers of Julia Ryan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Julia Ryan</unittitle>
+<unitid>MS 9361</unitid>
+<unitdate>1947 - 1982</unitdate>
+<abstract>The papers were received by the Library in 1991. They were once part of the collection of the Womens Studies Unit at the Australian National University. The papers consist mainly of secondary source material relating to women's issues. They include journal articles, newscuttings, notes, papers, reports, information circulars and women's journals. A substantial amount of the research material (6 folders) has been collected on the campaigns for equal pay for women both in Australia and overseas. Other subject files include
+women and the media, women in the Australian Public Service and womens organisations. There are also papers from women's conferences and miscellaneous copies of various women's journals and newsletters.
+The collection was arranged in files with titles when received by the Library. The arrangement of papers within these files and the file titles have been preserved by the Library. Other papers originally part of the Women's Archive and now held by the National Library include those of Beryl Henderson (MS 9360), Edna Ryan (MS 9140), and Thelma Hunter (MS 9353).</abstract>
+<physdesc>
+<extent>0.7 m, 5 A1 archive boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000001.htm">
+<relationEntry localType="archival">Interview with Julia Ryan, feminist. Interviewer, Sara Dowse</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Julia Ryan, feminist. Interviewer, Sara Dowse</unittitle>
+<unitid>ORAL TRC 2651</unitid>
+<unitdate>c. 1970 - 1990</unitdate>
+<abstract>Ryan speaks of the National Foundation for Australian Women, its history and aim to promote feminist ideas into the far future, how the composition of members has changed over the years, the changes to home-based women, the advent of "second-wave" feminism, the history of the women's movement in Canberra starting formally in June 1978, previously operated informally from 1969 as an off-shoot from the Sydney group lead by Lyndal Ryan, how the movement grew through networking, why their meetings were closed to men, how 1972 saw an increase in political involvement with their support of the Aboriginal Embassy tent and the establishment of the Women's Electoral Lobby, their resistance to takeovers by both moderate and extreme political groups, the opportunity feminists had during the Whitlam years to gain influence in the bureaucracy with the appointment of Elizabeth Reid in 1973 as Whitlam's adviser on women's issues, how the group engaged in consciousness-raising, the emergence of femocrats like Mary Menange and Anne Somers threatened to depower women by transferring too much responsibility to government bodies, the highlights of 1975 as International Women's Year and its contribution to the Labour Government dismissal, how feminism eventually influenced the right-wing of politics, the relationship between gender and class in social oppression, the move from Marxist politics to post-modern Foucault models for change and the emergence of women's studies as a discipline.</abstract>
+<physdesc>
+<extent>0.02 m, 1 tape</extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

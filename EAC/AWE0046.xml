@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0046</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-08">2001-02-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0046b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Molloy</part>
+<part localType="givenname">Georgiana</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Kennedy, Georgiana</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1803-05-12">12 May 1803</fromDate>
+<toDate standardDate="1843-12-31">1843</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Near Carlisle, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Vasse, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Botanist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Molloy emigrated to Western Australia from England in 1830 and settled in Augusta. She collected and despatched seeds of local native plants to J. Mangles FRS who passed them to collectors in the UK. She was known for her detailed botanical descriptions.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742076">
+<relationEntry>
+Molloy, Georgiana (1803-1843)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Molloy, Georgiana', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Molloy, Georgiana</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0046b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000078.htm">
+<relationEntry localType="published">Journal Article: The Letters of Georgina Molloy</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pickering, W. G.</name>
+<title render="quoted">The Letters of Georgina Molloy</title>
+<imprint>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal and Proceedings of the Royal Western Australian Historical Society</title>
+<num type="volume">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000076.htm">
+<relationEntry localType="published">Resource Section: Molloy, Georgiana (1805-1843)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hasluck, Alexandra</name>
+<title render="quoted">Molloy, Georgiana (1805-1843)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">02</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A020210b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000075.htm">
+<relationEntry localType="published">Book: Pioneer Women, Pioneer Land: Yesterday's Tall Poppies Angus &amp; Robertson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vries-Evans, Susanna De</name>
+<title render="italic">Pioneer Women, Pioneer Land: Yesterday's Tall Poppies Angus &amp; Robertson</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000074.htm">
+<relationEntry localType="published">Book: Portrait with Background: A Life of Georgiana Molloy</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hasluck, Alexandra</name>
+<title render="italic">Portrait with Background: A Life of Georgiana Molloy</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1960</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000045.htm">
+<relationEntry localType="archival">Diaries and letters Georgiana Molloy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Diaries and letters Georgiana Molloy</unittitle>
+<unitid>ACC 2877A; 501A; 1959A; 479A</unitid>
+<unitdate>1823 - 1929</unitdate>
+<abstract>Diaries 1829-30 [ACC 2877A, MN 768]. Correspondence with J. Molloy and relatives and friends 1823-33 and an article based on these letters by W.G. Pickering 1929 [ACC 501A]. Other items related to the letters c1897 [ACC 1959A]. 2 letterbooks of transcripts of letters received by J. Mangles from Georgiana Molloy and others 1835-45 [ACC 479A].</abstract>
+<physdesc>
+<extent>0.13 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

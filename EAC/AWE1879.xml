@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1879</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-01-31">2006-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1879b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lawler</part>
+<part localType="givenname">Ann</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ann Lawler was an active party member and candidate for the Citizens Electoral Council during the election for the New South Wales Legislative Assembly,  representing Maitland, in 1999. She was the Candidate for Hunter in the House of Representatives in 1998, 2001, 2004. In 2003 Lawler re-contested the seat of Maitland as an Independent candidate.
+
+The Citizens Electoral Council of Australia was deregistered by the Australian Electoral Commission on 27 December 2006 by the application of Schedule 3 of the Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006.</abstract>
+<p>Ann Lawler was born and bred in Maitland, where she and her husband, Tom, run a transport business. They have three children.</p>
+<p>Ann ran as an independent candidate in 2003, though her campaign literature stated she was "backed by the Citizens Electoral Council". Her campaign opening was reported as being the largest and most enthusiastic ever held in Australia by the CEC, of which she was the NSW Secretary.</p>
+<p>In previous campaigns, her leaflets had openly declared her to be the Citizens Electoral Council candidate. Following Lyndon LaRouche's theories, she predicted a great financial crash. She was in favour of Australia becoming a republic based on the United States model.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-749071">
+<relationEntry>
+Lawler, Ann
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lawler, Ann', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lawler, Ann</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1879b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

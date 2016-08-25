@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4545</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-06-23">2010-06-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Kirsty Harris</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4545b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Addison</part>
+<part localType="givenname">Marion Lilian</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Addison, Lily</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1885-12-21">21 December 1885</fromDate>
+<toDate standardDate="1982-11-27">27 November 1982</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Sportswoman</term>
+</occupation>
+<occupation>
+<term>Tennis player</term>
+</occupation>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lily Addison competed in the All England Tennis Championships at Wimbledon in 1919. She served with the Australian Army Nursing Service 1917-19 in Greece and England.</abstract>
+<p>Known as Lily, Marion Lillian Addison had moved from Adelaide to Melbourne by 1910. In 1906 she first won the Victorian Ladies' Tennis Championship.</p>
+<p>As a tennis player she had significant success in Australia and often played doubles with her brother J. J. Addison. She was the South Australian Ladies Tennis Champion in 1906, 1908, 1909, 1910 and 1911. She was holder of the Victorian Ladies' singles championship and mixed doubles title in 1909. In 1910 she won all three events in the New South Wales Tennis Championships - the ladies' singles, ladies' doubles and challenge pairs. In 1911 she was both Victorian and New South Wales State Ladies Tennis Champion. In late 1913, at the age of twenty seven, she commenced nursing training at the Melbourne Hospital, graduating in early 1917. She enlisted in the Australian Army Nursing Service in August 1917 and was posted to a number of British military hospitals in Salonika, Greece. In 1918 she suffered lung trouble. After the Armistice, in February 1919 she transferred to the 3rd Australian Auxiliary Hospital in Dartford, England.</p>
+<p>In June 1919 she played in the All England Tennis Championships at Wimbledon. She defeated Mrs Tucker, 6-3, 6-1 in the first round. She was beaten by Mrs McNair in the second round 12-10, 6-2. She also competed in the mixed doubles with Max Decagis and beat Mrs L. Mauser-Doust, 6-3, 11-9.</p>
+<p>She returned to Australia in July 1919 and by November that year had returned to local tennis, being selected in the Victorian team to play against New South Wales. In 1921 she was again nursing at the Melbourne Hospital but still managed to win the Victorian title for the fifth time. In 1925, Lily Addison held a position as Sister with the Australian Army Nursing Service Reserve.</p>
+<p>It appears she did not marry. In 1937 she was a Sister at the Adelaide Hospital but in 1940 is recorded as living in Mont Albert, Melbourne. In 1972 she lived in Kew.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477618">
+<relationEntry>
+Addison, Marion Lilian (18851221-19821127)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Addison, Marion Lilian (Lily)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Addison, Marion Lilian (Lily)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4545b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004815.htm">
+<relationEntry localType="published">Article: Using the online community to 'create' history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Henningham, Nikki; Morgan, Helen; Harris, Kirsty and Thomas, Graham</name>
+<title render="quoted">Using the online community to 'create' history</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Women's Register Blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/blog/2010/06/22/using-the-online-community-to-create-history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004796.htm">
+<relationEntry localType="published">Journal: UNA</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">UNA</title>
+<imprint>
+<date>1903-76</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004795.htm">
+<relationEntry localType="published">Thesis: Not just 'routine nursing': the roles and skills of the Australian Army Nursing Service during World War I</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Kirsty</name>
+<title render="quoted">Not just 'routine nursing': the roles and skills of the Australian Army Nursing Service during World War I</title>
+<imprint>
+<publisher>The University of Melbourne</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00517.htm">
+<relationEntry localType="digitalObject">Miss L. Addison South Australian Ladies Tennis Champion</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Miss L. Addison South Australian Ladies Tennis Champion</unittitle>
+<unitdate>1914</unitdate>
+<note label="rights">State Library of South Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

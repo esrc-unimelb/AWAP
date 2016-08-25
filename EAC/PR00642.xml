@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00642</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-21">2009-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Janet Butler</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00642b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Newcomb</part>
+<part localType="givenname">Caroline Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Married Name"><part>Dodgson, Caroline</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1812-10-05">5 October 1812</fromDate>
+<toDate standardDate="1874-10-03">3 October 1874</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Brunswick, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Pastoralist</term>
+</occupation>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+<occupation>
+<term>Church worker</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Caroline Elizabeth Newcomb ran the early Port Phillip properties <span style="font-style:italic">Boronggoop</span>, then <span style="font-style:italic">Coryule</span>, in partnership with Ann Drysdale, from 1840 until after Ann's death in 1853.  In 1855 she founded and became the inaugural president of the Geelong Ladies Benevolent Society, now Geelong and Western District Ladies Benevolent Society. In 1861 she married the Rev James Dodgson.</abstract>
+<p>Caroline Newcomb was the daughter of the British Commissary in Spain. She arrived in Van Diemen's Land in August 1833, at the age of 20, and moved to Port Phillip with the Batman family in April 1836, as governess. She moved  to Geelong as governess to the Thompson family, where Ann Drysdale met her upon her own arrival in the colony in 1840. The two women formed a successful partnership, running first <span style="font-style:italic">Boronggoop</span>,on the Barwon River, which they extended to Leep Leep near Lake Connewarre, then <span style="font-style:italic">Coryule</span>, building both homesteads. A devout Methodist, she joined the Wesleyan Church Society in Geelong on 4 January 1839, and was the first secretary of the Methodist Church at Drysdale, the town named after her partner.  On Ann Drysdale's death in 1853, Caroline inherited the property, which she continued to manage. She took an active interest in local affairs, giving land for the Wesleyan Church in Drysdale, and seeking the formation of the Port Arlington Road Board, becoming its Secretary, and presiding over its first meeting. In June 1855 she formed the Geelong Ladies Benevolent Society, and became its inaugural president. She married Rev. James Dodgson in 1861, and followed him on his circuit, passing away at Brunswick Wesleyan Parsonage in 1874, aged 62. In 1956 the Geelong suburb of Newcomb was named after her.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00637b.htm">
+<relationEntry localType="Corporate Body">
+Geelong and Western District Ladies Benevolent Association (1855 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00658b.htm">
+<relationEntry localType="Person">
+Drysdale, Anne (1792 - 1853)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462430">
+<relationEntry>
+Newcomb, Caroline Elizabeth (1812-1874)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Newcomb, Caroline Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Newcomb, Caroline Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00642b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00643.htm">
+<relationEntry localType="published">Book: The Lady Squatters:  Miss Ann Drysdale and Miss Caroline Elizabeth Newcomb 'Boronggoop' and 'Coriyule'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Richardson, John</name>
+<title render="italic">The Lady Squatters:  Miss Ann Drysdale and Miss Caroline Elizabeth Newcomb 'Boronggoop' and 'Coriyule'</title>
+<imprint>
+<place>Bellarine Rural City Council</place>
+<publisher>Drysdale</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00644.htm">
+<relationEntry localType="published">Resource Section: Drysdale, Anne (1792-1853)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Martin, Jean I. and Brown, P.L. </name>
+<title render="quoted">Drysdale, Anne (1792-1853)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A010314b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00657.htm">
+<relationEntry localType="archival">Drysdale, Ann (1792-1853), Diary</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Drysdale, Ann (1792-1853), Diary</unittitle>
+<unitid>MS 9249</unitid>
+<unitdate>September 1839 - May 1854</unitdate>
+<abstract>Diary of Anne Drysdale, September 1839 - May 1854</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00712.htm">
+<relationEntry localType="archival">Victorian Pioneers Cutting Book vol.1</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Victorian Pioneers Cutting Book vol.1</unittitle>
+<unitid>GHC Reference Library 920.09945 VIC</unitid>
+<abstract>Book of newspaper cuttings relating to Victorian pioneers.</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

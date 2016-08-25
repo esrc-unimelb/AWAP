@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2434</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-03-11">2007-03-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-06">2016-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2434b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Davies</part>
+<part localType="givenname">Judy Joy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1926-02-01">February 1926</fromDate>
+<toDate standardDate="2016-03-27">27 March 2016</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Olympian</term>
+</occupation>
+<occupation>
+<term>Swimmer</term>
+</occupation>
+<occupation>
+<term>Commonwealth or Empire Games gold medalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Judith Joy Davies was an Australian Olympian who won a bronze medal in the 100-metre backstroke at the 1948 Summer Olympics in London and followed up with three gold medals at the 1950 Empire Games in Auckland. She won seventeen Australian championships in freestyle, backstroke and medley swimming. After finishing her swimming career she worked as a sporting journalist for the Melbourne newspapers The Argus and The Sun-News Pictorial.
+
+Davies was inducted into the Sport Australia Hall of Fame in 2011 as a General Member for her contribution as a sportswriter. She was one of the first women journalists to break into covering all sports when she started working with the Melbourne newspaper The Argus, in an era when women sports writers were normally confined to covereing women's sport. Her Argus experience included covering the 1954 Commonwealth Games in Vancouver and then the 1956 Olympics in her home town of Melbourne.
+
+When the Argus ceased publication in 1957 she joined the rival Sun News Pictorial where she was to cover local and international sport for the next 31 years. She was widely respected by both editors and athletes and in 1982 was awarded the National Press Club Award for Sports Journalism.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1948-01-01">1948</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Bronze Medalist at the London Olympic Games - Swimming - 100m Backstroke</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1950-12-31">1950</toDate>
+</dateRange>
+<event>Gold Medalist at Auckland  Empire  Games - Swimming - 110y backstroke; 4 x 110y freestyle relay; 3 x 110y medley relay</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1952-01-01">1952</fromDate>
+<toDate standardDate="1952-12-31">1952</toDate>
+</dateRange>
+<event>Competed in Helsinki</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-694095">
+<relationEntry>
+Davies, Judy Joy (1928-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Davies, Judy Joy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Davies, Judy Joy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2434b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005848.htm">
+<relationEntry localType="published">Resource Section: Judy Joy Davies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Judy Joy Davies</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Sport Australia Hall of Fame Website</title>
+<name type="author">The Sport Australia Hall of Fame</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.sahof.org.au/hall-of-fame/member-profile/?memberID=548&amp;memberType=athlete"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005849.htm">
+<relationEntry localType="published">Book: Half the Race, A history of Australian women in sport</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stell, Marion K.</name>
+<title render="italic">Half the Race, A history of Australian women in sport</title>
+<imprint>
+<place>North Ryde</place>
+<publisher>Harper Collins</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

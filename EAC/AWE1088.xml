@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1088</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-24">2004-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1088b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Freeman</part>
+<part localType="givenname">Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Freeman, Cathy</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mackay, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Track and field athlete</term>
+</occupation>
+<occupation>
+<term>Olympian</term>
+</occupation>
+<occupation>
+<term>Commonwealth or Empire Games gold medalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catherine (Cathy) Freeman was born in Mackay in Queensland in 1973. As a very good runner, she won a scholarship to boarding school where she was able to have professional coaching. In 1994 she became the first Aboriginal sprinter to win a gold medal at the Commonwealth Games, going on to win a silver medal in the 1996 Olympic Games and then gold at the Sydney Olympics in 2000.
+
+She is very proud of her Aboriginal heritage and has carried the Australian and Aboriginal flags around the track after winning a race, which at times has resulted in public controversy.
+
+She was made Young Australian of the Year in 1990 and Australian of the Year in 1998. She is the first person to receive both awards.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+<event>Gold Medalist at Auckland Commonwealth Games - Athletics - 4 X 100m relay</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1992-12-31">1992</toDate>
+</dateRange>
+<event>Competed at Barcelona</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<event>Gold Medalist at Victoria Commonwealth Games - Athletics - 200m and 400m</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1996-01-01">1996</fromDate>
+<toDate standardDate="1996-12-31">1996</toDate>
+</dateRange>
+<event>Silver Medalist at the Atlanta Olympic Games - Athletics - 400m event</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<event>Gold Medalist at the Sydney Olympic Games - Athletics - 400m event</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2002-01-01">2002</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+<event>Gold Medalist at Manchester Commonwealth Games - Athletics - 4 x 400m relay</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-507168">
+<relationEntry>
+Freeman, Cathy (1973-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Freeman, Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Freeman, Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1088b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003847.htm">
+<relationEntry localType="published">Resource: Australia at the Games</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Olympic Committee</name>
+<title render="italic">Australia at the Games</title>
+<imprint>
+<publisher>Australian Olympic Committee</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://corporate.olympics.com.au/index.cfm?p=25"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00231.htm">
+<relationEntry localType="digitalObject">Cathy Freeman, Commonwealth Games, Victoria, British Columbia, Canada, 1994</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Cathy Freeman, Commonwealth Games, Victoria, British Columbia, Canada, 1994</unittitle>
+<unitdate>1994</unitdate>
+<note label="rights">National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00215.htm">
+<relationEntry localType="digitalObject">Cathy Freeman and Nova Peris</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Sports Commission</repository>
+<unittitle>Cathy Freeman and Nova Peris</unittitle>
+<unitdate>26 February 2000 - 27 February 2000</unitdate>
+<abstract>Athletics Australia National Championships 2000, Olympic Stadium, Homebush, Sydney</abstract>
+<note label="rights">Australian Sports Commission (National Sports Information Centre Image Library)</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

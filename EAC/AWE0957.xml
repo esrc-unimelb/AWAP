@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0957</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-14">2004-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0957b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Woman's League</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1895-01-01">1895</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Formed in 1895 by Lucy Morice, supported by her aunt, Catherine Helen Spence. It aimed to build on the recent enfranchisement of women by educating women politically and socially to be able to take an intelligent part in the political life of the country. It also aimed to forge an alliance of women regardless of class and party to address issues concerning women and children. The first President was Annie Montgomerie Martin. Some members were also members of the Woman's Christian Temperance Union. The League ended in 1897.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4425b.htm">
+<relationEntry localType="Person">
+Morice, Louise (1859 - 1951)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1895-01-01">1895</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0955b.htm">
+<relationEntry localType="Corporate Body">
+Woman's Christian Temperance Union of South Australia (1889 - )
+</relationEntry>
+<descriptiveNote>
+<p>Some members of the Union were also member of the League</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0221b.htm">
+<relationEntry localType="Person">
+Spence, Catherine Helen (1825 - 1910)
+</relationEntry>
+<descriptiveNote>
+<p>Supported the formation of the Woman's League by her niece Lucy Morice</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-693071">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Woman's League', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Woman's League</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0957b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002430.htm">
+<relationEntry localType="published">Book: Fresh evidence, new witnesses : finding women's history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Allen, Margaret (Margaret Ellen), 1947- ;  Hutchison, Mary  and  Mackinnon, Alison, 1942-</name>
+<title render="italic">Fresh evidence, new witnesses : finding women's history</title>
+<imprint>
+<place>Netley, SA</place>
+<publisher>South Australian Government Printer</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000517.htm">
+<relationEntry localType="published">Book: In her own name. A history of women in South Australia from 1836</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Helen Jones</name>
+<title render="italic">In her own name. A history of women in South Australia from 1836</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001581.htm">
+<relationEntry localType="archival">Woman's League</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Woman's League</unittitle>
+<unitid>SRG 690</unitid>
+<unitdate>1895 - 1897</unitdate>
+<abstract>The collection comprises minutes and annual reports.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+<physfacet>Handwritten; typescript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

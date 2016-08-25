@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2736</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-07-26">2007-07-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-10">2016-05-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2736b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tierney</part>
+<part localType="givenname">Gayle</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Gayle Tierney is an Australian politician. She has been an Australian Labor Party member of the Victorian Legislative Council since November 2006, representing the Western Victoria Region. She was re-elected in 2010 and again in 2014, when the Labor Government, which was defeated in 2010, was returned to power. She currently holds the position of Deputy President of the Legislative Council.</abstract>
+<p>Tierney studied politics and Asian studies at the Flinders University South Australia, before entering the trade union movement. During the early 1980s she worked for Australia Asia Worker Links (AAWL), promoting research and study tours in South Korea, The Philippines, Japan and Hong Kong, focusing on union, human, indigenous and women's rights in those countries, and encouraging Australian companies active in Asia to maintain proper standards of care.</p>
+<p>Following her period at AAWL Tierney was a Federal Industrial Officer with the Australian Public Service Association and held that position until joining the Vehicle Builders Union in 1989.</p>
+<p>Tierney was the first woman to become State Secretary of the traditionally male-dominated Vehicle Division of the Automotive, Metals and Engineering Union (now part of the Australian Manufacturing Workers Union), serving in that role from 1993 to 2006, and serving as its Federal President from 2000 to 2006. Tierney also served on the executive of the Australian Council of Trade Unions from 2000 to 2006.</p>
+<p>Tierney is a keen advocate for regional development and is currently Deputy Chair of the Victorian Rural and Regional Parliamentary Committee.</p>
+<p>Apart from regional infrastructure and employment, Tierney is also a strong supporter of environmental sustainability, gender representation, social inclusion and community development.</p>
+<p> Tierney is married and has one adult child.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-759079">
+<relationEntry>
+Tierney, Gayle
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tierney, Gayle', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tierney, Gayle</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2736b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

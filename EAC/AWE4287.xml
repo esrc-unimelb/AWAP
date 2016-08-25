@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4287</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-02">2009-09-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4287b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bailey</part>
+<part localType="givenname">Margaret Ann Montgomery</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1879-06-09">9 June 1879</fromDate>
+<toDate standardDate="1955-06-05">5 June 1955</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Toowoomba, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Headmistress</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Ann Montgomery Bailey was the longest serving headmistress of Ascham School. She experimented with new learning methods, introducing the 'Dalton plan', a philosophy of learning which emphasises self-responsibility and independence, into the senior school in 1922.
+
+She was educated at the Newnham School for Girls, Toowoomba, and attended the University of Sydney, graduating with a Bachelor of Arts in 1900.</abstract>
+<p>After graduating from University of Sydney, Margaret Bailey returned to Queensland to teach. She had two stints at Rockhampton Girls' Grammar (1900-03, 1908-11) with a stint at Girton College, Toowoomba (1903-1907) in between.</p>
+<p>For two years between 1912-14 she studied abroad. Upon returning she joined the staff at Ascham School in Darling Point, Sydney, which she purchased with another staff Her most adventurous move as principal was the 1922 introduction into the senior school of a modified version of the 'Dalton plan', a philosophy of learning which emphasises self-responsibility and independence. She resigned as principal of Ascham in 1946.</p>
+<p>As the principal of Ascham School from 1916 to 1946, Bailey was active in the Headmistresses' Association of Australia and the New Education Fellowship.</p>
+<p>She also served as vice-president and president of the Sydney University Women Graduates' Association, and was an executive member of the Australian Federation of University Women.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0215b.htm">
+<relationEntry localType="Corporate Body">
+Australian Federation of Graduate Women Inc. (1922 - )
+</relationEntry>
+<descriptiveNote>
+<p>Margaret Bailey was an executive member of the Australian Federation of University Women</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1036b.htm">
+<relationEntry localType="Corporate Body">
+Australian Federation of Graduate Women NSW (New South Wales) Inc. (1920 - )
+</relationEntry>
+<descriptiveNote>
+<p>Bailey also served a term a vice-president of the organisations</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3736b.htm">
+<relationEntry localType="Person">
+Muscio, Florence Mildred (1882 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4286b.htm">
+<relationEntry localType="Corporate Body">
+Ascham School (1886 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1916-01-01">1916</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Margaret Bailey was headmistress of Ascham School for thirty years.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462330">
+<relationEntry>
+Bailey, Margaret Ann Montgomery (1879-1955)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bailey, Margaret Ann Montgomery', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bailey, Margaret Ann Montgomery</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4287b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100101.htm">
+<relationEntry localType="published">Resource Section: Bailey, Margaret Ann Montgomery (1879-1955)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lundie, Margaret</name>
+<title render="quoted">Bailey, Margaret Ann Montgomery (1879-1955)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A070144b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004599.htm">
+<relationEntry localType="published">Resource: Ascham School Website</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ascham School</name>
+<title render="italic">Ascham School Website</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.ascham.nsw.edu.au/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

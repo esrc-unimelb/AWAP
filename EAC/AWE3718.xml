@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3718</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-06">2008-10-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3718b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mackerras</part>
+<part localType="givenname">Mabel Josephine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Bancroft, Jo</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-08-07">7 August 1896</fromDate>
+<toDate standardDate="1971-10-08">8 October 1971</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Deception Bay, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Scientist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jo Mackerras was an entomologist and parasitologist who began research into fly-borne diseases in cattle and fatal epizootics in fresh-water fish in 1918, with the help of a Walter and Eliza Hall Fellowship. With her husband Ian Mackerras, she joined CSIR's Division of Economic Entomology in Canberra in 1929. From 1943 she was at the Land Headquarters Medical Research Unit in Cairns, where she led pioneering research into malaria control. Post-war, Mackerras worked again at CSIR, this time at Yeerongpilly, as a parasitologist. The lungworm, <span style="font-style:italic">A. Mackerrasae</span>, was named after her, and she specialised in Australian cockroaches.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762081">
+<relationEntry>
+Mackerras, Mabel Josephine (1896-1971)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mackerras, Mabel Josephine (Jo)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mackerras, Mabel Josephine (Jo)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3718b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100986.htm">
+<relationEntry localType="published">Resource Section: Mackerras, Mabel Josephine (Jo) (1896-1971)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mackerras, Mabel Josephine (Jo) (1896-1971)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A150734b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004118.htm">
+<relationEntry localType="published">Book: Sheep Blowfly Investigations: The Attractiveness of Sheep for Lucilia Cuprina</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mackerras, I.M., M.J. Mackerras</name>
+<title render="italic">Sheep Blowfly Investigations: The Attractiveness of Sheep for Lucilia Cuprina</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Council for Scientific and Industrial Research (govt. printer)</publisher>
+<date>1944</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004117.htm">
+<relationEntry localType="published">Book: Experimental Studies of Ephemeral Fever in Australian Cattle</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mackerras, I.M., M.J. Mackerras, F.M. Burnet</name>
+<title render="italic">Experimental Studies of Ephemeral Fever in Australian Cattle</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Council for Scientific and Industrial Research (govt. printer)</publisher>
+<date>1940</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004116.htm">
+<relationEntry localType="published">Book: The Insects of Australia: A Textbook for Students and Research Workers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">CSIRO Division of Entomology</name>
+<title render="italic">The Insects of Australia: A Textbook for Students and Research Workers</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004130.htm">
+<relationEntry localType="published">Resource Section: Mackerras, Mabel Josephine (1896-1971)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCarthy, G.J.</name>
+<title render="quoted">Mackerras, Mabel Josephine (1896-1971)</title>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+<name type="author">University of Melbourne eScholarship Research Centre</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P002188b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

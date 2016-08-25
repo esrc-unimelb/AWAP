@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5635</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-27">2016-04-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Anthea McIntyre</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-27">2016-04-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5635b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McIntyre</part>
+<part localType="givenname">Anthea</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Anthea McIntyre is a lawyer, sole practitioner, business woman, writer, and strong supporter of mothers as lawyers.
+
+Anthea was formerly a Senior Associate at Australia's top tier law firm, Herbert Smith Freehills, where she specialised in Commercial Litigation and Corporate Governance law. She then worked as a Senior Policy Advisor at the Australian Institute of Company Directors where she established Australia's first ASX200 chairmen's mentoring program designed to increase the number of women on Australian listed company boards. The program was a huge success and assisted in significantly increasing the number of women appointed to boards as well as raising the profile of the importance of gender balance in boardrooms as well as in business generally. Anthea was also the author of the book "Tomorrow's Boards: Creating balanced and effective boards".
+
+Following the birth of her two daughters, Anthea established a support group for lawyers who are mothers called "Lawyer Mums Australia" comprising almost 700 of Australia's top lawyers. In 2014, Anthea also established her own law firm, McIntyre Legal Pty Ltd, which specialises in Wills, Estates &amp; Succession Planning.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McIntyre, Anthea', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McIntyre, Anthea</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5635b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

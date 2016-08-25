@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1935</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-01">2006-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1935b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Baptiste-Rooke</part>
+<part localType="givenname">Marguerite</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Migrant support worker</term>
+</occupation>
+<occupation>
+<term>Public servant</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marguerite Baptiste-Rooke left her home in the Seychelles and arrived in Alice Springs, Northern Territory, in 1989 with her husband and three children. She began volunteer work at the Migrant Resource Centre (MRC) of Central Australia assisting new migrants with the settlement process. She went on to serve as president of the MRC for seven years.</abstract>
+<p>In 1997 Marguerite stood down from the presidency of the MRC to take up the position of Community Settlement Support Worker. She is now Head of the Settlement Branch of the new Multicultural Community Services of Central Australia (formerly Migrant Resource Centre). In 2005 she was an inaugural winner of a Northern Territory Multicultural Affairs Award, in appreciation of the significant work she has done on behalf of the service in assisting migrants to the Northern Territory and promoting multicultural diversity and harmony.</p>
+<p>A well travelled and well educated woman, Marguerite has visited, worked and studied in the Emirates, Oman, USA, Russia, England, Switzerland, and Papua New Guinea. Her community involvement ranges from school council chairperson to member of Territory and Federal advisory councils. She has also been a community radio broadcaster since 1993 for the French and multicultural program on Northern Territory Radio, and is now a member of the Alice Springs local council.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1824b.htm">
+<relationEntry localType="Exhibition">
+Australian In My Difference: Women and Migration in Australia Since 1945
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-748091">
+<relationEntry>
+Baptiste-Rooke, Marguerite
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baptiste-Rooke, Marguerite', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baptiste-Rooke, Marguerite</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1935b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1183</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-20">2005-05-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1183b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Napangati</part>
+<part localType="givenname">Pansy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1948-01-01">c. 1948</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Haasts Bluff, Northern Teritory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Pansy Napangati, of Luritja and Walpiri descent, was born at Haasts Bluff in the Northern Territory. When the settlement at Haasts Bluff became abandoned due to lack of suitable water, the family moved to Papunya. There Napangati began painting in the 1970s, when the Papunya art movement was still in its infancy. She learnt to paint by observation; watching two established artists, Johnny Warangula and Kaapa, at work. Anmanarri Nungurrayi, her mother's cousin, taught her the Dreamings which became the inspiration for and subject of her paintings.
+
+Napangati's work is held in the National Gallery of Victoria, the Holmes a Court collection and the museums and art galleries of the Northern Territory. In 1989 she won the National Aboriginal Art Award.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-726094">
+<relationEntry>
+Napangati, Pansy (1948-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Napangati, Pansy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Napangati, Pansy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1183b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

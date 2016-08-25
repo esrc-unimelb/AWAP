@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1906</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-01-31">2006-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1906b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McDonald</part>
+<part localType="givenname">Janet</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A once only candidate (ALP, New South Wales Legislative Assembly, North Shore, 1999) whose career in the law has continued successfully. She was President of the Australasian Law Students Association and has worked as a solicitor, waitress, cashier and company director. Janet was admitted as a Solicitor of the Supreme Court of NSW on 20 December 1989. She later tutored in Law at the University of Sydney for a short time.
+
+At the time of her campaign, Janet McDonald was in partnership with her husband in Driscoll &amp; Matters, a Legal Costs Consulting company.
+In 2000, having built up the business to a client base of over 160 firms, they sold out and went into the coffee cart business, selling coffee on the pavements of the city. They found they preferred the law and have re-established themselves as Driscoll Matters + Macdonald Pty Limited, Legal costs lawyers.
+Janet is a keen sportswoman and a Sydney Swans Football Club supporter.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3099b.htm">
+<relationEntry localType="Exhibition">
+Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5378b.htm">
+<relationEntry localType="Organisation">
+Australian Law Students' Association (1978 - )
+</relationEntry>
+<descriptiveNote>
+<p>Janet McDonald served as President of the Australasian Law Students Association</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765061">
+<relationEntry>
+McDonald, Janet
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McDonald, Janet', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McDonald, Janet</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1906b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

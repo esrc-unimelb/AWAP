@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0145</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-09">2002-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0145b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Russell</part>
+<part localType="givenname">Delia Constance</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-04-05">5 April 1870</fromDate>
+<toDate standardDate="1938-02-16">16 February 1938</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Women's rights activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Delia Russell, née Law, was active across a range of charitable organisations throughout her life. Educated at the Oberwyl School in Melbourne, she married Percy Joseph Russell, solicitor and municipal councillor in October 1893. Delia Russell's major interests were the Red Cross Society; she remained a member of the Victorian Council until her death in 1938. She founded and ran the St Kilda Red Cross kitchen during World War I, and worked on special diets for influenza patients. She was appointed Officer of the Order of the British Empire for her work in 1920. Her subsequent commitments included Victorian president of the Housewives' Association (1929-1930 - although she was expelled from this group in 1930 due to her anti-prohibition stance), vice-president of the Victorian Institute of Almoners, councillor of the Talbot Epileptic Colony, Clayton, an executive member of the National Council of Women, president of the Australian Temperance Association (which fought against prohibition), a justice of the peace and special magistrate of the Children's Court, Melbourne. She was president of the Women's Hospital committee from 1932-1934.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<descriptiveNote>
+<p>Executive member</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0583b.htm">
+<relationEntry localType="Corporate Body">
+Housewives Association of Victoria (1915 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+<toDate standardDate="1930-12-31">1930</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0726b.htm">
+<relationEntry localType="Corporate Body">
+Community Programs, Australian Red Cross Victoria
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0724b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross Victoria (1914 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1915-01-01">c. 1915</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Founded and ran the St Kilda Red Cross Kitchen, Member of the Victorian Divisional Committee, Victorian General Committee and Victorian Council</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766057">
+<relationEntry>
+Russell, Delia Constance (1870-1938)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Russell, Delia Constance', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Russell, Delia Constance</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0145b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004464.htm">
+<relationEntry localType="published">Resource Section: Russell, Delia Constance (1870 - 1938)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Biddington, Judith</name>
+<title render="quoted">Russell, Delia Constance (1870 - 1938)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/AS10421b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002110.htm">
+<relationEntry localType="published">Book: The Early years of the Housewives Association of Victoria, 1915-1930</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Oldfield, Robert</name>
+<title render="italic">The Early years of the Housewives Association of Victoria, 1915-1930</title>
+<imprint>
+<publisher>Monash University</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002060.htm">
+<relationEntry localType="published">Journal Article: A Mission to the Home: The Housewives Association, the Woman's Christian Temperance Union and Protestant Christianity, 1920-1940</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith</name>
+<title render="quoted">A Mission to the Home: The Housewives Association, the Woman's Christian Temperance Union and Protestant Christianity, 1920-1940</title>
+<imprint>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Feminist Studies</title>
+<num type="volume">13 no. 28</num>
+<num type="issue">October 1998</num>
+<num type="pages">215-234</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001318.htm">
+<relationEntry localType="published">Resource Section: Russell, Percy Joseph (1861-1946)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Balmford, Peter</name>
+<title render="quoted">Russell, Percy Joseph (1861-1946)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110494b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000982.htm">
+<relationEntry localType="archival">Housewives Association of Victoria Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Housewives Association of Victoria Records</unittitle>
+<unitid>MS 13340</unitid>
+<unitdate>1915 - 1985</unitdate>
+<abstract>Collection includes: Minutes 1915-1916 and 1930-1981; issues of "Calling all housewives"; accounts; records of the Geelong branch 1964-1974; assorted records for the Castlemaine (1937-1981), Manifold Heights, Essendon, St. Kilda and East Melbourne (1972-1974) branches; records of the Federated Association of Australian Housewives including minutes (1926-27 and 1938-1955) and conferences (1932, 1934, 1938).</abstract>
+<physdesc>
+<extent>1.36 m, 8 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

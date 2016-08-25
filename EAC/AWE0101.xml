@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0101</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-04-19">2001-04-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0101b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Vick</part>
+<part localType="givenname">Lesley Helen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-08-03">3 August 1945</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Richmond, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Editor</term>
+</occupation>
+<occupation>
+<term>Researcher</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lesley Vick specialises in medico-legal ethics. Using her research and policy development skills she is actively involved in the legal aspects of equality for women, reproductive health, human rights and free-thinking philosophy. She was the senior adviser to the Leader of the Australian Democrats 1985-1992 and Chief of Staff in the Leaders office from 1986.
+
+Lesley Vick was educated at Mentone Girls Grammar; the University of Melbourne (Bachelor of Laws); and La Trobe University (Master of Arts).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0009b.htm">
+<relationEntry localType="Corporate Body">
+National Foundation for Australian Women (1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0076b.htm">
+<relationEntry localType="Corporate Body">
+Australian Reproductive Health Alliance, Australian Reproductive Health Foundation (1995 - 2011)
+</relationEntry>
+<descriptiveNote>
+<p>Published research papers dealing with the protection of confidential communications in court, proposed changes to the abortion law in the Model Criminal Code, and the parliamentary inquiry into the UN Convention on the Rights of the Child.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0021b.htm">
+<relationEntry localType="Corporate Body">
+Women's Electoral Lobby (1972 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0077b.htm">
+<relationEntry localType="Corporate Body">
+Sexual Health and Family Planning Australia
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765058">
+<relationEntry>
+Vick, Lesley Helen (1945-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Vick, Lesley Helen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Vick, Lesley Helen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0101b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000111.htm">
+<relationEntry localType="published">Resource: Summary of program on the Rights of Women to Abortion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radio National Life Matters, Norman Swan</name>
+<title render="italic">Summary of program on the Rights of Women to Abortion</title>
+<imprint>
+<publisher>Australian Broadcasting Commission</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/talks/lm/stories/s17702.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000076.htm">
+<relationEntry localType="archival">Papers of Lesley Vick</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Papers of Lesley Vick</unittitle>
+<abstract>Substantial number of records are held in private hands.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

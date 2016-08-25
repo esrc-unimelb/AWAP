@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00407</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00407b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Maunsell</part>
+<part localType="givenname">Evelyn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Birth Name"><part>Evans, Evelyn </part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Pastoralist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Evelyn Evans was a young English girl from a well-to-do family, who while in Australia as part of a world trip, met and married station manager Charles Maunsell in 1912. They lived at Mulgrave Station which was located on the frontier of far north Queensland. Evelyn endured incredible hardship, with pioneering forcing her to endure hazards that pushed her far beyond the traditional female role; that of mother, wife and homemaker. Her courage and resourcefulness helped further the position and importance of women in colonial society.
+
+</abstract>
+<p>A young Evelyn Evans left England on a 'round-the-world' adventure and instead found love and a new life in Australia in 1912. She married property manager Charles Maunsell in Cairns, and they lived together at Mulgrave Station near Mareeba, in a tin shed with a concrete floor. Contrary to the soft grey of England, life in the Atherton Tablelands was hot, wet and isolated.</p>
+<p>Despite Evelyn striking up friendships with local Aboriginal children, and running a small school for them on the property, white settlers had a poor reputation among tribal Aborigines in the area. When Charles Maunsell was away mustering they invaded the station and Maggie, mother of the Aboriginal children, hid Evelyn under the bed in order to save her life. Evelyn also survived malaria and several miscarriages, proving to those around her she was no English rose.</p>
+<p>Later she and Charles set up their own dairy property on the Atherton Tableland. They retired to Brisbane where Evelyn became actively involved with the Country Women's Association. In 1968 Evelyn's one and only son Ron Maunsell, won a Country Party plebiscite and in March 1969, took a seat in Federal Parliament as Senator Ron Maunsell. The book, S'pose I Die (1981) was based on Evelyn's diaries and her conversations with author, Hector Holthouse. </p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-636787">
+<relationEntry>
+Maunsell, Evelyn (1888-1977)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Maunsell, Evelyn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Maunsell, Evelyn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00407b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00403.htm">
+<relationEntry localType="published">Book: S'pose I die : the story of Evelyn Maunsell </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Holthouse, Hector </name>
+<title render="italic">S'pose I die : the story of Evelyn Maunsell </title>
+<imprint>
+<place>London, Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00404.htm">
+<relationEntry localType="published">Book: Great pioneer women of the outback </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">Great pioneer women of the outback </title>
+<imprint>
+<place>Pymble, New South Wales</place>
+<publisher>Harper Collins Publishers</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00405.htm">
+<relationEntry localType="archival">Biographical cuttings on Evelyn Maunsell, former pioneer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Evelyn Maunsell, former pioneer</unittitle>
+<unitid>BIOG</unitid>
+<abstract>Book</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Biographical newspaper clippings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

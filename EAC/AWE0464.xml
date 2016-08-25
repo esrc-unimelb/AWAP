@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0464</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-03-26">2003-03-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0464b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Provan</part>
+<part localType="givenname">Frances Betty</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-11-17">17 November 1911</fromDate>
+<toDate standardDate="1963-06-21">21 June 1963</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Spring Hill, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Frances Provan was one of the first 14 females posted to HMAS <span style="font-style:italic">Harman</span>, the communications station in Canberra, on 28 April 1941, making her one of the first members of the Women's Royal Australian Naval Service (WRANS).</abstract>
+<p>After completing her education, Frances Provan worked as a trainee-teacher, nurse and governess. She moved from Queensland to Sydney and trained as a wireless telegraphist with the Women's Emergency Signalling Corps, which had been established by Florence McKenzie. Provan was one of the first 14 females posted to HMAS <span style="font-style:italic">Harman</span>, the communications station in Canberra, on 28 April 1941. Her official number was WR/1.</p>
+<p>In September 1941 Provan was promoted to leading telegraphist and then petty officer telegraphist in December 1942. She attended the first WRANS officers' training course at Flinders Naval Depot, Victoria and was appointed third officer on 15 February 1943.</p>
+<p>In June 1945 Provan was posted as officer-in-charge of the only draft of WRANS to serve in an operational zone, in Darwin. During her time in the navy she also served at bases in New South Wales and Queensland. Provan was stationed at HMAS <span style="font-style:italic">Lonsdale,</span> Melbourne, when she was discharged on 17 October 1946.</p>
+<p>After the war she travelled to England and became manager of the London office of the Melbourne firm, Jackson's United Meat Co. Pty Ltd. In 1963 after Provan had made a business trip to Melbourne, she died (21 June) while on her way to visit her mother.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0387b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Naval Service (WRANS) (1941 - 1984)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-04-28">28 April 1941</fromDate>
+<toDate standardDate="1946-10-17">17 October 1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-764098">
+<relationEntry>
+Provan, Frances Betty (1911-1963)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Provan, Frances Betty', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Provan, Frances Betty</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0464b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001855.htm">
+<relationEntry localType="published">Resource Section: Provan, Frances Betty (1911-1963)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jennings, Rosemary</name>
+<title render="quoted">Provan, Frances Betty (1911-1963)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A160043b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001853.htm">
+<relationEntry localType="published">Resource Section: PROVAN, FRANCES BETTY</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">PROVAN, FRANCES BETTY</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1194954"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001852.htm">
+<relationEntry localType="published">Resource Section: PROVAN, FRANCES BETTY</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">PROVAN, FRANCES BETTY</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1157284"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001854.htm">
+<relationEntry localType="published">Resource: Belconnen Wireless Station, Duntroon, Harman &amp; RAAF stations 1943</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Belconnen Wireless Station, Duntroon, Harman &amp; RAAF stations 1943</title>
+<extptr linktype="simple" href="http://www.canberra.starway.net.au/~jwilliams4/x43_04.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001671.htm">
+<relationEntry localType="published">Book: Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fenton Huie, Shirley</name>
+<title render="italic">Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</title>
+<imprint>
+<place>Balmain, N.S.W.</place>
+<publisher>Watermark Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001642.htm">
+<relationEntry localType="published">Book: W.R.A.N.S. : the Women's Royal Australian Naval Service</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curtis-Otter, M</name>
+<title render="italic">W.R.A.N.S. : the Women's Royal Australian Naval Service</title>
+<imprint>
+<place>Garden Island (NSW)</place>
+<publisher>Naval Historical Society of Australia</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000854.htm">
+<relationEntry localType="archival">SENIOR WRANS FROM HMAS HARMAN NAVAL WIRELESS STATION</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>SENIOR WRANS FROM HMAS HARMAN NAVAL WIRELESS STATION</unittitle>
+<unitid>P01132.005</unitid>
+<unitdate>April 1945</unitdate>
+<abstract>CANBERRA, ACT. C. 1945-04. SENIOR WRANS FROM HMAS HARMAN NAVAL WIRELESS STATION AT THE FOURTH BIRTHDAY OF THE SERVICE. LEFT TO RIGHT: BACK ROW: DAPHNE WRIGHT, FRANCES PROVAN (WRAN NO. 1), SHIRLEY DREW, JOAN CADE; FRONT ROW: THIRD OFFICERS JOAN HODGES, BILLEE THOMPSON, JESS PRAIN. (DONOR: S. GRYLLS)</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000706.htm">
+<relationEntry localType="archival">Members of the first  WRANS Officer Training Corp.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Members of the first  WRANS Officer Training Corp.</unittitle>
+<unitid>P00493.001</unitid>
+<abstract>1943-1, MEMBERS OF THE FIRST WRANS OFFICER TRAINING CORPS. FROM LEFT TO RIGHT, BACK ROW: CHIEF WELLS (INSTRUCTOR), MARION EGAN, JEAN THOMPSON, MARY BUTLER, MARGARET CURTIS-OTTER, SHEILA MACCLEMANS, BLAIR WILLIAMS-BOWDEN, JOAN FURLEY, NANCY SPIER, CHIEF HARDING, FRONT ROW, LEFT TO RIGHT: LORNA BRADFORD, BETTY BRADFORD, JOYCE MEDCALFE, JOAN COWIE, COMMANDER BALDWIN, COMMANDER PHELP, FRANCES PROVAN, EDNA GOULSTON, ALICE GOULD, THELMA FENTON.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00043.htm">
+<relationEntry localType="digitalObject">Frances Provan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Frances Provan</unittitle>
+<unitid>P01262.023</unitid>
+<unitdate>c. 1939</unitdate>
+<abstract>Frances Provan. One in a series of portraits of early members of Women's Emergency Signalling Corps (WESC), many of whom became WRANS. The album of portraits was compiled by Mrs Florence Violet Mckenzie OBE, founder of WESC, which trained signallers and telegraphists.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00138.htm">
+<relationEntry localType="digitalObject">Senior WRANS from HMAS <span style="font-style:italic">Harman</span></relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Senior WRANS from HMAS <span style="font-style:italic">Harman</span></unittitle>
+<unitid>P01132.005</unitid>
+<unitdate>April 1945</unitdate>
+<abstract>Senior WRANS from HMAS <span style="font-style:italic">Harman</span> naval wireless station at the fourth birthday of the service. Left to right: back row: Daphne Wright, Frances Provan (WRAN no. 1), Shirley Drew, Joan Cade; front row: Third Officers Joan Hodges, Billee Thompson, Jess Prain. CANBERRA, ACT. C. 1945-04. (DONOR: S. GRYLLS)</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00038.htm">
+<relationEntry localType="digitalObject">WRANS at HMAS Harman Naval Wireless Station</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>WRANS at HMAS Harman Naval Wireless Station</unittitle>
+<unitid>P01132.001</unitid>
+<unitdate>c. 1944</unitdate>
+<abstract>Left to right: back row: (standing on steps) Marion Stevens, Judy Alley, Joan Cade, Frances Provan (WRAN No. 1); front row: Denise Owen, Shirley Drew, Joan Hodges, Billee Thompson.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1105</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-10-27">2004-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1105b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sherrard</part>
+<part localType="givenname">Kathleen M.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>McInerney</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">189?</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Geologist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kathleen Margaret Maria Sherrard (nee McInerney, 189--1975, Master of Science, Melbourne University, was a demonstrator and lecturer in geology at the University of Melbourne for over a decade in the year after World War I and published articles on palaeontology. After her marriage and relcoation to Sydney she served on a Commonwealth Committee on Nutrition, 1944-1945, and took an active role in many women's organisations, particularly the Australian Federation of University Women and United Associations of Women, as well as scientific workers organisations.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742063">
+<relationEntry>
+Sherrard, Kathleen M. (1890-1975)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sherrard, Kathleen M.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sherrard, Kathleen M.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1105b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001849.htm">
+<relationEntry localType="archival">Kathleen Sherrard Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Kathleen Sherrard Papers</unittitle>
+<unitid>ML MSS 2950</unitid>
+<unitdate>1918 - 1975</unitdate>
+<abstract>Contents include notes on her life and activities, and list of scientific papers, prepared by H. N. Sherrard, and genealogical notes on her family. Papers comprise works by K. Sherrard, including draft on an autobiography, imaginative and scientific writings, diaries, correspondence, much relating to overseas travel, and papers relating to her many community activities, particularly involving the United Associations of Women and the Australian Federation of University Women.</abstract>
+<physdesc>
+<extent>19 cartons</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

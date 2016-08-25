@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0843</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-06">2004-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0843b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Stanton</part>
+<part localType="givenname">Anne</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Social worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Anne Stanton was born in Adelaide and educated at the St Peter's Girls' School. On leaving school she attended the Conservatorium of Music and then joined the School of Social Studies. Her first job was with the Probation Branch of the Sheriff's Gaols and Prisons Department. Stanton later became a senior social worker for the Crippled Children's Association. As Vice-President of the Muscular Dystrophy Association she completed many country visits and with Adelaide Legacy she helped set up holiday camps for children. Stanton was involved with the National Trust, Friends of the Gallery, opera, theatre and the Lyceum Club. On 6 June 1978 Stanton was awarded the Medal of the Order of Australian for her work with crippled children.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765083">
+<relationEntry>
+Stanton, Anne (1898-2000)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stanton, Anne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stanton, Anne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0843b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001411.htm">
+<relationEntry localType="archival">Interview with Anne Stanton [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Anne Stanton [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/17</unitid>
+<unitdate>1986</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Anne Stanton was born in Adelaide and educated at the St Peter's Girls' School. On leaving school she attended the Conservatorium of Music and then joined the School of social studies. Her first job was with the Probation Branch and then she became a senior social worker for the Crippled Children's Association. As Vice President of the Muscular Dystrophy Association she did many country visits and in Legacy she helped set up holiday camps for children. She was involved with the National Trust, Friends of the Gallery, opera, theatre and the Lyceum Club. In 1978 she was awarded the Australian Medal for her work with crippled children. She enjoyed ebing presented to the Queen</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

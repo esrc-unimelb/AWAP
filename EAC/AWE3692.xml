@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3692</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-01">2008-10-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-23">2015-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3692b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gibbs</part>
+<part localType="givenname">Cecilia May</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>Stan Cottman</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1877-01-17">17 January 1877</fromDate>
+<toDate standardDate="1969-11-27">27 November 1969</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydenham, Kent, United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Illustrator</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>May Gibbs emigrated with her family to South Australia in 1881. She studied art in London, but returned to live in Perth, where she worked for the <span style="font-style:italic">Western Mail</span>. She moved to Sydney in 1913. Gibbs became known for her witty illustrations and her work was in demand. The first in her famous bush babies series, <span style="font-style:italic">Gumnut Babies</span>, was published in 1916. <span style="font-style:italic">Snugglepot and Cuddlepie</span> followed in 1918. Her cartoon strip, 'Bib and Bub', appeared in the Sydney <span style="font-style:italic">Sunday News</span> from 1925, while a second strip, 'Tiggy Touchwood', was published in the <span style="font-style:italic">Sunday Sun</span> under the pseudonym of Stan Cottman. May Gibbs was appointed MBE in 1955.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-461654">
+<relationEntry>
+Gibbs, May (1877-1969)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gibbs, Cecilia May', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gibbs, Cecilia May</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3692b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004081.htm">
+<relationEntry localType="published">Book: Flannel Flowers and Other Bush Babies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Flannel Flowers and Other Bush Babies</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1921</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004073.htm">
+<relationEntry localType="published">Book: About Us</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">About Us</title>
+<imprint>
+<place>London</place>
+<publisher>E.P. Dutton</publisher>
+<date>1912</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004074.htm">
+<relationEntry localType="published">Book: Alphabet Book</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Alphabet Book</title>
+<imprint>
+<place>Pymble, NSW</place>
+<publisher>Collins Angus &amp; Robertson</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004075.htm">
+<relationEntry localType="published">Book: Bib and Bub in Gumnut Town</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Bib and Bub in Gumnut Town</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Halstead Press</publisher>
+<date>1929</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004076.htm">
+<relationEntry localType="published">Book: Bib and Bub: Their Adventures</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Bib and Bub: Their Adventures</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Cornstalk</publisher>
+<date>1925</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004077.htm">
+<relationEntry localType="published">Book: Boronia Babies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Boronia Babies</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1919</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004078.htm">
+<relationEntry localType="published">Book: Gumnut Babies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Gumnut Babies</title>
+<imprint>
+<place>Pymble, NSW</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004080.htm">
+<relationEntry localType="published">Book: The Complete Adventures of Snugglepot and Cuddlepie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">The Complete Adventures of Snugglepot and Cuddlepie</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1942</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004082.htm">
+<relationEntry localType="published">Book: The Further Adventures of Bib and Bub</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">The Further Adventures of Bib and Bub</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Cornstalk</publisher>
+<date>1927</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004083.htm">
+<relationEntry localType="published">Book: Gum Blossom Babies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Gum Blossom Babies</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1916</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004084.htm">
+<relationEntry localType="published">Book: Little Obelia, and further adventures of Ragged Blossom, Snugglepot &amp; Cuddlepie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Little Obelia, and further adventures of Ragged Blossom, Snugglepot &amp; Cuddlepie</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1921</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004085.htm">
+<relationEntry localType="published">Book: The Magic of May Gibbs</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">The Magic of May Gibbs</title>
+<imprint>
+<place>Davidson, NSW</place>
+<publisher>Murray David Publishing</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004086.htm">
+<relationEntry localType="published">Book: More Funny Stories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">More Funny Stories</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Cornstalk</publisher>
+<date>1928</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004087.htm">
+<relationEntry localType="published">Book: Mr and Mrs Bear and Friends</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Mr and Mrs Bear and Friends</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1943</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004088.htm">
+<relationEntry localType="published">Book: Nuttybub and Nittersing</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Nuttybub and Nittersing</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Osboldstone &amp; Co.</publisher>
+<date>1923</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004089.htm">
+<relationEntry localType="published">Book: Prince Dande Lion: A Garden Whim-Wham</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Prince Dande Lion: A Garden Whim-Wham</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Ure Smith</publisher>
+<date>1953</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004090.htm">
+<relationEntry localType="published">Book: Scotty in Gumnut Land</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Scotty in Gumnut Land</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1941</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004091.htm">
+<relationEntry localType="published">Book: Wattle Babies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Wattle Babies</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1918</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004079.htm">
+<relationEntry localType="published">Book: Chucklebud and Wunkydoo</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gibbs, May</name>
+<title render="italic">Chucklebud and Wunkydoo</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Osboldstone &amp; Co.</publisher>
+<date>1924</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004072.htm">
+<relationEntry localType="published">Book: The May Gibbs Collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Maureen</name>
+<title render="italic">The May Gibbs Collection</title>
+<imprint>
+<place>North Ryde, NSW</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004071.htm">
+<relationEntry localType="published">Videorecording: An Interview with May Gibbs</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Maureen</name>
+<title render="italic">An Interview with May Gibbs</title>
+<imprint>
+<place>Coogee, NSW</place>
+<publisher>Bustle Productions Pty Ltd</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004070.htm">
+<relationEntry localType="published">Book: May Gibbs, Mother of the Gumnuts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Maureen</name>
+<title render="italic">May Gibbs, Mother of the Gumnuts</title>
+<edition>3</edition>
+<imprint>
+<place>Sydney</place>
+<publisher>Sydney University Press</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100222.htm">
+<relationEntry localType="published">Resource Section: Gibbs, Cecilia May (1877-1969)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Gibbs, Cecilia May (1877-1969)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080734b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

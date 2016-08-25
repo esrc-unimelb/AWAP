@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0591</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-09">2003-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0591b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Berry</part>
+<part localType="givenname">Margaret Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1906-09-27">27 September 1906</fromDate>
+<toDate standardDate="2000-09-16">16 September 2000</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Kindergarten Principal</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Berry's distinguished career in the Australian armed forces began in October 1941. She was one of the original officers of the Australian Women's Army Service (AWAS) and was in charge of the first AWZS training school at Mt Lofty. Other posts included being Assistant Controller with the Tasmanian Line of Command Area, the Second Australian Army and the 4th Military District.
+
+Upon leaving the AWAS in 1947 with the rank of major, Berry travelled to Britain and joined the Women's Royal Army Corps (WRAC). Commissioned with the rank of captain, she is thought to be the only Australian woman to have achieved this. Her experiences in the WRAC included:
+<list>
+<item>company command in Northern Ireland,</item>
+<item>commanding officer in Kent,</item>
+<item>promotion to lieutenant-colonel with a posting to Egypt where she commanded a WRAC battalion of 400 women,</item>
+<item>service as adviser to the Commander-in-Chief on matters relating to women,</item>
+<item>a tour of duty to Cyprus, inlcuding the 1956 transfer of the WRAC to Cyprus.</item>
+</list>
+
+Margaret Berry returned to Australia in 1958 and devoted much of her time to caring for her mother and then her brother. She died in the same North Adelaide street she was born in, in September 2000.
+
+Her family remembers her as 'an incredibly worldly woman, always up to date yet timeless.'</abstract>
+<p>Margaret Berry was educated at Yoothamurra Private school, Adelaide School of Art, Adelaide Kindergarten Training Teaching College and Medway School of Art, Rochester, England. She worked as a Kindergarten Director in Australia, India and England before joining the Australian Women's Army Service (AWAS) during the Second World War.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0149b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Army Service (AWAS) (1941 - 1947)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-760091">
+<relationEntry>
+Berry, Margaret Maude (19060927-20000916)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Berry, Margaret Maude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Berry, Margaret Maude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0591b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002143.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1947</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chisholm, Alec H</name>
+<title render="italic">Who's Who in Australia, 1947</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1947</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

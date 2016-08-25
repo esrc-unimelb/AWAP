@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0709</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-05">2004-02-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0709b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Grail</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1937-01-01">1937</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>The Grail Centre
+328 Cotham Rd
+Kew Vic. 3101
+
+The Grail Centre
+22 McHatton St
+North Sydney NSW 2060
+Tel: (02) 9955 3053
+Fax:(02) 9954 0697</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Religious organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Grail is an international women's movement , which describes itself as 'a spiritual, cultural and social movement of women grounded in Christian faith and committed to the vision of a world transformed into a global community of justice and peace'. It was established in Sydney in 1937 after the arrival in 1936 of members of the Women of Nazareth, an international lay Catholic women's organisation with its headquarters in The Netherlands. It sought a new and significant role for lay women Catholics in the church. In the view of Sally Kennedy, author of <span style="font-style:italic">Faith and Feminism,</span> ( Sydney 1985), 'it combined a strong sense of women's potential in the Catholic Church with a realistic appraisal of women's powerlessness in it, and a high level of pragmatism to overcome this'. Its original focus was on the concept of specialised long-term training of youth leaders. Its focus is now 'upon women's education and personal development, on social and cultural critical analysis and organised action grounded in conviction'. It has centres in Sydney and Melbourne.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1029b.htm">
+<relationEntry localType="Person">
+Reid, Elizabeth Julia (1915 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1938-01-01">1938</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-712062">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Grail', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Grail</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0709b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002480.htm">
+<relationEntry localType="published">Book: Women breaking boundaries: a grail journey.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kalven, Janet</name>
+<title render="italic">Women breaking boundaries: a grail journey.</title>
+<imprint>
+<place>Albany, NY</place>
+<publisher>State University of New York Press</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002479.htm">
+<relationEntry localType="published">Book: Truly feminine truly Catholic: a history of the Catholic Women's League in the Archdiocese of Sydney 1913-87.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Carey, Hilary M.</name>
+<title render="italic">Truly feminine truly Catholic: a history of the Catholic Women's League in the Archdiocese of Sydney 1913-87.</title>
+<imprint>
+<place>Kensington, N.S.W.</place>
+<publisher>New South Wales University Press</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002478.htm">
+<relationEntry localType="published">Book: Faith and feminism: Catholic women's struggles for self-expression</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kennedy, Sally</name>
+<title render="italic">Faith and feminism: Catholic women's struggles for self-expression</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Studies in the Christian Movement</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001183.htm">
+<relationEntry localType="archival">The Grail records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Grail Centre, Sydney</repository>
+<unittitle>The Grail records</unittitle>
+<unitdate>1936</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

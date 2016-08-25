@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4437</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-01-21">2010-01-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4437b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Frayne</part>
+<part localType="givenname">Mother Ursula</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Frayne, Clara Mary</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1816-10-05">5 October 1816</fromDate>
+<toDate standardDate="1885-06-09">9 June 1885</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Dublin, Ireland</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Fitzroy, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Religious leader</term>
+</occupation>
+<occupation>
+<term>Religious sister</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1845, Ursula Frayne, along with five other Sisters of Mercy and one postulant, sailed for Western Australia with the goal, among other things, of establishing the first Mercy school in Australia. This they did on 2 February, 1846, with planks, bricks and packing cases as furniture. Instead of the 4,000 children they were promised when they left Ireland, only one child turned up for school on the day it opened. By August, however, enrolments stood at 100.
+
+In 1849 she opened the first secondary school in Western Australia, a 'select' fee-paying school catering for an almost exclusively non-Catholic clientele. Its success determined the pattern of future Mercy expansion, which was to establish, almost simultaneously and often within the same building, three separate schools: a 'select' fee-paying school, a primary school and an infants' school. By 1856 the schools of the Sisters of Mercy in Western Australia were flourishing.
+
+Her reputation as an educator spread to other colonies and in 1857 she accepted an invitation from Bishop James Gould to found a school in Victoria. There she established the Sisters of Mercy as the first teaching nuns in Victoria. She oversaw the development of a boarding and day school for girls, together with two primary schools and a domestic training school for orphans. She founded the St Vincent de Paul's Orphanage at South Melbourne and managed it until the Christian Brothers took over the boys' section, leaving the girls under the care of her Sisters. She established a country foundation at Kilmore in 1875.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0704b.htm">
+<relationEntry localType="Corporate Body">
+Institute of Sisters of Mercy of Australia (1981 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1469439">
+<relationEntry>
+Frayne, Ursula (1817-1885)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Frayne, Mother Ursula', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Frayne, Mother Ursula</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4437b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002476.htm">
+<relationEntry localType="published">Book: Ursula Frayne: a biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Killerby, Catherine Kovesi</name>
+<title render="italic">Ursula Frayne: a biography</title>
+<imprint>
+<place>South Fremantle, W.A.</place>
+<publisher>University of Notre Dame Australia</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100043.htm">
+<relationEntry localType="published">Resource Section: Frayne, Ursula (1816-1885)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Imelda</name>
+<title render="quoted">Frayne, Ursula (1816-1885)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A040239b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00512.htm">
+<relationEntry localType="digitalObject">Picture of Ursula Frame</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Picture of Ursula Frame</unittitle>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

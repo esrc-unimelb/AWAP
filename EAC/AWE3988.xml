@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3988</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-12">2009-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3988b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Burkhill</part>
+<part localType="givenname">Emma</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Watson, Emma</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Orman, Emma</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1864-12-28">28 December 1864</fromDate>
+<toDate standardDate="1936-08-20">20 August 1936</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cooling, Kent, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Broken Hill, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Matron</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Emma Burkhill was the first Matron at Broken Hill, New South Wales.</abstract>
+<p>Emma Burkhill trained as a nurse in England before marrying Joseph Orman and migrating to Australia in 1866. The pair had two sons, only one of whom - Alfred Orman - survived infancy. After Joseph's death, around 1870, Emma married John Burkhill, a pharmacist at Mount Gambier, South Australia. In 1871, Emma Burkhill became Matron at the Mount Gambier Hospital. She later moved to Menindee, New South Wales, where her daughter Emma Ethel was born in 1878. She had a second daughter, Alice. Following the establishment of the Broken Hill Proprietary Company in the 1880s, Emma Burkhill moved to Broken Hill to offer medical assistance to the growing population of miners and their families. The hospital at Broken Hill consisted of a wood and iron room alongside a large tent that was built to house the many patients suffering from typhoid. When a new hospital was built in 1889, Emma Burkhill was appointed as its first Matron.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-711080">
+<relationEntry>
+Burkhill, Emma (1864-1936)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Burkhill, Emma', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Burkhill, Emma</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3988b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004316.htm">
+<relationEntry localType="published">Book: Some Outstanding Women of Broken Hill and District</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Camilleri, Jenny</name>
+<title render="italic">Some Outstanding Women of Broken Hill and District</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Jenny Camilleri (Broken Hill Historical Society/Broken Hill Council)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004319.htm">
+<relationEntry localType="published">Book: Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kearns, Richard Hugh Bell</name>
+<title render="italic">Broken Hill</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Broken Hill Historical Society</publisher>
+<date>1974</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

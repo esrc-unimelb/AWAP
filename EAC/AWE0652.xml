@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0652</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-12-23">2003-12-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0652b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Queensland Women's Electoral League</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Queensland Women's Electoral Union</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-01-01">1903</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Woman suffrage organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Queensland Women's Electoral League (QWEL) was an organisation formed in the last stages of the campaign to obtain woman suffrage for white women in Queensland. While the league claimed to have all women's interests at heart, and that it was to be apolitical, it was very much a liberal-conservative organisation. Although its stated aims included the desire to 'advance political knowledge among women', they also included the desire to 'encourage and preserve private enterprise, and to combat unnecessary interference by the State'. Labor women who attended the QWEL launch in 1903 left once the political agenda became obvious. They went on to form the Women Workers' Political Organisation in opposition. The Women's Christian Temperance Organisation, in response to this political wrangling, called upon its own members to avoid 'the venom of party politics' and concentrate on the task at hand.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00411b.htm">
+<relationEntry localType="Person">
+Corrie, Christina Jane (1867 - 1937)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00229b.htm">
+<relationEntry localType="Person">
+Griffith, Mary Harriett (1849 -1930)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00318b.htm">
+<relationEntry localType="Person">
+Bedford, Mary Josephine  (1861 - 1955)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1014b.htm">
+<relationEntry localType="Corporate Body">
+Women's Equal Franchise Association (1894 - 1905)
+</relationEntry>
+<descriptiveNote>
+<p>Queensland Woman Suffrage Organisation</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00162b.htm">
+<relationEntry localType="Corporate Body">
+Brisbane Women's Club (1908 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766051">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Queensland Women's Electoral League', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Queensland Women's Electoral League</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0652b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002696.htm">
+<relationEntry localType="published">Edited Book: Women in Australia : an annotated guide to records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Kay, Murnane, Mary, Picot, Anne and National Research Program (Australia)</name>
+<title render="italic">Women in Australia : an annotated guide to records</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002336.htm">
+<relationEntry localType="published">Book: Proud to be a rebel : the life and times of Emma Miller</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Young, Pam, 1926-</name>
+<title render="italic">Proud to be a rebel : the life and times of Emma Miller</title>
+<imprint>
+<place>St Lucia, Qld</place>
+<publisher>University of Queensland Press</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002090.htm">
+<relationEntry localType="published">Book: Votes for women : the Australian story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lees, Kirsten.</name>
+<title render="italic">Votes for women : the Australian story</title>
+<imprint>
+<place>St. Leonards, N.S.W.</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001061.htm">
+<relationEntry localType="archival">Queensland Women's Electoral League</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Queensland Women's Electoral League</unittitle>
+<unitid>OM71-47: Box 8804 to 8808</unitid>
+<unitdate>1903 - 1967</unitdate>
+<abstract>This collection consists of records of the Queensland Women's Electoral League including correspondence, minutes, photographs, accounts.</abstract>
+<physdesc>
+<extent>0.72 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00409.htm">
+<relationEntry localType="archival">Finding aid to the Queensland Women's Electoral League Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Finding aid to the Queensland Women's Electoral League Records</unittitle>
+<unitid>OM71-47: Boxes 8804-8808</unitid>
+<unitdate>1903 - 1967</unitdate>
+<abstract>This collection consists of records of the Queensland Women's Electoral League including correspondence, minutes, photographs, accounts</abstract>
+<physdesc>
+<extent>0.720000028610229 m</extent>
+<physfacet>Arranged into 18 series</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00205.htm">
+<relationEntry localType="archival">Margaret Ogg Fund: List of names for appeal letters: 1953</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Margaret Ogg Fund: List of names for appeal letters: 1953</unittitle>
+<unitid>OM71-47/25: Box 8807</unitid>
+<unitdate>1953 - </unitdate>
+<abstract>This item is a list of names and addresses of women to whom letters were sent soliciting donations for the Margaret Ogg Memorial Fund. In the left hand margin are noted sums donated by the woman whose name appears on the right, or other notes, such as 'deceased', explaining a non-donation. The Fund was established at the Jubilee Celebration of the League to recognise Margaret Ogg's outstanding service. Money raised was used to assist women seeking election at local, state or federal level, and successful candidates were to repay the donation to benefit other women. Candidates assisted by this fund included Senator Annabelle Rankin, Senator Kathy Martin, Mrs Petronel White and Mrs Warner (the latter two ladies to Council).</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>2 double sided pages, 1 single sided page and 25 blank pages</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

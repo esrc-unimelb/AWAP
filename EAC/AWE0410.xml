@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0410</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-12">2002-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0410b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fowler</part>
+<part localType="givenname">Kathleen May</part>
+<part localType="honorific title">Colonel, AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kathleen Fowler enlisted in the Australian Women's Army Service in 1943 and served in a variety of postings until demobilisation in 1947. She re-enlisted in the Women's Royal Australian Army Service in April 1951. From 1961 she was directly involved in planning and administration of the WRAAC. On 23 Feb. 1972 she became the third Director of WRAAC and remained in the position until 4 July 1977. 
+
+Colonel Fowler was appointed a Member of the Order of Australia on 9 June 1975.
+
+<small>Source used to compile this entry: <span style="font-style:italic">A Stroll Down Memory Lane: A Brief History of the Women's Royal Australian Army Corps.</span></small></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0388b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps (WRAAC) (1951 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-02-23">23 Feb. 1972</fromDate>
+<toDate standardDate="1977-07-04">4 July 1977</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0539b.htm">
+<relationEntry localType="Corporate Body">
+The Sybil Irving Memorial Fund Committee
+</relationEntry>
+<descriptiveNote>
+<p>Committee member</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-752097">
+<relationEntry>
+Fowler, Kathleen May
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fowler, Kathleen May', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fowler, Kathleen May</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0410b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001815.htm">
+<relationEntry localType="published">Book: Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ollif, Lorna</name>
+<title render="italic">Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</title>
+<imprint>
+<place>Hornsby, NSW</place>
+<publisher>Ollif Publishing Company</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001891.htm">
+<relationEntry localType="published">Book: A Stroll down memory lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">WRAAC Association</name>
+<title render="italic">A Stroll down memory lane</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001890.htm">
+<relationEntry localType="published">Book: Soldiers of the Queen : women in the Australian Army</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bomford, Janette</name>
+<title render="italic">Soldiers of the Queen : women in the Australian Army</title>
+<imprint>
+<place>South Melbourne, Vic.</place>
+<publisher>Oxford University Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000593.htm">
+<relationEntry localType="archival">[Biographical cuttings on Kathleen May Fowler, director of Women's Royal Australian Army Corps.]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Kathleen May Fowler, director of Women's Royal Australian Army Corps.]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

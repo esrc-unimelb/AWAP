@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4264</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-19">2009-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4264b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Finlayson</part>
+<part localType="givenname">Jean</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Deaconess</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Finlayson was a Presbyterian deaconess and nurse, trained in Melbourne, Victoria. She travelled to Oodnadatta in South Australia in 1914 to take up the position of nursing sister for the Australian Inland Mission.
+
+Once there, she decide to move Alice Springs in the Northern Territory, where the need for medical help was even more acute than it was in Alice Springs. Once a replacemnet was found for her, she set out on the 520 k journey by buggy in August 1915.
+
+She established herself in a slab cabin called Myrtle Villa, which also became known as 'Sister's Hospital'. As well as attending to the medical needs of anyone within a 150 km radius, Jean also conducted Sunday School and the town's first regular (ecumenical) church services. Both were conducted in the Prison Warder's room at the rear of the Sturt Town Gaol.
+
+Jean Finlayson left for Sydney in 1916 to nurse her ill mother, but not before establishing a relationship as a dedicated, compassionate nurse and friend to the central Australian community.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4263b.htm">
+<relationEntry localType="Person">
+Bett, Mary Ann Latto (c. 1881 - ?)
+</relationEntry>
+<descriptiveNote>
+<p>Finlayson replaced Bett as nursing sister at Oodnadatta</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4156b.htm">
+<relationEntry localType="Concept">
+Deaconess Orders
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4255b.htm">
+<relationEntry localType="Corporate Body">
+Australian Inland Mission (1912 - )
+</relationEntry>
+<descriptiveNote>
+<p>Finlayson was the AIM's first nurse in Alice Springs</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462415">
+<relationEntry>
+Finlayson, Jean
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Finlayson, Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Finlayson, Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4264b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004589.htm">
+<relationEntry localType="published">Book: Flynn's Outback Angels: Casting the Mantle - 1901 to World War II</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rudolph, Ivan</name>
+<title render="italic">Flynn's Outback Angels: Casting the Mantle - 1901 to World War II</title>
+<imprint>
+<place>Rockhampton</place>
+<publisher>Central Queensland University Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

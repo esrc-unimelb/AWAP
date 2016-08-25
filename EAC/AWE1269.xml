@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1269</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-08-25">2005-08-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1269b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Barry</part>
+<part localType="givenname">Mary Kathleen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Barry, Mollie</part>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Meehan, Mary (Mollie)</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-03-06">6 March 1925</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Forest Lodge, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Public speaker</term>
+</occupation>
+<occupation>
+<term>Activist</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mollie Barry's varied career as an activist, ALP member and mentor for young people exemplifies the commitment to social involvement so common among her generation. She was an ALP candidate for Coogee in 1971.</abstract>
+<p>Mollie Barry married Michael Oliver Barry in 1947. They had four children. She worked as a bank officer and interviewer for the Australian Bureau of Statistics Workforce Survey, Sydney, in the 1960s, after the births of her four children. She gained a real estate qualification and was the only female real estate sales representative for LJ Hooker in Sydney's eastern suburbs, 1971-73. She enrolled in an Arts degree as a mature age student, but did not complete the course.</p>
+<p>An active member of the ALP with a lifetime interest in politics, she joined the South Pacific Toastmistress Club and became an accomplished public speaker. Mrs Barry noted that women gained confidence and a stronger sense of themselves as their ability to speak in public improved. She adjudicated youth debates and was a member of the Youth of the Year committee.</p>
+<p>On a tour of parliament she was appalled at the low level of language and debate on the floor of parliament, and decided to stand for the ALP, against the speaker Sir Kevin Ellis, when she was approached by branch members. Her preselection for Coogee was opposed by Labor's Head Office, but she won convincingly. She was described in the Sydney Morning Herald as a "vigorous candidate". She lost the election but received the biggest swing to Labor in the metropolitan area.</p>
+<p>Mrs Barry was a member of Christian Women Concerned, a multidenominational group of women working for social justice, and Labor Women's Organising Committee.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3099b.htm">
+<relationEntry localType="Exhibition">
+Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-745059">
+<relationEntry>
+Barry, Mary Kathleen (1925-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Barry, Mary Kathleen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Barry, Mary Kathleen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1269b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

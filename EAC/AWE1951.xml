@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1951</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-01">2006-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-16">2016-02-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1951b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Paluzzano</part>
+<part localType="givenname">Karyn Lesley</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Politician</term>
+</occupation>
+<occupation>
+<term>Local government councillor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Karyn Paluzzano was a successful woman ALP candidate in the seat of Penrith. She was first elected to that seat in the New South Wales Legislative Assembly in 2003. She was re-elected in 2007, but resigned from the Parliament on 7 May 2010 as a result of allegations against her of falsely claiming parliamentary allowances and of giving false and misleading evicence to an anti-corruption inquiry.
+
+ Prior to this she was a member of the Penrith City Council (1999-2004).</abstract>
+<p>Karyn Paluzzano was educated at Glenbrook Primary School, Nepean High School, and the University of Western Sydney. She has taught at local schools in Emu Plains, Mt. Druitt and Werrington, and worked as a Senior Education Officer with the Department of School Education. She has also lectured at the Australian Catholic University; the University of Western Sydney, Penrith; and the University of Technology, Sydney.</p>
+<p>Elected to the Penrith City Council in 1999, she helped establish and provide funding for the Kingswood Neighbourhood Centre, and to secure sponsorship for the Penrith Regional Gallery. She also strongly supported the Railway Street Q Theatre and the Joan Sutherland Performing Arts Centre. Karyn has been a delegate to the Local Government Association and is a member of the ALGWA. She has been an active member of her community for many years, supporting the Kingswood Lions Club and various local sporting clubs.</p>
+<p>Karyn is married to Robert Paluzzano, and they have three children: Edward, Victoria and Elizabeth.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-731135">
+<relationEntry>
+Paluzzano, Karyn Lesley
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Paluzzano, Karyn Lesley', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Paluzzano, Karyn Lesley</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1951b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

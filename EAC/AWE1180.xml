@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1180</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-20">2005-05-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1180b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">O'Keefe</part>
+<part localType="givenname">Cherry</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1895-01-01">c. 1895</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cambridge Downs Station, near Richmond?, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Hughenden, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal linguist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Cherry O'Keefe was an excellent horsewoman with a leading knowledge of the Ngawun language.</abstract>
+<p>Cherry O'Keefe (Tjapun) was a Ngawun woman probably born on Cambridge Downs station, near Richmond in north Queensland. In her early days she was well known as a fine horsewoman, and, at one time, as 'the Queen of the Forest'. Later she became an expert in saddlery and leatherwork. She never married. She lived a secluded and busy life on Poseidon Downs station, west of Hughenden, where she worked hard around the homestead for the privilege of living there in a galvanised iron humpy. After surviving flood, snakebite and burns (when her humpy was burnt down after a domestic accident), she died of pneumonia in Hughenden in 1977.</p>
+<p>Cherry O'Keefe's knowledge of the Ngawun language, though limited, was much better than anyone else's. It was owing to her that a partial grammar and vocabulary of the language was eventually produced.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-723082">
+<relationEntry>
+O'Keefe, Cherry (1895-1977)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'O'Keefe, Cherry (Tjapun)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">O'Keefe, Cherry (Tjapun)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1180b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

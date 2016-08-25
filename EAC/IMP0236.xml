@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0236</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-06">2002-11-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0236b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sutherland</part>
+<part localType="givenname">Margaret Ada</part>
+<part localType="honorific title">AO, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-11-20">20 November 1897</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Composer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Sutherland's life's work as a composer saw her produce over 90 compositions and attain renown as a pioneer of 'new music' and of women's involvement in music. Her only opera - <span style="font-style:italic">the Young Kabbarli</span> (1964), based on Daisy Bates - was the first Australian opera recorded in Australia.
+
+Sutherland's work promoting music and the arts included her years (1943-1956) as an initiator, organiser and secretary for the Combined Arts Centre Movement, a group which worked to promote the formation of a cultural centre in Melbourne after World War II, and her membership of many other councils and organising bodies such as the council of the National Gallery Association of Victoria (1950s-1960s).
+
+Recognition of Sutherland's prolific life as a composer and champion of the Arts in Australia has included an honorary Doctorate of Music from the University of Melbourne (1969), the Queen's Silver Jubilee Medal (1977), and her appointment as an Officer of the Order of the British Empire on 13 June 1970 and an Officer of the Order of Australia on 8 June 1981.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0114b.htm">
+<relationEntry localType="Person">
+Wright, Judith Arundell (1915 - 2000)
+</relationEntry>
+<descriptiveNote>
+<p>Margaret Sutherland's one-act opera 'The Young Kabbarli' was based on poetry by Judith Wright and John Shaw Neilson</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0050b.htm">
+<relationEntry localType="Person">
+Bates, Daisy May (1863 - 1951)
+</relationEntry>
+<descriptiveNote>
+<p>Margaret Sutherland's one-act opera 'The Young Kabbarli' was based on an incident from the life of Daisy Bates</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-462891">
+<relationEntry>
+Sutherland, M (-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sutherland, Margaret Ada', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sutherland, Margaret Ada</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0236b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001509.htm">
+<relationEntry localType="published">Thesis: Composer, wife and mother : Margaret Sutherland as conflicted subject</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Graham, Jillian</name>
+<title render="quoted">Composer, wife and mother : Margaret Sutherland as conflicted subject</title>
+<imprint>
+<publisher>The University of Melbourne</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001507.htm">
+<relationEntry localType="published">Book: The music of Margaret Sutherland</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Symons, David</name>
+<title render="italic">The music of Margaret Sutherland</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Currency Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001506.htm">
+<relationEntry localType="published">Newspaper Article: Composer too long neglected</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Composer too long neglected</title>
+<imprint>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">Age</title>
+<num type="pages">B4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001505.htm">
+<relationEntry localType="published">Newspaper Article: A lifetime of music</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A lifetime of music</title>
+<imprint>
+<date>1981</date>
+</imprint>
+<bibseries>
+<title render="italic">Age</title>
+<num type="pages">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001504.htm">
+<relationEntry localType="published">Resource Section: Margaret Sutherland</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Margaret Sutherland</title>
+<bibseries>
+<title render="italic">Resources from the Australian Music Centre</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.amcoz.com.au/comp/s/msutland.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001511.htm">
+<relationEntry localType="published">Resource Section: Records of the Australian Musical Association</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Records of the Australian Musical Association</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/ms/findaids/7996.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001510.htm">
+<relationEntry localType="published">Edited Book: Women &amp; music : a history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pendle, Karin</name>
+<title render="italic">Women &amp; music : a history</title>
+<imprint>
+<place>Bloomington</place>
+<publisher>Indiana University Press</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001508.htm">
+<relationEntry localType="published">Book: Australian women composers [videorecording]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sztar, Adele</name>
+<title render="italic">Australian women composers [videorecording]</title>
+<imprint>
+<place>Australia</place>
+<publisher>Adele Sztar</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001353.htm">
+<relationEntry localType="published">Edited Book: Double Time: Women in Victoria - 150 Years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lake, Marilyn and Kelly, Farley</name>
+<title render="italic">Double Time: Women in Victoria - 150 Years</title>
+<imprint>
+<place>Ringwood (Vic.)</place>
+<publisher>Penguin Books Australia Ltd</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000147.htm">
+<relationEntry localType="published">Edited Book: Who's Who of Australian Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lofthouse, Andrea</name>
+<title render="italic">Who's Who of Australian Women</title>
+<imprint>
+<place>North Ryde (NSW)</place>
+<publisher>Methuen Australia</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000502.htm">
+<relationEntry localType="archival">Papers of Margaret Sutherland</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Papers of Margaret Sutherland</unittitle>
+<unitdate>1897 - 1984</unitdate>
+<abstract>Papers of Margaret Sutherland, composer, including news clippings, catalogues and miscellaneous items referring to Dr Sutherland and the Sutherland family of artists.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000501.htm">
+<relationEntry localType="archival">Music manuscripts [Sutherland, Margaret, 1897-1984]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Music manuscripts [Sutherland, Margaret, 1897-1984]</unittitle>
+<unitid>MS 2091</unitid>
+<abstract>1. Sonata for oboe and piano. 2. Trio for oboe and violins</abstract>
+<physdesc>
+<extent>2 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000500.htm">
+<relationEntry localType="archival">Records [Australian Musical Association]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Records [Australian Musical Association]</unittitle>
+<unitid>MS 7996</unitid>
+<unitdate>1952 - 1980</unitdate>
+<abstract>Minutes, agendas, reports, correspondence, administrative files, photographs, music scores, programmes, newcuttings and other material relating to the activities of the Australian Musical Association, especially concerts organised by the Association in London. Original scores in this collection include manuscripts by Margaret Sutherland, Don Banks, Miriam Hyde, Larry Sitsky, Linda Phillips, Colin Brumby and Arthur Benjamin.</abstract>
+<physdesc>
+<extent>2.24 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

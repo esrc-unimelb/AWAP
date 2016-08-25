@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5546</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-02">2016-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Silbert</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5546b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Donkin</part>
+<part localType="givenname">Beryl Killeen</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Legal secretary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Although she was not a lawyer, Beryl Donkin was a prominent administrator and facilitator. She was born in 1920 in Brisbane and but grew up in Melbourne. After working in the Queensland public service, she was appointed on 24 April 1941 to the position of the Queensland Law Society's assistant secretary. This position was particularly demanding as the Society was experiencing financial difficulty and many key members had left to attend military service during World War Two.
+
+She was the Queensland Law Society's first full-time employee and continued to serve the Society for 13 years before assuming the statutory position of Secretary in 1954, a position she helduntil 1981 when she retired. Her commitment and service to Queensland lawyers - including by being the first female secretary of any Law Society in the Commonwealth - was honoured in 1975 when she received an OBE at Buckingham Palace.
+
+ As secretary, Beryl's responsibilities included coordination of complaints; the organisation of practicing certificates; administration of sub-committees; and financial duties. Beryl Donkin was awarded Order of the British Empire in 1975 for 'her devoted and untiring service to the Queensland Law Society'. Beryl Donkin was a key mentor and source of support to trailblazer Joan Bennett. Beryl died in 1991, and several legal prizes have been named in her honour.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5649b.htm">
+<relationEntry localType="Person">
+Bennett, Joan (1942 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Donkin, Beryl Killeen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Donkin, Beryl Killeen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5546b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005750.htm">
+<relationEntry localType="published">Edited Book: A Woman's Place: 100 Years of Queensland Women Lawyers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Purdon, Susan and Rahemtula, Aladin</name>
+<title render="italic">A Woman's Place: 100 Years of Queensland Women Lawyers</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Supreme Court of Queensland Library</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

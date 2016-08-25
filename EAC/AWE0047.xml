@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0047</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0047b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Atkinson</part>
+<part localType="givenname">Caroline Louisa Waring</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Calvert, Caroline</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1834-02-25">25 February 1834</fromDate>
+<toDate standardDate="1872-04-28">28 April 1872</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Berrima, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Naturalist</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Caroline Atkinson was home-educated in New South Wales, a keen student of natural history and an accomplished  botanical illustrator. She was also a populariser of science and published in the <span style="font-style:italic">Sydney Morning Herald</span> and the <span style="font-style:italic">Horticultural Magazine</span>.</abstract>
+<p>Taught by her mother, Atkinson developed a keen interest in botany and zoology. She wrote popular articles on botany, made drawings and sent numerous specimens to eminent botanists including William Woolls and Ferdinand von Mueller (q.v.). She  was also an able taxidermist. </p>
+<p>Atkinson was commemorated in the naming of the Loranthaceous genus <span style="font-style:italic">Atkinsonia</span>, also <span style="font-style:italic">Erechtites atkinsoniae</span> and <span style="font-style:italic">Epacris calvertiana</span>. A horticulturally distinct fern, ranking as a form of <span style="font-style:italic">Doodia caudata</span>, was named <span style="font-style:italic">Doodia atkinsonii</span> in her honour.</p>
+<p>Atkinson married James Snowdon Calvert.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-471408">
+<relationEntry>
+Atkinson, Louisa (18340225-18720428)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Atkinson, Caroline Louisa Waring', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Atkinson, Caroline Louisa Waring</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0047b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000080.htm">
+<relationEntry localType="published">Journal Article: Mrs. Meredith and Miss Atkinson, Writers and Naturalists</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Margaret, Swann</name>
+<title render="quoted">Mrs. Meredith and Miss Atkinson, Writers and Naturalists</title>
+<imprint>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of the Royal Australian Historical Society</title>
+<num type="volume">15</num>
+<num type="pages">1-29</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000079.htm">
+<relationEntry localType="published">Resource Section: Atkinson, Caroline Louisa Waring (1834-1872), naturalist and writer</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chisholm, A.H.</name>
+<title render="quoted">Atkinson, Caroline Louisa Waring (1834-1872), naturalist and writer</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A030060b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000075.htm">
+<relationEntry localType="published">Book: Pioneer Women, Pioneer Land: Yesterday's Tall Poppies Angus &amp; Robertson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vries-Evans, Susanna De</name>
+<title render="italic">Pioneer Women, Pioneer Land: Yesterday's Tall Poppies Angus &amp; Robertson</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000047.htm">
+<relationEntry localType="archival">Caroline Louisa Waring Atkinson - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Macleay Museum, University of Sydney</repository>
+<unittitle>Caroline Louisa Waring Atkinson - Records</unittitle>
+<unitdate>1860 - 1865</unitdate>
+<abstract>Note to W.S. Macleay from Atkinson, n.d.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000046.htm">
+<relationEntry localType="archival">Caroline Louisa Waring Atkinson - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Caroline Louisa Waring Atkinson - Records</unittitle>
+<unitid>A4496-501</unitid>
+<unitdate>1859 - 1908</unitdate>
+<abstract>Correspondence 1859-1908 including letters from W.B. Clarke, W. Woolls, and F. Mueller, manuscript of part of `A Voice in the Country' published in the "Sydney Morning Herald" 1861-70 and newspaper cuttings on Calvert and Woolls and articles by Mueller [A4496]. Full copy of `A Voice in the Country' with newspaper cuttings of other articles by Calvert 1861-70 [A4497]. Watercolours of ferns, apparently intended as iluustrations for a book on Australian ferns [40 items, A4498]. Calvert sketchbook including sketches and watercolours of Oldbury, birds, plants and butterflies, and practice drawings [A4499]. Calvert sketchbook including watercolours and sketches of scenes [A4500]. Sketches by Calvert and others including five specimen plates for book on Australian animals and birds to be published in Germany [A4501]. Notes by Louisa Calvert; copies of presentation books [ML MSS 3849]. See also uncatalogued materials [Pic Acc 4928]. Ambrotype of Calvert [MIN 180].</abstract>
+<physdesc>
+<extent>5 volumes</extent>
+<physfacet>Artwork, Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

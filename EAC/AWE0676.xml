@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0676</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0676b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jacob</part>
+<part localType="givenname">Maria Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Auricht, Maria Elizabeth</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1841-05-10">10 May 1841</fromDate>
+<toDate standardDate="1862-09-04">4 September 1862</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="former name"><part>Irrgang, Maria Elizabeth</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1862-09-04">4 September 1862</fromDate>
+<toDate standardDate="1878-04-24">24 April 1878</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1841-05-10">10 May 1841</fromDate>
+<toDate standardDate="1924-10-13">13 October 1924</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Klemzig, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maria Elizabeth Jacob (née Auricht) was born 10 May 1841 in Klemzig, South Australia. She married Wilhelm G. Irrgang on 4 September 1862, who died in 1872. She then married Ernest Jacob on 24 May 1878. She worked with Aboriginal people at Bethesda Mission Station and died on 13 October 1924.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0677b.htm">
+<relationEntry localType="Person">
+Vogelsang, Anna Maria (1855 - 1945)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-759073">
+<relationEntry>
+Jacob, Maria Elizabeth (1841-1924)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jacob, Maria Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jacob, Maria Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0676b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002443.htm">
+<relationEntry localType="published">Book: Persecution to freedom : Christian Auricht and descendants 1806-1980 ; a history and family tree</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Auricht, Norman L. (Norman Leslie), 1933- ; Munchenberg, Reg S. and Christian Auricht Family Reunion Committee</name>
+<title render="italic">Persecution to freedom : Christian Auricht and descendants 1806-1980 ; a history and family tree</title>
+<imprint>
+<place>[S.l. : s.n.]</place>
+<publisher>Lutheran Publishing House</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002442.htm">
+<relationEntry localType="published">Book: Three missionary pioneers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Proeve, E. H</name>
+<title render="italic">Three missionary pioneers</title>
+<imprint>
+<place>Point Pass [S. Aust.]</place>
+<publisher>E.H. Proeve (Tanunda, S.A. : Auricht's Printing Office)</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001146.htm">
+<relationEntry localType="archival">Bethesda Mission Correspondence to The Chairman of the Lutheran Mission Board by the missionaries and their wives including Maria Jacob and Anna Vogelsang.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Bethesda Mission Correspondence to The Chairman of the Lutheran Mission Board by the missionaries and their wives including Maria Jacob and Anna Vogelsang.</unittitle>
+<unitid>Refer to Archivist</unitid>
+<abstract>The collection has correspondence from these women scattered throughout the boxes and is still in the process of being individually indexed.  The letters contain details of daily life and experiences of mission life.</abstract>
+<physdesc>
+<extent>30 Archive boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

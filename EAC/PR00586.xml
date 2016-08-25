@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00586</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-05">2009-10-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00586b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Roberts</part>
+<part localType="givenname">Michelle Hopkins </part>
+<part localType="honorific title">BA, DipEd</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Birth"><part>Thomas, Michelle</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-02-29">29 February 1960</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia , Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Michelle Roberts was elected to the Thirty-Fourth Parliament of Western Australia as the Australian Labor Party member for the Legislative Assembly seat of Glendalough at the by-election held on 19 March 1994 to fill the vacancy consequent upon the resignation of Dr Carmen Mary Lawrence. The electorate was abolished in the redistribution of 1994.  She was elected to the Thirty-Fifth Parliament for Midland (new seat) on 14 December 1996 and subsequently re-elected in 2001, 2005 and 2008.</abstract>
+<p>Michelle Hopkins was born in Perth in 1960. Her parents, William and Frances Hopkins, were both business managers. She attended Mercedes College, then graduated from the University of Western Australia with a Bachelor of Arts and a Diploma of Education. In 1983 she began teaching at John Curtin Senior High School, and married Gregory Roberts in the same year. Roberts had joined the Australian Labor Party in 1978, and subseqently became prominent in the Teachers' Union, and held a variety of branch positions within the Labor Party. She was elected to the Legislative Assembly of the Parliament of Western Australia for Glendalough at the by-election held on 19 March 1994 after the resignation of Dr Carmen Mary Lawrence. This electorate was abolished in the redistribution of 1994, and Roberts was elected to the Thirty-Fifth Parliament for Midland (new seat) on 14 December 1996. She was re-elected 2001, 2005, 2008.</p>
+<p>Michelle Hopkins Roberts' page on the Parliament of Western Australia website is at http://www.parliament.wa.gov.au/Parliament%5CMemblist.nsf/WAllMembersFlat/Roberts,+Michelle+Hopkins?opendocument</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477495">
+<relationEntry>
+Roberts, Michelle Hopkins (19600229-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Roberts, Michelle Hopkins ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Roberts, Michelle Hopkins </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00586b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00628.htm">
+<relationEntry localType="published">Resource: Michelle Hopkins Roberts: Media Statements 2005-2008 (Online)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Roberts, Michelle Hopkins</name>
+<title render="italic">Michelle Hopkins Roberts: Media Statements 2005-2008 (Online)</title>
+<extptr linktype="simple" href="http://pandora.nla.gov.au/pan/88569/20080905-1741/www.mediastatements.wa.gov.au/Pages/CurrentMinistersSearch7869.html?minister=Roberts&amp;admin=Carpenter"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

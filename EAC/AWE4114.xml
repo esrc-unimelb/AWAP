@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4114</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-04-20">2009-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4114b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hart</part>
+<part localType="givenname">Helen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1842-03-06">6 March 1842</fromDate>
+<toDate standardDate="1908-07-16">16 July 1908</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Birmingham, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Yarra, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Lecturer</term>
+</occupation>
+<occupation>
+<term>Suffragist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Helen Hart was a feminist preacher and lecturer who actively campaigned for women's rights and suffrage in Britain, New Zealand and Australia. She was the first woman to speak publicly in many regions on the subject of women's rights and, as such, she was subjected to physical assault, practical jokes—such as having fireworks thrown at her—derision and even sexual harassment.
+
+In her childhood, Hart became involved with anti-slavery and temperance movements, and began open-air preaching from the age of 19. She was in London by the 1860s, working as a lecturer and possibly a journalist. In 1876 she was on the executive committee of the National Society for Women's Suffrage and on the provisional executive committee of the Association to Promote Women's Knowledge of the Law. As such she was known to many of the leaders of the women's movement. Although she considered herself a leader of the women's suffrage movement in Australia, others did not acknowledge her as such.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3776b.htm">
+<relationEntry localType="Cultural Artefact">
+Women's Suffrage Petition (Monster Petition) (1891)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754058">
+<relationEntry>
+Hart, Helen (1842-1908)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hart, Helen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hart, Helen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4114b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004651.htm">
+<relationEntry localType="published">Resource Section: Helen Hart</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Helen</name>
+<title render="quoted">Helen Hart</title>
+<imprint>
+<publisher>Public Record Office Victoria</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">1891 Women's Suffrage Petition</title>
+<name type="author">Public Record Office Victoria</name>
+</bibseries>
+<extptr linktype="simple" href="http://wiki.prov.vic.gov.au/index.php/Hart%2C_Helen"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004437.htm">
+<relationEntry localType="published">Book: Helen Hart  'Founder of Women's Suffrage in Australasia'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Helen D.</name>
+<title render="italic">Helen Hart  'Founder of Women's Suffrage in Australasia'</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Harriland  Press</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004436.htm">
+<relationEntry localType="published">Resource Section: Hart, Helen (1842-1908)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Helen D.</name>
+<title render="quoted">Hart, Helen (1842-1908)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">S1</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/AS10208b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

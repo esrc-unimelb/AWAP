@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1243</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-07-22">2005-07-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1243b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The 2WG Women's Club</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1930-01-01">c. 1930</fromDate>
+<toDate standardDate="1950-12-31">c. 1950</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Wagga Wagga, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>One of Australia's early radio clubs, the 2WG Women's Club was an important fundraising group as well as an essential communication tool for women in the Wagga Wagga region with its twice daily broadcasts and weekly meetings especially for women.</abstract>
+<p>Established in the 1930's, the club ran daily broadcasts for women from its Wagga Wagga station through to the 1950's. Using code names where preferred, women joined the club to exchange greetings or news items on air during the two 45-minute daily sessions allocated to them. Each Thursday members met at the radio premises for a 'Bushell's Tea Party', sharing afternoon tea and a sing-a-long.</p>
+<p>Fundraising was the focus of the 2WG women's club, and members continued to help finance local facilities in times of economic hardship. The Haven Nursing Home, which was established to provide local care for the elderly and celebrated its 50th anniversary in 2004, is testament to this prodigious fundraising activity.</p>
+<p>The full history of the 2WG Women's Club - a history that "records the contribution of isolated and rural women in the middle decades of the twentieth century to the social fabric of the community" - can now be explored using the Wagga Wagga City Library's archival holdings.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766065">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The 2WG Women's Club', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The 2WG Women's Club</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1243b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001964.htm">
+<relationEntry localType="archival">2WG Women's Club Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Wagga Wagga City Library</repository>
+<unittitle>2WG Women's Club Collection</unittitle>
+<unitid>2WG Women's Club</unitid>
+<unitdate>c. 1930 - c. 1950</unitdate>
+<abstract>Photographs, minute books, membership lists, framed items and scrapbooks. Badges, an embroidered tablecloth, salary books, journals relating to 2WG radio station.</abstract>
+<physdesc>
+<extent>1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

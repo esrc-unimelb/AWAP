@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0129</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-10-03">2001-10-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0129b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jackson</part>
+<part localType="givenname">Judy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1947-08-31">31 August 1947</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Judy Jackson has been Minister for Community Services and National Parks (1989 - 1991), and Community Services and Roads and Transport (1991 - 1992), during the term of the Field Government. She has also been Labor's Opposition Spokesperson for Health, Community Services, Environment and Planning and Attorney General.</abstract>
+<p>Educated at Glenorchy Primary School and Hobart High School, Jackson graduated from the University of Tasmania with a BA, DipEd and LLB. She worked as a secondary school teacher (1969-1983) and as a lawyer with the Crown Law Department (1984-1985) before launching a political career in 1986. </p>
+<p>Jackson was the Shadow Spokesperson for Health from 1986-1989. In 1989 she was appointed Minister for Community Services and Minister for Parks, Wildlife and Heritage and in 1991 became Minister for Roads and Transport. She held these portfolios until 1992.</p>
+<p>Leader of the Opposition in the House from 1992-1996, she was also Shadow Minister for Social Justice (1993-1995); Parks, Wildlife and Heritage (1993-1996); Environment and Planning (1994-1996); Local Government (1995-1996); Status of Women (1996-1998); Justice (1996-1998); and Shadow Attorney-General (1996-1998). In 2002 she became Attorney General in Tasmania. Her community interests include being on the boards of Euphrasia and Glenorchy Skillshare.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-737076">
+<relationEntry>
+Jackson, Judy (1947-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jackson, Judy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jackson, Judy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0129b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000255.htm">
+<relationEntry localType="published">Resource: Judy Jackson - Member for Denison</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Judy Jackson - Member for Denison</title>
+<extptr linktype="simple" href="http://www.tas.alp.org.au/people/denison_2.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000254.htm">
+<relationEntry localType="published">Resource: Judy Jackson Minister for Heath and Human Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Judy Jackson Minister for Heath and Human Services</title>
+<extptr linktype="simple" href="http://www.premier.tas.gov.au/cabinet/jackson.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

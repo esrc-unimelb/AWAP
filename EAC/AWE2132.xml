@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2132</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-06-16">2006-06-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2132b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Koutsounadis-Germanos</part>
+<part localType="givenname">Vivi</part>
+<part localType="honorific title">AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Koutsounadis, Vivi</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1946-01-01">c. 1946</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Greece</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Psychologist</term>
+</occupation>
+<occupation>
+<term>Counsellor</term>
+</occupation>
+<occupation>
+<term>Migrant community advocate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Vivi Koutsounadis-Germanos is a Greek born psychologist and counsellor who helped to establish and now heads the Ethnic Childcare Development Unit based in Marrickville, Sydney, New South Wales. She has had a high level of involvement in the Sydney Greek Orthodox Community for several years and served as president of the Greek Orthodox Community of New South Wales in 2000. She helped to establish a national organisation for Greek Welfare Workers. She has also enjoyed an international profile as president of an international organisation of pre-school educators. In 2002, she went to the United Nations, where she lobbied the high commissioner of refugees about the need to tackle the problems experienced by children in detention.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+<event>Order of Australia - Services to the community</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1998-01-01">1998</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+<event>HEROC Human Rights Medal</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<event>President of the Greek Orthodox Community of New South Wales</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2002-01-01">2002</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+<event>Lobbied the High Commissioner for Refugess at the United Nations</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2181b.htm">
+<relationEntry localType="Exhibition">
+Being Seen And Heard: Migrant Women Organising In Australia, A Documentary History (2006 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2129b.htm">
+<relationEntry localType="Corporate Body">
+Greek Orthodox Community of New South Wales (1898 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2000-01-01">2000</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2133b.htm">
+<relationEntry localType="Corporate Body">
+Ethnic Childcare Development Unit (1980 - )
+</relationEntry>
+<descriptiveNote>
+<p>Vivi Koutsounadis-Germanos heads the Ethnic Childcare Development Unit</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-753062">
+<relationEntry>
+Koutsounadis-Germanos, Vivi (1946-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Koutsounadis-Germanos, Vivi', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Koutsounadis-Germanos, Vivi</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2132b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003664.htm">
+<relationEntry localType="published">Conference Proceedings: Records and Proceedings of the Speakout for Immigrant and Refugee Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Records and Proceedings of the Speakout for Immigrant and Refugee Women</title>
+<imprint>
+<place>Adelaide</place>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003626.htm">
+<relationEntry localType="published">Book Section: Double Disadvantage: Migrant and Aboriginal Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sawer, Marian</name>
+<title render="quoted">Double Disadvantage: Migrant and Aboriginal Women</title>
+<imprint>
+<place>North Sydney</place>
+<publisher>Allen and Unwin</publisher>
+<date>1990</date>
+</imprint>
+<bibseries>
+<title render="italic">Sisters in Suits: Women and Public Policy in Australia</title>
+<num type="pages">107-139</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001988.htm">
+<relationEntry localType="archival">Papers Of Vivi Koutsianidis-Germanos</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Papers Of Vivi Koutsianidis-Germanos</unittitle>
+<abstract>Papers that relate to numerous activities, includiing Koutsianidis-Germanos' involvement in the Greek Community in Sydney and the Ethnic Childcare Development Unit.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

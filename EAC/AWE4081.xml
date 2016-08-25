@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4081</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-24">2009-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4081b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ferris</part>
+<part localType="givenname">Jeannie Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-03-14">14 March 1941</fromDate>
+<toDate standardDate="2007-04-02">2 April 2007</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Auckland, New Zealand</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Canberra, Australian Capital Territory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Political staffer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Liberal Party of Australia, Jeannie Ferris was elected as a Senator for South Australia to the Senate of the Parliament of Australia in 1996. She died in office in Canberra from ovarian cancer in 2007. During her parliamentary career she was appointed Government Whip in 2002.</abstract>
+<p>Using her parliamentary position to increase awareness of ovarian cancer, in 2006 Ferris formed a parliamentary inquiry into gynaecological cancers with Senators Lyn Allison and Claire Moore. The outcome of this inquiry resulted in a unanimous report across party lines calling for increased research and awareness of the cancers. The Commonwealth Government later agreed to the report's recommendations.</p>
+<p>Ferris succumbed to the disease in Canberra, on 2 April 2007.<br />
+Following her death, a DVD produced by Kay Stammers with support from the Australian Government Department of Health and Ageing was dedicated in her memory.</p>
+<p>Originally from New Zealand, she settled in Canberra in 1967 where she worked on The Canberra Times. She moved to the ABC later, working in the parliamentary gallery. She worked for Liberal Party Senator Nick Minchin before entering the Australian Parliament.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-720084">
+<relationEntry>
+Ferris, Jeannie Margaret (1941-2007)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ferris, Jeannie Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ferris, Jeannie Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4081b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005288.htm">
+<relationEntry localType="published">Resource Section: A strong voice for women's health (Jeannie Ferris 1941-2007) - obituary</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A strong voice for women's health (Jeannie Ferris 1941-2007) - obituary</title>
+<imprint>
+<publisher>Fairfax</publisher>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/news/obituaries/a-strong-voice-for-womens-health/2007/04/03/1175366237688.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004737.htm">
+<relationEntry localType="published">Book: So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</title>
+<imprint>
+<place>Leichhardt, NSW</place>
+<publisher>The Federation Press</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

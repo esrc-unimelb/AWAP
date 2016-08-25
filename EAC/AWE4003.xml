@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4003</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-16">2009-01-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4003b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Petkovich</part>
+<part localType="givenname">Merica</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1949-01-01">1949</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Blato, Croatia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Business owner</term>
+</occupation>
+<occupation>
+<term>Red Cross Worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maria Petkovich arrived in Broken Hill, New South Wales, in 1961. With her husband, Petar, she owns and runs South Dry Cleaners and Wilson's Dry Cleaners in Broken Hill, New South Wales. Maria is a volunteer with the Australian Red Cross.</abstract>
+<p>Maria Zaknich travelled from Croatia to Melbourne on the <span style="font-style:italic">Orsova</span> with her mother and sister in May 1961 to be reunited with her father, Tony, after six years apart. The family settled in Broken Hill, New South Wales, where Tony was working and living with his parents. Maria and her sister Katie were enrolled at Broken Hill's Alma School and attended English language classes at the Napredak Club. As teenagers they helped their mother to look after her twin baby boys, and worked on the weekends to supplement the family income. Both girls left high school after two years to work full time.</p>
+<p>Maria married a fellow Croatian, Petar Petkovich, who came from the same town as the Zaknich family. They had two children, Miroslav and Inga. Petar and Maria ran the Okeh Café in Argent Street for nine years before buying two dry cleaning businesses in Broken Hill.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4001b.htm">
+<relationEntry localType="Person">
+Zaknich, Marija Kolinac (1924 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4002b.htm">
+<relationEntry localType="Person">
+Maxwell, Katica (Katie) Zaknich (1950 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716086">
+<relationEntry>
+Petkovich, Merica (1949-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Petkovich, Merica (Maria) Zaknich', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Petkovich, Merica (Maria) Zaknich</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4003b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004336.htm">
+<relationEntry localType="published">Book: Sharing the Lode: The Broken Hill Migrant Story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adams, Christine</name>
+<title render="italic">Sharing the Lode: The Broken Hill Migrant Story</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Broken Hill Migrant Heritage Committee</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00336.htm">
+<relationEntry localType="digitalObject">Maria Petkovich</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Maria Petkovich</unittitle>
+<note label="rights">Katie Maxwell, Broken Hill</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00334.htm">
+<relationEntry localType="digitalObject">The Zaknich Sisters: Katie Maxwell and Maria Petkovich</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>The Zaknich Sisters: Katie Maxwell and Maria Petkovich</unittitle>
+<note label="rights">Katie Maxwell, Broken Hill</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

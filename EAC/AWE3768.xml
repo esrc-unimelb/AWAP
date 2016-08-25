@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3768</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-16">2008-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3768b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Loch</part>
+<part localType="givenname">Joice NanKivell</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>NanKivell, Joyce</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1887-01-01">1887</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Farnham, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Greece</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Author</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>While working as an author and journalist, Joice NanKivell Loch became a volunteer medical orderly with Quaker Famine Relief worldwide. In memory of her brother Geoff, who died in France during World War I, she wrote <span style="font-style:italic">The Solitary Pedestrian</span>. She reviewed books for the <span style="font-style:italic">Sun-Herald</span> in Melbourne, and worked as secretary to the Professor of Classics at Melbourne University. After the war, with her husband Sydney Loch, Joice travelled to London, then Dublin. Together they wrote <span style="font-style:italic">Ireland in Travail</span>. In later years, Joice and Sydney developed a strong connection with Greece, where they made their home. At the American Farm School near Thessaloniki, Joyce worked throughout the Greek refugee crisis following the massacre of Greeks at Smyrna.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1910-01-01">c. 1910</fromDate>
+<toDate standardDate="1930-12-31">c. 1930</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765080">
+<relationEntry>
+Loch, Joice NanKivell (18870124-19821008)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Loch, Joice NanKivell', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Loch, Joice NanKivell</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3768b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004212.htm">
+<relationEntry localType="published">Book: Collected Poems</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">Collected Poems</title>
+<imprint>
+<place>Burford, Oxfordshire</place>
+<publisher>Cygnet Press</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004211.htm">
+<relationEntry localType="published">Book: The Solitary Pedestrian</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">The Solitary Pedestrian</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australasian Authors' Agency</publisher>
+<date>1918</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004210.htm">
+<relationEntry localType="published">Book: The River of a Hundred Ways</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice M. NanKivell and Sydney</name>
+<title render="italic">The River of a Hundred Ways</title>
+<imprint>
+<place>London</place>
+<publisher>George Allen and Unwin</publisher>
+<date>1924</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004209.htm">
+<relationEntry localType="published">Book: Ireland in Travail</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice M. NanKivell and Sydney</name>
+<title render="italic">Ireland in Travail</title>
+<imprint>
+<place>London</place>
+<publisher>Murray</publisher>
+<date>1922</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004208.htm">
+<relationEntry localType="published">Book: The Fourteen Thumbs of St. Peter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">The Fourteen Thumbs of St. Peter</title>
+<imprint>
+<place>London</place>
+<publisher>Murray</publisher>
+<date>1926</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004207.htm">
+<relationEntry localType="published">Book: The Cobweb Ladder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">The Cobweb Ladder</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Lothian Publishing Co</publisher>
+<date>1916</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004206.htm">
+<relationEntry localType="published">Book: Tales of Christophilos</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">Tales of Christophilos</title>
+<imprint>
+<place>Boston</place>
+<publisher>Houghton Mifflin</publisher>
+<date>1954</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004205.htm">
+<relationEntry localType="published">Book: A Fringe of Blue: An Autobiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loch, Joice NanKivell</name>
+<title render="italic">A Fringe of Blue: An Autobiography</title>
+<imprint>
+<place>London</place>
+<publisher>Murray</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004204.htm">
+<relationEntry localType="published">Book: Blue Ribbons, Bitter Bread: The Life of Joice NanKivell Loch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">Blue Ribbons, Bitter Bread: The Life of Joice NanKivell Loch</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Pandanus Books</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

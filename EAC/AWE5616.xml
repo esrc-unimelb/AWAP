@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5616</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-07">2016-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Justice Tate</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-18">2016-04-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5616b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tate</part>
+<part localType="givenname">Pamela</part>
+<part localType="honorific title">The Honourable</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Dunedin, New Zealand</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Senior Counsel</term>
+</occupation>
+<occupation>
+<term>Judge</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The Honourable Justice Pamela Tate was appointed as a Judge of the Court of Appeal of the Supreme Court of Victoria on 14 September 2010. She was appointed to the role of Solicitor-General for Victoria in 2003, the first woman to receive the appointment, and served in the role until 2010, representing the State of Victoria in constitutional challenges in the High Court of Australia. During her tenure, she was appointed Special Counsel to the Human Rights Consultation Committee that recommended the enactment in Victoria of the Charter of Human Rights and Responsibilities. She is a Foundation Fellow of the Australian Academy of Law and was the Winner, Women Lawyers Achievement Awards (Victoria) in 2010. In June 2007 she was a Visiting Fellow, Centre for the Study of Human Rights, at the London School of Economics.</abstract>
+<p>Pamela Tate was born in Dunedin, New Zealand, and graduated from Otago University in 1979 with first class Honours in Philosophy. She received a three-year Commonwealth scholarship from the British Council and undertook postgraduate study in Philosophy under the supervision of Professor Michael Dummett at Oxford University, United Kingdom, graduating with a B.Phil. Pamela returned to New Zealand and taught Philosophy at Otago University before moving to Australia to live. While teaching Philosophy at Monash University, she graduated with a first class Honours degree in Law from Monash University in 1988.</p>
+<p>She joined the Victorian Bar in 1991, having served as an associate to Sir Daryl Dawson of the High Court of Australia for two years. At the private Bar she specialized in Constitutional law, Administrative law, and the law of trade practices. She appeared regularly in constitutional law cases before the High Court and in constitutional and public law cases before the Supreme Court. In 1999-2000 she was Convenor of the Women Barristers' Association. She was appointed Senior Counsel in 2002.</p>
+<p>She is a judicial representative on the External Professional Advisory Committee of the Faculty of Law of Monash University. She is a member of the Judicial Conference of Australia; the Australian Association of Constitutional Law; the Australian Institute of Administrative Law; the Australian Association of Women Judges; the Australian Institute of Judicial Administration; and the International Commission of Jurists. She is a Fellow of Monash University and the Patron of the Australasian Association of Philosophy.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tate, Pamela', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tate, Pamela</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5616b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005862.htm">
+<relationEntry localType="published">Resource: The Honourable Justice Pamela Tate (LLB(Hons) 1988)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Monash University</name>
+<title render="italic">The Honourable Justice Pamela Tate (LLB(Hons) 1988)</title>
+<imprint>
+<publisher>Monash University</publisher>
+<date>2016</date>
+</imprint>
+<extptr linktype="simple" href="https://www.monash.edu/alumni/news/awards/fellows/pamela-tate.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0389</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-28">2002-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-24">2015-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0389b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Curtis-Otter</part>
+<part localType="givenname">Margaret Catherine</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-09-14">14 September 1910</fromDate>
+<toDate standardDate="1992-08-25">25 August 1992</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Strathfield, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Journalist Margaret Curtis-Otter, whose husband (Donald) was serving with the navy, enlisted in the Women's Royal Australian Naval Service (WRANS) on 18 January 1943 and became second in charge of this service. She was one of the first 16 officers and became an adviser to the Naval Board after the war, as well as Acting Director WRANS, while Sheila McClemans attended the Victory Parade in London in 1946. Margaret Curtis-Otter worked with Naval Control, assisting with the assembling of convoys and arranging for the departure of merchant ships. Later she became one of the founders of the Naval Information Service, when she joined the Naval Office. In 1975 the Naval Historical Society published <span style="font-style:italic">W.R.A.N.S. : the Women's Royal Australian Naval Service</span> written by Margaret-Curtis Otter. On 2 January 1956 she was appointed an Officer of the Order of the British Empire for her services as Commissioner of the Girl Guides Association.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0762b.htm">
+<relationEntry localType="Corporate Body">
+Girl Guides Australia (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0387b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Naval Service (WRANS) (1941 - 1984)
+</relationEntry>
+<descriptiveNote>
+<p>Second-in-charge during Second World War</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-574388">
+<relationEntry>
+Curtis-Otter, M (1910-1992)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Curtis-Otter, Margaret Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Curtis-Otter, Margaret Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0389b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001642.htm">
+<relationEntry localType="published">Book: W.R.A.N.S. : the Women's Royal Australian Naval Service</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curtis-Otter, M</name>
+<title render="italic">W.R.A.N.S. : the Women's Royal Australian Naval Service</title>
+<imprint>
+<place>Garden Island (NSW)</place>
+<publisher>Naval Historical Society of Australia</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001647.htm">
+<relationEntry localType="published">Resource Section: CURTIS-OTTER, MARGARET CATHERINE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">CURTIS-OTTER, MARGARET CATHERINE</title>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1188772"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001671.htm">
+<relationEntry localType="published">Book: Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fenton Huie, Shirley</name>
+<title render="italic">Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</title>
+<imprint>
+<place>Balmain, N.S.W.</place>
+<publisher>Watermark Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000574.htm">
+<relationEntry localType="archival">Department of Information Mrs. Curtis-Otter. Correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Department of Information Mrs. Curtis-Otter. Correspondence</unittitle>
+<unitid>SP109/11</unitid>
+<unitdate>1941 - 1942</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000878.htm">
+<relationEntry localType="archival">Curtis-Otter, Margaret (First Officer, Women's Royal Australian Naval Service (WRANS))</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Curtis-Otter, Margaret (First Officer, Women's Royal Australian Naval Service (WRANS))</unittitle>
+<unitid>MSS0638</unitid>
+<unitdate>c. 1946</unitdate>
+<abstract>UNPUBLISHED TYPESCRIPT ENTITLED "HISTORY OF THE WRANS", AN UNOFFICIAL ACCOUNT OF THE ESTABLISHMENT, GROWTH AND ROLE OF THE WOMEN'S ROYAL AUSTRALIAN NAVAL SERVICE, 1941-1945. INCLUDES DETAILS OF THE LIVING AND WORKING CONDITIONS AT SIGNAL STATIONS INCLUDING HMAS HARMAN AND HMAS MELVILLE</abstract>
+<physdesc>
+<extent>1 item</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000876.htm">
+<relationEntry localType="archival">Margaret Curtis-Otter, Acting First Officer, Women's Royal Australian Naval Service, interviewed by Dr Ruth Thompson for The Keith Murdoch Sound Archive of Australia in the War of 1939-45</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Margaret Curtis-Otter, Acting First Officer, Women's Royal Australian Naval Service, interviewed by Dr Ruth Thompson for The Keith Murdoch Sound Archive of Australia in the War of 1939-45</unittitle>
+<unitid>S00597</unitid>
+<unitdate>15 June 1989</unitdate>
+<abstract>Discussing pre-war employment as journalist; going to Hong Kong to join husband at outbreak of war; working as part-time cypher assistant with the British Navy and as public relations assistant with the British Far Eastern Ministry of Information; security provisions of cypher's job; move to England to join husband; resuming work with Ministry of Information as lecturer and as news writer for Far Eastern Ministry of Information; returning to Australia in 1941 and job with Office of Theatre Censorship; USAFIA; decision to join WRANS and selection interview; training at Flinders Naval Depot; attitude of RANS to women joining Naval Service; accommodation during training; appointment to Office of The Naval Control Service, Brisbane; appointment to Naval Information Service, Melbourne in 1943 and description of job; promotion; leisure; rate of marriage and motherhood of ex-WRANS in post-war period; pride in service with WRANS.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000845.htm">
+<relationEntry localType="archival">Portrait of First Officer Margaret Curtis-Otter</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Portrait of First Officer Margaret Curtis-Otter</unittitle>
+<unitid>P00404.001</unitid>
+<abstract>Portrait of First Officer Margaret Curtis-Otter, Director of the WRANS until demobilised in 1945. (donor - M. Curtis-Otter)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000573.htm">
+<relationEntry localType="archival">[Department of Information - Broadcasting Division:] Talks by Margaret Curtis-Otter (Jan 1942) [transcripts]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>[Department of Information - Broadcasting Division:] Talks by Margaret Curtis-Otter (Jan 1942) [transcripts]</unittitle>
+<unitid>AWM80</unitid>
+<unitdate>1942</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000572.htm">
+<relationEntry localType="archival">[Conversation with Margaret Curtis-Otter] [sound recording] / [interviewer: Hazel de Berg].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>[Conversation with Margaret Curtis-Otter] [sound recording] / [interviewer: Hazel de Berg].</unittitle>
+<unitid>ORAL DeB 906-907</unitid>
+<abstract>Curtis-Otter speaks of her involvement with the Girl Guide movement in Australia and Lady Baden-Powell ; joining the Women's Royal Australian Naval Service and writing their official history ; she recalls her childhood and schooling and speaks of her career in journalism.
+Transcript available (29 p.)</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000706.htm">
+<relationEntry localType="archival">Members of the first  WRANS Officer Training Corp.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Members of the first  WRANS Officer Training Corp.</unittitle>
+<unitid>P00493.001</unitid>
+<abstract>1943-1, MEMBERS OF THE FIRST WRANS OFFICER TRAINING CORPS. FROM LEFT TO RIGHT, BACK ROW: CHIEF WELLS (INSTRUCTOR), MARION EGAN, JEAN THOMPSON, MARY BUTLER, MARGARET CURTIS-OTTER, SHEILA MACCLEMANS, BLAIR WILLIAMS-BOWDEN, JOAN FURLEY, NANCY SPIER, CHIEF HARDING, FRONT ROW, LEFT TO RIGHT: LORNA BRADFORD, BETTY BRADFORD, JOYCE MEDCALFE, JOAN COWIE, COMMANDER BALDWIN, COMMANDER PHELP, FRANCES PROVAN, EDNA GOULSTON, ALICE GOULD, THELMA FENTON.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00128.htm">
+<relationEntry localType="digitalObject">First Officer Margaret Curtis-Otter</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>First Officer Margaret Curtis-Otter</unittitle>
+<unitid>P00404.001</unitid>
+<abstract>Portrait of First Officer Margaret Curtis-Otter, Director of the WRANS until demobilised in 1945. (Donor - M. Curtis-Otter)</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

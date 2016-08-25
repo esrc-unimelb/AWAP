@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0853</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-07">2004-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0853b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kitto</part>
+<part localType="givenname">Joyce</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Gladstone, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Nurse educator</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Joyce Kitto was born in Gladstone, South Australia. In the early 1950s Joyce became a member of the Citizens' Military Force Nursing Corps, which led to her decision to train as a nurse. In 1970 she was appointed tutor sister in charge of the newly established training school for enrolled nurses at Gleneden, Maryattville, where she remained until her retirement in 1985.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742089">
+<relationEntry>
+Kitto, Joyce (1929-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kitto, Joyce', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kitto, Joyce</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0853b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001426.htm">
+<relationEntry localType="archival">Interview with Joyce Kitto [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Joyce Kitto [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/28</unitid>
+<abstract>History of Nursing in South Australia 
+
+Joyce Kitto was born in Gladstone, South Australia. She spent most of her youth in Adelaide where she completed primary schooling, attended business college, and took an appointment in a office. In the early 1950s Joyce became a member of the Citizens' Military Force Nursing Corps, which led to her decision to train as a nurse. She was a student nurse at Mount Gambier Hospital from 1954 to 1957. After midwifery training in Launceston she worked in Port Pirie and then became a tutor sister at the Port Augusta Hospital. In 1963 she studied at the College of Nursing, Australia in Melbourne for the Sister Tutor Diploma, and returned to Port Augusta for three years. In 1970 she was appointed tutor sister in charge of the newly established training school for enrolled nurses at Gleneden, Maryattville, where she remained until her retirement in 1985.
+
+Recorded on 10 May 1986 and 7 January 1990</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

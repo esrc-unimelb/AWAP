@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0862</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0862b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Harrington</part>
+<part localType="givenname">Ruth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Meredith, Ruth</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1922-01-01">1922</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Nurse educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ruth Harrington, née Meredith, was born in England and came to South Australia in infancy with her parents. After three months experience at the Adelaide Children's Hospital she was called up for duty in the Australian Army Nursing Service and served for two years until her marriage. Ruth maintained her registration and worked in several country hospitals. In 1968 she did a refresher course at the RAH and subsequently co-ordinated other refresher courses for nurses re-entering the workforce. In 1975 she joined the staff of Sturt College, where the first tertiary nursing course began in that year.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766082">
+<relationEntry>
+Harrington, Ruth (1922-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Harrington, Ruth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Harrington, Ruth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0862b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001435.htm">
+<relationEntry localType="archival">Interview with Ruth Harrington [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Ruth Harrington [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/33</unitid>
+<unitdate>15 April 1988</unitdate>
+<abstract>History of Nursing in South Australia 
+
+Ruth Harrington, nee Meredith, was born in England and came to South Australia in infancy with her parents. She grew up at Barmera and Cobdobla on the River Murray and completed schooling at Woodlands. Ruth commenced nursing training at the Royal Adelaide Hospital in 1942 and completed the course in 1945. After three months experience at the Adelaide Children's Hospital she was called up for duty in the Australian Army Nursing Service and served for two years until her marriage. Ruth maintained her registration and worked in several country hospitals. In 1968 she did a refresher course at the RAH and subsequently co-ordinated other refresher courses for nurses re-entering the workforce. In 1975 she joined the staff of Sturt College, where the first tertiary nursing course began in that year.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

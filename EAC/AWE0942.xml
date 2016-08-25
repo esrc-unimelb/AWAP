@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0942</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-03">2004-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0942b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Vidau</part>
+<part localType="givenname">Serafima</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Serafima Vidau was of Swedish descent but grew up with a foster family in Estonia. After finishing secondary school Serafima joined a step-sister in Finland and began training as a nurse. She returned to Estonia and married in 1931. Her first two sons were born before the war. In 1942 the family travelled to Germany with the intention of migrating overseas. Instead she spent several years in displaced persons camps, with her husband often absent due to ill-health and work. Two more sons were born in 1943 and 1945 - the latter the night before the war ended. During the four years before they were able to migrate she returned to nursing. The family arrived in Melbourne in December 1949 and spent some months in Victorian migrant camps before reuniting in Adelaide. Both Serafima and her husband got factory jobs and with the help of their eldest son's pay were able to buy their own home in Woodville in 1952 - the same year that Serafima gave birth to her fifth son. Her husband died three years later and she returned to nursing to support her younger sons.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743075">
+<relationEntry>
+Vidau, Serafima (1909-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Vidau, Serafima', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Vidau, Serafima</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0942b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001535.htm">
+<relationEntry localType="archival">Interview with Serafima Vidau [sound recording] Interviewer: Dana Kautsky</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Serafima Vidau [sound recording] Interviewer: Dana Kautsky</unittitle>
+<unitid>OH 18/5</unitid>
+<abstract>Lives of Older Women of Non-English Speaking Background and their Adaption to and Contribution to Life in South Australia
+
+Serafima Vidau was of Swedish descent but grew up with a foster family in Estonia. After finishing secondary school Serafima joined a step-sister in Finland and began training as a nurse. She returned to Estonia and married in 1931. Her first two sons were born before the war. In 1942 the family travelled to Germany with the intention of migrating overseas. Instead she spent several years in displaced persons camps, with her husband often absent due to ill-health and work. Two more sons were born in 1943 and 1945 - the latter the night before the war ended. During the four years before they were able to migrate she returned to nursing. The family arrived in Melbourne in December 1949 and spent some months in Victorian migrant camps before reuniting in Adelaide. Both Serafima and her husband got factory jobs and with the help of their eldest son's pay were able to buy their own home in Woodville in 1952 - the same year that Serafima gave birth to her fifth son. Her husband died three years later and she returned to nursing to support her younger sons. She speaks about the positive aspects of her migration experiences and of visits to Estonia and Sweden.
+
+Recorded on 22 February and 28 March 1988. 2 hours 45 minutes.</abstract>
+<physdesc>
+<extent>4 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

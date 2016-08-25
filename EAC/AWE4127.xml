@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4127</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-04-22">2009-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4127b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kelly</part>
+<part localType="givenname">De-Anne Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Grazier</term>
+</occupation>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the National Party, De-Anne Kelly was elected to the House of Representatives of the Australian Parliament as the Member for Dawson, Queensland in 1996. She has the distinction of being the first Nationals woman to be elected to the House of Representatives. She was re-elected in 1998, 2001 and 2004, but was defeated at the 2007 election. During her period in Parliament she served as Parliamentary Secretary to the Minister for Transport and Regional Services and to the Minister for Trade. She held the portfolio of Veterans Affairs from 2003 until 2006.</abstract>
+<p>De-Anne Kelly grew up on the family's cattle property in Queensland and completed her primary education by correspondence. She attended secondary school in Rockhampton and won a scholarship to Queensland University, where she gained a Bachelor of Electrical Engineering. <br />
+Before entering Parliament she ran her own business and also managed their cattle property with her husband, Roger.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-719089">
+<relationEntry>
+Kelly, De-Anne Margaret (19540321-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kelly, De-Anne Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kelly, De-Anne Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4127b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002251.htm">
+<relationEntry localType="archival">[Biographical cuttings on De-Anne Kelly, federal politician]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>[Biographical cuttings on De-Anne Kelly, federal politician]</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+<physfacet>Book</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

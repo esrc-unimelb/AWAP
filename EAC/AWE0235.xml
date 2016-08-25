@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0235</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-01-09">2002-01-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0235b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Burke</part>
+<part localType="givenname">Janine Carmel Brigitte</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1952-03-02">2 March 1952</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Art historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Janine Burke was a founding member of <span style="font-style:italic">Lip</span>, an Australian journal devoted to feminism and the performing and visual arts. She curated a number of exhibitions including <span style="font-style:italic">Australian Women Artists: One Hundred Years, 1840-1940</span> (1975); <span style="font-style:italic">Joy Hester</span> (1981); and <span style="font-style:italic">The Eye of the Beholder: Albert Tucker's Photographs</span> (1998). Burke is the author of several books and has been a board member of the Heide Museum of Modern Art since 1997. She received the Victorian Premier's Award for fiction in 1987.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-617541">
+<relationEntry>
+Burke, Janine Carmel Brigitte (1952-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Burke, Janine Carmel Brigitte', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Burke, Janine Carmel Brigitte</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0235b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000562.htm">
+<relationEntry localType="published">Book: Our Lady of Appollo Bay</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Our Lady of Appollo Bay</title>
+<imprint>
+<place>Port Melbourne</place>
+<publisher>Lothian</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000561.htm">
+<relationEntry localType="published">Book: Speaking: A Novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Speaking: A Novel</title>
+<imprint>
+<place>Richmond, Vic.</place>
+<publisher>Greenhouse Publication</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000560.htm">
+<relationEntry localType="published">Book: Second Sight</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Second Sight</title>
+<imprint>
+<place>Richmond, Vic.</place>
+<publisher>Greenhouse</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000559.htm">
+<relationEntry localType="published">Book: Lullaby: A Novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Lullaby: A Novel</title>
+<imprint>
+<place>Chippendale, NSW</place>
+<publisher>Picador</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000558.htm">
+<relationEntry localType="published">Book: Joy Hester</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Joy Hester</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>National Gallery of Victoria</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000557.htm">
+<relationEntry localType="published">Book: Journey to Bright Water</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Journey to Bright Water</title>
+<imprint>
+<place>Port Melbourne</place>
+<publisher>Mammoth</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000556.htm">
+<relationEntry localType="published">Book: Field of Vision: A Decade of Change, Women's Art in the Seventies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Field of Vision: A Decade of Change, Women's Art in the Seventies</title>
+<imprint>
+<place>Ringwood, Vic.</place>
+<publisher>Viking</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000555.htm">
+<relationEntry localType="published">Book: The Eye of the Beholder: Albert Tucker's Photographs</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">The Eye of the Beholder: Albert Tucker's Photographs</title>
+<imprint>
+<place>Bulleen, Vic.</place>
+<publisher>Museum of Modern Art at Heide</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000554.htm">
+<relationEntry localType="published">Book: The Doll</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine, Tan, Shaun (illustrations)</name>
+<title render="italic">The Doll</title>
+<imprint>
+<place>Port Melbourne</place>
+<publisher>Lothian</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000553.htm">
+<relationEntry localType="published">Book: Dear Sun: The Letters of Joy Hester and Sunday Reed</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hester, Joy; Burke, Janine (edited by)</name>
+<title render="italic">Dear Sun: The Letters of Joy Hester and Sunday Reed</title>
+<imprint>
+<place>Port Melbourne</place>
+<publisher>William Heinemann Australia</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000552.htm">
+<relationEntry localType="published">Book: Company of Images</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">Company of Images</title>
+<imprint>
+<place>Elwood, Vic.</place>
+<publisher>Greenhouse</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000551.htm">
+<relationEntry localType="published">Book: Burke</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine; Davidson, Jim (edited by)</name>
+<title render="italic">Burke</title>
+<imprint>
+<place>Footscray [Vic.]</place>
+<publisher>Footscray Foundation for Australian Studies, Footscray Institute of Technology</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000550.htm">
+<relationEntry localType="published">Book: The Blue Faraway</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burke, Janine</name>
+<title render="italic">The Blue Faraway</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Addison Wesley Longman</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000549.htm">
+<relationEntry localType="published">Book: Australian Women Artists: One Hundred Years, 1840-1940</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">[Burke, Janine selected and researched by]</name>
+<title render="italic">Australian Women Artists: One Hundred Years, 1840-1940</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Ewing and George Paton Galleries, Melbourne University Union</publisher>
+<date>[1976]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

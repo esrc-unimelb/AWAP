@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0689</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-30">2004-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0689b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Willmott</part>
+<part localType="givenname">Joanne</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1954-01-01">1954</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cherbourg, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal rights activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Joanne Willmot was born at Cherbourg, Queensland. Living at the mission and later attending a state high school at Ipswich raised her political consciousness. A mother at the age of 17, Joanne moved to Adelaide in 1971, bringing her baby with her. She began work as a secretary with the Aboriginal Legal Rights Movement (ALRM) where she experienced both the excitement of being at the hub of Aboriginal activism and her growing awareness of sexism. Joanne left ALRM in 1976 to care for her family but maintained involvement in many Aboriginal organisations before taking up full time employment again with the Women's Information Switchboard in 1983.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0708b.htm">
+<relationEntry localType="Corporate Body">
+Women's Information Switchboard
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0707b.htm">
+<relationEntry localType="Corporate Body">
+Aboriginal Legal Rights Movement (ALRM) Inc. (1971 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-758073">
+<relationEntry>
+Willmott, Joanne (1954-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Willmott, Joanne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Willmott, Joanne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0689b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001163.htm">
+<relationEntry localType="archival">Interview with Joanne Willmot [sound recording] Interviewer: Barbara Baird</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Joanne Willmot [sound recording] Interviewer: Barbara Baird</unittitle>
+<unitid>OH 250/13</unitid>
+<abstract>Joanne Willmot was born at Cherbourg, Queensland. Living at the mission and later attending a state high school at Ipswich raised her political consciousness. Joanne moved to Adelaide when she was 17, bringing her baby with her. She began work as a secretary with the Aboriginal Legal Rights Movement and recalls both the excitement of being at the hub of Aboriginal activism and her growing awareness of sexism. Joanne left ALRM in 1976 to care for her family but maintained involvement in many Aboriginal organisations before taking up full time employment again with the Women's Information Switchboard in 1983. She speaks about a variety of programs she has been involved in during the last decade, and emphasises the importance to her of meeting the indigenous women of other countries.
+
+Recorded on 20 June 1994, 1 hour 44 minutes.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

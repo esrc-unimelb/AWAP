@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3981</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-15">2008-12-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-07">2015-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3981b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Wright</part>
+<part localType="givenname">Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Lamm, Mary</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-01-01">1903</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Women's rights activist</term>
+</occupation>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mary Wright was a labour activist and feminist with a long history of militantly supporting the rights of Australian women and workers. She was a founding member in the 1920s of the Militant Women's Movement - the central women's department of the Communist Party of Australia. Her husband, Tom, was an important figure in Australian labour history.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0098b.htm">
+<relationEntry localType="Person">
+Bacon, Eva (1909 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0013b.htm">
+<relationEntry localType="Person">
+Street, Jessie Mary Grey (1889 - 1970)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1124b.htm">
+<relationEntry localType="Corporate Body">
+Housewives Association of New South Wales (1918 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0106b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women (1950 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3977b.htm">
+<relationEntry localType="Corporate Body">
+Militant Women's Movement (c. 1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0020b.htm">
+<relationEntry localType="Event">
+International Women's Day (1928 - )
+</relationEntry>
+<descriptiveNote>
+<p>Mary Wright spoke at the first International Women's Day Rally in Sydney</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-508679">
+<relationEntry>
+Wright, Mary (1903-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wright, Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wright, Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3981b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004299.htm">
+<relationEntry localType="published">Newspaper: The Woman Worker</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Militant Women's Movement</name>
+<title render="italic">The Woman Worker</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Militant Women's Movement</publisher>
+<date>1928</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000140.htm">
+<relationEntry localType="archival">Papers of Mary Wright 1903-1990</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Noel Butlin Archives Centre, ANU Archives Program</repository>
+<unittitle>Papers of Mary Wright 1903-1990</unittitle>
+<unitid>held</unitid>
+<unitdate>1886 - 1985</unitdate>
+<abstract>Mary Wright's correspondence, files, pamphlets and memorabilia relating to the Union of Australian Women; photographs and a poster. Records of the anthropologist, Olive Pink. Minute book of the Board of Delegates on the St Marys (building) Project, 1956. Also family papers and diaries.</abstract>
+<physdesc>
+<extent>13.45 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001892.htm">
+<relationEntry localType="archival">Interview with Mary Wright [sound recording] / Interviewer: Richard Raxworthy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Mary Wright [sound recording] / Interviewer: Richard Raxworthy</unittitle>
+<unitid>ORAL TRC 1948/43</unitid>
+<abstract>8 tape reels : 3 3/4 ips., mono. ; 5 in. Interview conducted in 1988.
+Mrs Wright speaks of her family background and her early life in SydHouney; her first marriage; living conditions during the 1920s; the Militant Women's Group; scabs and the timberworkers' lockout, Glebe; evictions from houses; rations; demonstrations; International Women's Day; Civil War in Spain; Jessie Street; Selina Maloney; meeting Tom Wright; Communist Party social activities; Paddy Drew; Tom's involvement in the union; his work at Wonderlex; New Guard; Workers' Defence Corps; welfare inspections; Woman Today; Spanish Relief Committee; Tom's work on the Labor Council; Idris Williams; Bill Orr; fights in the Labor Council; caucusing; Jim Healey; Ernie Thornton; book raids; women's wages; Jessie Street's involvement in the labour movement; Della Elliot ; Tom's involvement in the ACTU; Tom's overseas trips; his work with aborigines; Housewives Association; Union of Australian Women; International Women's Day committee; miners' strike; book raids; Vietnam demonstrations; her work in the Bankstown area; changes to the women's movement; communism; the ALP.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

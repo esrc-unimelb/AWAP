@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5574</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-22">2016-02-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Silbert (with Tricia Kavanagh)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-19">2016-05-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5574b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kavanagh</part>
+<part localType="givenname">Tricia Marie</part>
+<part localType="honorific title">Justice, Dr.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Arbitration commissioner</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Industrial officer</term>
+</occupation>
+<occupation>
+<term>Commissioner</term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+<occupation>
+<term>Judge</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The Hon Dr Tricia Marie Kavanagh is a trailblazing Judge, Barrister and Arbitrator, particularly in the areas of sport and industrial relations.</abstract>
+<p>The Hon Dr Tricia Marie Kavanagh is a trailblazing judge, barrister and arbitrator, particularly in the areas of sport and industrial relations. An Irish Australian, Kavanagh began her career as a teacher in 1962, but five years later moved to New York to work for the Australian Consulate. Following her return to Australia, Kavanagh was Industrial Officer of the Shop Assistants Union From 1971 to 1973. She served as Childcare Commissioner on the Commonwealth Children's Commission from 1973 until 1975. In 1975, Tricia married the Hon Laurie Brereton, a Company Director and Former Cabinet Minister of Australia and New South Wales. She has two sons.</p>
+<p>Kavanagh worked as Industrial Officer of the Australian Workers Union from 1976 to 1980 whilst she studied her Bachelor of Laws at University of Technology Sydney. She graduated and was admitted to the Bar in 1981 where she worked in employment law, workers compensation law and administrative law.</p>
+<p>In 1998, Kavanagh completed her PhD thesis on legal issues relating to drugs in sport. The same year, she was appointed to a joint Commission as a Justice of the New South Wales Industrial Court and Deputy President of the New South Wales Industrial Relations Commission. During these years, she sat on the New South Wales Racing Appeals Tribunal and as Deputy Chair of the New South Wales Medical Tribunal. She retired in 2012.</p>
+<p>Since its inception in 2000, Tricia has presided as an Arbitrator on the Court of Arbitration for Sport. She was the Australian nominated Arbitrator on the Court's Ad-hoc Division for the Sydney 2000 Olympics. Tricia is currently Governor of the University of Notre Dame, a position she has held since 2010. She has been Director of Transplant Australia since 2009. A recipient of a liver transplant, Tricia is passionate about improving the clinical system of organ and tissue donation. In 2012, Tricia also became the Director of the Kolling foundation, the fundraising foundation for the Royal North Shore and Ryde Hospitals and the Kolling Institute.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5567b.htm">
+<relationEntry localType="Person">
+Gaudron, Mary Genevieve (1943 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kavanagh, Tricia Marie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kavanagh, Tricia Marie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5574b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

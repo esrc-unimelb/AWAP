@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1054</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-09">2004-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1054b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>National Council of Jewish Women, Western Australia Section</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>NCJW WA Section Inc.:
+c/o 61 Woodrow Ave., Yokine, WA 6060.
+Tel./Fax (08) 9276 8040
+ncjwwa@iinet.net.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Lobby group</term>
+</function>
+<function>
+<term>Membership organisation</term>
+</function>
+<function>
+<term>Women's rights organisation</term>
+</function>
+<function>
+<term>Religious organisation</term>
+</function>
+<function>
+<term>Philanthropic organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The National Council of Jewish Women, Western Australia Section was founded in 1929, largely as the result of a visit of by Fanny Reading to Perth expressly for the purpose of amalgamating the existing Western Australia League of Jewish Women with the National Council. While this aim was not achieved, Fanny Beckler became the founding president of the Western Australia Section of the Council (the League continued for several years before disbanding). A Council Juniors was also formed. In its early days the Western Australia Section devoted itself to assisting Jewish migrants and then to war work. In the years after WWII, the Council organised more social events, undertook more fund raising and offered services for the elderly. The Council continues today as a non-profit, voluntary, organisation for Jewish women, acting for their advancement and for social justice generally.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="hierarchical-parent" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1052b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Jewish Women of Australia (1923 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766070">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'National Council of Jewish Women, Western Australia Section', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">National Council of Jewish Women, Western Australia Section</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1054b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003217.htm">
+<relationEntry localType="published">Book: 50 years of community service, 1929-1979 / The National Council of Jewish Women of Australia. West Australian Section</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">50 years of community service, 1929-1979 / The National Council of Jewish Women of Australia. West Australian Section</title>
+<imprint>
+<place>Perth</place>
+<publisher>The Section</publisher>
+<date>[1979]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003216.htm">
+<relationEntry localType="published">Book: Making a Difference: A History of the National Council of Jewish Women of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newton, Marlo Leigh</name>
+<title render="italic">Making a Difference: A History of the National Council of Jewish Women of Australia</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Hybrid Publishers</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003215.htm">
+<relationEntry localType="published">Newsletter: The Council bulletin / National Council of Jewish Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Council bulletin / National Council of Jewish Women</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Council</publisher>
+<date>1926-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001811.htm">
+<relationEntry localType="archival">Collection of Material Relating to National Council of Jewish Women of Australia W. A. Section</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Collection of Material Relating to National Council of Jewish Women of Australia W. A. Section</unittitle>
+<unitid>PR 13199</unitid>
+<unitdate>1980</unitdate>
+<abstract>Printed ephemera.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

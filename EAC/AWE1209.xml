@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1209</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-06-08">2005-06-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-28">2015-08-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1209b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Walker</part>
+<part localType="givenname">Della</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1932-01-01">1932</fromDate>
+<toDate standardDate="2004-12-31">2004</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Ulgandahi Island, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal artist</term>
+</occupation>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+<occupation>
+<term>Aboriginal health worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Della Walker, of Gumbainggir descent, was born in 1932 on Ulgandahi Island, an Aboriginal reserve in the Clarence River delta near Maclean, New South Wales. She attended school on the island before her family moved to nearby Yamba, where she was employed in domestic duties at a local guesthouse. When she was 17, the family moved to the Tabulam reserve, 45 kilometres west of Casino. She married there, and worked both as a domestic aid and an assistant to her husband in his seasonal farming jobs.
+
+Walker became an unofficial midwife at the reserve, and subsequently became involved in a number of community activities: organisation of church services and the Djunagun dance troupe; promotion of her mother tongue, Aboriginal education, the teaching of Aboriginal Studies at regional TAFE colleges; and counselling of prisoners at the Grafton gaol. She was also a member of the Aboriginal advisory council of the College of Advanced Education in Lismore, president of the Housing Association and the local Land Council at Tabulam, a director of the Yamboora Aboriginal Corporation at Yamba, and chair of the Nungera Aboriginal Cooperative Society at Maclean.
+
+Walker is a craft worker, screen printer and maker of echidna-spine necklaces.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-599290">
+<relationEntry>
+Walker, Della (1932-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Walker, Della', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Walker, Della</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1209b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003530.htm">
+<relationEntry localType="published">Book: Me and you: the life story of Della Walker as told to Tina Coutts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walker, Della</name>
+<title render="italic">Me and you: the life story of Della Walker as told to Tina Coutts</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003531.htm">
+<relationEntry localType="published">Book: North Coast women: a history to 1939</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Berzins, Baiba Beata</name>
+<title render="italic">North Coast women: a history to 1939</title>
+<imprint>
+<place>Sydney, NSW</place>
+<publisher>Royal Australian Historical Society</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003529.htm">
+<relationEntry localType="published">Book: Holding up the sky: Aboriginal women speak</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">(Magabala Books)</name>
+<title render="italic">Holding up the sky: Aboriginal women speak</title>
+<imprint>
+<place>Broome, WA</place>
+<publisher>Magabala Books</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

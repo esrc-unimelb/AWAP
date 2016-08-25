@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0961</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-18">2004-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis and Carolyne Carter</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0961b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sydney Female Refuge Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1848-01-01">1848</fromDate>
+<toDate standardDate="1919-12-31">1919?</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Women's refuge</term>
+</function>
+<function>
+<term>Welfare organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Sydney Female Refuge Society was established in 1848 and had premises in Pitt St and at Glebe. It aimed to assist prostitutes abandon their work by cutting them off from the world and by requiring them to conform to the aims and practices of the institution. The middle-class Ladies' Committee enforced strict moral codes coupled with religious instruction to rehabilitate the Refuge inmates. By providing them with laundering and needlework skills they were enabling them to find alternative work once they left, but at the same time required them to work at those tasks while at the Refuge. The minimum period of stay was eighteen months, although the actual time inmates stayed varied.</abstract>
+<p>Although nominally under the control of men, in practice the Society was administered by women. Constitutionally the Ladies' Committee was an 'advisory body', but became increasingly powerful and by 1870 the women were firmly entrenched and resisted encroachment on to their sphere. In accordance with Protestant evangelical ideas all members of the Ladies' Committee were required to be married as a way of presenting to the inmates of the refuge the ideal of the respectable marriage. </p>
+<p>The tasks of the Ladies' Committee were numerous. For example two women visited the refuge twice a week; four met as a subcommittee each week and all met once a month.  The Ladies' Committee employed and determined the salaries of all the employees, for example a matron, teacher, biblewoman and laundress, supervised their work and made all the decisions affecting the domestic economy of the refuge. They decided upon the admission and discharge of each inmate, found work for those who required it on discharge and supervised the the progress of each inmate. The Men's Committee produced the annual reports, ran the annual meetings and the subscriptions were generally made in the husbands' names only.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-544100">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sydney Female Refuge Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sydney Female Refuge Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0961b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002902.htm">
+<relationEntry localType="published">Report: The annual report of the Sydney Female Refuge Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sydney Female Refuge Society</name>
+<title render="italic">The annual report of the Sydney Female Refuge Society</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Kemp and Fairfax</publisher>
+<date>1849-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002901.htm">
+<relationEntry localType="published">Journal Article: Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Godden, Judith</name>
+<title render="quoted">Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of Religious History</title>
+<num type="issue">14</num>
+<num type="pages">291-306</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002903.htm">
+<relationEntry localType="published">Thesis: Philanthropy and the woman's sphere, Sydney, 1870-circa 1900</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Godden, Judith</name>
+<title render="quoted">Philanthropy and the woman's sphere, Sydney, 1870-circa 1900</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Macquarie University</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001589.htm">
+<relationEntry localType="archival">Records of the Sydney Female Refuge Society 1863-1911</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Records of the Sydney Female Refuge Society 1863-1911</unittitle>
+<unitid>A7018-A7020</unitid>
+<unitdate>1863 - 1911</unitdate>
+<abstract>Contains "Ladies'Committee book, 7 June 1863-5 December 1911; Journal 30 September 1864-22 October 1870; Journal 1 May 1891-26 January 1899</abstract>
+<physdesc>
+<extent>3 volumes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0811</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-01">2004-04-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-12-02">2013-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0811b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cope</part>
+<part localType="givenname">Madeleine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Rooke, Madge</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Yorkshire, United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Unionist</term>
+</occupation>
+<occupation>
+<term>Activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Unionist and activist Madge Cope was born in Yorkshire and migrated to Australia in 1915, aged 11. With her parents and two brothers she settled on a farm in Carnamah. She later married her neighbour, Harold Cope, and the pair had four children. Cope himself was born to an English father and an Australian mother.
+
+During wartime, the Copes sold pies at Victoria Park. They grew tomatoes at Geraldton, then Guildford, where they also sold flowers. In 1966, while driving on a gravel road, Madge lost control on a bend and hit a truck. Harold was thrown from the vehicle and died on the road after telling the truck driver to look after his wife, who was trapped in the car.
+
+Madge became involved with the Communist Party in Guildford, and was made a life member of the Guildford Association. She joined the Peace Movement and the Union of Australian Women. She also wrote short stories, two of which were published in the magazine <span style="font-style:italic">Our Women</span>. Madge died in 2001, aged 97 years.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0937b.htm">
+<relationEntry localType="Corporate Body">
+Women's International League for Peace and Freedom, Western Australian Branch (1933 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0810b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women. Western Australian Branch (1950s - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767084">
+<relationEntry>
+Cope, Madeleine (1904-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cope, Madeleine (Madge)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cope, Madeleine (Madge)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0811b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002701.htm">
+<relationEntry localType="published">Newspaper Article: Fight for the good.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Fight for the good.</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">West Australian</title>
+<num type="issue">Classifieds</num>
+<num type="pages">29</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001369.htm">
+<relationEntry localType="archival">[Interview with Madge Cope] [sound recording] / [interviewed by Sally Speed]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>[Interview with Madge Cope] [sound recording] / [interviewed by Sally Speed]</unittitle>
+<unitid>OH1104  A/r , OH1104  A/m</unitid>
+<physdesc>
+<extent>1 cassette</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001368.htm">
+<relationEntry localType="archival">[Interview with Madge Cope] [sound recording] / [interviewed by Stuart Reid]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>[Interview with Madge Cope] [sound recording] / [interviewed by Stuart Reid]</unittitle>
+<unitid>OH2058  A/r , OH2058  T/r, OH2058  A/m,  OH2058  T/m</unitid>
+<unitdate>1988</unitdate>
+<physdesc>
+<extent>1 cassette</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001367.htm">
+<relationEntry localType="archival">[Interview with Madge Cope]  [sound recording] / [interviewed by Linda Coleman].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>[Interview with Madge Cope]  [sound recording] / [interviewed by Linda Coleman].</unittitle>
+<unitid>OH3212 A/r, OH3212 T/r, OH3212 A/m, OH3212 T/m</unitid>
+<unitdate>2000</unitdate>
+<abstract>Describes Madge Cope's early life in Midland area and the forces that led to her membership in the Communist Party. The interview discusses the activities and functions of the Union of Australian Women, human rights workers, the Communist Party in Western Australia and Cope's involvement with these organizations.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000093.htm">
+<relationEntry localType="archival">Union of Australian Women. Western Australian Branch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Union of Australian Women. Western Australian Branch</unittitle>
+<unitid>ACC 1838A, 5003A, 5160A</unitid>
+<unitdate>1938 - 1973</unitdate>
+<abstract>This collection includes the records of the Western Australian branch of the Modern Women's Club and the Union of Australian Women. It includes correspondence regarding International Women's Day, files about moral and social issues, equal pay for women, political issues and the Wooraloo Hospital dispute.
+
+<h4>Records</h4>
+Annual reports (1954-1962); correspondence (1938-1973), including correspondence on International Women's Day (1938-1969); minutes (1961-1972), newsletters and subject files on social, moral and political topics e.g. equal pay, Wooroloo Hospital controversy ; file of documents and correspondence relating to the State Editorial Committee for "Our women" magazine; photographs. Includes eulogy, given by her daughter Olga on 15 May 1986, for Elsie Peders, a member of the Modern Women's Club and the Union of Australian Women.</abstract>
+<physdesc>
+<extent>3.38 m</extent>
+<physfacet>Correspondence, Photographs, Printed material, Correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0168</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-11-07">2001-11-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0168b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fay</part>
+<part localType="givenname">Maura</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1958-03-12">12 March 1958</fromDate>
+<toDate standardDate="2001-10-29">29 October 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Casting director</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maura Fay's name is associated with a variety of film, television and theatre projects including: <span style="font-style:italic">Brides of Christ, The Paper Man, The Thorn Birds, Cold Feet, The Last Bullett, Star Wars: The Phantom Menace, Farscape</span> and <span style="font-style:italic">On the Beach.</span></abstract>
+<p>Born: 12 March 1958 Died: 29 October 2001<br />
+Raised in Wynyard, Tasmania, she achieved a number of scholastic distinctions at Wynyard High School and was head prefect.<br />
+Returning to Australia, after travelling with her mother in Ireland where she managed a pub in County Cork, she commenced working on the television production <span style="font-style:italic">Prisoner</span> for Grundy Organisation. Seven years later she joined PBL Productions as head of production, and worked at different times for both Seven and Nine networks.<br />
+Fay founded Maura Fay Casting in 1987, and at the time of her death had offices in Sydney, Melbourne, the Gold Coast, Auckland, Singapore and Los Angeles.<br />
+She served on the boards of the Australian Theatre for Young People and the Sydney Film Festival and often attended amateur, student and community theatre productions.<br />
+<span style="font-style:italic">Edited from an Obituary by Michael Idato</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-713077">
+<relationEntry>
+Fay, Maura (1958-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fay, Maura', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fay, Maura</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0168b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000336.htm">
+<relationEntry localType="published">Journal Article: Maura Fay</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Idato, Michael</name>
+<title render="quoted">Maura Fay</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="issue">Today</num>
+<num type="pages">7</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0985</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-28">2004-05-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis and Carolyne Carter</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0985b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Endeavour Women's Inter-club Bowls and Social Club Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Endeavour Women's Inter-club Bowls</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1962-01-01">1962</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Sporting organisation</term>
+</function>
+</functions>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2278b.htm">
+<relationEntry localType="Concept">
+Lawn Bowls (1845 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-707087">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Endeavour Women's Inter-club Bowls and Social Club Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Endeavour Women's Inter-club Bowls and Social Club Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0985b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001642.htm">
+<relationEntry localType="archival">Joan Stilgoe - A History of Endeavour Women's Inter-club Bowls, later Endeavour Inter-club Bowls and Social Club Inc, 1962-1995, written and compiled by Joan and Ralph Stilgoe, 2001 - records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Joan Stilgoe - A History of Endeavour Women's Inter-club Bowls, later Endeavour Inter-club Bowls and Social Club Inc, 1962-1995, written and compiled by Joan and Ralph Stilgoe, 2001 - records</unittitle>
+<unitid>MLMSS 7180</unitid>
+<unitdate>2001</unitdate>
+<abstract>Manuscripts</abstract>
+<physdesc>
+<extent>0.02 m, 1 folder</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

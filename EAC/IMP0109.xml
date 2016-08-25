@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0109</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="1997-06-30">1997-06-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Austehc</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0109b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Masson</part>
+<part localType="givenname">Mary</part>
+<part localType="honorific title">Lady, CBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1862-07-11">11 July 1862</fromDate>
+<toDate standardDate="1945-09-25">25 September 1945</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Edinburgh, Scotland</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lady Masson was the wife of Sir David Orme Masson, Professor of Chemistry at the University of Melbourne from 1886 to 1923. She was active in university affairs and her memory is honoured at the university by the Lady Masson Memorial Lecture, which is given every 2-3 years. She was a foundation member of the Victoria League 1908, the New Settlers' League 1921 and the Country Women's Association of Victoria 1928 and also president of the University branch of the Australian Red Cross Society 1914-1919. Lady Masson regularly attended meetings of the University Chemical Society. She was appointed Commander of The Order of the British Empire (Civil) - 15 March 1918, for war work.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0210b.htm">
+<relationEntry localType="Corporate Body">
+The Alexandra Club (1903 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1916-01-01">1916</fromDate>
+<toDate standardDate="1917-12-31">1917</toDate>
+</dateRange>
+<descriptiveNote>
+<p>President (Honorary Life Member)</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0724b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross Victoria (1914 - )
+</relationEntry>
+<descriptiveNote>
+<p>Member of the Victorian Executive Committee from 1916-1920 and Victorian representative to the Central Council from 1919-1925</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754075">
+<relationEntry>
+Masson, Mary (1862-1945)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Masson, Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Masson, Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0109b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001471.htm">
+<relationEntry localType="published">Resource Section: Masson, Mary (1862 - 1945), Biographical Entry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Masson, Mary (1862 - 1945), Biographical Entry</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P002441b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001362.htm">
+<relationEntry localType="published">Book: The Alexandra Club : A Narrative 1903-1983</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Starke, Monica</name>
+<title render="italic">The Alexandra Club : A Narrative 1903-1983</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Alexandra Club</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100345.htm">
+<relationEntry localType="published">Resource Section: Masson, Mary (1862-1945)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Masson, Mary (1862-1945)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100698b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

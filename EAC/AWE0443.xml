@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0443</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-02-06">2003-02-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0443b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Palmer</part>
+<part localType="givenname">Helen Gwynneth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-05-09">9 May 1917</fromDate>
+<toDate standardDate="1979-05-06">6 May 1979</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kew, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>North Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The second daughter of Vance and Nettie (née Higgins) Palmer, Helen Palmer spent a year in London after being educated at Presbyterian Ladies' College (Melbourne) where she was dux in 1934. Returning to Melbourne she won a scholarship to the University of Melbourne and  graduated with a BA and DipEd in 1939. She later obtained a B.Ed (1952). From 1940 until 1942 she was a teacher in Victorian State schools.
+
+Helen Palmer enlisted in the Women's Australian Auxiliary Air Force on 18 February 1942 and during her service worked in the education division. After the war she worked with the Commonwealth Office of Education (Sydney). In 1948 she returned to Melbourne teaching in private schools.
+
+She made several trips to China and in 1953 published her observations in <span style="font-style:italic">An Australian Teacher in China.</span> Through the bi-monthly publication <span style="font-style:italic">Outlook</span> (1957-1970), Helen Palmer provided a forum for vigorous discussion of all issues which were part of a radical critique of Australian politics and society.
+
+The author (with Jessie MacLeod) of <span style="font-style:italic">First Hundred Years</span> (1954) and <span style="font-style:italic">After the First Hundred Years</span> (1961), she also authored books on Australian literature, popular culture and history. Helen Palmer was also a prominent poet and balladist and is remembered for 'The Ballard of 1891,' that describes the shearers' strike.
+
+Helen Palmer died on 6 May 1979.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3740b.htm">
+<relationEntry localType="Person">
+Palmer, Janet Gertrude (Nettie) (1885 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0400b.htm">
+<relationEntry localType="Corporate Body">
+Women's Auxiliary Australian Air Force (WAAAF) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1942-02-18">18 February 1942</fromDate>
+<toDate standardDate="1946-10-16">16 October 1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-514020">
+<relationEntry>
+Palmer, Helen G (1917-1979)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Palmer, Helen Gwynneth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Palmer, Helen Gwynneth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0443b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001760.htm">
+<relationEntry localType="published">Book: Beneath the Southern Cross</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. (Helen Gwynneth), 1917-1979</name>
+<title render="italic">Beneath the Southern Cross</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cheshire</publisher>
+<date>[1954]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001756.htm">
+<relationEntry localType="published">Book: Banjo' Paterson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. (Helen Gwynneth), 1917-1979</name>
+<title render="italic">Banjo' Paterson</title>
+<imprint>
+<place>[Croydon, Melbourne]</place>
+<publisher>Longmans</publisher>
+<date>[1966]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001757.htm">
+<relationEntry localType="published">Book: W.G. Spence and the rise of the trade unions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. and MacLeod, Jessie</name>
+<title render="italic">W.G. Spence and the rise of the trade unions</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Longmans</publisher>
+<date>[1964]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001759.htm">
+<relationEntry localType="published">Book: Makers of the first hundred years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. and MacLeod, Jessie</name>
+<title render="italic">Makers of the first hundred years</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Longmans Green</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001761.htm">
+<relationEntry localType="published">Book: After the first hundred years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. and MacLeod, Jessie</name>
+<title render="italic">After the first hundred years</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Longmans</publisher>
+<date>[1961]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001762.htm">
+<relationEntry localType="published">Book: Fencing Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. (Helen Gwynneth), 1917-1979</name>
+<title render="italic">Fencing Australia</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Longmans</publisher>
+<date>[1961]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001763.htm">
+<relationEntry localType="published">Book: Helen Palmer's outlook</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. (Helen Gwynneth), 1917-1979</name>
+<title render="italic">Helen Palmer's outlook</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Helen Palmer Memorial Committee</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001765.htm">
+<relationEntry localType="published">Book: The first hundred years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. and MacLeod, Jessie</name>
+<title render="italic">The first hundred years</title>
+<imprint>
+<place>Croydon, Vic.</place>
+<publisher>Longman</publisher>
+<date>1954</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001766.htm">
+<relationEntry localType="published">Book: The first two hundred years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. and MacLeod, Jessie</name>
+<title render="italic">The first two hundred years</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Longman Cheshire</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001758.htm">
+<relationEntry localType="published">Book: Our sugar</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Helen G. (Helen Gwynneth), 1917-1979</name>
+<title render="italic">Our sugar</title>
+<imprint>
+<place>London</place>
+<publisher>Longmans Green</publisher>
+<date>1949</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001764.htm">
+<relationEntry localType="published">Sound recording: [Conversation with Helen Palmer]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Berg, Hazel de (interviewer)</name>
+<title render="italic">[Conversation with Helen Palmer]</title>
+<imprint>
+<date>1974</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001755.htm">
+<relationEntry localType="published">Resource Section: Palmer, Helen Gwynneth (1917-1979)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gollan, Robin</name>
+<title render="quoted">Palmer, Helen Gwynneth (1917-1979)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">15</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A150652b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001754.htm">
+<relationEntry localType="published">Book Section: Helen Palmer</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Keene, Judith</name>
+<title render="quoted">Helen Palmer</title>
+<imprint>
+<place>Broadway (NSW)</place>
+<publisher>Women's Redress Press Inc</publisher>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">200 Australian Women</title>
+<name type="author">Radi, Heather</name>
+<num type="pages">232-233</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001753.htm">
+<relationEntry localType="published">Resource Section: PALMER, HELEN GWYNNETH</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">PALMER, HELEN GWYNNETH</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1070100"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002144.htm">
+<relationEntry localType="published">Book: 150 years, 150 stories : brief biographies of one hundred and fifty remarkable people associated with the University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Flesch, Juliet and McPhee, Peter</name>
+<title render="italic">150 years, 150 stories : brief biographies of one hundred and fifty remarkable people associated with the University of Melbourne</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Department of History, University of Melbourne</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001353.htm">
+<relationEntry localType="published">Edited Book: Double Time: Women in Victoria - 150 Years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lake, Marilyn and Kelly, Farley</name>
+<title render="italic">Double Time: Women in Victoria - 150 Years</title>
+<imprint>
+<place>Ringwood (Vic.)</place>
+<publisher>Penguin Books Australia Ltd</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000663.htm">
+<relationEntry localType="archival">Helen Gwynneth Palmer - Volume 1</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen Gwynneth Palmer - Volume 1</unittitle>
+<unitid>A6119/2</unitid>
+<unitdate>1939 - 1957</unitdate>
+<physdesc>
+<extent>158 pp</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000655.htm">
+<relationEntry localType="archival">Helen Gwynneth Palmer - Volume 2</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen Gwynneth Palmer - Volume 2</unittitle>
+<unitid>A6119/90</unitid>
+<unitdate>1957 - 1965</unitdate>
+<physdesc>
+<extent>143 pp</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000654.htm">
+<relationEntry localType="archival">Helen Gwynneth Palmer - Volume 4</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen Gwynneth Palmer - Volume 4</unittitle>
+<unitid>A6119/90</unitid>
+<unitdate>1965 - 1970</unitdate>
+<physdesc>
+<extent>96 pp</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000661.htm">
+<relationEntry localType="archival">Helen Gwynneth Palmer - Volume 3</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen Gwynneth Palmer - Volume 3</unittitle>
+<unitid>A6119/90</unitid>
+<unitdate>1963 - 1966</unitdate>
+<physdesc>
+<extent>92 pp</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000666.htm">
+<relationEntry localType="archival">Papers of Aileen and Helen Palmer [manuscript]. [19--]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Papers of Aileen and Helen Palmer [manuscript]. [19--]</unittitle>
+<unitid>MS 3044</unitid>
+<abstract>Unsorted collection of letters, literary manuscripts and newspaper clippings.
+Daughters of Vance and Nettie Palmer.</abstract>
+<physdesc>
+<extent>0.6 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000667.htm">
+<relationEntry localType="archival">Papers, [manuscript] 1918-1996</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Papers, [manuscript] 1918-1996</unittitle>
+<unitid>MS 6083</unitid>
+<unitdate>1918 - 1996</unitdate>
+<abstract>Consists of correspondence, subject files, personal items, diaries, photographs, manuscripts of unpublished and published works and a large quantity of printed matter. There are letters from Vance, Nettie and Aileen Palmer, Jessie Macleod, Guido Baracchi, Eleanor Dark, Frank Dalby Davison and Katharine Susannah Prichard. There is a thesis by S. B. Clark entitled: Vance Palmer: A Consideration of His Career in Australian Letters.
+The second daughter of Vance and Nettie Palmer, Helen Gwyneth Palmer was a writer, teacher and worker for many causes, particularly those associated with her commitment to socialism and communism</abstract>
+<physdesc>
+<extent>3.5 m, 25 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000665.htm">
+<relationEntry localType="archival">[Biographical cuttings on Helen Palmer, writer and educationalist]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Helen Palmer, writer and educationalist]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000660.htm">
+<relationEntry localType="archival">Palmer, Helen Gwynneth</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Palmer, Helen Gwynneth</unittitle>
+<unitid>2002/05090863</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>PALMER HELEN GWYNNETH : Service Number - 350207 : Date of birth - 09 May 1917 : Place of birth - KEW VIC : Place of enlistment - MELBOURNE : Next of Kin - PALMER VANCE</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000657.htm">
+<relationEntry localType="archival">Applications for positions by Palmer, Helen Gwynneth Miss</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Applications for positions by Palmer, Helen Gwynneth Miss</unittitle>
+<unitid>A1361/1</unitid>
+<unitdate>11 August 1947</unitdate>
+<physdesc>
+<extent>0.25 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000662.htm">
+<relationEntry localType="archival">WAAAF service record - 350207 Flight Officer Palmer, Helen Gwynneth</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>WAAAF service record - 350207 Flight Officer Palmer, Helen Gwynneth</unittitle>
+<unitid>A9300/1</unitid>
+<unitdate>1942 - 1946</unitdate>
+<physdesc>
+<extent>36 ff</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000664.htm">
+<relationEntry localType="archival">[Official History, 1914-18 War: Records of Charles E W Bean, Official Historian:]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>[Official History, 1914-18 War: Records of Charles E W Bean, Official Historian:]</unittitle>
+<unitid>AWM38</unitid>
+<unitdate>1947 - 1962</unitdate>
+<abstract>Papers, 1947-62; comprise cuttings, leaflets, notes and miscellaneous letters to C E W and Effie Bean from correspondents such as the Society of Old Brentwoods, Sir Edmund Herring, A W Bazley, Helen G Palmer, Jill C Bean, Edith Hough, W Dalton, Dr John Bean, the Old Cliftonian Society, James and Stewart Jamieson</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000861.htm">
+<relationEntry localType="archival">In the outdoors, Yarra Valley, Vic.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>In the outdoors, Yarra Valley, Vic.</unittitle>
+<unitid>VIC1314</unitid>
+<abstract>Yarra Valley, Vic. C. 1943-09. In the outdoors, the Director WAAAF, Group Officer Clare Stevenson (second from left) and a WAAAF Wing Officer (in dark uniform) conversing with WAAAF officers who conducted a four-day bivouac for a group of WAAAF officer trainees in an area near Launching Place, as part of their training course. Third from the left is Squadron Officer Margaret Blackwood, the officer in charge of the bivouac and on the extreme right is Flight Officer Doris Carter, a staff instructor for the bivouac. On the latter's right is her assistant, Section Officer Helen Palmer.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000668.htm">
+<relationEntry localType="archival">Papers, [manuscript] 1935-1979   Palmer, Aileen, 1915-1988</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Papers, [manuscript] 1935-1979   Palmer, Aileen, 1915-1988</unittitle>
+<unitid>MS 6759</unitid>
+<unitdate>1935 - 1979</unitdate>
+<abstract>Family papers comprise correspondence of Nettie, Helen and Aileen Palmer, including letters written by Aileen Palmer during the Spanish Civil War, legal papers, passports and obituaries of Vance, Nettie and Helen Palmer. Correspondence includes letters of Katharine Susannah Prichard, Edith Young, Flora Edlershaw, Eleanor Dark, Guido Baracchi, Frank Dalby Davison, David Martin, Lesbia Harford, Stephen Murray-Smith, Lorraine Salmon, Eric Westbrook, C. Jollie-Smith and Jessie Macleod. Other papers consist of unpublished novels and poems of Aileen Palmer, diary notes, 'Nettie Palmer's book' (1948), family photographs and photographs taken during the Spanish Civil War.
+Writer. Daughter of Vance and Nettie Palmer. Served in volunteer medical corps in Spanish Civil War (1935-1937) and remained in Europe until 1946.</abstract>
+<physdesc>
+<extent>2.38 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000659.htm">
+<relationEntry localType="archival">[Department of Information - Broadcasting Division:] Talks by Helen Palmer (Sep 1943) [transcripts]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>[Department of Information - Broadcasting Division:] Talks by Helen Palmer (Sep 1943) [transcripts]</unittitle>
+<unitid>AWM80</unitid>
+<unitdate>1943</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000658.htm">
+<relationEntry localType="archival">Helen Gwynneth Palmer and Ronald James Grant Taylor</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen Gwynneth Palmer and Ronald James Grant Taylor</unittitle>
+<unitid>A1336/1</unitid>
+<unitdate>1960</unitdate>
+<abstract>AUTHOR Helen Gwynneth Palmer and Ronald James Grant Taylor : ADDRESS Kirribilli and Melbourne : TITLE OF WORK Prisoners' Country : TYPE OF WORK Dramatic : APPLICANT Helen Gwynneth Palmer and Ronald James Grant Taylor : DATE OF APPLICATION 8 Jan 1960 : DATE COPYRIGHT REGISTERED 10 Feb 1960 : WORK ENCLOSED? Order as A1336/2</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000656.htm">
+<relationEntry localType="archival">Helen G. Palmer - complaint re wharf officials</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Helen G. Palmer - complaint re wharf officials</unittitle>
+<unitid>A432/82</unitid>
+<unitdate>1948</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000669.htm">
+<relationEntry localType="archival">Thesis and correspondence [manuscript] 1934-1967   Clark, S. B. (Stephen Barry).</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Thesis and correspondence [manuscript] 1934-1967   Clark, S. B. (Stephen Barry).</unittitle>
+<unitid>MS 2255</unitid>
+<unitdate>1934 - 1967</unitdate>
+<abstract>"Vance Palmer: a consideration of his career in Australian letters". Thesis submitted by S.B. Clark for the degree of Master of Arts in the University of Sydney, July 1967. Letters to Clark from Aileen and Helen Palmer, Frank Dalby Davison, Judith Wright and Tom Inglis Moore, 1967.</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00044.htm">
+<relationEntry localType="digitalObject">In the outdoors</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>In the outdoors</unittitle>
+<unitid>VIC1314</unitid>
+<unitdate>c. September 1943</unitdate>
+<abstract>In the outdoors, the Director WAAAF, Group Officer Clare Stevenson (second from left) and a WAAAF Wing Officer (in dark uniform) conversing with WAAAF officers who conducted a four-day bivouac for a group of WAAAF officer trainees in an area near Launching Place, as part of their training course. Third from the left is Squadron Officer Margaret Blackwood, the officer in charge of the bivouac and on the extreme right is Flight Officer Doris Carter, a staff instructor for the bivouac. On the latter's right is her assistant, Section Officer Helen Palmer.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

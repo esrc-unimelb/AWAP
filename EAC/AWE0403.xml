@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0403</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-03">2002-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-24">2015-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0403b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Carlton</part>
+<part localType="givenname">Eileen Grace</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Social worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sally Carlton was superintendent in Western Australia of the Australian Women's Land Army during the Second World War. 
+
+Born in Perth, she attended Perth College and became a 'Girl Friday.' Later she joined the <span style="font-style:italic">West Australian</span> newspaper and was in charge of the file room. Here she hand indexed all news in the papers each day. After a failed marriage Carlton worked as the organising secretary with the Lady Gowrie Child Centre (Perth) in 1942. She responded to a newspaper advertisement seeking a person to organise the recruiting of women for the Western Australian Land Army. Involved with the Girl Guide movement, Carlton had conducted training sessions for the Women's Australian National Services (WANS) officers. Initially supervisor she was later titled State Superintendent.
+
+After the war, Carlton worked at the Princess Margaret Children's Hospital as a social worker. As she wasn't qualified she completed mature age matriculation and then tertiary studies at the universities of Western Australia and South Australia, while working full-time.
+
+On 31 December 1960, Sally Carlton was awarded the Order of the British Empire - Member (Civil) for service to the Girl Guides Association in Western Australia.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0762b.htm">
+<relationEntry localType="Corporate Body">
+Girl Guides Australia (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0393b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Land Army (AWLA) (1942 - 1945)
+</relationEntry>
+<descriptiveNote>
+<p>Superintendent, in Western Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763053">
+<relationEntry>
+Carlton, Eileen Grace
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Carlton, Eileen Grace (Sally)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Carlton, Eileen Grace (Sally)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0403b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001742.htm">
+<relationEntry localType="published">Book Section: [Sally Carlton - biographical details]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stewart, Noel</name>
+<title render="quoted">[Sally Carlton - biographical details]</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">As I remember them</title>
+<num type="pages">37</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001744.htm">
+<relationEntry localType="published">Edited Book: Thanks girls and goodbye : the story of the Australian Women's Land Army 1942-45</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hardisty, Sue (ed.)</name>
+<title render="italic">Thanks girls and goodbye : the story of the Australian Women's Land Army 1942-45</title>
+<imprint>
+<place>Ringwood, Vic</place>
+<publisher>Viking O'Neil</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

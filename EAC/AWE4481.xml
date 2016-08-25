@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4481</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-29">2010-03-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4481b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Leake</part>
+<part localType="givenname">Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Farmer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Leake was a nominee for the ABC Rural Woman if the year Award in 1997. She was regional winner for the New Eangland district in New South Wales. She manages <span style="font-style:italic">Bahreenah</span> one of the oldest Poll Hereford studs in Australia.
+
+Jane trained and worked as a nurse before moving into agriculture. (Perhaps her father's professional experience as a doctor, as well as a livestock owner encouraged her down that path.) She returned to the country to run the house of a sow piggery, moving then to a 7000 acre property in the Timor district of New South Wales which ran sheep and cattle. After staring her own business (farm secretarial services) in 1989, she moved back to the family farm, of which she now has total management, in 1990.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in NSW</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477480">
+<relationEntry>
+Leake, Jane
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Leake, Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Leake, Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4481b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004741.htm">
+<relationEntry localType="published">Article: Obituary: David Norrie Fleming Leake</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wakeford, Peter and Douglas Harbison</name>
+<title render="quoted">Obituary: David Norrie Fleming Leake</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Medical Journal of Australia</title>
+<num type="volume">189</num>
+<num type="issue">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.mja.com.au/public/issues/189_04_180808/wak10659_fm.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004740.htm">
+<relationEntry localType="published">Resource Section: 1997 ABC New South Wales Rural Woman of the Year Award Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1997 ABC New South Wales Rural Woman of the Year Award Winners</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/nsw.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

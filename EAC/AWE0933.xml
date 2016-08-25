@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0933</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-22">2004-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0933b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hodge</part>
+<part localType="givenname">Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1918-01-01">1918</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Hodge was born in Adelaide in 1918. She subsequently moved to a Western Australian jarrah timber camp where her father was a teacher in a two roomed school. After his death, when she was nine, Hodge and her mother returned to Adelaide to live with relatives. She attended Presbyterian Girls' School (now Seymour College) on a scholarship. Here she was particularly influenced by two of her teachers - in English and current affairs. On leaving school she taught at the Wilderness School. She married Scott Hodge in 1940, and had four children, including one who was born with spina bifida. Hodge joined the Lyceum Club in 1971 and has served in a number of official capacities over the years.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1971-01-01">1971</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Served in a number of official capacities over the years</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-758069">
+<relationEntry>
+Hodge, Margaret (1918-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hodge, Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hodge, Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0933b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001522.htm">
+<relationEntry localType="archival">Interview with Margaret Hodge [sound recording] Interviewer: Lois Mander-Jones</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Margaret Hodge [sound recording] Interviewer: Lois Mander-Jones</unittitle>
+<unitid>SRG 438/29/67</unitid>
+<unitdate>10 November 2003</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Margaret Hodge was born in Adelaide in 1918, subsequently moving to a Western Australian jarrah timber camp where her father was a teacher in a two roomed school. After his death when she was nine, Margaret and her mother returned to Adelaide to live with relatives. She attended Presbyterian Girls' School (now Seymour College) on scholarship, being particularly influenced by two of her teachers - in English and current affairs. On leaving school she taught at Wilderness School. She married Scott Hodge in 1940, and had four children with him, including one who was born with spina bifida. She speaks about the problems of coping with a handicapped child, and her involvement in raising public awareness of people with disabilities. Margaret joined the Lyceum Club in 1971 and has served in a number of official capacities over the years.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4607</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-10-07">2010-10-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4607b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gorham</part>
+<part localType="givenname">Heather</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Community activist</term>
+</occupation>
+<occupation>
+<term>Pastoralist</term>
+</occupation>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Heather Gorham was nominated for the 1995 A.B.C. Rural Woman of the Year Award, for the Tablelands district of New South Wales. She ran a property at Beerowa, and also worked as a community nurse.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in NSW</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1476827">
+<relationEntry>
+Gorham, Heather
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gorham, Heather', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gorham, Heather</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4607b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004833.htm">
+<relationEntry localType="published">Resource Section: 1995 ABC Rural Woman of the Year Regional Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1995 ABC Rural Woman of the Year Regional Winners</title>
+<imprint>
+<publisher>ABC Radio &amp; ABC Online</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/previous95.htm#95reg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004823.htm">
+<relationEntry localType="published">Resource Section: Images of Rural Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Richardson, Andrew</name>
+<title render="quoted">Images of Rural Women</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/gallery.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0260</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-01-30">2002-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0260b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Magarey</part>
+<part localType="givenname">Susan</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>"Margarey is founding Editor of <span style="font-style:italic">Australian Feminist Studies,</span> founding Director of the Research Centre for Women's Studies at the University of Adelaide, and author of a the biography of Catherine Spence <span style="font-style:italic">Unbridling the Tongues of Women</span> (1985). Other
+publications include <span style="font-style:italic">Debutante Nation: Feminism contests the 1890s,</span> co-edited with Sue Rowley and Susan Sheridan (1993) and <span style="font-style:italic">Women in a Restructuring Australia: Work and Welfare,</span> co-edited with Anne Edwards (1995).
+(Source: <span style="font-style:italic">Passions of the first wave feminists,</span> Susan Magarey.)"</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-568634">
+<relationEntry>
+Magarey, Susan (1943-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Magarey, Susan', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Magarey, Susan</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0260b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000815.htm">
+<relationEntry localType="published">Book: Dame Roma: glimpses of a glorious life</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan</name>
+<title render="italic">Dame Roma: glimpses of a glorious life</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>Axiom (in association w. John Bray Law Chptr Alumni Assn Univ. Adel.)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000623.htm">
+<relationEntry localType="published">Book: Human Rights and Reconciliation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan (edited by)</name>
+<title render="italic">Human Rights and Reconciliation</title>
+<imprint>
+<place>St Lucia, Qld</place>
+<publisher>University of Queensland Press</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000622.htm">
+<relationEntry localType="published">Book: Women in a Restructuring Australia: Work and Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Edwards, Anne; Magarey, Susan (edited by)</name>
+<title render="italic">Women in a Restructuring Australia: Work and Welfare</title>
+<imprint>
+<place>St Leonards, NSW</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000621.htm">
+<relationEntry localType="published">Conference Proceedings: Women's Research Centre Women's Studies Symposium</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Poiner, Gretchen; Magarey, Susan</name>
+<title render="italic">Women's Research Centre Women's Studies Symposium</title>
+<imprint>
+<place>Kingswood, NSW</place>
+<publisher>Women's Research Centre, University of Western Sydney</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000620.htm">
+<relationEntry localType="published">Book: Debutante Nation: Feminism Contests the 1890s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan; Rowley, Sue and Sheridan, Susan</name>
+<title render="italic">Debutante Nation: Feminism Contests the 1890s</title>
+<imprint>
+<place>St Leonards, NSW</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000619.htm">
+<relationEntry localType="published">Book: A bibliography of Australian Women's History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan; Ryan, Lyndall</name>
+<title render="italic">A bibliography of Australian Women's History</title>
+<imprint>
+<place>Parkville, Vic.</place>
+<publisher>Australian Historical Association</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000618.htm">
+<relationEntry localType="published">Book: Passions of the first wave feminists:</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan</name>
+<title render="italic">Passions of the first wave feminists:</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Pluto Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000504.htm">
+<relationEntry localType="published">Book: Unbridling the tongues of women : A Biography of Catherine Helen Spence</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan</name>
+<title render="italic">Unbridling the tongues of women : A Biography of Catherine Helen Spence</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hale &amp; Iremonger</publisher>
+<date>c1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000624.htm">
+<relationEntry localType="published">Sound recording: Interview with Susan Magarey for the 'Interchange' programme November 16, 1977: a 2XX Radio Station broadcast [sound recording]/interviewer: Biff Ward.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magarey, Susan</name>
+<title render="italic">Interview with Susan Magarey for the 'Interchange' programme November 16, 1977: a 2XX Radio Station broadcast [sound recording]/interviewer: Biff Ward.</title>
+<imprint>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000221.htm">
+<relationEntry localType="archival">Women in Politics: A Forum in the Centenary Year of Women's Suffrage [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Women in Politics: A Forum in the Centenary Year of Women's Suffrage [sound recording]</unittitle>
+<unitid>OH 142/21</unitid>
+<unitdate>21 September 1994</unitdate>
+<abstract>A recording of a forum presented by the State Library of South Australian in conjunction with the South Australian Centre for Australian Studies and the Constitutional Centenary Foundation in which South Australian women from government and politics speak about the historical perspective of women in parliament; a pioneer woman in politics; the inside story of South Australian politics; women presidents of political parties; and a survival guide for women in politics. The forum was held in the lecture theatre of the Institute Building, North Terrace, Adelaide.</abstract>
+<physdesc>
+<extent>4 cassettes</extent>
+<physfacet>Sound cassette 3 hours 30 minutes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000220.htm">
+<relationEntry localType="archival">Address by Dr. Susan Magarey [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Address by Dr. Susan Magarey [sound recording]</unittitle>
+<unitid>OH 211</unitid>
+<unitdate>17 June 1993</unitdate>
+<abstract>A talk organised by the South Australian Centre for Australian Studies (Professional and Community Branches) in the Kingston Room at Old Parliament House to mark the Centenary of Women's Suffrage, 1894-1994. The audience is welcomed by Brian Samuels, Acting Director of OPH, and the speaker is introduced by Elizabeth Ho, Interim Convenor of the Professional Branch. Dr Magarey's talk examines the 1894 debates about women's suffrage through a discussion of the roles of three individuals: parliamentarian Ebenezer Ward, reformer Rose Birks and a young prostitute depicted in the 1907 book 'Darkest Adelaide'. Twenty minutes of questions and discussion follow the talk. Dr Leith MacGillivray proposes the vote of thanks.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+<physfacet>1 hour 20 minutes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000219.htm">
+<relationEntry localType="archival">A History of the Australian Women's Movement since 1967 : SUMMARY RECORD [sound recording] Interviewers: Kate Borrett, Susan Magarey, Deborah Worsley-Pine and Sarah Zetlein</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>A History of the Australian Women's Movement since 1967 : SUMMARY RECORD [sound recording] Interviewers: Kate Borrett, Susan Magarey, Deborah Worsley-Pine and Sarah Zetlein</unittitle>
+<unitid>OH 346</unitid>
+<unitdate>1967 - 1988</unitdate>
+<abstract>A series of interviews with women involved in the Australian Women's Movement supervised by Ann Curthoys, Susan Magarey and Marilyn Lake as part of their joint Australian Research Council project 'A History of the Australian Women's Movement 1967-1988'.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound cassette 24 hours 50 minutes (approx.)</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000218.htm">
+<relationEntry localType="archival">Interview with Sylvia Kinder [sound recording] Interviewer: Susan Magarey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Sylvia Kinder [sound recording] Interviewer: Susan Magarey</unittitle>
+<unitid>OH 346/17</unitid>
+<unitdate>1996</unitdate>
+<abstract>A History of the Australian Women's Movement since 1967
+To see a summary of this project do a WORD search for History of the Australian Women's Movement Summary</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound cassette 1 hour 30 minutes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000217.htm">
+<relationEntry localType="archival">Speech re Catherine Helen Spence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Speech re Catherine Helen Spence</unittitle>
+<unitid>D7235(T)</unitid>
+<unitdate>1994</unitdate>
+<abstract>Speech given at the launch of the book 'Tenacious of the Past: The Recollections of Helen Brodie'. 19 December 1994.</abstract>
+<physdesc>
+<extent>0.05 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

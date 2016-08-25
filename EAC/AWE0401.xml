@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0401</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-03">2002-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0401b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women's Royal Australian Air Force (WRAAF)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-07-01">July 1950</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Armed services organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>A new Australian women's air force was formed in July 1950 and in November became the Women's Royal Australian Air Force (WRAAF). The WRAAF was disbanded in 1977 and female personnel were absorbed into the mainstream RAAF. Australia's first female air force pilots graduated in 1988 and today, with the exception of the airfield defence units, there are few jobs within the RAAF barred to women.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0400b.htm">
+<relationEntry localType="Corporate Body">
+Women's Auxiliary Australian Air Force (WAAAF) (1941 - 1947)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0487b.htm">
+<relationEntry localType="Person">
+Pearson, Kathleen Winifred
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0920b.htm">
+<relationEntry localType="Person">
+Parker, Marjorie Bryson (Madge) (1908 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1942-06-08">8 June 1942</fromDate>
+<toDate standardDate="1944-08-02">2 August 1944</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: 353257</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762053">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women's Royal Australian Air Force (WRAAF)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women's Royal Australian Air Force (WRAAF)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0401b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001805.htm">
+<relationEntry localType="published">Book: We also served, far north coast N.S.W. ex-servicewomen 1939-1945</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buckley, Martin J.</name>
+<title render="italic">We also served, far north coast N.S.W. ex-servicewomen 1939-1945</title>
+<imprint>
+<place>Goonellabah, [N.S.W.]</place>
+<publisher>Martin J. Buckley</publisher>
+<date>c1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001798.htm">
+<relationEntry localType="published">Resource Section: The mobilisation of women into active services / the 'Yankee' invasion / How the war affected women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The mobilisation of women into active services / the 'Yankee' invasion / How the war affected women</title>
+<extptr linktype="simple" href="http://infocus.sl.nsw.gov.au/res/resdesc.cfm?res_code=1272"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001796.htm">
+<relationEntry localType="published">Resource Section: Australian Women and World War ll: Kit</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Australian Women and World War ll: Kit</title>
+<extptr linktype="simple" href="http://infocus.sl.nsw.gov.au/res/resdesc.cfm?res_code=1269"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000842.htm">
+<relationEntry localType="archival">Australian servicewomen's memorial</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Australian servicewomen's memorial</unittitle>
+<unitid>ART90968</unitid>
+<unitdate>1999</unitdate>
+<abstract>Whereas more conventional war memorials may incorporate a cenotaph or a representative figure, Anne Ferguson has created a bare platform of coloured stones, divided in two by a curved trench that resembles an aerial view of a river, carving its way through a sparse, flat landscape. While most memorials encourage audiences to keep a reverential distance, to stand outside the experience of war and reflect upon it, Ferguson wants the viewer to walk right into the middle of the work, to experience a sense of empathy with the women it celebrates. The insignia of the women's services are displayed discreetly around the mosaic, because for Ferguson, ceremony is far less important than the human dimension. For many women, the work they undertook during the Second World War provided a first taste of freedom and responsibility. When the war ended and those jobs were given back to the men, it must have come as a bitter blow, because their lives and way of thinking had already been changed. It is this sense of metamorphosis that Ferguson has tried to capture in her stone mosaic, in which the variegated colours represent the different lives, the different backgrounds and experiences of servicewomen. Set in a peaceful grove between the deciduous trees, the sculpture changes the appearance in relation to the changes in daylight, the play of shadows, and the sprinkling of leaves that fall haphazardly onto the stone. Ferguson draws a parallel between the gradual process of awakening to the environment in which we live, and a growing recognition of the debt we owe to those men and women who gave their time, and their lives, in defence of this land. Her stone platform may be undemonstrative, but it has a feeling of underlying strength. It is a foundation upon which new recognitions can be built. 
+Granite mosaic  40.3 x 540 x 720 cm</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

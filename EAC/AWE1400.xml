@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1400</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-07">2005-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-19">2015-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1400b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Christian</part>
+<part localType="givenname">Millicent Lilian</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Luckett, Millicent</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-03-05">5 March 1905</fromDate>
+<toDate standardDate="1985-06-07">7 June 1985</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Johannesburg, South Africa</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>St Ives, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Activist</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Millicent Christian was a once-only candidate who was a lifetime activist for equality, peace and freedom. She ran for the Raleigh seat in the New South Wales Legislative Assembly in 1947 as an Independent Labor candidate.</abstract>
+<p>Millicent Christian was the daughter of Charles and Letty Luckett. Her family moved from South Africa to England and then to New South Wales. She was educated at St Michael's Sisterhood, Bloemfontein, South Africa, Warral Provisional School and Tamworth High School, New South Wales, Australia. She won a University Scholarship to enable her to study medicine at Sydney University in 1922, but the scholarship required her father's permission and he refused it.</p>
+<p>Millicent left home, and attended Sydney University, living at Women's College on the Ann Hargrave Scholarship 1923-25. She graduated BA 1926, Dip Ed 1927.<br />
+She taught at Burwood Boys' School, and West Kempsey and Young High Schools 1927-28. In 1929 she married a farmer, Cecil Aubrey Christian, and they had three daughters. After he died she brought up her daughters alone.</p>
+<p>She taught at Wenona School, North Sydney, and Presbyterian Ladies' College, Pymble.<br />
+She joined the United Associations of Women in 1945 and later became Vice President of the United Association of Women and the Honorary Secretary to the Conference of the Australian Women's Charter. She was instrumental in establishing the United Associations of Women Award for a female undergraduate in the school of history at the University of New South Wales in 1982, and in 1983 the UAW Prize for a female engineering student at the University of Technology, Sydney.</p>
+<p>She was an active member of the Women's International League for Peace and Freedom from 1964. Millicent was also a member of the ALP for over 40 years, a delegate to many State conferences and held branch and electorate council office. She was a member of the North Sydney Business and Professional Women's Club.</p>
+<p>In 1978 the Ku-Ring-Gai Council awarded her a Distinguished Citizen Award in recognition of her work in the local area, where she was president of the Ku-Ring-Gai Historical Society from 1976-79. She was an inveterate writer of letters to the Editor, and a passionate bridge player, playing on the day before her death despite her serious illness. When asked who influenced her to become a feminist, Millicent Christian replied "A domineering, male chauvinist father".</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-749061">
+<relationEntry>
+Christian, Millicent Lilian (1905-1985)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Christian, Millicent Lilian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Christian, Millicent Lilian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1400b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001983.htm">
+<relationEntry localType="published">Edited Book: Biographical register : the Women's College within the University of Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Annable, Rosemary</name>
+<title render="italic">Biographical register : the Women's College within the University of Sydney</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Council of the Women's College</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

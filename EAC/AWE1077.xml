@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1077</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-22">2004-09-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1077b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Society of Women Writers South Australia Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Society of Women Writers (Australia), South Australian Branch</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-01-01">1976</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Arts organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>In the early 1970s Elizabeth Furner founded the Brighton Writers' Workshop from which the Society of Women Writers (Australia), South Australian Branch was formed in 1976. It promotes interest and skills in writing for women by regular meetings and workshops. It became an independent incorporated body, the Society of Women Writers South Australia Inc., when the national society was disbanded in 2000. The Society's main aim is to draw together women writers to support each other in their writing endeavours, and various seminars, worshops and other activities are organised towards this end.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1073b.htm">
+<relationEntry localType="Corporate Body">
+Society of Women Writers (Australia) (1980 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0690b.htm">
+<relationEntry localType="Person">
+Furner, Elizabeth (1916 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-643987">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Society of Women Writers South Australia Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Society of Women Writers South Australia Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1077b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003313.htm">
+<relationEntry localType="published">Report: Annual Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Society of Women Writers (Australia). S.A. Branch</name>
+<title render="italic">Annual Report</title>
+<imprint>
+<date>1976-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001837.htm">
+<relationEntry localType="archival">Records of the Society of Women Writers (Australia), South Australian Branch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Records of the Society of Women Writers (Australia), South Australian Branch</unittitle>
+<unitid>SRG 519</unitid>
+<unitdate>1976 - 1992</unitdate>
+<abstract>Minutes, correspondence, papers relating to events conducted by the Society, statements of Income &amp; Expenditure, newspaper cuttings and audiotapes.</abstract>
+<physdesc>
+<extent>0.4 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001836.htm">
+<relationEntry localType="archival">Interview with Elizabeth Furner [sound recording] Interviewer: June Donovan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Elizabeth Furner [sound recording] Interviewer: June Donovan</unittitle>
+<unitid>OH 250/14</unitid>
+<abstract>Furner describes the South Australian Branch of the Society of Women Writers, its aims and activities and her own writing, which reflects her interests in 'history and humour'.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001812.htm">
+<relationEntry localType="archival">Records of the Society of Women Writers (Australia), South Australian Branch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Records of the Society of Women Writers (Australia), South Australian Branch</unittitle>
+<unitid>SRG 519</unitid>
+<unitdate>1976 - 1992</unitdate>
+<abstract>Minutes, correspondence, papers relating to events conducted by the Society, Statements of Income and Expenditure, newspaper cuttings and audiotapes.</abstract>
+<physdesc>
+<extent>0.4 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001164.htm">
+<relationEntry localType="archival">Interview with Elizabeth Furner [sound recording] Interviewer: June Donovan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Elizabeth Furner [sound recording] Interviewer: June Donovan</unittitle>
+<unitid>OH 250/14</unitid>
+<abstract>Elizabeth Furner, formerly Laurenson and Guy, was born in London, England. Her parents separated when she was a child. Elizabeth married a soldier in 1941 and they emigrated to Australia in 1952 with their four year old son. They came to Adelaide, via Tasmania and Sydney, in 1961. It was at this time that Elizabeth began taking an interest in both writing and local government, stimulated by her disgust about the discriminatory franchise laws. She joined the Australian Local Government Women's Association, rising quickly to President of the South Australian Branch, and did much public speaking as well as standing for council in North Brighton. In the early 1970s Elizabeth founded the Brighton Writers' Workshop from which the South Australian Branch of the Society of Women Writers was formed. She describes the society's aims and activities and her own writing, which reflects her interests in 'history and humour'.
+
+Recorded on 21 June 1994, 1 hour 40 minutes.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001842.htm">
+<relationEntry localType="archival">Society of Women Writers (Australia) Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Society of Women Writers (Australia) Records</unittitle>
+<unitid>NLA MS 6777</unitid>
+<unitdate>1925 - 1990</unitdate>
+<abstract>The collection includes the Sydney office's records, correspondence of the various state branches, constitutional details, newsletters, manuscripts from various literary competitions and workshops, publications of the Society, membership lists, accounts, applications for grants, conference papers and minutes of the Society's meetings. A large component of the collection is that concerning the Society's 1978 short story competition, for which there are many letters of application and numerous manuscripts.</abstract>
+<physdesc>
+<extent>4.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

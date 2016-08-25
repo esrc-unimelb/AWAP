@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5413</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Niki Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5413b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McIntosh</part>
+<part localType="givenname">Hilda Hayward</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Hayter, Hilda Hayward</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1886-12-04">4 December 1886</fromDate>
+<toDate standardDate="1958-04-08">8 April 1958</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Yarrunga, near Berrima, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Yass, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Postmistress</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Hilda McIntosh was the Canberra postmistress throughout World War I, managing the flow of mail to and from the battlefronts.</abstract>
+<p>Hilda Hayward Hayter was born at Yarrunga near Berrima, New South Wales of Australia, the fourth child of Australian-born parents Samuel Hayter, sawyer, and his wife Ann Matilda, née Webb. On 30 December 1912 at St John's Anglican Church, Moss Vale, New South Wales, she married Hector Gordon McIntosh, a 23-year-old carpenter and joiner working in Canberra's burgeoning building trade.</p>
+<p>On 15 March 1913 Hilda became Canberra postmistress, and moved into the house attached to the Canberra Post Office, on the Yass-Canberra road, in what is now the suburb of Ainslie. The post office, established in 1863, was one of the oldest in the district. On the modest income of £30 5s a year, Hilda and Hector took in a lodger to make ends meet. From 2 June 1913 after the opening of a new Canberra Post Office at Acton, Hilda renamed the post office Ainslie after the nearby hill of that name. In 1913 the postmistress and one assistant handled 33,800 letters and 297 telegrams. Hilda also relayed crucial messages about bushfires and accidents (Australian Dictionary of Biography).</p>
+<p>On 11 October 1913, Hilda gave birth to her first child James Gordon 'Jim' McIntosh. It is not known what help Hilda had to enable her to continue in the role of postmistress with a baby who grew to a five-year-old during the years of World War I.</p>
+<p>In addition to the usual postal services, during World War I Hilda's job involved managing the flow of letters and telegrams to and from the battlefronts and military headquarters, including the dreaded pink telegrams that announced the death or injury or capture of a loved one. Post offices also issued Mothers and Wives badges to the relatives of those serving the country. A bar or star on the badge represented each man in a family who had enlisted. Women proudly wore the badges as a sign that their families were 'doing their bit' for World War I.</p>
+<p>Hector enlisted in the Australian Imperial Force in August 1918 but did not serve because hostilities ended soon after. Hilda left the postal service in 1925 when she gave birth to her second child, daughter Doreen. She and Hector farmed at Symonston in the Federal Capital Territory and then Murrumbateman in New South Wales.</p>
+<p>Hilda died in the hospital at Yass, New South Wales on 8 April 1958 and was buried in Yass cemetery.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1470779">
+<relationEntry>
+McIntosh, Hilda Hayward (18861204-19580408)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McIntosh, Hilda Hayward', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McIntosh, Hilda Hayward</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5413b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100914.htm">
+<relationEntry localType="published">Resource Section: McIntosh, Hilda Hayward (1886-1958)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Waterhouse, Jill</name>
+<title render="quoted">McIntosh, Hilda Hayward (1886-1958)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<name type="author">National Centre for Biography</name>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/mcintosh-hilda-hayward-10970/text19499"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005702.htm">
+<relationEntry localType="published">Site Exhibition: Canberra Women in World War I: Community at Home, Nurses Abroad</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Clarke, Patricia and Francis, Niki</name>
+<title render="italic">Canberra Women in World War I: Community at Home, Nurses Abroad</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2015</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cww1"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

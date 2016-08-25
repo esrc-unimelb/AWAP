@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5611</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-07">2016-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Sandra Bailey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-07">2016-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5611b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bailey</part>
+<part localType="givenname">Sandra</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Chief Executive Officer </term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sandra Bailey, a member of the Yorta Yorta nation from southern NSW and Victoria, is the Chief Executive Officer of the Aboriginal Health and Medical Research Council of NSW (AH&amp;MRC), the peak representative organisation and advocate for Aboriginal communities on health and has a membership comprising of nearly 50 Aboriginal Community Controlled Health Services (ACCHSs) who deliver culturally appropriate primary health care services to Aboriginal people across NSW.
+
+A graduate of Melbourne Law School, Sandra has worked as a Solicitor for the Victorian Aboriginal Legal Service and Head of the Victorian Aboriginal Issues Unit of the Royal Commission into Aboriginal Deaths in Custody, and gained extensive experience working in partnership with Aboriginal community organisations in the areas of the advocacy and support of Aboriginal self-determination, building on the strengths of Aboriginal community development, legal and health inequalities and the preservation of cultural heritage.
+
+Sandra's current role incudes representing members interests through the provision of member services support, effective policy and program development within the sector and building on State and Commonwealth partnerships to ensure appropriate Aboriginal primary health care service delivery to achieve better health outcomes for Aboriginal people. Another significant role includes working in the broader health system with external partners in government and non-government agencies to promote engagement with the AH&amp;MRC and ACCHSs in policy planning and service delivery at state, regional and local levels.
+
+Sandra has held her current position since 1992 and with the support of an Aboriginal community-elected Board of Directors, the AH&amp;MRC has expanded to include support for nearly 50 ACCHSs through various activities delivered through Public Health Units which assists members with clinic services, cancer care, child &amp; maternal health services, chronic disease management, tobacco cessation, drug/alcohol use and harm minimisation; a Business Development Unit supporting members with service and clinical accreditation, governance, IT infrastructure &amp; information management systems; a Social and Emotional Wellbeing Workforce Support Unit assisting AHWs; Research &amp; Data Support; an Aboriginal Health College to provide education and training for current and future sector workers; and auspicing an Aboriginal Ethics Committee that ensures culturally appropriate ethical review of Aboriginal health research projects in NSW.
+
+Sandra is a co-chair of the NSW Aboriginal Health Partnership, which is strengthened by a formal agreement between the NSW Government and the AH&amp;MRC, and has served on a number of Ministerial Advisory Committees and boards. She has also been involved in a number of research projects in Aboriginal health including in the areas of child health and resilience.
+
+In recognition of her service in the Aboriginal health sector, Sandra was awarded the Australian Government Centenary Medal for Contribution to Health in 2003. In 2014 Sandra was again acknowledged for her service to the Aboriginal health sector, receiving the Hall of Fame award at the 2014 NSW Health Aboriginal Health Awards.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bailey, Sandra', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bailey, Sandra</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5611b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

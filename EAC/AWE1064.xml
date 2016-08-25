@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1064</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-20">2004-09-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1064b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hunter</part>
+<part localType="givenname">Dora</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+<occupation>
+<term>Childcare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dora Hunter was raised by two missionaries, Miss Hyde and Miss Butler, firstly at Quorn and then at Eden Hills, South Australia. She started working as a servant in a private home, and later got a job in a kindergarten. Following that, she worked as a Child Care Worker at the Central Methodist Mission in Adelaide for nine years. She did two years' training in the Aboriginal Task Force at the Institute of Technology in Adelaide, and worked in a Government position as an Aboriginal Community Worker. She has been involved with the Aboriginal Evangelical Fellowship and the Young People's Branch of the Woman's Christian Temperance Union. She enjoys playing music, and has often played in old people's homes and children's homes as well as at church meetings.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0955b.htm">
+<relationEntry localType="Corporate Body">
+Woman's Christian Temperance Union of South Australia (1889 - )
+</relationEntry>
+<descriptiveNote>
+<p>Member of the Young People's Branch of the WCTU</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-732068">
+<relationEntry>
+Hunter, Dora
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hunter, Dora', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hunter, Dora</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1064b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003199.htm">
+<relationEntry localType="published">Journal Article: Miss Dora Hunter.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Miss Dora Hunter.</title>
+<imprint>
+<date>1981</date>
+</imprint>
+<bibseries>
+<title render="italic">Nunga News</title>
+<num type="issue">November</num>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003198.htm">
+<relationEntry localType="published">Journal Article: Dora Hunter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Dora Hunter</title>
+<imprint>
+<date>1980</date>
+</imprint>
+<bibseries>
+<title render="italic">United Aborigines Messenger</title>
+<num type="volume">49</num>
+<num type="issue">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003197.htm">
+<relationEntry localType="published">Journal Article: Dora Hunter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Dora Hunter</title>
+<imprint>
+<date>1975</date>
+</imprint>
+<bibseries>
+<title render="italic">Aborigines News</title>
+<num type="volume">56:5</num>
+<num type="issue">July-January</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003196.htm">
+<relationEntry localType="published">Edited Book: Angkiku Bultu: Women's Paths, (compiled by Port Adelaide Girls High School students)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Egan, Rosie</name>
+<title render="italic">Angkiku Bultu: Women's Paths, (compiled by Port Adelaide Girls High School students)</title>
+<imprint>
+<place>Queenstown, South Australia</place>
+<date>1994(?)</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002905.htm">
+<relationEntry localType="published">Book: Some Aboriginal women pathfinders : their difficulties and their achievements</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beeson, Margaret J (compiled by)</name>
+<title render="italic">Some Aboriginal women pathfinders : their difficulties and their achievements</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Woman's Christian Temperance Union of Australia</publisher>
+<date>[1980]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001337.htm">
+<relationEntry localType="published">Book: Survival in our own land : 'Aboriginal' experiences in "South Australia' since 1836; told by Nungas and others</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mattingley, Christobel; Hampton, Ken</name>
+<title render="italic">Survival in our own land : 'Aboriginal' experiences in "South Australia' since 1836; told by Nungas and others</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Wakefield Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001808.htm">
+<relationEntry localType="archival">Oral Histories: Growing up in State and Private Homes and Orphanages in Adelaide/interviewer: Jerry Schwab, 1984-86</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Oral Histories: Growing up in State and Private Homes and Orphanages in Adelaide/interviewer: Jerry Schwab, 1984-86</unittitle>
+<unitid>MS 2592</unitid>
+<unitdate>1984 - 1986</unitdate>
+<abstract>Transcripts of Schwab field tapes 1-9 held in AIAS tape archives. Margaret Brusnahan, Spencer Weetra, Kenny Hampton, Avis Gale, Doris Katinyeri, Dora Hunter, Margaret Hayes, Veronica Brodie, Geraldine Mason relate experiences of childhood and youth 1940s, 50s, 60s in Largs Bay orphanage, St Francis Boys Home, Colebrook, Mulgoa, Tanderra, Fullerton Girls Home, Millswood; harassment by Aborigines Protection Board and exploitation in the work force as domestics</abstract>
+<physdesc>
+<extent>1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

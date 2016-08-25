@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2159</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-07-24">2006-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-25">2015-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2159b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Thai</part>
+<part localType="givenname">Emily</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Thai, Thi Bach Tuyet</part>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cholon, South Vietnam</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Librarian</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Thai, Ti Bach Tuyet was born in Cholon in Soth Vietnam. For many years, she taught Vietnamese language and social sciences and provided counselling services at a French High School.
+
+She migrated to Western Australia in 1975 and quickly reskilled, graduating with a Graduate Diploma in Library Studies from the Western Australian Institute of Technology in 1977, and obtaining work at the Perth Technical College library. Around this time, she adopted the name 'Emily'; inspired by a French poem <span style="font-style:italic">Emilie ou pays natal</span> because she felt the same homesickness as described in the poem. Adopting this name also made it easier for her Australian colleagues and customers, who couldn't pronounce 'Tuyet' properly.
+
+Not long after, Emily combined her skills in librarianship and teaching at the Perth City Council Library to develop and run a library education service for new migrant students. After that she worked as the Children's librarian at the City of Gosnells library. She worked very hard at developing programs to build stronger links between the library and the community. She also designed a graded reading system which helped migrants and reluctant readers become literate in English. Her expertise and experience eventually led to her being invited to be the Co-ordinator of the Ethnic Child Care Resource Unit. She introduced Cross-Cultural information packages for Children's Sevices and ran a variety of workshops relating to early childhood education.
+
+Since her arrival in Australia, Emily has maintained a strong commitment to community work. She has been an active member of Management Committees for non government organisations that focus on the provision of services to migrant communities, including: the Ethnic Music centre; Community Arts Network; Ethnic Communities Council; Australia Asia Association; Vietnamese Poetry, Classical Music and Opera Association, the Vietnamese Women's Support Community and the Federated Vietnamese Women's Association.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2181b.htm">
+<relationEntry localType="Exhibition">
+Being Seen And Heard: Migrant Women Organising In Australia, A Documentary History (2006 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766053">
+<relationEntry>
+Thai, Emily
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Thai, Emily', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Thai, Emily</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2159b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003677.htm">
+<relationEntry localType="published">Edited Book: Silent Echoes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thai, Emily</name>
+<title render="italic">Silent Echoes</title>
+<imprint>
+<place>Western Australia</place>
+<publisher>Vietnamese Poetry, Classical Music and Opera Association, Inc.</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

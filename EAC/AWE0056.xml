@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0056</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0056b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kenny</part>
+<part localType="givenname">Elizabeth</part>
+<part localType="honorific title">Sister</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1880-09-20">20 September 1880</fromDate>
+<toDate standardDate="1952-11-30">30 November 1952</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Warialda, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Toowoomba, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Health administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Kenny developed a new treatment for infantile paralysis (poliomyelitis). Guided by Dr Aeneas McDonnell of Toowoomba, she developed a thorough knowledge of human musculature. [1]
+
+Although Kenny never completed any nursing training or registered as a nurse, she opened a hospital at Clifton, near Toowoomba, in 1913. In 1915 she joined the Australian Army Nursing Service (AANS) and completed 12 round sea voyages between England and Australia with the returning wounded. During this time she earned her promotion to Sister, a title she used all her life. [2]
+
+During the 1930s she established clinics in Brisbane with the backing of the State government, but with opposition from the medical profession. In 1940 she moved to the United States of America where her methods were widely acclaimed and gradually accepted world wide. Kenny returned to Queensland in 1951 and died in Toowoomba on 30 November 1952.
+
+[1] <span style="font-style:italic">200 Australian Women</span> p. 124
+[2] ibid</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0157b.htm">
+<relationEntry localType="Person">
+Lawrence, Marjorie Florence (1909 - 1979)
+</relationEntry>
+<descriptiveNote>
+<p>Marjorie Lawrence used the treatment developed by Sister Elizabeth Kenny when the former contracted poliomyelitis in 1941</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-493848">
+<relationEntry>
+Kenny, Elizabeth (1880-1952)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kenny, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kenny, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0056b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003170.htm">
+<relationEntry localType="published">Resource Section: UQFL 16 - Elizabeth Kenny Collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fryer Library and Department of Special Collections, University of Queensland</name>
+<title render="quoted">UQFL 16 - Elizabeth Kenny Collection</title>
+<imprint>
+<publisher>The University of Queensland</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The University of Queensland Cybrary</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.library.uq.edu.au/fryer/ms/uqfl16.doc"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003171.htm">
+<relationEntry localType="published">Resource Section: UQFL 354 - Rae W. Dungan collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fryer Library and Department of Special Collections</name>
+<title render="quoted">UQFL 354 - Rae W. Dungan collection</title>
+<imprint>
+<publisher>The University of Queensland</publisher>
+</imprint>
+<bibseries>
+<title render="italic">University of Queensland Cybrary</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.library.uq.edu.au/fryer/ms/uqfl354.doc"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001218.htm">
+<relationEntry localType="published">Book: 100 great Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Macklin, Robert</name>
+<title render="italic">100 great Australians</title>
+<imprint>
+<place>South Yarra, Vic.</place>
+<publisher>Currey O'Neil Ross</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001010.htm">
+<relationEntry localType="published">Resource Section: SISTER ELIZABETH KENNY</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">SISTER ELIZABETH KENNY</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Australians</title>
+<name type="author">Behind the News, Australian Broadcasting Corporation</name>
+</bibseries>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100227.htm">
+<relationEntry localType="published">Resource Section: Kenny, Elizabeth (1881-1952)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Patrick, Ross</name>
+<title render="quoted">Kenny, Elizabeth (1881-1952)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090570b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000059.htm">
+<relationEntry localType="archival">Papers of Elizabeth Kenny, 1938-2001 [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Fryer Library and Department of Special Collections, University of Queensland</repository>
+<unittitle>Papers of Elizabeth Kenny, 1938-2001 [manuscript]</unittitle>
+<unitid>UQFL16</unitid>
+<unitdate>1938 - 2001</unitdate>
+<abstract>1. Correspondence 15 May 1939-13 Feb. 1952 (1 folder). -- 2. Letters of appreciation 1942-1946 received from doctors and others in U.S. and Canada who attended or visited the Kenny Clinic in Minneapolis (1 folder). -- 3. Evidence concerning my seven years' activities in the United States of America : report dated 14 Oct. 1947 to Hon. E.M. Hanlon, M.L.A., Premier of Queensland (20 l.). -- 4. My report on conference with the medical profession in fourteen foreign countries [1947] (23 l.). -- 5. Patients' reports 1938-1941 giving condition and progress under treatment, prepared by Elizabeth Kenny or Medical Superintendants (1 folder) -- 6. Report dated 10 Nov. 1947 sent to her medical sponsors in Queensland, in anticipation of a meeting called by the Director of Health and Medical Services which they are invited to attend, summarizing public statements 1937-1947 on her methods by medical authorities; with conclusions drawn by herself (18 l.). -- 7. Reports on concepts and treatments of polyiomyelitis : Brisbane 6th Dec, 1946 / by Thomas Victor Stubbs Brown and Abraham Fryberg (27 l.). -- 8. Summary of lectures given at the Brisbane General Hospital at the invitation of the General Medical Superintendant of the Brisbane and South Coast Hospitals Board, 1939-1940 (1 folder).</abstract>
+<physdesc>
+<extent>9 boxes/parcels</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001598.htm">
+<relationEntry localType="archival">Elizabeth Kenny - papers, 1936-1937</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Elizabeth Kenny - papers, 1936-1937</unittitle>
+<unitid>MLMSS 5855</unitid>
+<unitdate>1936 - 1937</unitdate>
+<abstract>The papers cover the period 1937-1937. They contain mainly correspondence relating to the establishment and operation of the Elizabeth Kenny Clinics in various states of Australia, and Elizabeth Kenny's efforts to gain recognition for her methods of treatment. The papers also include copies of specifications for equipment used during treatment, copies of lecture/address notes, invitations and newspaper clippings</abstract>
+<physdesc>
+<extent>0.05 m, 1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000584.htm">
+<relationEntry localType="archival">The Kenny Method of Treatment of Paralysis (Polio Myelitis or Infantile Paralysis, Spastic Paralysis and Birth Paralysis)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>The Kenny Method of Treatment of Paralysis (Polio Myelitis or Infantile Paralysis, Spastic Paralysis and Birth Paralysis)</unittitle>
+<unitid>A1336/1</unitid>
+<unitdate>1935</unitdate>
+<abstract>AUTHOR Elizabeth Kenny : ADDRESS Nobby, Qld : TITLE OF WORK The Kenny Method of Treatment of Paralysis (Polio Myelitis or Infantile Paralysis, Spastic Paralysis and Birth Paralysis) : TYPE OF WORK Literary Work : APPLICANT Elizabeth Kenny : DATE OF APPLICATION 14 May 1935 : DATE COPYRIGHT REGISTERED 23 May 1935 : WORK ENCLOSED? Yes</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000583.htm">
+<relationEntry localType="archival">Infantile Paralysis and Cerebral Diplegia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Infantile Paralysis and Cerebral Diplegia</unittitle>
+<unitid>A1336/1</unitid>
+<unitdate>1937</unitdate>
+<abstract>AUTHOR Elizabeth Kenny : ADDRESS Sydney : TITLE OF WORK Infantile Paralysis and Cerebral Diplegia : TYPE OF WORK Literary Work : APPLICANT Elizabeth Kenny : DATE OF APPLICATION 12 Mar 1937 : DATE COPYRIGHT REGISTERED 19 Mar 1937 : WORK ENCLOSED? Order as A1336/2</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000581.htm">
+<relationEntry localType="archival">Application for Letters Patent for an invention by Elizabeth Kenny, titled - A surgical appliance for supporting the injured members of patients bodies during their transport</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Application for Letters Patent for an invention by Elizabeth Kenny, titled - A surgical appliance for supporting the injured members of patients bodies during their transport</unittitle>
+<unitid>A627/54</unitid>
+<unitdate>1928</unitdate>
+<physdesc>
+<extent>0.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000580.htm">
+<relationEntry localType="archival">Application for Letters Patent for an invention by Elizabeth Kenny, titled - An improved transport stretcher</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Application for Letters Patent for an invention by Elizabeth Kenny, titled - An improved transport stretcher</unittitle>
+<unitid>A627/53</unitid>
+<unitdate>1926</unitdate>
+<physdesc>
+<extent>0.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001795.htm">
+<relationEntry localType="archival">Papers of Rae William Dungan [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Fryer Library and Department of Special Collections, University of Queensland</repository>
+<unittitle>Papers of Rae William Dungan [manuscript]</unittitle>
+<unitid>UQFL354</unitid>
+<unitdate>1928 - 1956</unitdate>
+<abstract>Correspondence, medical reports and articles, case notes, and newspaper cuttings pertaining to Dr. Rae W. Dungan's clinical work with polio sufferers in the 1930's and the 1940's and his collaboration with Sister Elizabeth Kenny.</abstract>
+<physdesc>
+<extent>1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000587.htm">
+<relationEntry localType="archival">Kenny, Elizabeth : Service Number - Sister</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Kenny, Elizabeth : Service Number - Sister</unittitle>
+<unitid>B2455/1</unitid>
+<unitdate>c. 1914 - c. 1920</unitdate>
+<abstract>KENNY Elizabeth : Service Number - Sister : Place of Birth - Warrialda NSW : Place of Enlistment - N/A : Next of Kin - (Mother) KENNY M Mrs</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000585.htm">
+<relationEntry localType="archival">Kenny, Elizabeth (Sister)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Kenny, Elizabeth (Sister)</unittitle>
+<unitid>Barcode 1376246, Control 621A, Series A3300</unitid>
+<unitdate>1947</unitdate>
+<abstract>[1947 File - Dark Blue Tab]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000586.htm">
+<relationEntry localType="archival">Supply of Agricultural and Scientific Information. Elizabeth Kenny Institute for Infantile Paralysis</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Supply of Agricultural and Scientific Information. Elizabeth Kenny Institute for Infantile Paralysis</unittitle>
+<unitid>A1067/1</unitid>
+<unitdate>1945 - 1946</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000582.htm">
+<relationEntry localType="archival">Elizabeth Kenny Clinic</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Elizabeth Kenny Clinic</unittitle>
+<unitid>A6006</unitid>
+<unitdate>1937</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

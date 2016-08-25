@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2122</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-06-14">2006-06-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2122b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Drozd</part>
+<part localType="givenname">Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Poland</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Migrant community advocate</term>
+</occupation>
+<occupation>
+<term>Chief Executive Officer - ethnic community organisation</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Drozd was born in Poland and arrived in Australia in 1982 under the Special Humanitarian Program. She has worked in a paid and voluntary capacity for the Polish community in Victoria for many years and currently holds the position of Chief Executive Officer of Australian-Polish Community Services (APCS). She is also an Executive Member of the Ethnic Communities Council of Victoria.</abstract>
+<p>Under Elizabeth Drozd's leadership, Australian-Polish Community Services has undertaken to conduct research within the Polish community that has significance beyond this group. Projects have looked at problemsfor elderly people isolated in aged-care units, the incidence of depression within the community and other mental health issues as well as providing help and advice for the victims of domestic violence. </p>
+<p>As well as promoting initiatives in these welfare areas, Drozd has maintained a keen interest in promoting an appreciation of Polish heritage and culture within the the community. Of particular concern to her is the drift away of young people from heritage based organisations.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2123b.htm">
+<relationEntry localType="Corporate Body">
+Australian-Polish Community Services (1983 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2181b.htm">
+<relationEntry localType="Exhibition">
+Being Seen And Heard: Migrant Women Organising In Australia, A Documentary History (2006 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2144b.htm">
+<relationEntry localType="Concept">
+Poland Born Community of Australia
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-493222">
+<relationEntry>
+Drozd, Elizabeth
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Drozd, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Drozd, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2122b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003627.htm">
+<relationEntry localType="published">Resource: Polish Migrants' Stories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wiench, Monika and Drozd, Elizabeth</name>
+<title render="italic">Polish Migrants' Stories</title>
+<imprint>
+<publisher>Australian-Polish Community Services</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://apcs.org.au/attachments/publications/polish_migrants_stories.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003628.htm">
+<relationEntry localType="published">Resource: Polonia in Australia: Challenges and Possibilities in the New Millenium</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Drozd, Elizabeth and Cahill, Desmond</name>
+<title render="italic">Polonia in Australia: Challenges and Possibilities in the New Millenium</title>
+<imprint>
+<publisher>Commmon Ground Publishing</publisher>
+<date>2004</date>
+</imprint>
+<extptr linktype="simple" href="http://www.apcs.org.au/attachments/publications/Polonia_in_Australia.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

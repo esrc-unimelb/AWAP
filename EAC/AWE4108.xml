@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4108</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-04-02">2009-04-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Ann-Mari Jordens</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4108b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>U3A Warrani Chorale</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>University of the Third Age Warrani Chorale</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1998-09-18">18 September 1998</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Canberra, Australian Capital Territory, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>GPO Box 1504 Canberra ACT 2601</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Women's musical group</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The U3A Warrani Chorale is a choir for senior women organised by volunteers, which is affiliated with the University of the Third Age, Australian Capital Territory. It was established in 1998 by its musical director and conductor, Pixie Gray, OAM, and its piano accompanist, Barbara Hall, OAM, and provides tuition in vocal and choral techniques and musicianship to its members. It holds annual free public concerts, as well as regularly performing at events organised by a wide range of community organizations. Its repertoire is drawn from a range of musical styles such as madrigals, classical, modern and sacred music, spirituals, ballads, folk songs and jazz, all usually sung in four part harmony. In 2006 it participated in the Australian Broadcasting Corporation's Choir of the Year competition. Its name, 'Warrani', is derived from an Aboriginal word for 'to sing'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754084">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'U3A Warrani Chorale', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">U3A Warrani Chorale</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4108b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002276.htm">
+<relationEntry localType="archival">Archives of the U3A Warrani Chorale</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Archives of the U3A Warrani Chorale</unittitle>
+<unitdate>1998 - 2008</unitdate>
+<abstract>Minutes, music library, pictorial material, correspondence.</abstract>
+<physdesc>
+<extent>1 m, 8 A4 Files in plastic containers</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

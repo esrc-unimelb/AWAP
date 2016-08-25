@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2795</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-10-31">2007-10-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-01-29">2016-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2795b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Davies</part>
+<part localType="givenname">Anne</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>IN 2008, Anne Davies is the Washington correspondent for the melbourne <span style="font-style:italic">Age </span>and <span style="font-style:italic">The Sydney Morning Herald.</span> She will be covering the run up to the US presidential election in November 2008 and the first years of the new presidency. Previously, Anne was state political editor of <span style="font-style:italic">The Sydney Morning Herald.</span> Prior to that she was Urban Affairs editor, covering the development industry and local politics. During this time she and Kate McClymont won a Gold Walkley for their coverage of the Canterbury Bulldogs rugby league salary cap scandal. Anne also spent ten years covering Federal politics in Canberra and specialised in a number of policy areas including media, transport, industry policy and trade.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1985-01-01">c. 1985</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2002-01-01">2002</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+<event>Walkley Award (All Media) - Investigative Journalism - Bulldogs Salary Cap Scandal - The Sydney Morning Herald - Fairfax (with Kate McClymont)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2002-01-01">2002</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+<event>Walkley Award (Gold Walkley) - Gold Walkley - Bulldogs Salary Cap Scandal - The Sydney Morning Herald - Fairfax (with Kate McClymont)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2796b.htm">
+<relationEntry localType="Person">
+McClymont, Kate
+</relationEntry>
+<descriptiveNote>
+<p>Joint Walkley award winners</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-757083">
+<relationEntry>
+Davies, Anne
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Davies, Anne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Davies, Anne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2795b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

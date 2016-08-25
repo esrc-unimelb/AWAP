@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0959</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-18">2004-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-18">2015-09-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0959b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Parker</part>
+<part localType="givenname">Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Field, Catherine Eliza Somerville</part>
+</nameEntry>
+<nameEntry localType="former name"><part>Stow, Catherine</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1856-05-01">1 May 1856</fromDate>
+<toDate standardDate="1940-03-27">27 March 1940</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>'Luilyl', Encounter Bay, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Katie Langloh Parker grew up on her father's property, Marra Station, northern New South Wales. Married at the age of 18, she led an exciting social life in Australian colonial capitals until 1875, when she moved to her husband's property, Bangate Station, near Angledool, New South Wales. There, she started collecting stories and vocabularies from the local branch of Yularoi people, which she subsequently published in several collections between 1896 and 1930. In 1905, she published her only purely ethnographic work The Euahlayi Tribe, an account of her life at Bangate. Her second marriage to Percy Randolph Stow marked the end of her outback life.</abstract>
+<p>It is believed that Parker's appreciation of Aboriginal culture partly had its roots in an event of her childhood, when she was saved from drowning in a river by an Aboriginal girl at the age of six.<br />
+Parker's collections of Yularoi stories, <span style="font-style:italic">Australian Legendary Tales</span> (1896) and <span style="font-style:italic">More Australian Legendary Tales</span> (1898), were re-published in 1897, 1953, 1955, 1959, 1967 and 1978, respectively. The collections were illustrated by Elizabeth Durack, Nora Heysen and Marion Hart. Parker herself made sketches of Aboriginal children, which were published in 1901. She also wrote <span style="font-style:italic">Walkabouts of Wur-run-nah</span> (1918) and <span style="font-style:italic">Woggheeguy: Australian Aboriginal Legends</span> (1930).<br />
+Although Parker's work remains problematic in terms of Aboriginal research ethics (old Yularoi people did not welcome her making public the information that was to remain confidential), her collections are an invaluable source of information on Yularoi culture.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0596b.htm">
+<relationEntry localType="Person">
+Heysen, Nora (1911 - 2003)
+</relationEntry>
+<descriptiveNote>
+<p>Nora Heysen illustrated some of the collections by Katie Parker</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0067b.htm">
+<relationEntry localType="Person">
+Durack, Elizabeth (1915 - 2000)
+</relationEntry>
+<descriptiveNote>
+<p>Elizabeth Durack illustrated some of the collections by Katie Parker</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-514424">
+<relationEntry>
+Parker, K Langloh (1856-1940)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Parker, Catherine (Katie) Langloh', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Parker, Catherine (Katie) Langloh</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0959b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002891.htm">
+<relationEntry localType="published">Book: My bush book : K. Langloh Parker's 1890s story of outback station life / with background and biography by Marcie Muir</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parker, K. Langloh (Katie Langloh), 1856-1940.</name>
+<title render="italic">My bush book : K. Langloh Parker's 1890s story of outback station life / with background and biography by Marcie Muir</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Rigby</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002890.htm">
+<relationEntry localType="published">Journal Article: Caring for Country: Yuwalaraay Women and Attachments to Land on an Australian Colonial Frontier</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Evans, J., Grimshaw, P. and Standish, A.</name>
+<title render="quoted">Caring for Country: Yuwalaraay Women and Attachments to Land on an Australian Colonial Frontier</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of women's history</title>
+<num type="volume">14</num>
+<num type="issue">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002889.htm">
+<relationEntry localType="published">Journal Article: Representative Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cornstalk, Ann</name>
+<title render="quoted">Representative Women</title>
+<imprint>
+<date>1912</date>
+</imprint>
+<bibseries>
+<title render="italic">Lone Hand</title>
+<num type="issue">December</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002886.htm">
+<relationEntry localType="published">Thesis: Cataloguing culture : in search of the origins of written records, material culture and oral histories of the Gamaroi, northern New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kovacic, Leonarda</name>
+<title render="quoted">Cataloguing culture : in search of the origins of written records, material culture and oral histories of the Gamaroi, northern New South Wales</title>
+<imprint>
+<publisher>The University of Melbourne</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

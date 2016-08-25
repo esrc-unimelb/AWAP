@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0775</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-03-08">2004-03-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Carolyne Carter</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0775b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Roxburgh</part>
+<part localType="givenname">Rachel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1991-04-13">13 April 1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Castle Hill, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Rachel Roxburgh was born in Sydney, New South Wales in 1915. She attended East Sydney Technical College and Adelaide Perry School. Afterwards she spent ten years in England and Europe, where she continued her studies at London Central and Hammersmith Art Schools. After her return to Australia she taught arts and crafts. 
+
+Roxburgh wrote a number of books on architecture and early Australian families. Her published works include <span style="font-style:italic">The Early Australian scene: illustrated by example of early buildings in New South Wales</span> (1969), <span style="font-style:italic">Thomas Potter Macqueen of Segenhoe, New South Wales</span> (1972), <span style="font-style:italic">Early colonial houses of New South Wales</span> (1974), <span style="font-style:italic">Colonial farm buildings of New South Wales</span> (1978), <span style="font-style:italic">Berrima Court House</span> (1981), <span style="font-style:italic">Throsby Park: an account of the Throsby Family in Australia 1802-1840</span> (1989) and <span style="font-style:italic">Some early colonial buildings</span> (filmstrip, 1962). She also published a number of articles on old buildings, for example those published in the Journal of Royal Australian Historical Society (New South Wales). 
+
+Roxburgh died on 13 April 1991 in Castle Hill, New South Wales and is survived by her brother, Mr J. Roxburgh.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-522378">
+<relationEntry>
+Roxburgh, Rachel (1915-1991)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Roxburgh, Rachel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Roxburgh, Rachel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0775b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002583.htm">
+<relationEntry localType="published">Resource Section: http://nla.gov.au/nla.ms-ms8368</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="quoted">http://nla.gov.au/nla.ms-ms8368</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Aids Manuscripts</title>
+<name type="author">National Library of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.ms-ms8368"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001263.htm">
+<relationEntry localType="archival">Papers of Rachel Roxburgh, 1794-1896</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Rachel Roxburgh, 1794-1896</unittitle>
+<unitid>MS 8368</unitid>
+<unitdate>1794 - 1896</unitdate>
+<abstract>Research notes, card indexes, photographs, slides, newscuttings, correspondence and other papers, ca. 1960-1986, accumulated by Roxburgh in the process of researching and writing the history of various colonial buildings in New South Wales, in particular Throsby Park near Moss Vale. This collection also includes a number of original documents, 1794 onwards, relating to the history of particular buildings. These documents include deeds, ledgers, licences, architectural drawing, letters and diaries.</abstract>
+<physdesc>
+<extent>2.6 m, 18 boxes + 1 folio package</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

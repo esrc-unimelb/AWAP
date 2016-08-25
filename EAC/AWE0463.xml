@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0463</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-03-26">2003-03-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0463b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Pemberton</part>
+<part localType="givenname">Jean Keers</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Greer, Jean</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-10-21">21 October 1913</fromDate>
+<toDate standardDate="2001-12-07">7 December 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Petersham, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Chichester, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Greer (later Pemberton) enlisted in the Australian Army on 16 December 1940. Attached to the 2/10 Australian General Hospital she was posted to Malaya in 1941.
+
+On 14 February 1942, Jean was one of the 65 nurses aboard the ship <span style="font-style:italic">Vyner Brooke</span> when it was sunk by Japanese bombing. After reaching the shore she was captured by the Japanese and was a Prisoner of War for the next three and a half years before being liberated.
+
+Jean Greer was discharged on 23 September 1946 and married Scotsman Duncan Pemberton in Singapore in 1947.
+
+The couple moved to England where Jean died on 7 December 2001.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0407b.htm">
+<relationEntry localType="Corporate Body">
+Sydney &amp; Metropolitan Ex-Prisoners of War Welfare Association (1999 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0569b.htm">
+<relationEntry localType="Cultural Artefact">
+Australian Ex-Prisoners of War Memorial
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-12-16">16 December 1940</fromDate>
+<toDate standardDate="1946-09-23">23 September 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service nos: NX70937, NX70517 and N104881</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-12-16">16 December 1940</fromDate>
+<toDate standardDate="1946-09-23">23 September 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service nos: NX70937, NX70517 and N104881</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743070">
+<relationEntry>
+Pemberton, Jean Keers (1913-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pemberton, Jean Keers', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pemberton, Jean Keers</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0463b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001850.htm">
+<relationEntry localType="published">Resource Section: GREER, JEAN KEERS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">GREER, JEAN KEERS</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=182712"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001849.htm">
+<relationEntry localType="published">Resource Section: GREER, JEAN KEERS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">GREER, JEAN KEERS</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=318050"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001848.htm">
+<relationEntry localType="published">Resource Section: GREER, JEAN KEERS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">GREER, JEAN KEERS</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=183031"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001846.htm">
+<relationEntry localType="published">Resource: Brave Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Angell, Barb</name>
+<title render="italic">Brave Women</title>
+<extptr linktype="simple" href="http://www.angellpro.com.au/women.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000744.htm">
+<relationEntry localType="archival">Greer, Jean Keers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Greer, Jean Keers</unittitle>
+<unitid>2002/04608381</unitid>
+<abstract>GREER JEAN KEERS : Service Number - NX70937 : Date of birth - 21 Oct 1913 : Place of birth - SYDNEY NSW : Place of enlistment - SYDNEY NSW : Next of Kin - GREER ISAAC</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000743.htm">
+<relationEntry localType="archival">Greer, Jean Keers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Greer, Jean Keers</unittitle>
+<unitid>B883</unitid>
+<unitdate>1941 - 1954</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000846.htm">
+<relationEntry localType="archival">Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</unittitle>
+<unitid>P01701.003</unitid>
+<unitdate>18 October 1945</unitdate>
+<abstract>Fremantle, WA. 18 October 1945. Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs), aboard the hospital ship <span style="font-style:italic">Manunda</span> on its arrival. Most of the nurses were staff members of the 2/10th and 2/13th Australian General Hospital (2/10AGH and 2/13AGH) and the 2/4th Casualty Clearing Station (2/4CCS) who have returned from Malaya. Known to be in the photograph are: Christien 'Chris' Oxley, Jean 'Jennie' Greer, Beryl 'Woodie' Woodbridge, Florence 'Trot' Trotter, Eileen 'Shortie' Short, Jessie Blanch, Valerie Smith, Violet McElnea, Betty 'Jeff' Jeffrey, Nesta James, Pat Blake, Janet P. 'Pat' Gunther, Jess Doyle, Cecilia E. M. 'Del' Delforce, Iole Harper, Sylvia Muir, Joyce 'Tweedie' Tweddell, V. Haig, Wilma Oram, Jean Ashton, Jessie Simons, Ada C. 'Mickey' Syer and Veronica R. Clancy. The woman in the centre wearing the dress uniform and hat is Colonel Annie M. Sage, Matron-in-Chief of the AANS. The woman in the foreground, standing behind the two seated nurses on the right, is Captain E. Mavis Hannah (later Allgrove) and the tall woman third from the right holding flowers is Vivian Bullwinkel. A number of the nurses are holding bouquets of flowers that have been sent by their families. Many of these nurses became prisoners of war (POWs) when they were captured by the Japanese after the fall of Singapore in February 1942 and survived captivity. Bullwinkel survived the massacre of 21 nurses on Radji Beach, Banka Island on 16 February 1942. (Donor: E.M. Allgrove)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00125.htm">
+<relationEntry localType="digitalObject">Identity card : Sister J K Greer, 2/10 Australian General Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Identity card : Sister J K Greer, 2/10 Australian General Hospital</unittitle>
+<unitid>REL/11816.008</unitid>
+<abstract>Part of the contents of a tropical uniform dress worn by NX70937 Sister Jean (Jenny) Keers Greer, of 2/10 Australian General Hospital, when the SS Vyner Brooke was sunk by the Japanese in February 1942. Sister Greer was subsequently taken prisoner of war. She used the dress and contents of her pocket throughout her captivity in Sumatra. The identity card was originally pinned inside her paybook. The paybook was of little use but her initial army training had stressed that the book was to be carried at all times, which accounts for its presence in her pocket at the time of the sinking of the ship. Identity card made by the British Red Cross Society, London.</abstract>
+<physdesc>Lightweight card<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00036.htm">
+<relationEntry localType="digitalObject">Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs</unittitle>
+<unitid>P01701.003</unitid>
+<unitdate>18 October 1945</unitdate>
+<abstract>Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs), aboard the hospital ship Manunda on its arrival. Most of the nurses were staff members of the 2/10th and 2/13th Australian General Hospital (2/10AGH and 2/13AGH) and the 2/4th Casualty Clearing Station (2/4CCS) who have returned from Malaya. Known to be in the photograph are: Christien 'Chris' Oxley, Jean 'Jennie' Greer, Beryl 'Woodie' Woodbridge, Florence 'Trot' Trotter, Eileen 'Shortie' Short, Jessie Blanch, Valerie Smith, Violet McElnea, Betty 'Jeff' Jeffrey, Nesta James, Pat Blake, Janet P. 'Pat' Gunther, Jess Doyle, Cecilia E. M. 'Del' Delforce, Iole Harper, Sylvia Muir, Joyce 'Tweedie' Tweddell, V. Haig, Wilma Oram, Jean Ashton, Jessie Simons, Ada C. 'Mickey' Syer and Veronica R. Clancy. The woman in the centre wearing the dress uniform and hat is Colonel Annie M. Sage, Matron-in-Chief of the AANS. The woman in the foreground, standing behind the two seated nurses on the right, is Captain E. Mavis Hannah (later Allgrove) and the tall woman third from the right holding flowers is Vivian Bullwinkel. A number of the nurses are holding bouquets of flowers that have been sent by their families. Many of these nurses became prisoners of war (POWs) when they were captured by the Japanese after the fall of Singapore in February 1942 and survived captivity. Bullwinkel survived the massacre of 21 nurses on Radji Beach, Banka Island on 16 February 1942.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00130.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial Nurses</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial Nurses</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00129.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00126.htm">
+<relationEntry localType="digitalObject">Sister Jean Keer (Jenny) Greer of Petersham, NSW (left), and Sister Betty Jeffrey of East Malvern, Vic,</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Sister Jean Keer (Jenny) Greer of Petersham, NSW (left), and Sister Betty Jeffrey of East Malvern, Vic,</unittitle>
+<unitid>305369</unitid>
+<unitdate>1945</unitdate>
+<abstract>Two members of the Australian Army Nursing Service, Sister Jean Keer (Jenny) Greer of Petersham, NSW (left), and Sister Betty Jeffrey of East Malvern, Vic, who were for three and a half years prisoners of war in Japanese hands in Sumatra, talking with an Australian soldier. The sisters were recovering from malnutrition in the Dutch hospital. Johore (Naval Historical Collection)</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1005</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-06-11">2004-06-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1005b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Women's Land Army Queensland Division</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1942-01-01">1942</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Services organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Women's Land Army, Queensland Division, was established in July 1942, to help 'fight on the food front.' Queensland women comprised almost one quarter of the nation's enlistees for war on this front. At its peak, 3,000 women were members of the Australian Women's Land Army, 700 of who came from Queensland.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0404b.htm">
+<relationEntry localType="Person">
+Pender, Beryl Elizabeth (1902 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0393b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Land Army (AWLA) (1942 - 1945)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-769088">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Women's Land Army Queensland Division', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Women's Land Army Queensland Division</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1005b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001714.htm">
+<relationEntry localType="archival">Australian Women's Land Army Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Australian Women's Land Army Records</unittitle>
+<unitid>R230 OM90 – 4/3 and 4/12 R42 OM90-04 Box 9202,</unitid>
+<unitdate>1942 - 1946</unitdate>
+<abstract>This is a collection of assorted materials relating to the Queensland Division of the Australian Women's Land Army. They include: MA Thesis by Pamela Anne Carlton, service record books, Copies of the <span style="font-style:italic">Land Army Gazette</span> (various years), historical notes prepared as part of an exhibition that coincided with the Royal visit in 1970, photographs - cutting and originals, ration slips. A poem warning Queensland girls of the sexual danger associated with falling for a serviceman is also included in the collection.
+
+The John Oxley Library is in temporary accommodation until 2006. Most material is kept off-site. Researchers wishing to use the manuscript collection should contact the research librarian prior to visiting the library to confirm the availability of the material.</abstract>
+<physdesc>
+<extent>3 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00276.htm">
+<relationEntry localType="digitalObject">Member of the Australian Women's Land Army and visitor, Redland Bay, 1944</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Member of the Australian Women's Land Army and visitor, Redland Bay, 1944</unittitle>
+<note label="rights">Copy held by John Oxley Library. Check catalogue information for copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

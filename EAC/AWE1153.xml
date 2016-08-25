@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1153</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-03-16">2005-03-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1153b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Young</part>
+<part localType="givenname">Elspeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-08-25">25 August, 1940</fromDate>
+<toDate standardDate="2002-08-10">10 August, 2002</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Auchterarder, Scotland</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Geographer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elspeth Young was a geographer who spent many years studying Indigenous communities in Australia and Papua New Guinea. After completing her PhD in human geography at the Australian National University in 1977, she was appointed to the position of Research Fellow in the 'Aboriginal component in the Australian economy project' led by Fred Fisk in the Development Studies Centre, ANU. In 1978, while working with Fisk, Young began a study of the newly established Aboriginal-owned pastoral enterprise at Willowra station, north of Alice Springs. Thus began her interest in Aboriginal land management from which she became one of the most influential champions of the Aboriginal English term 'Caring for Country'.
+
+Subsequently, she became the first geographer to have worked on Northern Territory land claims, contributing to the successful claims to Ti Tree and Mt Allen (1980-85). Her professional expertise was also usefully employed while she was a Senior Research Fellow (1982-1985) in the North Australia Research Unit of the ANU in Darwin. At this time, Young contributed to the East Kimberley Impact Assessment Project led by Nugget Coombs and a study on Aboriginal mobility.
+
+Young made a significant contribution to a variety of professional organisations. She was a Council Member of the Institute of Australian Geographers (1987-1992); editor of Australian Geographical Studies (1989-1992); holder of the IAG Professional Services Award for 1998; Member and then Chair of the National Committee for Geography; Treasurer and member of the Executive Committee of the Federation of Australian Social Science Organisations; and Chair of the Australian Antarctic Naming and Medals Committee.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-613472">
+<relationEntry>
+Young, Elspeth (1940-2002)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Young, Elspeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Young, Elspeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1153b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003468.htm">
+<relationEntry localType="published">Finding Aid: Guide to the Papers of Elspeth Anne Young</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+<title render="italic">Guide to the Papers of Elspeth Anne Young</title>
+<imprint>
+<place>Canberra</place>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aiatsis.gov.au/lbry/ms/finding_aid/MS4319.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001948.htm">
+<relationEntry localType="archival">Papers of Elspeth Anne Young</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Papers of Elspeth Anne Young</unittitle>
+<unitid>MS 4319</unitid>
+<unitdate>1954 - 2002</unitdate>
+<abstract>Material on the Australian Indigenous communities of central and north-west Australia including Alice Springs, Willowra, Yuendumu, Numbulwar, Mount Allan, and the Kimberley.</abstract>
+<physdesc>
+<extent>1.2 m, 7 boxes</extent>
+<physfacet>7 boxes + 3 folio folders</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

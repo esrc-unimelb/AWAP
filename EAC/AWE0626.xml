@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0626</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-11-14">2003-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-10-17">2013-10-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0626b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Laby</part>
+<part localType="givenname">Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-02-20">20 February 1913</fromDate>
+<toDate standardDate="2001-08-21">21 August 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Stawell, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The daughter of Thomas and Gwenelian (née Bartleman) Laby, Beth Laby completed her secondary schooling at Korowa Anglican Girls' School. She graduated with a Diploma of Foods and Cookery, Institutional Management, from the Emily McPherson College of Domestic Economy before becoming a demonstrator with the Metropolitan Gas Company.
+
+In 1942 Laby was appointed to the cookery department at Emily McPherson College and part of her college war work included teaching members of the Australian Women's Army Service, the Women's Royal Australian Navy Service and army hospital cooks. She demonstrated to civilian women the use of diverse foodstuffs during a time of food rationing and uncertain supply, as well travelling to country towns to show women how to make ovens from oil drums in case the war moved south from Darwin.
+
+Laby became acting head of the Emily McPherson College cookery department following the resignation of Miss Jose and later taught at Prahran Technical College. In her retirement she was a delegate to the National Council of Women of Victoria (NCWV) for the Home Economics Association of Victoria. From 1992 to 1997 she was an associate of the NCWV and continued to contribute to council fund-raising activities and assist the home economics advisers well into the 1990s.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Laby was a delegate for the Home Economics Association of Victoria</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763083">
+<relationEntry>
+Laby, Elizabeth (1913-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Laby, Elizabeth (Beth) Bartleman', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Laby, Elizabeth (Beth) Bartleman</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0626b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002254.htm">
+<relationEntry localType="published">Newspaper Article: Elizabeth (Beth) Bartleman Laby</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Allinson, Mary</name>
+<title render="quoted">Elizabeth (Beth) Bartleman Laby</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002147.htm">
+<relationEntry localType="published">Book: The Emily Mac : the story of the Emily McPherson College, 1906-1979</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Docherty, James</name>
+<title render="italic">The Emily Mac : the story of the Emily McPherson College, 1906-1979</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Ormond</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000932.htm">
+<relationEntry localType="archival">National Council of Women of Victoria Minutes</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>National Council of Women of Victoria Minutes</unittitle>
+<unitid>Mfm G 7541-7544</unitid>
+<unitdate>1904 - 1960</unitdate>
+<abstract>[Canberra?] National Library of Australia [19--]
+4 microfilm reels 35 mm.</abstract>
+<physdesc>
+<extent>4 Microform reels 35mm</extent>
+<physfacet>Microfilm, Manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000931.htm">
+<relationEntry localType="archival">National Council of Women of Victoria</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>National Council of Women of Victoria</unittitle>
+<unitdate>1902 - </unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

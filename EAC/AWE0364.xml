@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0364</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-10">2002-04-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0364b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Zadow</part>
+<part localType="givenname">Christiane Susanne Augustine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1846-08-27">27 August 1846</fromDate>
+<toDate standardDate="1896-07-07">7 July 1896</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Runkel, Duchy of Nassau</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+<occupation>
+<term>Suffragist</term>
+</occupation>
+<occupation>
+<term>Factory inspector</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1895 Augusta Zadow was appointed the first female Factory Inspector in South Australia.</abstract>
+<p>Zadow was the daughter of Johann Georg Hofmeyer and Elizabetha Hemming. After finishing her education at the Ladies Seminar, Biebrich-on-Rhine, Augustine became a governess and ladies companion. She travelled through Germany, France, Russia and finally England, where she settled in 1868. </p>
+<p>In London she worked as a tailoress (or seamstress) and helped to reform the conditions for female clothing workers.<br />
+She married Heinrich Christian Wilhelm Zadow in 1871 and together with their three-year-old son, John, the couple travelled as assisted migrants to South Australia six years later, in 1877. There they both became active trade unionists.  </p>
+<p>Known as Augusta (having anglicised her name while in England), Zadow worked in a boot factory and helped to establish the Working Women's Trade Union, becoming its foundation treasurer in 1890. She was a  delegate to the United Trades and Labor Council as well as an active suffragist. In 1893 she established and managed the Distressed Women and Children's Fund (later the Co-operative White Workers' Association). </p>
+<p>Augusta Zadow was appointed an Inspector of Factories in February 1895. The following year she contracted influenza and on July 7, 1896, died of haematemesis in Adelaide. She was buried in the West Terrace cemetery.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0823b.htm">
+<relationEntry localType="Person">
+Lee, Mary (1821 - 1909)
+</relationEntry>
+<descriptiveNote>
+<p>Worked together on a Trades and Labor Council sub-committee examining sweating in the clothing trades. Fellow member of the South Australian Women's Suffrage League</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0898b.htm">
+<relationEntry localType="Person">
+Birks, Rosetta Jane (Rose) (1856 - 1911)
+</relationEntry>
+<descriptiveNote>
+<p>Fellow member of the South Australian Women's Suffrage League</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0897b.htm">
+<relationEntry localType="Person">
+Nicholls, Elizabeth Webb (1850 - 1943)
+</relationEntry>
+<descriptiveNote>
+<p>Fellow member of the South Australian Women's Suffrage League</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-739080">
+<relationEntry>
+Zadow, Christiane Susanne (1846-1896)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Zadow, Christiane Susanne Augustine (Augusta)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Zadow, Christiane Susanne Augustine (Augusta)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0364b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000745.htm">
+<relationEntry localType="published">Resource Section: Augusta Zadow</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Augusta Zadow</title>
+<bibseries>
+<title render="italic">Women &amp; Politics in South Australia</title>
+<name type="author">State Library of South Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.slsa.sa.gov.au/women_and_politics/sa1.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000743.htm">
+<relationEntry localType="published">Resource Section: Zadow, Christiane Susanne Augustine (1846-1896)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jones, Helen</name>
+<title render="quoted">Zadow, Christiane Susanne Augustine (1846-1896)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">12</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A120677b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000001.htm">
+<relationEntry localType="published">Edited Book: Australian Feminism: A Companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Caine, Barbara</name>
+<title render="italic">Australian Feminism: A Companion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00648.htm">
+<relationEntry localType="digitalObject">Nevina Zadow: description of truck driving</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Criena Fitzgerald</repository>
+<unittitle>Nevina Zadow: description of truck driving</unittitle>
+<note label="rights">Interviewed by Criena Fitzgerald. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00645.htm">
+<relationEntry localType="digitalObject">Nevina Zadow: A change of work culture because of an influx of women</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Criena Fitzgerald</repository>
+<unittitle>Nevina Zadow: A change of work culture because of an influx of women</unittitle>
+<note label="rights">Interviewed by Criena Fitzgerald. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

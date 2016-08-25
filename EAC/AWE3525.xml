@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3525</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-09-09">2008-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-26">2014-06-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3525b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Willoughby</part>
+<part localType="givenname">Norma Joan</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+<occupation>
+<term>Local government councillor</term>
+</occupation>
+<occupation>
+<term>Mayor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Norma Joan Willoughby stood as an Independent candidate in the Legislative Assembly seat of Coburg at two Victorian state elections, which were held on 1 October 1988 and 3 October 1992.
+
+Willoughby served the people of Coburg on the Coburg City Council for seven years. She was first elected to a three year term in 1987 but only served one year when a redistribution of boundaries resulted in another election in 1988. She was elected for three year term and stood again in 1991 when she was re-elected for a final term which ended when the amalgamation of councils took place in Victoria in 1994.
+
+Willoughby loved serving the people of Coburg and held the position of Mayor of the City of Coburg from 1991-92. A true independent, she was nevertheless respected by Labor Prime Minister Bob Hawke and his wife Hazel who, in Hawke's capacity as the Member for Wills, visited Coburg frequently during Willoughby's term on council.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-737069">
+<relationEntry>
+Willoughby, Norma Joan
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Willoughby, Norma Joan', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Willoughby, Norma Joan</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3525b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004487.htm">
+<relationEntry localType="published">Book: Women in Australian Parliament and Local Government: An updated history 1975-1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Decker, Dianne</name>
+<title render="italic">Women in Australian Parliament and Local Government: An updated history 1975-1992</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Local Government Women's Association</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

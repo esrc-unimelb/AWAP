@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4063</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-16">2009-02-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4063b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">MacGillivray</part>
+<part localType="givenname">Melva Emily</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Crossing, Melva Emily</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-06-06">6 June 1900</fromDate>
+<toDate standardDate="1993-09-01">1 September 1993</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Broken Hill, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Leabrook, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Volunteer</term>
+</occupation>
+<occupation>
+<term>Musician</term>
+</occupation>
+<occupation>
+<term>Sportswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Melva MacGillivray was the first woman to drive a T-Model Ford to Broken Hill, New South Wales.</abstract>
+<p>Melva Crossing - or Tommy, as she was known - was the fourth of nine children, and grew up to be fiercely independent. The Crossing family left Broken Hill to begin farming near Adelaide, and Melva completed her education at the Methodist Ladies' College in Wayville. At seventeen, Melva drove a T-Model Ford from Adelaide to Broken Hill, a long and arduous trip given that the road was little more than a track with plenty of creek beds and sandy stretches to be negotiated. </p>
+<p>In 1927 Melva married medical practitioner Ian Hamilton MacGillivray. They spent eighteen months in Edinburgh, Scotland, where Ian studied surgery, and returned to Broken Hill so as he could resume his medical practice. The marriage ended in 1933 and Melva moved to Adelaide.</p>
+<p>Melva MacGillivray was an active member of the Red Cross during the Second World War, and gave up much of her time for the Spastic Centre. She performed in musical concerts around Adelaide and, after her move to the Leabrook Resthaven in later life, she ran handcraft workshops and exercise classes. She became known affectionately as Granny Mac.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-711082">
+<relationEntry>
+MacGillivray, Melva Emily (1900-1993)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'MacGillivray, Melva Emily (Tommy)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">MacGillivray, Melva Emily (Tommy)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4063b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004316.htm">
+<relationEntry localType="published">Book: Some Outstanding Women of Broken Hill and District</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Camilleri, Jenny</name>
+<title render="italic">Some Outstanding Women of Broken Hill and District</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Jenny Camilleri (Broken Hill Historical Society/Broken Hill Council)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

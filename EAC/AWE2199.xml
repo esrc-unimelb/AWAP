@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2199</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-12-02">2006-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2199b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Di Toro</part>
+<part localType="givenname">Daniela</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1974-10-16">16 October 1974</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Paralympian</term>
+</occupation>
+<occupation>
+<term>Tennis player</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Daniela Di Toro is a champion wheelchair tennis player who, in 1999, was named the Australian Paralympic Committee Athlete of the Year. She was ranked number one in her sport in 2000.
+
+Di Toro was not born with a disability; she lost the use of her legs in 1988 after a wall collapsed on her while she was participating in a school swimming carnival. She credits her success to a meeting with another wheelchair athlete, basketballer Sandy Blyth, who was a rehabilitation worker at the unit where Di Toro was receiving treatment.
+
+Di Toro is still involved in her sport and works as a youth worker in Melbourne, Australia.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1999-01-01">1999</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<event>Winner of the United States Open</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1999-01-01">1999</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<event>Australian Paralympic Committee Athlete of the Year</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<event>Winner of the Australian Open</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<event>Silver Medalist at the Sydney Paralympic Games</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2004-01-01">2004</fromDate>
+<toDate standardDate="2004-12-31">2004</toDate>
+</dateRange>
+<event>Winner of the Australian Open</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2004-01-01">2004</fromDate>
+<toDate standardDate="2004-12-31">2004</toDate>
+</dateRange>
+<event>Bronze Medalist at the Athens Paralympic Games</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-707071">
+<relationEntry>
+Di Toro, Daniela (1974-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Di Toro, Daniela', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Di Toro, Daniela</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2199b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003745.htm">
+<relationEntry localType="published">Article: The Paralympics</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith Amanda</name>
+<title render="quoted">The Paralympics</title>
+<imprint>
+<publisher>ABC Radio National</publisher>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sports Factor</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.ausport.gov.au/fulltext/2000/sportsf/s198909.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002045.htm">
+<relationEntry localType="archival">Daniela Di Toro File</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Sport Information Centre</repository>
+<unittitle>Daniela Di Toro File</unittitle>
+<unitdate>1999 - 2000</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

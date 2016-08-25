@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4349</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-24">2009-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4349b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Clark</part>
+<part localType="givenname">Marie Coutts</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1908-01-01">1908</fromDate>
+<toDate standardDate="1991-09-11">11 September 1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney?, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Physicist</term>
+</occupation>
+<occupation>
+<term>Researcher</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>University teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marie Coutts Clark was a physicist and spectrochemist at the Australian Commonwealth Scientific and Research Organisation (CSIRO).
+
+Clark was educated at North Sydney Girls' High School and then the University of Sydney, graduating with a Bachelor of Science in 1932. She subsequently completed a Radio Engineering Diploma Course at Sydney.
+
+Between 1932-1940 she taught at schools in Kyogle, Coffs Harbour, Yass and Griffith (all in New South Wales).
+
+During the Second world War she worked at the (Amalgamated Wireless Australia) AWA Material Testing Laboratory (1940-45).
+
+She then spent the rest of her professional life (1947-1970) employed as a Demonstrator in Physics at the University of Sydney, as a research officer in the Division of Radiophysics (CSIRO) and as a spectrochemist.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4314b.htm">
+<relationEntry localType="Corporate Body">
+The Women's College within the University of Sydney (1892 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1476135">
+<relationEntry>
+Clark, Marie Coutts (1908-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Clark, Marie Coutts', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Clark, Marie Coutts</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4349b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004638.htm">
+<relationEntry localType="published">Resource Section: Marie Coutts Clark</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCarthy, G. J.</name>
+<title render="quoted">Marie Coutts Clark</title>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+<name type="author">University of Melbourne E-Scholarship Research Centre</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004637.htm">
+<relationEntry localType="published">Book: Irresistible forces: Australian women in science</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hooker, Claire</name>
+<title render="italic">Irresistible forces: Australian women in science</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002363.htm">
+<relationEntry localType="archival">Marie Coutts Clark - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Marie Coutts Clark - Records</unittitle>
+<unitid>P083</unitid>
+<unitdate>1927 - 1953</unitdate>
+<abstract>Notebooks, examination papers and experiments 1923-45 from North Sydney Girls High School and the University of Sydney; printed material relating to Women's College 1928-41; Sydney University Extension Board lectures 1936; students' festival programmes 1927-32; personal records including biographical notes and records of the Sydney Technical College, Radio Engineering Diploma course 1941-45; photographs [1 m,</abstract>
+<physdesc>
+<extent>1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002362.htm">
+<relationEntry localType="archival">Marie Coutts Clark</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Marie Coutts Clark</unittitle>
+<unitid>M201</unitid>
+<unitdate>1928 - 1970</unitdate>
+<abstract>Contents include biographical notes; photograph; six lecture notebooks compiled as a student in Radio Engineering at Sydney Technical College; copies of Australian Commonwealth Scientific and Research Organisation (CSIRO) records relating to Clark's appointments; words and music for mask 1928 'Temple on the Hill'.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

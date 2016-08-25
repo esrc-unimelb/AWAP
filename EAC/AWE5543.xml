@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5543</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-01">2016-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Silbert</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5543b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Evans</part>
+<part localType="givenname">Ada Emily</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1872-05-17">17 May 1872</fromDate>
+<toDate standardDate="1947-12-27">27 December 1947</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Essex, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Kurkulla, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ada Emily Evans began her professional life as a teacher, but later blazed a trail for women in the legal profession. In 1902, at the University of Sydney, she was the first woman in Australia to earn a Bachelor of Laws, graduating at a time when New South Wales law did not allow her to practice. She was admitted to the NSW Bar in 1921 after changes to the legislation, thus becoming the first woman to be admitted to the bar in New South Wales.</abstract>
+<p>Ada Emily Evans was born on 17 May 1872 in Essex, England. Ada and her family immigrated to Sydney in 1883. Her mother came from a legal family and Ada was convinced of the necessity for women lawyers to remedy the prejudices of the entirely male legal system. When Ada enrolled in the Sydney University Faculty of Law, the Dean, Professor Pitt Cobbett, would not accept women law students. Ada enrolled when he was absent on leave and could not prevent her entry. Upon his return, Professor Cobbett told Ada that 'her frame was so light that she should become a doctor'. Nevertheless, Ada continued her studies and in 1902 became the first Australian woman to complete her law degree.</p>
+<p>Ada Evans applied to be registered at the Supreme Court as a student-at-law. She was rejected on the basis that a legal practitioner had to be a "person of good fame and repute" and the legal definition of "person" did not include being a woman. From 1902 until 1918, Ada campaigned for her admission. During those years, she wrote articles on women's issues for the Australian Star newspaper under the pen-name "A.L.B", postulated to be an acronym for "a lady barrister".</p>
+<p>In 1918, legislation was passed to allow women to enter the legal profession in New South Wales. In 1921, Ada Evans became the first woman to be admitted to the New South Wales Bar. Ada never practised due to the lapse of time since her graduation, poor health and family commitments. Confident and intelligent, Ada Evans was also an expert pistol shot and golf player. She died at Kurkulla on 27 December 1947.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Evans, Ada Emily', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Evans, Ada Emily</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5543b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005835.htm">
+<relationEntry localType="published">Resource Section: Ada Evans Biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brodsky, Juliette</name>
+<title render="quoted">Ada Evans Biography</title>
+<imprint>
+<publisher>New South Wales Bar Association</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Pioneering Women at the NSW Bar: 1921-1975</title>
+<name type="author">New South Wales Bar Association</name>
+</bibseries>
+<extptr linktype="simple" href="http://archive.nswbar.asn.au/docs/about/history/oral/wbf/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100052.htm">
+<relationEntry localType="published">Resource Section: Evans, Ada Emily (1872-1947)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Brien, Joan M.</name>
+<title render="quoted">Evans, Ada Emily (1872-1947)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/evans-ada-emily-6118/text10491"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005840.htm">
+<relationEntry localType="published">Thesis: A History of Women in the Legal Profession in New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Brien, Joan M.</name>
+<title render="quoted">A History of Women in the Legal Profession in New South Wales</title>
+<imprint>
+<publisher>Department of History, University of Sydney</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

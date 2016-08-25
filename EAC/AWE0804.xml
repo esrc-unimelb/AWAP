@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0804</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-03-25">2004-03-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Denise Tallis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0804b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Johnston</part>
+<part localType="givenname">Isabella Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Johnston, Isabel</part>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Miller, Isabella</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-01-01">1891</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Barrhead, Scotland</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Isabella Johnston (née Miller) was born at Barrhead, Scotland in 1891. She joined her aunt Amelia MacDonald in Perth, Western Australia, in 1910 and became active in the Perth Women's Service Guilds of which her aunt [Amelia MacDonald] was a founder member.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0803b.htm">
+<relationEntry localType="Corporate Body">
+Women's Service Guilds of Western Australia (1909 - 1997)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4105b.htm">
+<relationEntry localType="Person">
+Macdonald, Amelia Morrison Fraser (1865 - 1946)
+</relationEntry>
+<descriptiveNote>
+<p>Isabella Johnston was Amelia Mcdonald's neice. She was also active in the Western Australian women's reform movement in the early twentieth century</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728094">
+<relationEntry>
+Johnston, Isabella Jane (1891-1976)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Johnston, Isabella Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Johnston, Isabella Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0804b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002656.htm">
+<relationEntry localType="published">Book: The West Australian Women's Parliament : history.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Johnston, Isabel</name>
+<title render="italic">The West Australian Women's Parliament : history.</title>
+<imprint>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002655.htm">
+<relationEntry localType="published">Book: Looking back 50 years in relation to the establishment of a maternity hospital for women, 1909-1959.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Johnston, Isabel.</name>
+<title render="italic">Looking back 50 years in relation to the establishment of a maternity hospital for women, 1909-1959.</title>
+<imprint>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002654.htm">
+<relationEntry localType="published">Book: Women justices and the Women Justices' Association of WA : a history of the Womens Justices' Association.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Johnston, Isabellea, 1891-1976</name>
+<title render="italic">Women justices and the Women Justices' Association of WA : a history of the Womens Justices' Association.</title>
+<imprint>
+<date>1958</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002251.htm">
+<relationEntry localType="published">Book: Women on the warpath : feminist of the first wave</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davidson, Dianne</name>
+<title render="italic">Women on the warpath : feminist of the first wave</title>
+<imprint>
+<place>Nedlands, WA</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001331.htm">
+<relationEntry localType="archival">Johnston, Isabella Jane, 1891-1976 Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Johnston, Isabella Jane, 1891-1976 Papers</unittitle>
+<unitid>ACC 3926A.</unitid>
+<unitdate>1909 - 1991</unitdate>
+<abstract>Articles; biographical notes on prominent Western Australian women; broadcast talks; calendar; cards; constitutions of Women's Service Guilds (1916, 1924); newspaper cuttings; files; invitations; minutes; shopping lists; programs; reports; scrapbooks; services sheets; issues of "The dawn"; stationery. The material relates mainly to women's issues, and the Women's Service Guilds in particular.</abstract>
+<physdesc>
+<extent>0.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001334.htm">
+<relationEntry localType="archival">Isabel Johnston [photograph]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Isabel Johnston [photograph]</unittitle>
+<unitid>007399D</unitid>
+<abstract>Handwritten on front of photograph "Isabel Johnston State President 1939-1946"
+1 photoprint, mounted : b&amp;w ; 16 x 12 cm. Author Poignant, Axel, 1906-1986.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

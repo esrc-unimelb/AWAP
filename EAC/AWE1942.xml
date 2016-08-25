@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1942</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-01">2006-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-25">2015-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1942b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kwai</part>
+<part localType="givenname">Ajak</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bor, Malakal Region, Sudan</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Musician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in a small town on the Upper Nile, Ajak Kwai migrated to Australia in 1999. Founder of the band "Wahida", she enjoys a reputation as a fine musician with an original sound.</abstract>
+<p>Ajak Kwai grew up in a musical family in the small town of Bor on the Upper Nile. She sang at all the village ceremonies and celebrations, later joining a local missionary choir that sang gospel music in their own Dinka style. The Sudanese civil war damaged her community during the 1990s and Ajak moved to the Sudanese capital, Khartoum, before finally leaving the last of her family in 1992 to go to Egypt. There, she enrolled in a Seventh Day Adventist College, joined international church choirs and formed a female singing group, 'Bor Band'. Bor Band performed traditional and original Dinka songs, but was influenced by the many musical styles in Cairo.</p>
+<p>In 1999, then in her mid-twenties, Ajak Kwai was accepted into Australia under the Humanitarian Aid Program. She migrated to Hobart, Tasmania and joined the small Southern Sudanese community living there. She threw herself into her studies: an AMES English language course and accounting studies at TAFE. Class members organising a ceremony asked if anyone could sing, and Ajak obliged. From there her singing career was reborn. She has been called upon to sing at many community and fundraising events including a welcome concert for refugees from Kosovo, for which she wrote her own song. She has been invited to perform at the Hobart Refugee Fundraising Concerts, Hobart Multicultural Ball, International Women's Day events and other refugee awareness conferences. She sings in her native Dinka tribal language as well as in Arabic and English.</p>
+<p>In 2001, Ajak formed the band "Wahida" (Arabic for Unity). Later, in 2002, she began performing in various Australian festivals, often accompanied by multi-instrumentalist Martin Tucker. In May 2004, Ajak Kwai produced her first CD, <span style="font-style:italic">Why not Peace and Love?</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1824b.htm">
+<relationEntry localType="Exhibition">
+Australian In My Difference: Women and Migration in Australia Since 1945
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-711069">
+<relationEntry>
+Kwai, Ajak
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kwai, Ajak', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kwai, Ajak</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1942b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

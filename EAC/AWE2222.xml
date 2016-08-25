@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2222</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-12-13">2006-12-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2222b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Pelloe</part>
+<part localType="givenname">Emily Harriet</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Sims, Emily</part>
+</nameEntry>
+<nameEntry localType="pen name"><part>Ixia</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1877-05-03">3 May 1877</fromDate>
+<toDate standardDate="1941-04-15">15 April 1941</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Perth, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Equestrienne</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in St Kilda, Melbourne, Victoria, Emily Pelloe was educated at a private school in South Yarra before moving with her family to Western Australia. In 1902 she was married in Perth to Theodore Parker Pelloe, a bank manager. The pair had no children.
+
+A member of the Perth Riding Club, Pelloe competed successfully in equestrian events in Sydney, Melbourne, Launceston and Perth. She made several long rides in New South Wales and Western Australia. In 1916 she turned her talents to the study of botany, and went on to produce a number of illustrated publications including <span style="font-style:italic">Wildflowers of Western Australia</span>. Some of her landscape watercolours were purchased by government departments.
+
+From 1920, Pelloe was writing the 'Women's Interests' column for the <span style="font-style:italic">West Australian</span>. She supported the Country Women's Association, the Women Writers' Club, and the Women's Riding Club. A year after her death, Pelloe's husband Theodore presented 400 of her wildflower paintings to the University of Western Australia.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1930-12-31">1930</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0209b.htm">
+<relationEntry localType="Corporate Body">
+Country Women's Association of Australia (1945 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714093">
+<relationEntry>
+Pelloe, Emily Harriet (1877-1941)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pelloe, Emily Harriet', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pelloe, Emily Harriet</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2222b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004482.htm">
+<relationEntry localType="published">Resource Section: Pelloe, Emily Harriet (1877 - 1941)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stewart, Noel</name>
+<title render="quoted">Pelloe, Emily Harriet (1877 - 1941)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110199b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003753.htm">
+<relationEntry localType="published">Book Section: Floral Glory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pelloe, Emily Harriet</name>
+<title render="quoted">Floral Glory</title>
+<imprint>
+<place>Perth</place>
+<publisher>Goverment Printer</publisher>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">A Story of a Hundred Years: Western Australia, 1829-1929</title>
+<name type="author">Colebatch, Sir Hal</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003752.htm">
+<relationEntry localType="published">Book: Wildflowers of Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pelloe, Emily Harriet</name>
+<title render="italic">Wildflowers of Western Australia</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>C.J. De Garis</publisher>
+<date>1921</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003751.htm">
+<relationEntry localType="published">Book: West Australian Orchids</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pelloe, Emily Harriet</name>
+<title render="italic">West Australian Orchids</title>
+<imprint>
+<place>Perth</place>
+<publisher>Dix Limited</publisher>
+<date>1930</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

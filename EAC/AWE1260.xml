@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1260</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-07-27">2005-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1260b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Davis-Hurst</part>
+<part localType="givenname">Pat</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Purfleet, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal leader</term>
+</occupation>
+<occupation>
+<term>Justice of the Peace</term>
+</occupation>
+<occupation>
+<term>Aboriginal health worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Pat Davis-Hurst emerged as a community leader as she informally provided the services of counsellor, community nurse, social welfare worker and corrective services liaison officer to Aboriginal people from around her district.
+
+In 1975 she was appointed as an Aboriginal health worker by the New South Wales Department of Health. In 1980 she founded Taree's Gillawarra (now the Biripai) Aboriginal Health Service, and in 1983 established the Wonnai Cooperative in Taree. She was also a director of the Aboriginal Legal Service, a member of the Taree Housing Commission Board and a Justice of the Peace. She moved to the Taree Community Health Centre in 1983, where she remained until her retirement in 1990 due to ill health.
+
+In 1985 Pat Davis-Hurst received the Times-Telecom Advance Australia Award for her contribution to the Purfleet-Taree community.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5376b.htm">
+<relationEntry localType="Organisation">
+Aboriginal Legal Service (1970 - )
+</relationEntry>
+<descriptiveNote>
+<p>Pat Davis-Hurst was a director of the Aboriginal Legal Service</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741071">
+<relationEntry>
+Davis-Hurst, Pat
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Davis-Hurst, Pat', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Davis-Hurst, Pat</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1260b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003574.htm">
+<relationEntry localType="published">Book: Sunrise Station</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davis-Hurst, Patricia</name>
+<title render="italic">Sunrise Station</title>
+<imprint>
+<place>Taree, NSW</place>
+<publisher>Patricia Davis-Hurst and Ray Hurst</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

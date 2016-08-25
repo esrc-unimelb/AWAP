@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1121</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-08">2004-12-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1121b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Travellers Aid Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Previous name"><part>Travellers' Aid Society of Victoria</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1916-01-01">1916</fromDate>
+<toDate standardDate="2010-12-31">2010</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1916-01-01">1916</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Address: Level 3, 225 Bourke Street, Melbourne, VIC. 3000
+
+Email: info@travellersaid.org.au
+
+
+(03) 9654 2600</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Voluntary organisation</term>
+</function>
+<function>
+<term>Welfare organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Travellers Aid Australia (previously the Travellers' Aid Society of Victoria) is a non-profit, independent organisation, providing a range of services and assistance for travellers, including those with special requirements or in emergency situation. Founded in 1916, it initially offered support and protection for women and girls arriving in Melbourne from overseas, interstate and country Victoria. It was not until the late 1960s that they expanded their work to include men. The Society now assists travellers of either sex.</abstract>
+<p>In 1915, acting on the advice of the British Travellers Aid Society and expecting migration to Australia to increase, the Travellers Aid Committee of the Young Christian Women's Association in Melbourne invited charitable organisations in Victoria interested in the care and welfare of women and girls to a Conference to consider forming a Society along the lines of the British Society.<br />
+Following on from this meeting the Travellers Aid Society of Victoria was formed in 1916 as an independent body. In its early years, it was predominantly deserted wives of soldiers and their children benefited from Travellers Aid. The Society particularly worked on applications for War Gratuity Pensions. Accommodation was found for many women and unmarried mothers were provided with care during and after their pregnancies. Regular and ongoing follow-ups were part of the service. Women arriving by steam ship and working couples were assisted to find employment.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1122b.htm">
+<relationEntry localType="Corporate Body">
+National Travellers' Aid Society of Australia (1944 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3736b.htm">
+<relationEntry localType="Person">
+Muscio, Florence Mildred (1882 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0586b.htm">
+<relationEntry localType="Person">
+Downing, Cecilia (1858 - 1952)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1479298">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Travellers Aid Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Travellers Aid Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1121b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003437.htm">
+<relationEntry localType="published">Report: Annual Report/ The Travellers' Aid Society of Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual Report/ The Travellers' Aid Society of Victoria</title>
+<imprint>
+<date>1917</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003436.htm">
+<relationEntry localType="published">Book: By land, sea or air: A history of the Travellers Aid Society of Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heydon, Toby</name>
+<title render="italic">By land, sea or air: A history of the Travellers Aid Society of Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Travellers Aid Society of Victoria</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001904.htm">
+<relationEntry localType="archival">Edith Harrison Moore Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Edith Harrison Moore Papers</unittitle>
+<unitid>63/9</unitid>
+<unitdate>1898 - 1960</unitdate>
+<abstract>Personal correspondence, including letters from brother Gilbert a'Beckett, Sir Thomas a'Beckett and her husband, 1902-1960; Companies' and Societies' material (circulars, advertisements, information notes, minutes, reports) 1917-1951; Newspaper cuttings, invitations etc., 1929- 1954; accounts, tax assessment; Diaries, 1901-1958; engagement books, 1938-1961; papers given by Lady Moore to various societies; pattern books, architect's drawing, etc.</abstract>
+<physdesc>
+<extent>0.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

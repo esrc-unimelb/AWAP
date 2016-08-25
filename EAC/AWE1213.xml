@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1213</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-06-08">2005-06-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1213b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Choo</part>
+<part localType="givenname">Christine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Malaysia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Christine Choo, a historian, qualified social worker, social researcher and a migrant from Asia, has published widely in race and gender issues. She is currently an Honorary Research Fellow at the University of Western Australia and is involved in a number of community based projects. Christine's current (2008) research interests are Western Australian history, particularly of women and minority ethnic groups; Aboriginal-Asian connections in Australia; Life Writing and personal family history. Her PhD in History entitled Aboriginal Women on Catholic Missions in the Kimberley, Western Australia, 1900-1950, published as <span style="font-style:italic">Mission Girls</span> (2001), received the inaugural Margaret Metcalf award in 2003 for excellence in the use and application of archival materials from the State Records Office of Western Australia. In 1990 Christine was the recipient of the Archbishop Goody Award to explore the integration of Christianity in the lives of Aboriginal people in the Kimberley. <span style="font-style:italic">Aboriginal Child Poverty</span>, written under the auspices of the Brotherhood of St Laurence and the Secretariat of Aboriginal and Torres Strait Islander Child Care ( SNAICC), was published in 1990. Christine co-edited <span style="font-style:italic">History and Native Title</span> a volume of Studies in Western Australian History in 2003. She  has also published refereed journal articles, book chapters and book reviews.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-564273">
+<relationEntry>
+Choo, Christine
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Choo, Christine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Choo, Christine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1213b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003537.htm">
+<relationEntry localType="published">Book Section: Aboriginal womens lives: implications for Australian historiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Choo, Christine</name>
+<title render="quoted">Aboriginal womens lives: implications for Australian historiography</title>
+<imprint>
+<place>WA</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Sexuality and gender in history; selected essays</title>
+<name type="author">Hetherington, Penelope and Philippa Maddern</name>
+<num type="pages">78-94</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003536.htm">
+<relationEntry localType="published">Book: Mission girls: Aboriginal women on Catholic missions in the Kimberley, Western Australia 1900-1950</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Choo, Christine</name>
+<title render="italic">Mission girls: Aboriginal women on Catholic missions in the Kimberley, Western Australia 1900-1950</title>
+<edition>2</edition>
+<imprint>
+<place>Nedlands, WA</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003533.htm">
+<relationEntry localType="published">Book: The Black Grapevine: Aboriginal Activism and the Stolen Generations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Briskman, Linda</name>
+<title render="italic">The Black Grapevine: Aboriginal Activism and the Stolen Generations</title>
+<imprint>
+<place>Annandale, NSW</place>
+<publisher>The Federation</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

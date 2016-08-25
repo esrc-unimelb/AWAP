@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2727</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-07-26">2007-07-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-03">2016-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2727b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Graley</part>
+<part localType="givenname">Judith</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-01-26">26 January 1957</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sunshine, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Judith Graley was elected as Member of the Legislative Assembly for Narre Warren South in November 2006, representing the Australian Labor Party. In 2002 she stood as a candidate for the Australian Labor Party in the Legislative Assembly seat of Mornington, but was unsuccessful on that occasion. She was re-elected in November 2010 and in November 2014. She currently holds the position of Parliamentary Secretary to the Deputy premier in the labor Government, which came to power in November 2014.
+
+ Before her entry into state Parliament, Judith Graley served as a local government councillor for the Mornington Peninsula Shire Council from 1997-2003 and was its mayor from 2000-2001.</abstract>
+<p>Judith Graley completed a Bachelor of Arts (Hons) at La Trobe University, and a Diploma of Education at the University of Melbourne before working as a Tutor in the Department of Politics at both institutions over a number of years. Graley also worked as a secondary teacher at Footscray High School and a Company Director for Graley Chiropractic Services. She became Mayor of Mornington Peninsula Shire Council in 2000, when she also served as a board member for Peninsula Health. In 2002, Graley worked as Electorate Officer for Alistair Harkness MLA, and in 2004 she took on the same role for The Hon. Tim Holding MLA. Graley was elected MLA for Narre Warren South in 2006.</p>
+<p>Graley is married with three children. Her special interest areas are health, schools and kindergartens, child care, environment, and community resources. She is a member of the Western Bulldogs Football Culb; Emily's List; Southern Women's Action Network; Union of Australian Women; National Union of Workers; Community and Public Sector Union; Friends of Los Palos, Timor Leste; and the Victorian Local Governance Association.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-746095">
+<relationEntry>
+Graley, Judith (1957-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Graley, Judith', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Graley, Judith</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2727b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

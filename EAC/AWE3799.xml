@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3799</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-30">2008-10-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3799b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Schubert</part>
+<part localType="givenname">Misha</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+<occupation>
+<term>Community advocate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Misha Schubert's career in journalism began in 1998 at the <span style="font-style:italic">Australian</span> as a general news reporter, going on to become its Victorian political reporter. In 2001-02 she moved to New York, acquiring a masters degree from Columbia University's journalism school to complement her BA from RMIT. She moved to Canberra in 2002 where she covered indigenous affairs and health for two years before joining <span style="font-style:italic">The Age</span> a a federal political correspopndent. On parliamentary sitting days, she writes a political gossip column, House on the Hill. She is also a regular panellist on ABC television's <span style="font-style:italic">Insiders</span> program.
+
+
+Misha has also developed a profile in the community sector. She was a founding chairperson of Girlstorey, a drop-in centre for young women in Melbourne, and is a life member and former president of YWCA Victoria. She was a republican delegate at the 1998 Consitutional Convention in Canberra</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1998-01-01">1998</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0968b.htm">
+<relationEntry localType="Corporate Body">
+Young Women's Christian Association Victoria (Y.W.C.A. Victoria), World Young Women's Christian Association (World Y.W.C.A .1855 –) (1999 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741083">
+<relationEntry>
+Schubert, Misha
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Schubert, Misha', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Schubert, Misha</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3799b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00771.htm">
+<relationEntry localType="digitalObject">Portrait of Mischa Schubert taken at the Constitutional Convention, Canberra, February 2-13, 1998</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, an20141300. Used with permission.</repository>
+<unittitle>Portrait of Mischa Schubert taken at the Constitutional Convention, Canberra, February 2-13, 1998</unittitle>
+<unitdate>1998</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

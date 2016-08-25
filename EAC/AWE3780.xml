@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3780</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-23">2008-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3780b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">James</part>
+<part localType="givenname">Barbara</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Johnson, Barbara</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="2003-03-31">March 2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Nebraska, United States</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Darwin, Northern Teritory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Barbara James was born in Nebraska, USA, in 1943, and came to Australia in 1966. She began her working life in the Northern Territory in 1967 as a journalist, an occupation which later led to her work as an author, historian and research consultant. Her particular interests and areas of research were women and history/heritage issues.</abstract>
+<p>In July 1967, Barbara James, based in Canberra at the time, took a two week holiday to Darwin and never went back. When her car broke down on the return trip she came back to Darwin, found a job as a journalist with the <span style="font-style:italic">Northern Territory News</span>, and eventually married a Darwin lawyer, Geoff James, whom she had met while living in Canberra. She lived in Darwin until she passed away in 2003 when she lost her battle with cancer.</p>
+<p>As well as being an accomplished writer, James was also an active member of an extraordinary variety of community groups and had a strong background n political work as a result of serving as an adviser to Bob Collins when he was Leade of the Opposition in the Northern Terriotry (1982-1985) and when he was a Minister in the Federal Labor government and as a Shadow Minister.</p>
+<p>Barbara is the author or co-author of several published social history works, including <span style="font-style:italic">No Man's Land: Women of the Northern Territory.</span></p>
+<p>She was in Darwin in 1974 when Cyclone Tracy devastated the city. She was eventually evacuated, and while away became involved in citizen's groups, taking part in many meetings of evacuees very concerned at media reports about events back home, and at the extreme nature of new town plan provisions. She actively liaised with Darwinians, the then Department of Urban and Regional Development, ACOSS and the Cities Commission, and with the Environment Centre in Darwin.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1967-01-01">1967</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-527725">
+<relationEntry>
+James, Barbara (19431108-20030331)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'James, Barbara', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">James, Barbara</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3780b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004244.htm">
+<relationEntry localType="published">Book: Occupation, citizen : the story of Northern Territory women and the vote (1894-96)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Barbara</name>
+<title render="italic">Occupation, citizen : the story of Northern Territory women and the vote (1894-96)</title>
+<imprint>
+<place>Darwin</place>
+<publisher>Barbara James</publisher>
+<date>c1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004243.htm">
+<relationEntry localType="published">Book: 'Fit for the gentler sex' : a social and site history of the settlement of Port Darwin and its environs, a commemoration of the contribution women have made to the Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wilson, Helen J.  and Barbara James in association with Mickey Dewar</name>
+<title render="italic">'Fit for the gentler sex' : a social and site history of the settlement of Port Darwin and its environs, a commemoration of the contribution women have made to the Territory</title>
+<imprint>
+<place>Darwin</place>
+<publisher>Museum and Art Gallery of the Northern Territory</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004242.htm">
+<relationEntry localType="published">Book: No man's land : women of the Northern Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Barbara</name>
+<title render="italic">No man's land : women of the Northern Territory</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Collins</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002130.htm">
+<relationEntry localType="archival">James, Barbara: Copyprints of Darwin after Cyclone Tracy including evacuation and emergency centres 1974-1975</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Northern Territory Archives Service, Darwin Branch</repository>
+<unittitle>James, Barbara: Copyprints of Darwin after Cyclone Tracy including evacuation and emergency centres 1974-1975</unittitle>
+<unitid>NTRS 1683</unitid>
+<unitdate>1974 - 1975</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs and letters</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002128.htm">
+<relationEntry localType="archival">Interview with Barbara James</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Northern Territory Archives Service, Darwin Branch</repository>
+<unittitle>Interview with Barbara James</unittitle>
+<unitid>NTRS 226 Oral history interview transcript 581</unitid>
+<unitdate>1966 - 1989</unitdate>
+<abstract>This interview is mainly about her experience of Cyclone Tracy and its aftermath.  She describes her work before the cyclone, with the NT News, ABC radio and the Environment Centre, and describes the lifestyle of those days. It was recorded in 1989 in Darwin by Francis Good</abstract>
+<physdesc>
+<extent>1 Tape</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

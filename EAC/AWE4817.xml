@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4817</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-15">2012-08-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Criena Fitzgerald</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4817b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Patroni</part>
+<part localType="givenname">Savina</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Maiden"><part>Piuselli, Savina</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1923-01-09">9 January 1923</fromDate>
+<toDate standardDate="2012-06-25">25 June 2012</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Serino, Northern Italy</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Kalgoorlie, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Gardener</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Savina Patroni migrated to Australia from Italy in 1951. She lived in the Somerville garden district of Kalgoorlie and raised a family while also working on the family market garden.</abstract>
+<p>Savina Patroni migrated to Australia in 1951 with her husband and two children, Laura and Bert, on the <span style="font-style:italic">Australia</span>. Prior to her marriage, Savina had worked as a tailor in one of Milan's top fashion houses. She moved with her husband and children into a house, which had been transported from the Gwalia mine. The corrugated iron dwelling was lined with hessian bags, and there was no electricity or running water. Savina had three more children - Nellie, Alfie and Vilma - in Australia, and cared for the family while also doing hard physical labour in the garden. She picked, packed, and loaded vegetables for sale to markets in Kalgoorlie. The family also had a cow and raised goats and pigs for milk and meat.</p>
+<p>Savina continued to work on the garden well into her 60s. She still lives in the same house - albeit with modifications and renovations.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1500360">
+<relationEntry>
+Patroni, Savina (19230109-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Patroni, Savina', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Patroni, Savina</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4817b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002590.htm">
+<relationEntry localType="archival">Savina Patroni interviewed by Criena Fitzgerald</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Savina Patroni interviewed by Criena Fitzgerald</unittitle>
+<unitid>5158946</unitid>
+<unitdate>2011</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00569.htm">
+<relationEntry localType="digitalObject">Savina Patroni, taken on arrival in Australia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Savina Patroni</repository>
+<unittitle>Savina Patroni, taken on arrival in Australia</unittitle>
+<unitdate>c. 1950</unitdate>
+<note label="rights">Photograph courtesy of Savina Patroni. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00568.htm">
+<relationEntry localType="digitalObject">Savina Patroni at work in the market garden, Sommerville</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Savina Patroni</repository>
+<unittitle>Savina Patroni at work in the market garden, Sommerville</unittitle>
+<unitdate>1983</unitdate>
+<note label="rights">Photograph courtesy of Savina Patroni. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00564.htm">
+<relationEntry localType="digitalObject">Savina Patroni's vegetable garden, Sommerville</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Savina Patroni</repository>
+<unittitle>Savina Patroni's vegetable garden, Sommerville</unittitle>
+<unitdate>c. 1980</unitdate>
+<note label="rights">Photograph courtesy of Savina Patroni. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

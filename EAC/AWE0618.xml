@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0618</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-24">2003-10-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0618b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hamilton-Williams</part>
+<part localType="givenname">Ruth Myee</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-01-14">14 January 1905</fromDate>
+<toDate standardDate="1992-08-29">29 August 1992</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Woonona, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Bowral, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ruth Hamilton-Williams, the daughter of James Davidson, enlisted in the Australian Army Medical Women's Service (AAMWS) on 1 May 1943. She served as Assistant Controller at the Australian Military Forces Headquarters in Melbourne before being discharged, with the rank of Major, on 21 November 1946.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1929-12-31">1929</toDate>
+</dateRange>
+<event>Assistant Mistress at Frensham, New South Wales</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1932-01-01">1932</fromDate>
+<toDate standardDate="1934-12-31">1934</toDate>
+</dateRange>
+<event>Assistant Mistress at the Presbyterian Ladies College (PLC), Goulburn</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1935-01-01">1935</fromDate>
+<toDate standardDate="1936-12-31">1936</toDate>
+</dateRange>
+<event>Senior Mistress at PLC</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1943-12-31">1943</toDate>
+</dateRange>
+<event>Assistant secretary with the Australian Chemical Institute, Melbourne</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1943-05-01">1 May 1943</fromDate>
+<toDate standardDate="1943-05-01">1 May 1943</toDate>
+</dateRange>
+<event>Enlisted in the Australian Army  Medical Women's Services (AAMWS)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1945-12-21">21 December 1945</fromDate>
+<toDate standardDate="1945-12-21">21 December 1945</toDate>
+</dateRange>
+<event>Married H S Hamilton Williams</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1946-11-21">21 November 1946</fromDate>
+<toDate standardDate="1946-11-21">21 November 1946</toDate>
+</dateRange>
+<event>Discharged from the AAMWS</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0415b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Medical Women's Service (AAMWS) (1942 - 1951)
+</relationEntry>
+<descriptiveNote>
+<p>Assistant Controller at Headquarters, Australian Military Forces, Melbourne</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-700097">
+<relationEntry>
+Hamilton-Williams, Ruth Myee (1905-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hamilton-Williams, Ruth Myee', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hamilton-Williams, Ruth Myee</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0618b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001308.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Legge, J S</name>
+<title render="italic">Who's Who in Australia, 1971</title>
+<edition>20</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002183.htm">
+<relationEntry localType="published">Resource Section: HAMILTON-WILLIAMS, RUTH MYEE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">HAMILTON-WILLIAMS, RUTH MYEE</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=541085"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002143.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1947</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chisholm, Alec H</name>
+<title render="italic">Who's Who in Australia, 1947</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1947</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

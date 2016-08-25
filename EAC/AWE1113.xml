@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1113</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-11-10">2004-11-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1113b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>West Australian Housewives' Association</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Western Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Lobby group</term>
+</function>
+<function>
+<term>Women's rights organisation</term>
+</function>
+<function>
+<term>Membership organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The West Australian Housewives' Association was formed in 1920 for the purpose of protecting the interests of housewives. The final meeting of the Executive was held 3 April, 1984.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1120b.htm">
+<relationEntry localType="Corporate Body">
+Federated Association of Australian Housewives (1923 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1923-01-01">1923</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1127b.htm">
+<relationEntry localType="Person">
+Morgan, Eliza Elsie
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0583b.htm">
+<relationEntry localType="Corporate Body">
+Housewives Association of Victoria (1915 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0958b.htm">
+<relationEntry localType="Corporate Body">
+Housewives Association (Australia) South Australian Division (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767091">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'West Australian Housewives' Association', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">West Australian Housewives' Association</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1113b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003401.htm">
+<relationEntry localType="published">Pamphlet: West Australian Housewives' Association (Inc.) : (Non-Party &amp; Non-Sectarian)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">West Australian Housewives' Association (Inc.) : (Non-Party &amp; Non-Sectarian)</title>
+<imprint>
+<place>Perth</place>
+<publisher>The Association</publisher>
+<date>1965</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001894.htm">
+<relationEntry localType="archival">Eliza Elsie Morgan Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Eliza Elsie Morgan Papers</unittitle>
+<unitid>ACC 3509A</unitid>
+<unitdate>1876 - 1985</unitdate>
+<abstract>Greetings cards (1933-1938); letter book belonging to the Superintending Engineer in Geraldton dealing with the construction of the Geraldton-Northampton Railway (1876); letters (1923-1985); newspaper cuttings dealing with the Sugar Inquiry (1931-1932); newspaper cuttings on miscellaneous subjects including Women's Service Guild and the Food Control Board (1930-1938); reports connected with the Sugar Inquiry (1931); scrapbook covering the months she spent in the Eastern States on the Sugar Inquiry Committee, consisting of newspaper cuttings, telegrams, postcards, photographs and letters to her family.</abstract>
+<physdesc>
+<extent>0.07 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001887.htm">
+<relationEntry localType="archival">West Australian Housewives' Association Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>West Australian Housewives' Association Records</unittitle>
+<unitid>ACC 3106A</unitid>
+<unitdate>1965 - 1984</unitdate>
+<abstract>Agenda for A.G.M. (1980); certificate of change of name (1984); constitution (1965); history "Origin of the West Australian Housewives' Association" written by Elsie E. Morgan; membership list (1974-1975); minute books (1971-1984); report of Acting Secretary (1981)</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

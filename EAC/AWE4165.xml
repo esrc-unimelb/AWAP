@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4165</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-19">2009-05-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4165b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Vallentine</part>
+<part localType="givenname">Josephine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Vallentine, Jo</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1946-05-30">30 May 1946</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jo Vallentine was elected to the Senate of the Parliament of Australia as a Senator for Western Australia representing the Nuclear Disarmament Party in 1985. On her resignation form the Nuclear Disarmament Party, she remained in the Parliament as an Independent, until she joined the Western Australian Greens in July 1990. She resigned from Parliament in 1992.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-594605">
+<relationEntry>
+Vallentine, Jo (1946-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Vallentine, Josephine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Vallentine, Josephine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4165b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004538.htm">
+<relationEntry localType="published">Book: Quakers in politics: pragmatism or principle</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vallentine, Jo and Jones, Peter, G.</name>
+<title render="italic">Quakers in politics: pragmatism or principle</title>
+<imprint>
+<place>Alderley, Queensland</place>
+<publisher>Religious Society of Friends</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00614.htm">
+<relationEntry localType="archival">Interview with Josephine (Jo) Vallentine by Leckie Hopkins</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Interview with Josephine (Jo) Vallentine by Leckie Hopkins</unittitle>
+<unitid>OH1718</unitid>
+<unitdate>c. 1946 - c. 1986</unitdate>
+<abstract>A recorded discussion about women and the Peace Movement.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>1 Sound Cassette, printed synopsis</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00613.htm">
+<relationEntry localType="archival">Interview with Josephine (Jo) Vallentine by Leonie Stella</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Interview with Josephine (Jo) Vallentine by Leonie Stella</unittitle>
+<unitid>OH3384/12 </unitid>
+<unitdate>c. 1978 - c. 2002</unitdate>
+<abstract>One of a series of interviews used by Barbara Kearns in "Stepping out for peace", a twenty year history of the Campaign Against Nuclear Energy and People for Nuclear Disarmament in Western Australia. Jo talks about her involvement in Campaign Against Nuclear Energy from 1978, in People for Nuclear Disarmament from 1982, and her decision to run as a candidate for the Parliment in 1984 as Australia's first Greens Senator.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>2 sound cassettes; transcript of 39 pages</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00611.htm">
+<relationEntry localType="archival">Collection of information relating to the Office of Jo Vallentine, the Western Australian Senator for Nuclear Disarmament, 1984</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Collection of information relating to the Office of Jo Vallentine, the Western Australian Senator for Nuclear Disarmament, 1984</unittitle>
+<unitid>PR12664 </unitid>
+<abstract>Collection of printed ephemerainformation relating to the Office of Jo Vallentine, the Western Australian Senator for Nuclear Disarmament, 1984</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Printed Materials</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00612.htm">
+<relationEntry localType="archival">Josephine (Jo) Vallentine Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Josephine (Jo) Vallentine Papers</unittitle>
+<unitid>ACC 6142A </unitid>
+<abstract>15 boxes of manuscripts/papers relating to former Senator and nuclear disarmament campaigner Josephine Vallentine</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscripts</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002268.htm">
+<relationEntry localType="archival">[Biographical cuttings on Jo Vallentine, school teacher, activist and politican]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>[Biographical cuttings on Jo Vallentine, school teacher, activist and politican]</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+<physfacet>Book</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

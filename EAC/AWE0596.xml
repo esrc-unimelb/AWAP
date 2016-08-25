@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0596</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-13">2003-10-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0596b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Heysen</part>
+<part localType="givenname">Nora</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Black, Nora</part>
+<useDates>
+<dateRange>
+<fromDate standardDate=""></fromDate>
+<toDate standardDate="1972-12-31">1972</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-01-11">11 January 1911</fromDate>
+<toDate standardDate="2003-12-30">30 December 2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Hahndorf, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The daughter of South Australian landscape painter Sir Hans Heysen, Nora Heysen was the first woman to win the Archibald portrait prize (1938) and the first women to be appointed as an Australian war artist on 12 October 1943. During her service Heysen completed over 170 works of art. Following the war she travelled to England and in January 1953 married Dr Robert Black, who was to become the Head of Tropical Medicine at the University of Sydney. On 26 January 1998 Nora Heysen was appointed a Member of the Order of Australia for her service to art as a painter of portraits and still life subjects.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0959b.htm">
+<relationEntry localType="Person">
+Parker, Catherine (Katie) Langloh (1856 - 1940)
+</relationEntry>
+<descriptiveNote>
+<p>Nora Heysen illustrated some of the collections by Katie Parker</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-542579">
+<relationEntry>
+Heysen, Nora (1911-2003)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Heysen, Nora', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Heysen, Nora</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0596b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002380.htm">
+<relationEntry localType="published">Sound recording: [Conversation with Nora Heysen]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heysen, Nora, 1911-2003.</name>
+<title render="italic">[Conversation with Nora Heysen]</title>
+<imprint>
+<date>1965</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002382.htm">
+<relationEntry localType="published">Sound recording: Interview with Nora Heysen, painter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heysen, Nora, 1911-2003.</name>
+<title render="italic">Interview with Nora Heysen, painter</title>
+<imprint>
+<date>[1971?]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002383.htm">
+<relationEntry localType="published">Sound recording: Interview with Nora Heysen, painter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heysen, Nora, 1911-2003.</name>
+<title render="italic">Interview with Nora Heysen, painter</title>
+<imprint>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002386.htm">
+<relationEntry localType="published">Newspaper Article: A cautious gaze</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meagher, David</name>
+<title render="quoted">A cautious gaze</title>
+<imprint>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Financial Review</title>
+<num type="issue">Review magazine</num>
+<num type="pages">12-18</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002151.htm">
+<relationEntry localType="published">Resource Section: HEYSEN, NORA</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">HEYSEN, NORA</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=498934"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002152.htm">
+<relationEntry localType="published">Resource: Nora Heysen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="italic">Nora Heysen</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/exhibitions/noraheysen/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002379.htm">
+<relationEntry localType="published">Newspaper Article: In 1938, the first woman to win the Archibald Prize</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pearce, Barry</name>
+<title render="quoted">In 1938, the first woman to win the Archibald Prize</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="issue">Obituaries</num>
+<num type="pages">12</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002381.htm">
+<relationEntry localType="published">Thesis: Hidden from view [manuscript] : Nora Heysen twentieth century Australian artist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Nockels, Kate.</name>
+<title render="quoted">Hidden from view [manuscript] : Nora Heysen twentieth century Australian artist</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian National University</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002385.htm">
+<relationEntry localType="published">Book: Nora Heysen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Klepac, Lou, 1936-</name>
+<title render="italic">Nora Heysen</title>
+<imprint>
+<place>Canberra</place>
+<publisher>National Library of Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002751.htm">
+<relationEntry localType="published">Journal Article: Nora Heysen 1911-2003</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Groom, Linda</name>
+<title render="quoted">Nora Heysen 1911-2003</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">NATIONAL Library of Australia News</title>
+<num type="issue">April</num>
+<num type="pages">22</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002387.htm">
+<relationEntry localType="published">Newspaper Article: A remarkable artist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barron, Sonia</name>
+<title render="quoted">A remarkable artist</title>
+<imprint>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Canberra Times</title>
+<num type="pages">12</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002388.htm">
+<relationEntry localType="published">Newspaper Article: Visions of life in belated focus</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Brien, Philip</name>
+<title render="quoted">Visions of life in belated focus</title>
+<imprint>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Canberra Times</title>
+<num type="pages">10</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002389.htm">
+<relationEntry localType="published">Newspaper Article: Painting of the week no. 10: Portrait Study (1933), Nora Heysen (born 1911)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lancashire, Rebecca</name>
+<title render="quoted">Painting of the week no. 10: Portrait Study (1933), Nora Heysen (born 1911)</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Age</title>
+<num type="issue">The Culture</num>
+<num type="pages">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002390.htm">
+<relationEntry localType="published">Newspaper Article: Nora Heysen's back to paint memory lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McDonald, Partick</name>
+<title render="quoted">Nora Heysen's back to paint memory lane</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Advertiser</title>
+<num type="pages">25</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002391.htm">
+<relationEntry localType="published">Newspaper Article: Noted artist Nora Heysen dies at 92</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Safe, Georgina</name>
+<title render="quoted">Noted artist Nora Heysen dies at 92</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian</title>
+<num type="pages">5</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002392.htm">
+<relationEntry localType="published">Newspaper Article: Painter made her own mark</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Klepac, Lou</name>
+<title render="quoted">Painter made her own mark</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian</title>
+<num type="pages">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002393.htm">
+<relationEntry localType="published">Newspaper Article: Her voyage was lit by a father's fire</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Her voyage was lit by a father's fire</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+<num type="pages">13</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002394.htm">
+<relationEntry localType="published">Newspaper Article: Trailblazer</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Williams, Nadine</name>
+<title render="quoted">Trailblazer</title>
+<imprint>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002384.htm">
+<relationEntry localType="published">Book: Nora Heysen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Klepac, Lou, 1936-</name>
+<title render="italic">Nora Heysen</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Beagle Press</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001670.htm">
+<relationEntry localType="published">Book: You'll be sorry!</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howard, Ann</name>
+<title render="italic">You'll be sorry!</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Tarka</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00051.htm">
+<relationEntry localType="digitalObject">Lieutenant-Colonel May Douglas</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Lieutenant-Colonel May Douglas</unittitle>
+<unitid>ART22217</unitid>
+<unitdate>1944</unitdate>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00047.htm">
+<relationEntry localType="digitalObject">First Officer Sheila McClemans, WRANS</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>First Officer Sheila McClemans, WRANS</unittitle>
+<unitid>ART23416</unitid>
+<unitdate>1943</unitdate>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00037.htm">
+<relationEntry localType="digitalObject">Group Officer Clare Stevenson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Group Officer Clare Stevenson</unittitle>
+<unitid>ART22215</unitid>
+<unitdate>1943</unitdate>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00022.htm">
+<relationEntry localType="digitalObject">Colonel Sybil Irving</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Colonel Sybil Irving</unittitle>
+<unitid>ART22214</unitid>
+<unitdate>1943</unitdate>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00019.htm">
+<relationEntry localType="digitalObject">Lieutenant Colonel Kathleen Best</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Lieutenant Colonel Kathleen Best</unittitle>
+<unitid>ART22216</unitid>
+<unitdate>1944</unitdate>
+<abstract>Painting  by Nora Heysen</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00053.htm">
+<relationEntry localType="digitalObject">Matron Annie Laidlaw</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Matron Annie Laidlaw</unittitle>
+<unitid>ART22219</unitid>
+<unitdate>1944</unitdate>
+<abstract>Matron Annie Laidlaw, Women's Royal Australian Naval Nursing Service</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

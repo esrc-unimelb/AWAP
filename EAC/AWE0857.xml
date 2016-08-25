@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0857</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0857b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Allgrove</part>
+<part localType="givenname">Ellen Mavis</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Hannah, Ellen Mavis</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-10-12">12 October 1910</fromDate>
+<toDate standardDate="1994-10-29">29 October 1994</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Claremont, Western Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Nell Allgrove, née Hannah, came to South Australia from the West with her family when she was an infant. She began nursing training at the Royal Adelaide Hospital in 1936 and worked in the hospital's Blood Transfusion Unit until she was called up to the Australian Army Nursing Service in 1940. In 1941 she joined the 2/4 Casualty Clearing Station and was sent to Malaya. She was among those who escaped from Singapore just before its capture by the Japanese in February 1942. When the ship 'Vyner Brooke' was sunk in Banka Strait, Nell and fellow nurses were interned by the Japanese. She was among 24 nurses (from a total of 65) who survived until their release in September 1945.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0569b.htm">
+<relationEntry localType="Cultural Artefact">
+Australian Ex-Prisoners of War Memorial
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-08-09">9 August 1940</fromDate>
+<toDate standardDate="1946-12-02">2 December 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SX10595</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-08-09">9 August 1940</fromDate>
+<toDate standardDate="1946-12-02">2 December 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service No: SFX10595</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767079">
+<relationEntry>
+Allgrove, Ellen Mavis (1910-1994)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Allgrove, Ellen Mavis (Nell)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Allgrove, Ellen Mavis (Nell)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0857b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002744.htm">
+<relationEntry localType="published">Resource Section: HANNAH, ELLEN MAVIS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">HANNAH, ELLEN MAVIS</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=674029"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002100.htm">
+<relationEntry localType="published">Book: A Woman's war : the exceptional life of Wilma Oram Young, AM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Angell, Barbara</name>
+<title render="italic">A Woman's war : the exceptional life of Wilma Oram Young, AM</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New Holland Publishers (Australia) Pty Ltd</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001430.htm">
+<relationEntry localType="archival">Interview with Ellen Mavis Allgrove [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Ellen Mavis Allgrove [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/81</unitid>
+<unitdate>10 February 1988</unitdate>
+<abstract>History of Nursing in South Australia 
+
+Nell Allgrove, nee Hannah, came to South Australia from the West with her family when she was an infant. After secondary school Nell studied Pharmacy, as she was not considered 'strong enough' to nurse. However she did begin training at the Adelaide Hospital in 1936 and worked in the hospital's Blood Transfusion Unit until she was called up to the Australian Army Nursing Service in 1940. In 1941 she joined the 2/4 Casualty Clearing Station and was sent to Malaya. She was among those who escaped from Singapore just before its capture by the Japanese in February 1942. When the ship 'Vyner Brooke' was sunk in Bauka Strait, Nell and fellow nurses were interned by the Japanese. She was among 24 nurses (from a total of 65) who survived until their release in September 1945. After the war Nell married a British resident in Malaya and lived there for a number of years. She later moved to England.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

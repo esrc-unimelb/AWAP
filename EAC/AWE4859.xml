@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4859</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-04">2013-01-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicole McLennan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4859b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Holt</part>
+<part localType="givenname">Beatrice</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-01-04">4 January 1900</fromDate>
+<toDate standardDate="1988-06-01">1 June 1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Carlton, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Bruce (Canberra), Australian Capital Territory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Beatrice Holt was a leading figure in the development of mothercraft and child welfare services in Canberra, and was active in community organisations in Canberra from the 1920s.</abstract>
+<p>Bea studied medicine at the University of Melbourne, graduating in 1923. She then worked with Dr Vera Scantlebury (Brown) who piqued her interest in infant welfare.</p>
+<p>In mid-1927 her father, W.H. Sharwood, was appointed Commonwealth Crown Solicitor. Bea moved with her parents to Canberra in October. She quickly opened her own practice, becoming one of the Territory's first female doctors. In December 1931 she married Dr John Holt, whom she had met when she was hospitalised with a serious infection. With the exception of service during World War Two, Bea did not practise medicine after her marriage.</p>
+<p>From an early stage Bea was involved in community affairs. She was appointed to the Provisional Committee to establish a Canberra branch of the Young Women's Christian Association and, from 1929 to 1931, served on its Board of Directors. As her children moved through school, Bea served as President of the Telopea Park Infants School Mothers' Club and later, as President of the Canberra High School Parents and Citizens' Association. She was elected President of the ACT branch of the Australian Federation of University Women in 1962 and 1963, and was acting head of the national body for most of 1964. In 1971 she was made a life member.</p>
+<p>Bea's most significant contribution, however, was made through the Canberra Mothercraft Society. In February 1935 she was proposed as a council member of the society. Her membership co-incided with one of the most turbulent periods in the society's history, which saw the resignation of all its officers and councillors. At the subsequent Annual General Meeting in May, Bea was elected President. She was to serve a total of nine and a half years in the office (1935-36, 1940-43, and 1948-50) and was made a life member in 1937. In that time she oversaw: an increase in the number of mothercraft sisters; the purchase of a car (sisters had relied on volunteers and buses); the opening of the first permanent Baby Health Centre at Manuka; the introduction for the 'Help for Mothers' scheme (nucleus of the Emergency Housekeeper Service); the formation of the Canberra Kindergarten Society; and the establishment of an Occasional Care Centre.</p>
+<p>Bea, who had suffered the loss of two of her own children, noted that her work with the Mothercraft Society was motivated by her 'absolute conviction that the giving of health services &amp; assistance to mothers &amp; babies is of primary importance'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0065b.htm">
+<relationEntry localType="Person">
+Brown, Vera Scantlebury (1889 - 1946)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1469740">
+<relationEntry>
+Holt, Beatrice (19000104-19880601)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Holt, Beatrice', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Holt, Beatrice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4859b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005185.htm">
+<relationEntry localType="published">Resource Section: Holt, Beatrice (Bea) (1900 - 1988)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Waterhouse, Jill</name>
+<title render="quoted">Holt, Beatrice (Bea) (1900 - 1988)</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005184.htm">
+<relationEntry localType="published">Newspaper Article: Professional</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Professional</title>
+<imprint>
+<date>1927</date>
+</imprint>
+<bibseries>
+<title render="italic">Canberra Times</title>
+<num type="pages">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005183.htm">
+<relationEntry localType="published">Newspaper Article: Personal</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Personal</title>
+<imprint>
+<date>1927</date>
+</imprint>
+<bibseries>
+<title render="italic">Argus</title>
+<num type="pages">20</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005182.htm">
+<relationEntry localType="published">Magazine: Yarralumlan: Magazine of the Canberra High School</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Yarralumlan: Magazine of the Canberra High School</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Canberra High School</publisher>
+<date>1950</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005181.htm">
+<relationEntry localType="published">Magazine: Yarralumlan: Magazine of the Canberra High School</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Yarralumlan: Magazine of the Canberra High School</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Canberra High School</publisher>
+<date>1949</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005180.htm">
+<relationEntry localType="published">Journal Article: Obituaries: Holt, Dr. Beatrice</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wardle, Pat</name>
+<title render="quoted">Obituaries: Holt, Dr. Beatrice</title>
+<imprint>
+<date>1988</date>
+</imprint>
+<bibseries>
+<title render="italic">Canberra &amp; District Historical Society Newsletter</title>
+<num type="issue">292</num>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005179.htm">
+<relationEntry localType="published">Journal Article: A short story about a long time, 1943-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rudduck, Loma</name>
+<title render="quoted">A short story about a long time, 1943-1988</title>
+<imprint>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">Canberra Historical Journal</title>
+<num type="volume">23</num>
+<num type="pages">8 - 15</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005178.htm">
+<relationEntry localType="published">Journal Article: Obituary: Beatrice Holt</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Donovan, Ella</name>
+<title render="quoted">Obituary: Beatrice Holt</title>
+<imprint>
+<date>1988</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Federation of University Women - ACT Newsletter</title>
+<num type="issue">4</num>
+<num type="pages">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005176.htm">
+<relationEntry localType="published">Book: The Mothering Years: The story of the Canberra Mothercraft Society, 1926-1979</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Crisp, Helen and Rudduck, Loma</name>
+<title render="italic">The Mothering Years: The story of the Canberra Mothercraft Society, 1926-1979</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Canberra Mothercraft Society</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005177.htm">
+<relationEntry localType="published">Book: Royal Canberra Hospital: An anecdotal history of nursing 1914 to 199</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newman, Janet and Warren, Jennie</name>
+<title render="italic">Royal Canberra Hospital: An anecdotal history of nursing 1914 to 199</title>
+<imprint>
+<place>Mawson, ACT</place>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002633.htm">
+<relationEntry localType="archival">YWCA of Canberra Annual Reports</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Young Women’s Christian Association, Canberra Office</repository>
+<unittitle>YWCA of Canberra Annual Reports</unittitle>
+<unitdate>1929 - 1950</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002632.htm">
+<relationEntry localType="archival">Canberra Mothercraft Society Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>ACT Heritage Library</repository>
+<unittitle>Canberra Mothercraft Society Records</unittitle>
+<unitid>HMSS 0043</unitid>
+<unitdate>1926 - 1993</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002631.htm">
+<relationEntry localType="archival">Records of the Australian Federation of University Women - ACT</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Records of the Australian Federation of University Women - ACT</unittitle>
+<unitid>MS 2649</unitid>
+<unitdate>1944 - 1985</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

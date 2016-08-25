@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0038</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-01">2001-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0038b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Freeman</part>
+<part localType="givenname">Joan</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1918-01-07">7 January 1918</fromDate>
+<toDate standardDate="1998-03-18">18 March 1998</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Physicist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1976 Joan Freeman became the first woman to be awarded the British Institute of Physics' Rutherford Medal. She began her career at CSIR Radiophysics Laboratory during World War II, working on the production of a 10cm microwave radar set, and spent most of her working life at the British Atomic Energy Research Establishment at Harwell.</abstract>
+<p>Freeman was educated at the University of Sydney, where she completed a Bachelor of Science in 1939 and Master of Science in 1943. </p>
+<p>She worked with the CSIR Radiophysics Laboratory 1941-46; the Cavendish Laboratory, Cambridge 1946-51; and the Van de  Graaff Accelerator Group, Harwell Nuclear Physics Division 1951-78. </p>
+<p>Freeman was awarded the Rutherford Medal, British Institute of Physics, in 1976.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754071">
+<relationEntry>
+Freeman, Joan (1918-1998)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Freeman, Joan', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Freeman, Joan</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0038b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004568.htm">
+<relationEntry localType="published">Article: Dr. Joan Freeman (Address for the Gordon Godfrey Inaugural Lecture - May 1993)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Dr. Joan Freeman (Address for the Gordon Godfrey Inaugural Lecture - May 1993)</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">WiSeNet</title>
+<num type="volume">32</num>
+<num type="issue">July</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.wisenet-australia.org/profiles/jfreeman.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000068.htm">
+<relationEntry localType="published">Journal Article: A Passion for Physics; Joan Freeman</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sherratt, Tim</name>
+<title render="quoted">A Passion for Physics; Joan Freeman</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Australasian Science</title>
+<num type="volume">2</num>
+<num type="issue">Winter</num>
+<num type="pages">64</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000067.htm">
+<relationEntry localType="published">Resource Section: A Passion for Physics; Joan Freeman</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sherratt, Tim</name>
+<title render="quoted">A Passion for Physics; Joan Freeman</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs Exhibition</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/exhib/journal/as_freeman.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00495.htm">
+<relationEntry localType="published">Book: A Passion for Physics: The Story of a Woman Physicist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Freeman, Joan</name>
+<title render="italic">A Passion for Physics: The Story of a Woman Physicist</title>
+<imprint>
+<place>Bristol and Philadephia</place>
+<publisher>Institute of Physics Publishing</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000777.htm">
+<relationEntry localType="archival">Dr Joan M Freeman</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Dr Joan M Freeman</unittitle>
+<unitid>PH/FRE/5C</unitid>
+<unitdate>1945 - 1954</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000775.htm">
+<relationEntry localType="archival">Dr Joan M Freeman</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Dr Joan M Freeman</unittitle>
+<unitid>PH/FRE/5D</unitid>
+<unitdate>1947 - 1948</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

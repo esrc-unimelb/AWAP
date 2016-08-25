@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0956</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-14">2004-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0956b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Cheer Up Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1946-04-27">27 April 1946</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The South Australian Cheer-Up Society was founded by Alexandrina Seager.  Its object was to support the soldiers in the First and Second World Wars as well as to bring them into contact with the 'highest type of womanhood'. During world war one they visited the soldiers at camp before they embarked for the trenches and provided them with supper, concerts and conversation. In the Second World War, they started a Cheer Up Hut near the Adelaide Railway Station that had a hostel and a canteen for every day use and social functions. The hut was financed by donations from several charitable organizations including the Country Women's Association. The society was publicly acknowledged as indicative of women's capacity, support and patriotism.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0789b.htm">
+<relationEntry localType="Corporate Body">
+The South Australian Country Women's Association Inc. (1929 - )
+</relationEntry>
+<descriptiveNote>
+<p>Provided financial assistance for the Cheer Up Society</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-604913">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cheer Up Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cheer Up Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0956b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002879.htm">
+<relationEntry localType="published">Pamphlet: Rules [of] the Cheer-up Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cheer-up Society (S. Aust.)</name>
+<title render="italic">Rules [of] the Cheer-up Society</title>
+<imprint>
+<place>[Adelaide]</place>
+<date>[1914]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002865.htm">
+<relationEntry localType="published">Pamphlet: A home from home for all servicemen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cheer-up Society (S. Aust.)</name>
+<title render="italic">A home from home for all servicemen</title>
+<imprint>
+<place>[Adelaide ]</place>
+<publisher>[Cheer-up Society]</publisher>
+<date>[1944]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002863.htm">
+<relationEntry localType="published">Pamphlet: Upon the termination of the activities of the Cheer Up Society, 1939-1946</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cheer-up Society (S. Aust.)</name>
+<title render="italic">Upon the termination of the activities of the Cheer Up Society, 1939-1946</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>[Advertiser]</publisher>
+<date>[1946]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002862.htm">
+<relationEntry localType="published">Pamphlet: Official closing and good-bye at the Cheer-up Hut on Saturday, 27th April, 1946</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cheer-up Society (S. Aust.)</name>
+<title render="italic">Official closing and good-bye at the Cheer-up Hut on Saturday, 27th April, 1946</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Cheer-up Society</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002875.htm">
+<relationEntry localType="published">Book: Cheer-up memories : a tribute to the cheer-up ladies (America Day souvenir)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mills, Frederick J. (Frederick John)</name>
+<title render="italic">Cheer-up memories : a tribute to the cheer-up ladies (America Day souvenir)</title>
+<imprint>
+<place>Adelaide</place>
+<date>[1918]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002868.htm">
+<relationEntry localType="published">Book: Cheer up : a story of war work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mills, Frederick J. (Frederick John)</name>
+<title render="italic">Cheer up : a story of war work</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Cheer-up Society, Board of Management</publisher>
+<date>1920</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002878.htm">
+<relationEntry localType="published">Pamphlet: Cheer-up souvenir to our boys</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Seager, A. (Alexandrine), 1870-1950</name>
+<title render="italic">Cheer-up souvenir to our boys</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>[Cheer-up Society]</publisher>
+<date>[1915]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002876.htm">
+<relationEntry localType="published">Pamphlet: Souvenir programme of the Naval, Military and Red Cross Exhibition, October 1916</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Naval, Military, and Red Cross Exhibition (1916 : Adelaide, S. Aust.)</name>
+<title render="italic">Souvenir programme of the Naval, Military and Red Cross Exhibition, October 1916</title>
+<imprint>
+<place>[Adelaide?]</place>
+<publisher>[Exhibition Executive Committee]</publisher>
+<date>1916</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002867.htm">
+<relationEntry localType="published">Pamphlet: Grand sports carnival for Navy League, Red Cross, Cheer-Up Society, S.A. Fighting Forces Fund, official programme</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Amateur Sports Associations of South Australia</name>
+<title render="italic">Grand sports carnival for Navy League, Red Cross, Cheer-Up Society, S.A. Fighting Forces Fund, official programme</title>
+<imprint>
+<place>Adelaide,</place>
+<date>[1940]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002696.htm">
+<relationEntry localType="published">Edited Book: Women in Australia : an annotated guide to records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Kay, Murnane, Mary, Picot, Anne and National Research Program (Australia)</name>
+<title render="italic">Women in Australia : an annotated guide to records</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002429.htm">
+<relationEntry localType="published">Book: In her own name : women in South Australian history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jones, Helen, 1926-</name>
+<title render="italic">In her own name : women in South Australian history</title>
+<imprint>
+<place>Netley, SA</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001582.htm">
+<relationEntry localType="archival">Cheer Up Society</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Cheer Up Society</unittitle>
+<unitid>SRG 6</unitid>
+<unitdate>c. 1914 - 1952</unitdate>
+<abstract>Records of the Cheer Up Society Incorporated, comprise miscellaneous printed items, address presented to the CUS, stamps, badges and arm stripes, photographs, a dance program for the Jamestown branch and minutes, welcome home list, correspondence and raffle book for Kalangadoo branch.  The collection also includes a published history of the Cheer Up Society during the First World War, account books mainly from the Second World War, a ledger book that covers the period between the wars, envelopes containing photographs, press cuttings from the First World War and cutting books from the second which are the most interesting parts of the collection.</abstract>
+<physdesc>
+<extent>2.03 m</extent>
+<physfacet>Handwriting, typescript, newspaper cuttings, photographs, published book, scrapbooks, financial ledgers, miscellaneous items.</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

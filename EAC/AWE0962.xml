@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0962</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-18">2004-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0962b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hoffman</part>
+<part localType="givenname">Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Morgan, Elizabeth</part>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cummeragunja, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal rights activist</term>
+</occupation>
+<occupation>
+<term>Public servant</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Hoffman grew up at the Cummeragunja Reserve in New South Wales. She moved to Melbourne in 1971, and started to work with the Aborigines Advancement League (AAL) as Matron of the Gladys Mitchell Youth Hostel. She was elected President of the AAL Management Committee three times, and at different times was Vice President and Treasurer, until taking up employment with the League as Director in 1976. She was the Chairperson of the Aboriginal Legal Service for three years, and the Chairperson of the Aboriginal Housing Co-operative. She also worked with the National Aboriginal and Island Women's Council and the Women's Council at Echuca, and was a member of the Steering Committee of the Aboriginal Housing Board and of the local Aboriginal Land Council. She also worked as a Commissioner with the Aboriginal Development Commission. In the early 1970s, she co-founded the Elizabeth Hoffman House, Aboriginal women's refuge in Melbourne which in 1984 became Incorporated and independent of the AAL. She was one of the 250 women included in the Victorian Honour Roll of Women which was read out in Victoria's Parliament House on 7 May 2001.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5376b.htm">
+<relationEntry localType="Organisation">
+Aboriginal Legal Service (1970 - )
+</relationEntry>
+<descriptiveNote>
+<p>Elizabeth Hoffman was a Chair of the Aboriginal Legal Service</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728059">
+<relationEntry>
+Hoffman, Elizabeth
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hoffman, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hoffman, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0962b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002907.htm">
+<relationEntry localType="published">Journal Article: ["Hoffman, Elizabeth"]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">["Hoffman, Elizabeth"]</title>
+<imprint>
+<date>1980</date>
+</imprint>
+<bibseries>
+<title render="italic">Identity</title>
+<num type="volume">4</num>
+<num type="issue">1</num>
+<num type="pages">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002909.htm">
+<relationEntry localType="published">Resource Section: Elizabeth Hoffman House Inc</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elizabeth Hoffman House</name>
+<title render="quoted">Elizabeth Hoffman House Inc</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Elizabeth Hoffman House Inc. : Aboriginal Women's Refuge for Aboriginal Women by Aborginal Women</title>
+<name type="author">Elizabeth Hoffman House Inc</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.kiams.net/hoffman/about.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002908.htm">
+<relationEntry localType="published">Newspaper Article: Women Seek Refuge</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Women Seek Refuge</title>
+<bibseries>
+<title render="italic">The Herald</title>
+<num type="pages">26</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002906.htm">
+<relationEntry localType="published">Newspaper Article: Survivors Lay Claim to the Past for Their Future</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Forbes, Cameron</name>
+<title render="quoted">Survivors Lay Claim to the Past for Their Future</title>
+<bibseries>
+<title render="italic">The Australian</title>
+<num type="pages">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002905.htm">
+<relationEntry localType="published">Book: Some Aboriginal women pathfinders : their difficulties and their achievements</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beeson, Margaret J (compiled by)</name>
+<title render="italic">Some Aboriginal women pathfinders : their difficulties and their achievements</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Woman's Christian Temperance Union of Australia</publisher>
+<date>[1980]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001596.htm">
+<relationEntry localType="archival">Women and Native Title in South-East Australia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Women and Native Title in South-East Australia</unittitle>
+<unitdate>1998</unitdate>
+<abstract>Interviews with four Indigenous women talking about native title issues - Mary Lou Buck (Dhan-gaddi native title claim), Elizabeth Hoffman (Yorta Yorta, Cummeragunja), Matilda House (Ngunnawal) and Angelina Stuart (Adnyamathanha) 
+
+Field tape number(s): 1 - 4; Field tape description(s): 1 x C60, 3 x C90 cassettes; Field tape speed(s) 4.75; Mono</abstract>
+<physdesc>
+<extent>4 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001595.htm">
+<relationEntry localType="archival">Koorie Culture Koorie Control</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Koorie Culture Koorie Control</unittitle>
+<unitid>LV2343 LV2345</unitid>
+<abstract>Title  Koorie Culture Koorie Control / [production company] mozo films for the Museum of Victoria with assistance from the Victorian Aboriginal Cultural Heritage Trust. Credits: written and produced, Russell Porter; producer, Lucy Maclaren; editor, Uri Mizrah; camer, Mandy Walker. Filmed in Victoria., 1992.
+
+1 videocassette (VHS) (30 min.) : sd., col.</abstract>
+<physdesc>
+<extent>1 </extent>
+<physfacet>Video recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001594.htm">
+<relationEntry localType="archival">Bush Tucker, healing plants and seafood / diabetes in the Koorie community / Koorie health today</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Bush Tucker, healing plants and seafood / diabetes in the Koorie community / Koorie health today</unittitle>
+<unitid>LV1451</unitid>
+<abstract>1 videocassette (VHS) (55 min.) : sd., col.</abstract>
+<physdesc>
+<extent>1 </extent>
+<physfacet>Video recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00556</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-05">2009-10-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00556b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Parker</part>
+<part localType="givenname">Rhonda Kathleen </part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Davey, Rhonda </part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1954-09-07">7 September 1954</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Warragul, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Rhonda Parker was elected to the Thirty-fourth Parliament of Western Australia as the Liberal party member for the Legislative Assembly seat of Helena at a by-election held on 26 September 1994 consequent upon the resignation of Gordon Leslie Hill. The electorate was abolished in a redistribution 1994. She was then elected to the Thirty-Fifth Parliament for Ballajura (new seat) on 14 December 1996. She was defeated at the elections held on 10 February 2001.</abstract>
+<p>Rhonda Kathleen Davey was born in Warrigal, Victoria, in 1954. Her father, Reg Davey, was a farmer; his wife Mavis a nurse. Rhonda attended Swan Hill Senior High School, and arrived in Western Australia in 1967, where she attended John Curtin Senior High School. She graduated from Edith Cowan University with a Diploma of Teaching, and married Neville Parker in 1973. Parker (Liberal Party of Australia) was elected to the Legislative Assembly of the Parliament of Western Australia for Helena at a by-election held on 26 September 1994. This electorate was abolished in a redistribution 1994, and Parker was then elected for Ballajura (new seat) on 14 December 1996. She was defeated on 10 February 2001.</p>
+<p>The page for Rhonda Kathleen Parker on the website for the Parliament of Western Australia is at http://www.parliament.wa.gov.au/Parliament%5CMemblist.nsf/WAllMembersFlat/Parker,+Rhonda+Kathleen?opendocument</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477543">
+<relationEntry>
+Parker, Rhonda Kathleen (19540907-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Parker, Rhonda Kathleen ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Parker, Rhonda Kathleen </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00556b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

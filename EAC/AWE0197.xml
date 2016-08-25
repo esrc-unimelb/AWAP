@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0197</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-11-28">2001-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0197b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Vanstone</part>
+<part localType="givenname">Amanda Eloise</part>
+<part localType="honorific title">Senator the Honourable</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1952-12-07">7 December 1952</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elected to the Senate for South Australia in 1984 (Liberal Party), Amanda Vanstone was appointed Minister for Family and Community Services and Minister Assisting the Prime Minister for the Status of Women on 30 January 2001.</abstract>
+<p>Vanstone obtained a Bachelor of Arts and a Bachelor of Laws from the University of Adelaide, as well as a Graduate Diploma in Legal Practice and a Marketing Studies Certificate form the South Australian Institute of Technology. She began her career as a retailer, and worked in wholesaling before becoming a solicitor.</p>
+<p>Since entering Federal Parliament, Vanstone has been appointed Minister for Employment, Education, Training and Youth Affairs (11 March 1996 to 9 October 1997); Minister for Justice (9 October 1997 to 21 October 1998); and Minister for Justice and Consumer Affairs (21 October 1998 to 30 January 2001).</p>
+<p>She has been a Member of the Cabinet and the Legal Committee of the Cabinet; Parliamentary Secretary to the Deputy Leader of the Opposition; Shadow Special Minister of State; and spokesperson on the Status of Women. She was involved in the National Campaign Against Drug Abuse.</p>
+<p>Married to Tony, she is a supporter of the RSPCA.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-727097">
+<relationEntry>
+Vanstone, Amanda Eloise (1952-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Vanstone, Amanda Eloise', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Vanstone, Amanda Eloise</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0197b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000410.htm">
+<relationEntry localType="published">Resource Section: Senator the Hon Amanda Vanstone: Minister for Family &amp; Community Services; Minister Assisting the Prime Minister for the Status of Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Family and Community Services</name>
+<title render="quoted">Senator the Hon Amanda Vanstone: Minister for Family &amp; Community Services; Minister Assisting the Prime Minister for the Status of Women</title>
+<extptr linktype="simple" href="http://www.ofw.facsia.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000409.htm">
+<relationEntry localType="published">Resource Section: The Hon. Amanda Vanstone, Senator for South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Parliament House</name>
+<title render="quoted">The Hon. Amanda Vanstone, Senator for South Australia</title>
+<extptr linktype="simple" href="http://www.aph.gov.au/senate/senators/homepages/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004737.htm">
+<relationEntry localType="published">Book: So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</title>
+<imprint>
+<place>Leichhardt, NSW</place>
+<publisher>The Federation Press</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

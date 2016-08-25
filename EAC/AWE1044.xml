@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1044</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-08-04">2004-08-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1044b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Zonta Club of Perth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1975-01-01">1975</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Women's rights organisation</term>
+</function>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Zonta Club of Perth, a women's service club, was founded in 1971. It is part of Zonta International, a world-wide organisation of business and professional women working together to advance the legal, political, economic and professional status of women. Zonta clubs support Zonta International service and award programmes, and also provide support for local community projects by fundraising or active involvement, particularly those dealing with women's issues such as economic self-sufficiency, legal equality, access to education and health, and eradication of violence.</abstract>
+<p>District 23 of Zona International was created in 1989, covering Western Australia, Northern Territory, South Australia, Victoria and Tasmania, and divided into four areas. The first conference of District 23 was held in Perth in 1991.</p>
+<p>Western Australia forms Area 3 of District 23 and as of 2004 comprised 6 Zonta clubs: Bunbury Area, Dunsborough Area, Peel Region, Perth, Perth Northern Suburbs Area, and Swan Hills.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1045b.htm">
+<relationEntry localType="Corporate Body">
+Zonta Club of Sydney
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1046b.htm">
+<relationEntry localType="Corporate Body">
+Zonta Club of Adelaide (1969 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-764072">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Zonta Club of Perth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Zonta Club of Perth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1044b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003167.htm">
+<relationEntry localType="published">Newsletter: Inzert</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Inzert</title>
+<imprint>
+<date>1987-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003165.htm">
+<relationEntry localType="published">Book: The history of our club [The Northern Suburbs Zonta Club]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bohan, Lucy.</name>
+<title render="italic">The history of our club [The Northern Suburbs Zonta Club]</title>
+<imprint>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003164.htm">
+<relationEntry localType="published">Report: Annual Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Zonta Club of Perth</name>
+<title render="italic">Annual Report</title>
+<imprint>
+<date>1973-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001794.htm">
+<relationEntry localType="archival">[Collection of material relating to the Zonta Club of Perth]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>[Collection of material relating to the Zonta Club of Perth]</unittitle>
+<unitid>PR10884</unitid>
+<unitdate>1972- - -</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001793.htm">
+<relationEntry localType="archival">Zonta Club of Perth  Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Zonta Club of Perth  Records</unittitle>
+<unitdate>1975 - 1997</unitdate>
+<abstract>Certificates of service (1985-1990); correpondence (1987-1997); minute books (1986-1988) and minutes (1986-1997); subscription lists (1975-1996); records of various committees and awards, and those dealing with the setting up of other Zonta Clubs in W.A.</abstract>
+<physdesc>
+<extent>0.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

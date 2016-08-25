@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0109</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-08-22">2001-08-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0109b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Oldmeadow</part>
+<part localType="givenname">Joyce</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-08-22">22 August 1921</fromDate>
+<toDate standardDate="2001-08-04">4 August 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Bookseller</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In the late 1950s Oldmeadow, with her husband Courtney, founded Oldmeadow Booksellers. In 1974, they opened Dromkeen, which has become an internationally recognised children's literature museum.</abstract>
+<p>Born: 22 August 1921. Died: 4 August 2001. <br />
+Oldmeadow trained as a kindergarten teacher before founding Oldmeadows Booksellers with her husband Court in the late 1950s. They promoted children's authors and successfully conducted a series of meet-the-author sessions.<br />
+ <br />
+In 1973, the Oldmeadows purchased a large 19th century farmhouse near Riddells Creek, Victoria, Dromkeen Homestead. They began a collection of orginal children's book illustrations, manuscripts and early Australian children's books.<br />
+The Oldmeadows were jointly awarded Britains Eleanor Farjeon Award for their services to children's literature in 1976.<br />
+In 1982, Oldmeadow inaugurated the Dromkeen Medal, which is awared annually to individuals for outstanding achievements in the field of children's literature. She was awarded the Nan Chauncy Award in 1988, by the Children's Book Council of Australia,  as well as the Order of Australia Medal in 1989, for her services to childrens literature.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-707059">
+<relationEntry>
+Oldmeadow, Joyce (1921-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Oldmeadow, Joyce', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Oldmeadow, Joyce</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0109b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002243.htm">
+<relationEntry localType="published">Newspaper Article: Caring custodian of childrens imaginations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jones, Philip</name>
+<title render="quoted">Caring custodian of childrens imaginations</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian</title>
+<num type="pages">16</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002242.htm">
+<relationEntry localType="published">Newspaper Article: Joyce Oldmeadow, OAM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dugan, Michael</name>
+<title render="quoted">Joyce Oldmeadow, OAM</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Age</title>
+<num type="issue">Today</num>
+<num type="pages">7</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0564</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-24">2003-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0564b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fisher</part>
+<part localType="givenname">Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1926-06-05">5 June 1926</fromDate>
+<toDate standardDate="1995-10-05">5 October 1995</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>After 21½ years Marie Fisher retired from the Women's Royal Australian Army Corps, Australian Regular Army (WRAAC ARA) on 23 July 1974 and was placed on the retired list. During her service she qualified and was promoted from Private to Captain having served in New South Wales, Tasmania and Victoria. Following her discharge from the WRAAC Fisher returned to study at both the Technical and Further Education (TAFE) college and the University of New South Wales (UNSW), where she was later employed before retiring in 1991 aged 65 years.</abstract>
+<p>Before enlisting in the WRAAC ARA on 9 January 1953 Marie Fisher worked with the New South Wales Public Service in the Office of the Department of Motor Transport and later with the Department of Supply. After completing Recruit school at Queenscliffe, Victoria, Fisher was posted as a typist/clerk at Eastern Command Troops, Randwick (NSW) and then with the School of Military Intelligence (North Head, Sydney). In 1956 she was stationed in Tasmania and Victoria and was promoted to Lance Corporal, Corporal and Sergeant. </p>
+<p>On 4 November 1959 Fisher graduated from the Officer Cadet School at Georges Heights, Sydney and Lieutenant Fisher was posted to Fort Largs in South Australia. She was then transferred to 1 Recruit Training Battalion (Wagga Wagga); 10 WRAAC Barrack (Brisbane); 3 WRAAC Company (Victoria) 5 Signal Regiment (Dundas) and the School of Artillery (North Head, Sydney). In 1965 Fisher qualified and was promoted to Captain. Aged 48 years Fisher retired on 23 July 1974 and was placed on the retired list. She had served with the WRAAC ARA for 21½ years.</p>
+<p>Returning to study, Fisher completed a TAFE course after which she enrolled at the UNSW. She then worked with the University before retiring in 1991.</p>
+<p>In 1977 Fisher joined the WRAAC Association (NSW) with her sister Nora Fisher. A staunch supporter of the Association she attended meetings and functions as well as attending Anzac Day marchers, when she proudly wore her father's medals from World War 1.</p>
+<p>Marie Fisher died on 5 October 1995 aged 69 years.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0421b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps Association (NSW Branch) (1977 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0388b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps (WRAAC) (1951 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1953-01-09">9 January 1953</fromDate>
+<toDate standardDate="1974-07-23">23 July 1974</toDate>
+</dateRange>
+<descriptiveNote>
+<p>served with the Australian Regular Army</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0482b.htm">
+<relationEntry localType="Person">
+Fisher, Nora Adel (1929 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-744075">
+<relationEntry>
+Fisher, Mary (1926-1995)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fisher, Mary (Marie) Gertrude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fisher, Mary (Marie) Gertrude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0564b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

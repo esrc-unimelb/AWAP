@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4241</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-10">2009-08-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4241b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Faithful Companions of Jesus in Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>FCJ Sisters</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1882-01-01">1882</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Richmond, Victoria, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Religious organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The order of the Faithful Companions of Jesus Sisters (FCJ Sisters) was founded in Amiens in France in 1820 by Marie Madeleine de Bonnault d'Hoüet. 
+
+They arrived in Australia in response to requests from local priests for assistance in establishing a viable Catholic School system.The <span style="font-style:italic">Education Act of 1872</span> spelt the end of government  financial support for all religious and independent schools which meant that if the Catholic Church wanted to maintain existing schools and establish new schools, it had to find all necessary finance. The priests and bishops sought help from religious communities overseas. 
+
+In June 1882, 12 FCJ sisters arrived in Melbourne, Victoria where they soon founded a school in the inner city suburb of Richmond. Vaucluse College FCJ was soon at capacity, so land was purchased in Kew, to the east. They built a new convent and boarding school which marked the establishment of Genazzano FCJ College. In 1900 the Sisters set up a school in Benalla called FCJ College and in 1968 founded Stella Maris Convent and boarding school in Frankston, Victoria. The Stella Maris Convent and Vaucluse College FCJ have since closed.
+
+In recent years, FCJ sisters have engaged in ministry abroad, in such places as Sierra Leone, Bolivia, the Philippines, Indonesia and Romania, as well as in remote communities in Australia, such as the Kimberley.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462338">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Faithful Companions of Jesus in Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Faithful Companions of Jesus in Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4241b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002306.htm">
+<relationEntry localType="archival">Records relating to the Sisters Faithful Companion of Jesus</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Sisters Faithful Companions of Jesus Provincial Archives Asia-Australia
+Provincial Archives Asia-Australia
+</repository>
+<unittitle>Records relating to the Sisters Faithful Companion of Jesus</unittitle>
+<unitdate>1882 - </unitdate>
+<abstract>Records relating to the Sisters Faithful Companion of Jesus are not exclusive to Australia but include information about the foundations of the order throughout the world; personal experiences of the Sisters during World Wars 1 &amp; 11; other material giving historical insights to early pioneering days of our foundations, especially documenting the early educational history of Victoria.
+
+The following fees apply to the use of archival material:
+
+Research by the Archivist - $10 per hour (plus GST)
+Photocopying - $0.20per page (plus GST)
+Researchers in the Archives - $8.00 per day (Students $4.00) (plus GST)
+
+
+A large quantity of interesting photos, newspaper articles, books used in the early days of education, music and craft items including memorabilia of various kinds can be found in the Heritage Room.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

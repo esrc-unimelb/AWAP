@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0256</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-01-30">2002-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0256b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Flockton</part>
+<part localType="givenname">Margaret Lilian</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1861-01-01">1861</fromDate>
+<toDate standardDate="1953-08-12">12 August 1953</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Essex, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Illustrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Flockton is remembered for her beautiful botanic illustrations. A species of eucalypt was named in her honour.</abstract>
+<p>Flockton settled in Australia at the age of 19 and according to Payne, Flockton was a member of the Royal Art Society of NSW where she exhibited her work from 1894 to 1901. She illustrated J H Maidens, director of the Royal Botanic Gardens in Sydney, where she was to work for 26 years, <span style="font-style:italic">Forest Flora of NSW</span> and <span style="font-style:italic">A Critical Revision of the Genus Eucalyptus.</span><br />
+A lithographic artist she published a book, <span style="font-style:italic">Australian Wild Flowers,</span> containing twelve plates printed by color lithography and also produced decorative borders for a souvenir book, <span style="font-style:italic">Greetings from Australia.</span><br />
+(Source: <span style="font-style:italic">Australian Garden History.</span>)</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-710098">
+<relationEntry>
+Flockton, Margaret Lilian (18610929-19530812)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Flockton, Margaret Lilian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Flockton, Margaret Lilian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0256b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000615.htm">
+<relationEntry localType="published">Journal Article: Margaret Flockton</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Payne, Christine</name>
+<title render="quoted">Margaret Flockton</title>
+<imprint>
+<date>1996</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Garden History</title>
+<num type="volume">8</num>
+<num type="issue">3</num>
+<num type="pages">13</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

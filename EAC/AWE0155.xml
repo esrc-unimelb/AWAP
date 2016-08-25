@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0155</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-10-24">2001-10-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0155b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Curlewis</part>
+<part localType="givenname">E. Jean</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Curlewis, Jean</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1930-12-31">1930</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>E. Jean Curlewis was the daughter of Ethel Turner. Before passing away she wrote a number of books including <span style="font-style:italic">The Sunshine Family: A Book of Nonsense for Girls and Boys,</span> with her mother.</abstract>
+<p>Daughter of Ether Turner and Herbert Raine Curlewis. The author of mainly childrens publications, she was married to M L Charlton.</p>
+<p>Sources: <span style="font-style:italic">http:penrithcity.nsw.gov.au/usrpages/collect/ethel.html accessed 17/10/01; <br />
+http://www.pcug.org.au/~efp/megangen/ftree.htm#Philippa accessed 24/10/01</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0151b.htm">
+<relationEntry localType="Person">
+Turner, Ethel (1872 - 1958)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1467516">
+<relationEntry>
+Charlton, Ethel Jean Sophia (18980207-19300328)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Curlewis, E. Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Curlewis, E. Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0155b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000321.htm">
+<relationEntry localType="published">Book: Verse Writing for Beginners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curlewis, Jean</name>
+<title render="italic">Verse Writing for Beginners</title>
+<imprint>
+<place>London</place>
+<publisher>Ward, Lock &amp; Co.</publisher>
+<date>1925</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000320.htm">
+<relationEntry localType="published">Book: Christmas in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curlewis, Jean. And Feint, Adrian (decorated by)</name>
+<title render="italic">Christmas in Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Art in Australia Ltd</publisher>
+<date>1928</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000318.htm">
+<relationEntry localType="published">Book: Drowning Maze</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curlewis, Jean</name>
+<title render="italic">Drowning Maze</title>
+<imprint>
+<place>London</place>
+<publisher>Ward, Lock &amp; Co.</publisher>
+<date>1922</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000317.htm">
+<relationEntry localType="published">Book: The Dawn Man</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curlewis, Jean</name>
+<title render="italic">The Dawn Man</title>
+<imprint>
+<place>London</place>
+<publisher>Ward, Lock &amp; Co.</publisher>
+<date>1924</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000316.htm">
+<relationEntry localType="published">Book: Beach Beyond</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Curlewis, Jean</name>
+<title render="italic">Beach Beyond</title>
+<imprint>
+<place>London and Melbourne</place>
+<publisher>Ward, Lock &amp; Co.</publisher>
+<date>1923</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000315.htm">
+<relationEntry localType="published">Book: The Sunshine Family: A Book of Nonsense for girls and Boys</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Turner, Ethel. &amp; Curlewis, Jean</name>
+<title render="italic">The Sunshine Family: A Book of Nonsense for girls and Boys</title>
+<imprint>
+<place>London</place>
+<publisher>Ward, Lock &amp; Co.</publisher>
+<date>1923</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000300.htm">
+<relationEntry localType="published">Resource: Ethel Turner, Lilian Turner and Jean Curlewis ; A Family of Australian Authors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Ethel Turner, Lilian Turner and Jean Curlewis ; A Family of Australian Authors</title>
+<extptr linktype="simple" href="http://www.penrithcity.nsw.gov.au/usrpages/collect/ethel.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000117.htm">
+<relationEntry localType="archival">Papers of Eleanor Dark</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Eleanor Dark</unittitle>
+<unitid>MS 4998</unitid>
+<unitdate>1923 - 1974</unitdate>
+<abstract>The collection consists of newspaper clippings (1936-1954) mainly reviews of Eleanor Dark's                   novels, and letters (1923-1974) from a number of the prominent Australian literary figures of the period. The correspondents include Manning Clark, Kate Baker, Jean Devaney, Flora Eldershaw, Mary Gilmore, Vance and Nettie Palmer, Miles Franklin, Eric Lowe, Marjorie Barnard, Ethel Turner, Xavier Herbert, Frank Dalby Davison, Brian Fitzpatrick, Alec Chisholm, Kylie Tennant, Meta Mackan, Ruth Park, Ethel Curlewis, C.B. Christesen.</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

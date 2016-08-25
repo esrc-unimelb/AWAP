@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4348</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-24">2009-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4348b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bentivoglio</part>
+<part localType="givenname">Marie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Geographer</term>
+</occupation>
+<occupation>
+<term>Scientist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marie Bentivoglio was the first Australian woman to receive a scholarship to the University of Oxford.
+
+Bentivoglio graduated from the University of Sydney with a Bachelor of Science in 1919. She completed a Diploma in Education in 1920.
+
+She was the first woman to win an 1851 Exhibition Science Scholarship to the University of Oxford, United Kingdom, where she gained a Doctorate of Philosophy and a Diploma of Geography.
+
+On return to Sydney, Bentivoglio lectured at both the University of Sydney and the Sydney Teachers College. In 1928 she succeeded Thomas Griffith Taylor as Head of the Department of Geography.
+
+In 1931 she published <span style="font-style:italic">A physical and practical geography for secondary schools</span> with Frieda Frances Friederich.
+
+She later travelled to North and Central America, teaching in universities and working in the chemical industry.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-578569">
+<relationEntry>
+Bentivoglio, Marie
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bentivoglio, Marie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bentivoglio, Marie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4348b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004601.htm">
+<relationEntry localType="published">Book: Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bygott, Ursula and Cable, K. J.</name>
+<title render="italic">Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</title>
+<imprint>
+<place>Sydney</place>
+<publisher>University of Sydney</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004636.htm">
+<relationEntry localType="published">Book: Marie Bentivoglio and Frieda Frances Friederich, A physical and practical geography for secondary schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bentivogli, Maire and Friederich, Frieda Frances</name>
+<title render="italic">Marie Bentivoglio and Frieda Frances Friederich, A physical and practical geography for secondary schools</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Whitcombe &amp; Tombs</publisher>
+<date>1931</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002361.htm">
+<relationEntry localType="archival">Bentivoglio Family Photographs</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Bentivoglio Family Photographs</unittitle>
+<unitid>M357</unitid>
+<abstract>Copies of photographs of the family of Dr Marie Bentivoglio</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

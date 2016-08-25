@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0256</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-13">2002-11-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0256b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hoff</part>
+<part localType="givenname">Ursula</part>
+<part localType="honorific title">AO, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-12-26">26 December 1909</fromDate>
+<toDate standardDate="2005-01-31">January 2005</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Art historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ursula Hoff, a distinguished art historian and critic, was appointed Officer of the Order of the British Empire in 1970 for her work as assistant director of the National Gallery of Victoria. Educated in Hamburg where she gained a PhD, Munich and London, she arrived in Melbourne in 1939 to take up a position as secretary to the Women's College at the University of Melbourne. During her long career she lectured in Fine Arts at the University of Melbourne and worked at the National Gallery of Victoria, becoming its assistant director from 1968-1973. She became the London Advisor to the Felton Bequest from 1975-1983 and has been senior associate, fine arts at the University of Melbourne since 1985. Other appointments included foundation fellow of the Australian Academy of the Humanities in 1970 and member of the Council of the National Library of Australia. She published many books, a selection of which are listed in the Published Sources section.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-484877">
+<relationEntry>
+Hoff, Ursula (1909-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hoff, Ursula', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hoff, Ursula</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0256b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001531.htm">
+<relationEntry localType="published">Book: Charles Conder: His Australian years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hoff, Ursula</name>
+<title render="italic">Charles Conder: His Australian years</title>
+<imprint>
+<place>Melbourne, Victoria</place>
+<publisher>Lansdowne</publisher>
+<date>1960</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001530.htm">
+<relationEntry localType="published">Book: Charles Conder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hoff, Ursula</name>
+<title render="italic">Charles Conder</title>
+<imprint>
+<place>Melbourne, Victoria</place>
+<publisher>Lansdowne</publisher>
+<date>1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001529.htm">
+<relationEntry localType="published">Book: The Felton Bequest</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hoff, Ursula</name>
+<title render="italic">The Felton Bequest</title>
+<imprint>
+<place>Melbourne, Victoria</place>
+<publisher>National Gallery of Victoria</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001528.htm">
+<relationEntry localType="published">Book: The National Gallery of Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hoff, Ursula</name>
+<title render="italic">The National Gallery of Victoria</title>
+<imprint>
+<place>London</place>
+<publisher>Thames and Hudson</publisher>
+<date>1973</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000209.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2001</title>
+<edition>37</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Information Australia Group Pty Ltd</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000525.htm">
+<relationEntry localType="archival">Hoff, Ursula, 1909-, Interview with Ursula Hoff, art critic and historian [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Hoff, Ursula, 1909-, Interview with Ursula Hoff, art critic and historian [sound recording]</unittitle>
+<unitid>ORAL TRC 1086</unitid>
+<unitdate>9 July 1981</unitdate>
+<abstract>1 sound cassette:analog, mono+typescript (27 Leaves)
+Hoff talks about her childhood and education; her early impressions of art; her years as a student; various jobs in Australia; wrote several books; took out a degree in Hamburg; became the Australian delegate to the Rembrandt Exhibition; buying art for the National Gallery of Victoria; gives a description of how art wwas influenced by the war period in Europe and how art is influenced by the artist's country.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000524.htm">
+<relationEntry localType="archival">Hoff, Ursula, 1909- Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne, Baillieu Library Special Collections</repository>
+<unittitle>Hoff, Ursula, 1909- Records</unittitle>
+<unitid>86 59; 86 63; 88 38</unitid>
+<abstract>Correspondence including family, personal, professional and academic. Private papers (travel documents, photographs, postcards), articles, lectures and manuscripts. Published articles and addresses - 1964-1984. Note correspondence includes some original art works. Some correspondence, especially to family, is written in German--Published articles and addresses 1964-1984. Newscuttings on art; some articles by or on Dr Hoff 1952-1974--Art Bulletin of Victoria, No. 28, National Gallery of Victoria 1987, pp.135, accompanied by covering letter from Sonia Dean, Editor and Principal Curator, to F.S., 31 May 1988. The issue was published in Dr Hoff's honour, and contains, inter alia, a bibliography of her publications.</abstract>
+<physdesc>
+<extent>1.6 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000523.htm">
+<relationEntry localType="archival">Hoff, Ursula, 1909- Address</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Hoff, Ursula, 1909- Address</unittitle>
+<unitid>MS3471</unitid>
+<unitdate>1974</unitdate>
+<abstract>Talk entitled: 'The use of art history in the art museum', given at the Art Association Conference, 1974.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000522.htm">
+<relationEntry localType="archival">Hoff, Ursula, 1909- Papers relating to her studies of the Australian artist Charles Conder, including correspondence and photographs</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Hoff, Ursula, 1909- Papers relating to her studies of the Australian artist Charles Conder, including correspondence and photographs</unittitle>
+<unitid>MSB483</unitid>
+<unitdate>1960 - 1972</unitdate>
+<abstract>The papers are the research notes and correspondence for her two published studies of  Conder, <span style="font-style:italic">Charles Conder, His Australian Years</span>, (1960) and <span style="font-style:italic">Charles Conder</span>, (1972)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0729</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-10">2004-02-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Penny Robinson</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0729b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Fundraising, Australian Red Cross Victoria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Fundraising was initially the main function of the Victorian branch, with appeals launched by the President and undertaken through Committees and branches. Initially, funds were administered by the Australian Branch. Their Central Depot became the first collection and distribution point, although Victoria was also empowered to appoint a depot for contributions. Fundraising has gradually become more specialised, with Committees focused on the hallmark Red Cross Calling, the Murray Marathon since 1969, and a Desperate &amp; Dateless ball for over ten years. Retail has expanded from Card &amp; Gift Shops, to 'Been Around Before' stores and merchandise campaigns, while corporate sponsors, are emphasised and bequests, foundations and trusts have expanded.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0068b.htm">
+<relationEntry localType="Person">
+Best, Kathleen Annie Louise (1910 - 1957)
+</relationEntry>
+<descriptiveNote>
+<p>Australian Red Cross Victoria founding member of the Citizens' Appeal Committee from 1949, Chairman Button Day Committee before death in 1957</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0158b.htm">
+<relationEntry localType="Person">
+MacKay, Vivienne (1906 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960s</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Australian Red Cross Victoria fund raising and training</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="hierarchical-parent" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0724b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross Victoria (1914 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1480287">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fundraising, Australian Red Cross Victoria', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fundraising, Australian Red Cross Victoria</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0729b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001204.htm">
+<relationEntry localType="archival">The Archive &amp; Heritage Collection of the Australian Red Cross</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Red Cross Victoria Archives</repository>
+<unittitle>The Archive &amp; Heritage Collection of the Australian Red Cross</unittitle>
+<abstract>The Archive &amp; Heritage Collection of the Australian Red Cross, Victoria holds a wide range of records and artifacts relating to the organization in Victoria - in line with its Mission -
+to ensure that items and records that document the history of the Australian Red Cross in Victoria are retained, kept securely and made accessible for research.
+The Collection includes Australian Red Cross publications, books of news-clippings from 1915-1996, minutes of meetings (Divisional, Regional and special purpose committees to regional and rural branches), annual reports, a range of documents, reports &amp; letters, some special collections (photograph albums, scrap books) of prominent people and collections of miscellaneous papers and ephemera.  Two traveling exhibitions, 'Being There' (highlighting the activities in different eras) and 'Red Cross Remembers WW2' have been mounted and toured many regional areas of the State.
+
+A project to record the location of Australian Red Cross Victoria Branch records retained locally or held in other repositories was begun in early 2004.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1010</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-06-11">2004-06-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1010b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ithaca Benevolent Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-01-01">1900</fromDate>
+<toDate standardDate="1922-12-31">1922</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Philanthropic organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Ithaca Benevolent Society was established in 1900 by a group of Brisbane women to relieve poverty and hardship amongst the 'deserving poor'. With the passage of time, the interests of the society evolved to encompass more women-centred interests. They were particularly concerned with the interests of mothers and their children, and spokespeople at the time claimed the association was instrumental in campaigns that sought to set up systems of state aid for mothers.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1003b.htm">
+<relationEntry localType="Corporate Body">
+Bardon Women's Club (1926 - 1998)
+</relationEntry>
+<descriptiveNote>
+<p>Associated organisation</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-753071">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ithaca Benevolent Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ithaca Benevolent Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1010b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001712.htm">
+<relationEntry localType="archival">Records of the Bardon Women's Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Records of the Bardon Women's Club</unittitle>
+<unitid>T2108, OMR 94, Boxes 9619 and 9620; 8189 O/S; 8190 0/S</unitid>
+<unitdate>1926 - 1998</unitdate>
+<abstract>Business records, minute books, miscellaneous items, assorted correspondence, historical notes. Incomplete.
+
+The John Oxley Library is in temporary accommodation until 2006. Most material is kept off-site. Researchers wishing to use the manuscript collection should contact the research librarian prior to visiting the library to confirm the availability of the material.</abstract>
+<physdesc>
+<extent>0.45 m, 2 boxes, 2 large folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0036</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0036b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bate</part>
+<part localType="givenname">Zara Kate</part>
+<part localType="honorific title">Dame, DBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Holt, Zara</part>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Dickins, Zara</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-03-10">10 March 1909</fromDate>
+<toDate standardDate="1989-06-14">14 June 1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kew, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Zara Bate was appointed Dames Commander of the Order of the British Empire for devotion to the public interest on 8 June 1968.</abstract>
+<p>Zara Bate the daughter of Sydney Herbert and Violet (née McDonald) was educated at both Ruyton and Toorak Colleges, Melbourne. In 1925, aged 16, she established her first dress shop in Little Collins Street, Melbourne. Bate with a friend, later opened a salon, called 'Magg', in Toorak Village, Melbourne. The business was sold in 1976. Bate won the Australian Gown of the Year award, in 1961.</p>
+<p>From her first marriage to Colonel James Fell, Bate had three sons. She married her second husband Harold Holt, who was to become the 22nd prime minister of Australia, in 1946. After his disappearance in 1967, from a Portsea surf beach in Victoria he was presumed drowned, she married H. J. P. (Jeff) Bate on 19 February 1969. Mr Bate, a former Liberal politician and farmer, died in 1984.</p>
+<p>In 1968 Dame Zara wrote a book titled <span style="font-style:italic">My Life and Harry: An autobiography.</span> Besides her charity work she enjoyed reading, walking, swimming and fishing. Dame Zara Bate passed away on 14 June 1989.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4911b.htm">
+<relationEntry localType="Organisation">
+Country Women's Association of New South Wales, Canberra Branch (1946 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743059">
+<relationEntry>
+Holt, Zara (1909-1989)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bate, Zara Kate', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bate, Zara Kate</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0036b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001138.htm">
+<relationEntry localType="published">Resource Section: Primary description of person CP 717; Dame Zara Kate Holt DBE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="quoted">Primary description of person CP 717; Dame Zara Kate Holt DBE</title>
+<extptr linktype="simple" href="http://naa12.naa.gov.au/scripts/SearchOld.asp?Number=CP+717"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000794.htm">
+<relationEntry localType="published">Book: My life and Harry: an autobiography Dame Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Holt, Zara, Dame</name>
+<title render="italic">My life and Harry: an autobiography Dame Zara Holt</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003068.htm">
+<relationEntry localType="published">Resource Section: Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="quoted">Zara Holt</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Australia's Prime Ministers</title>
+<name type="author">National Archives of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://primeministers.naa.gov.au/meetpm.asp?pmId=17&amp;pageName=wife"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003067.htm">
+<relationEntry localType="published">Resource Section: Papers of Harry Maurice Miller (1934- )
+</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="quoted">Papers of Harry Maurice Miller (1934- )
+</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Aids Manuscripts</title>
+<name type="author">National Library of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.ms-ms7981"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000754.htm">
+<relationEntry localType="published">Newspaper Article: Women Federation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Caron</name>
+<title render="quoted">Women Federation</title>
+<imprint>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Telegraph</title>
+<num type="issue">Sunday Magazine</num>
+<num type="pages">4-11, 24</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000753.htm">
+<relationEntry localType="published">Book: Prime Ministers' Wives</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Langmore, Diane</name>
+<title render="italic">Prime Ministers' Wives</title>
+<imprint>
+<place>Ringwood, Vic.</place>
+<publisher>McPhee Gribble</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000399.htm">
+<relationEntry localType="archival">Audio-visual material relating to Harold Edward Holt and Mrs Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Audio-visual material relating to Harold Edward Holt and Mrs Zara Holt</unittitle>
+<unitid>M4297</unitid>
+<unitdate>c. 1 December 1921 - 26 September 1981</unitdate>
+<abstract>This series consists of about 195 photographs, four sound recordings and four films relating to Prime Minister Harold Edward Holt and his wife, Mrs Zara Holt (later Dame Zara). The material mainly covers the period when Holt was Prime Minister (1966-1967), although many of the photographs relate to his earlier career, particularly as Minister for Immigration (1949-1956). Several items relate specifically to Mrs Holt.
+
+The photographs include official portraits, family photographs, Australian News and Information Bureau and other official photographs covering a wide range of Holt's official engagements both in Australia and overseas. A number of the photographs relate to Mrs Zara Holt as wife of a senior political figure, both before and after Holt's death. A few relate to the first year of her subsequent marriage to another politician, H J P (Jeff) Bate and to her fashion business 'Magg'.
+
+Two of the sound recordings relate to Holt. One of these includes the speeches made at the historic Commonwealth Parliamentary Association luncheon given in Westminster Hall, London in May 1953, when Holt was Chairman of the Association, and the other is a recording of the speech he gave at the 36th Session of the International Labour Conference the same year. The other two recordings are the song 'Dame Zara', by the group 'The Wheelbarrow', and a cassette tape of Mrs Holt responding to 'Dorothy Dix' questions.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000398.htm">
+<relationEntry localType="archival">Audio-visual material relating to Harold Edward Holt and Mrs Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Audio-visual material relating to Harold Edward Holt and Mrs Zara Holt</unittitle>
+<unitid>M4294</unitid>
+<unitdate>c. 1 January 1920 - 31 July 1986</unitdate>
+<abstract>This series consists of about 380 photographs, one 45 rpm record and six films relating to Prime Minister Harold Edward Holt and his wife, Mrs Zara Holt (later Dame Zara). The material mainly covers the period when Holt was Prime Minister (1966-1967), although many of the photographs relate to his earlier career, particularly as Minister for Immigration (1949-1956) and later, Treasurer (1958-1966).
+
+The photographs include official portraits, family photographs, Australian News and Information Bureau and other official photographs covering a wide range of Holt's official engagements both in Australia and overseas. A smaller number of photographs relate to Mrs Zara Holt, including her childhood, early fashion business in Melbourne, as wife of a senior political figure and after Holt's death.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000397.htm">
+<relationEntry localType="archival">Personal papers of Dame Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Personal papers of Dame Zara Holt</unittitle>
+<unitid>M4300</unitid>
+<unitdate>8 October 1946 - 29 December 1997</unitdate>
+<abstract>This series consists of the personal papers of Dame Zara Holt, wife of former Prime Minister Harold Edward Holt. These mainly cover the period 1946 to 1989,
+although several items were accumulated subsequently by her eldest son Nicholas.
+
+Correspondence, newspapers, press cuttings and magazines account for most of the records in the series. Many of these items relate to the death of Holt in December 1967 and his memorial services in Melbourne a few days later and in Westminster Abbey, London in January 1968. Some include complete issues of major daily Australian newspapers and press cuttings from US newspapers, collected by the Australian News and Information Bureau in New York. The correspondence includes two files of condolences addressed to Nicholas Holt, one relating to Holt's death and the other to Dame Zara's death in June 1989. Another file includes a list of Holt's personal papers deposited in the National Archives by the Prime Minister's Department in 1968 and an inventory of his personal effects.
+
+Other items in the series relate to an overseas visit the Holts made in 1957, social engagements, fashion (including Dame Zara's fashion business 'Magg') and to members of the Holt family in more recent years.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000396.htm">
+<relationEntry localType="archival">Personal papers of Dame Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Personal papers of Dame Zara Holt</unittitle>
+<unitid>M4296</unitid>
+<unitdate>31 December 1949 - 20 June 1989</unitdate>
+<abstract>This series consists of a small number of items associated with Mrs Zara Holt (later Dame Zara), wife of former Prime Minister Harold Edward Holt. It includes roneod copies of travel diaries and letters written for distribution to family and friends when she accompanied Holt on his overseas visit (mainly 1957-1960), some personal correspondence, financial papers, unused stationery and other items of ephemera including the order of service on her death in June 1989.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000301.htm">
+<relationEntry localType="archival">Papers of Dame Zara Holt</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Dame Zara Holt</unittitle>
+<unitid>MS 8431</unitid>
+<unitdate>1934 - 1977</unitdate>
+<abstract>1. Appointment diaries, 1957 and 1962. 
+2. Correspondence, 1956-1968. 
+3. Harold Holt's diary, 1957-1962 (photocopy of typescript). 
+4. Zara Holt's diary of a trip to Cambodia and Laos and of trips to Australia by Marshall Ky and President Lyndon Johnson (photocopy of typescript) 
+5. Itineraries of official visits, 1966-1967. 
+6. Two photographs of Harold Holt taken at the time he stood unsuccessfully for the federal seat of Yarra in 1934. 
+7. Miscellaneous photographs, 1951-1967. 
+8. Printed material, 1937, 1950-1968. 
+9. Christmas card lists, 1967. 
+10. Miscellaneous papers, 1957-1977. 
+11. 35 mm reel of film "Holt Memorial Broadcast", 1967</abstract>
+<physdesc>
+<extent>0.42 m, 3 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001736.htm">
+<relationEntry localType="archival">[Biographical cuttings on Dame Zara Bate, socialite and author]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Dame Zara Bate, socialite and author]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001734.htm">
+<relationEntry localType="archival">[Biographical cuttings on Zara Holt]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Zara Holt]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001735.htm">
+<relationEntry localType="archival">Papers of Harry M. Miller</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Harry M. Miller</unittitle>
+<unitid>MS 7981</unitid>
+<unitdate>1958 - 1983</unitdate>
+<abstract>Correspondence, press clippings, programmes, photographs, posters, financial records, contracts, music scores, scripts, administrative files, stage management reports and other papers dealing with the numerous concert tours, stage musicals and theatrical productions promoted by Miller from the late 1950s to the late 1970s. These include such artists as Louis Armstrong, Arthur Rubinstein, Roy Orbison and the Rolling Stones; such musicals as Hair' and Jesus Christ Superstar'; theatrical productions such as The Boys in the Band' and The Secretary Bird'. The collection also includes material on individuals managed by Miller including Graham Kennedy, Barry Humphries, Dame Zara Bate and Sir John Kerr. Also present are papers of an autobiographical nature such as those relating to Miller's trials and imprisonment on fraud charges in the early 1980s.</abstract>
+<physdesc>
+<extent>21.5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

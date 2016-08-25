@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1246</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-07-27">2005-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1246b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dyer</part>
+<part localType="givenname">Mollie</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1927-01-01">1927</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Barmah, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal child welfare worker</term>
+</occupation>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mollie Dyer, of Yorta Yorta descent, was instrumental in establishing the Victorian Aboriginal Child Care Agency (VACCA) in 1977, and became its first Program Director. She fostered 20 children from Aboriginal communities in Victoria, as well as having six of her own. She advocated for the adoption legislation in Victoria to prevent Aboriginal families unnecessarily surrendering their children and was involved with the establishment of the Secretariat of National Aboriginal and Islander Child Care (SNAICC) in the early 1980s.
+
+Dyer received an Advance Australia medal and an Order of Australia award for 'her outstanding contribution to the advancement and enrichment of Australia, its people and its way of life'.
+
+Mollie Dyer died in 1998 after a long illness.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0042b.htm">
+<relationEntry localType="Person">
+Coleman, Marie Yvonne
+</relationEntry>
+<descriptiveNote>
+<p>Worked together to establish a network of Aboriginal and Islander child care agencies throughout Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5376b.htm">
+<relationEntry localType="Organisation">
+Aboriginal Legal Service (1970 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Mollie Dyer was secretary of the Aboriginal Legal Service from 1973 and executive officer from 1974</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-723096">
+<relationEntry>
+Dyer, Mollie (1927-1998)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dyer, Mollie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dyer, Mollie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1246b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003560.htm">
+<relationEntry localType="published">Journal Article: Aboriginal children: back to origins</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Butler, Brian</name>
+<title render="quoted">Aboriginal children: back to origins</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Family Matters</title>
+<num type="volume">35</num>
+<num type="issue">August 1993</num>
+<num type="pages">7-12</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003533.htm">
+<relationEntry localType="published">Book: The Black Grapevine: Aboriginal Activism and the Stolen Generations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Briskman, Linda</name>
+<title render="italic">The Black Grapevine: Aboriginal Activism and the Stolen Generations</title>
+<imprint>
+<place>Annandale, NSW</place>
+<publisher>The Federation</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001966.htm">
+<relationEntry localType="archival">Life Stories of elderly Aboriginal people in Victoria</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>AIATSIS Recorded Sound Archive</repository>
+<unittitle>Life Stories of elderly Aboriginal people in Victoria</unittitle>
+<unitid>MORIARTY_B01</unitid>
+<unitdate>1988</unitdate>
+<abstract>Interviews with Albert Mullett, Mrs Gerry Briggs, Molly Dyer, Walda Blow, Sharon Firebrace, Margaret Hood, Joy Smith Val Mitchell and others</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001965.htm">
+<relationEntry localType="archival">Burns Family Portraits and Early Scenes from Roseby Park and Brewarrina</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>AIATSIS Pictorial Archive</repository>
+<unittitle>Burns Family Portraits and Early Scenes from Roseby Park and Brewarrina</unittitle>
+<unitid>COLEMAN M1/M2.CD</unitid>
+<unitdate>1915 - 1929</unitdate>
+<abstract>14 TIFF photo files</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

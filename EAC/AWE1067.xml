@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1067</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-21">2004-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1067b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tongerie</part>
+<part localType="givenname">Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Peterson, Maude</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1927-01-01">1927</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Anna Creek, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maude Tongerie was born in 1927 at Anna Creek, about 80 miles west of Oodnadatta in South Australia. She lived with her people (Arabunna) until the age of nine, when she was taken to the Finke River Mission for an eye treatment. She then went to live with an aunt in Oodnadatta so that she could learn English, and from there she went to Colebrook Home, a non-Government Aboriginal mission, in Quorn. At the age of 15 she started to work as a domestic with a family near Adelaide. She married George Tongerie, a young Aboriginal man who served in the Air Force during the war. In the early 1970s Maude became involved with the Department for Community Welfare, and has worked as a Social Worker with Aboriginal families, particularly in the Juvenile Courts.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-732067">
+<relationEntry>
+Tongerie, Maude (1927-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tongerie, Maude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tongerie, Maude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1067b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003278.htm">
+<relationEntry localType="published">Newspaper Article: Maude Tongerie, Community Worker</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Maude Tongerie, Community Worker</title>
+<imprint>
+<date>1981</date>
+</imprint>
+<bibseries>
+<title render="italic">Nunga News</title>
+<num type="pages">2-3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003277.htm">
+<relationEntry localType="published">Newsletter: Maude Tongerie, Community Worker</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Maude Tongerie, Community Worker</title>
+<imprint>
+<place>Oodnadatta</place>
+<date>1982</date>
+</imprint>
+<bibseries>
+<title render="italic">Aboriginal Newsletter S.A.</title>
+<num type="volume">4</num>
+<num type="issue">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003276.htm">
+<relationEntry localType="published">Journal Article: Aboriginal Aged Persons Homes Trust</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Aboriginal Aged Persons Homes Trust</title>
+<imprint>
+<date>1970</date>
+</imprint>
+<bibseries>
+<title render="italic">Kunmanggur</title>
+<num type="issue">5</num>
+<num type="pages">1-3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003204.htm">
+<relationEntry localType="published">Book: Our Heart Is the Land: Aboriginal Reminiscences from the Western Lake Eyre Basin,</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Shaw, Bruce</name>
+<title render="italic">Our Heart Is the Land: Aboriginal Reminiscences from the Western Lake Eyre Basin,</title>
+<imprint>
+<place>Canberra, ACT.</place>
+<publisher>Aboriginal Studies Press</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002905.htm">
+<relationEntry localType="published">Book: Some Aboriginal women pathfinders : their difficulties and their achievements</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beeson, Margaret J (compiled by)</name>
+<title render="italic">Some Aboriginal women pathfinders : their difficulties and their achievements</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Woman's Christian Temperance Union of Australia</publisher>
+<date>[1980]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001840.htm">
+<relationEntry localType="published">Edited Book: Unsung heroes &amp; heroines of Australia /edited by Suzy Baldwin</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Baldwin, Suzy</name>
+<title render="italic">Unsung heroes &amp; heroines of Australia /edited by Suzy Baldwin</title>
+<imprint>
+<place>Elwood, Vic.</place>
+<publisher>Greenhouse</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

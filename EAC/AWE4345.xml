@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4345</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-24">2009-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4345b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Pell</part>
+<part localType="givenname">Jane Juliana</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Birth Name"><part>Rusden, Jane Juliana</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1825-01-01">c. 1825</fromDate>
+<toDate standardDate="1889-12-31">1889</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Hobart, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Homemaker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Juliana Pell was the wife of Morris Birkbeck Pell, the first professor of mathematics and philosophy at the University of Sydney.</abstract>
+<p>Jane Juliana Pell was the wife of Morris Birkbeck Pell, the first professor of mathematics and philosophy at the University of Sydney. The couple married in England on 17 February 1852 before migrating to New South Wales to take up the appointment.</p>
+<p>Pell had 11 children between 1859 and 1869. However, the marriage was not a happy one and she returned to England in 1873. She subsequently came back to Australia but lived in Hobart, estranged from her husband. When Morris Pell died in 1879, he left an annuity of £80 to her, with the provision that she did not return to Sydney.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477363">
+<relationEntry>
+Pell, Jane Juliana (1825-18891231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pell, Jane Juliana', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pell, Jane Juliana</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4345b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002358.htm">
+<relationEntry localType="archival">Personal archives of Pell, Morris Birkbeck [1827-79], Jane Juliana</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Personal archives of Pell, Morris Birkbeck [1827-79], Jane Juliana</unittitle>
+<unitid>P056</unitid>
+<unitdate>1862 - 1931</unitdate>
+<abstract>Contents include: personal diary (first entry 23 Jan 1854, last entry 29 Jan 1855); and photographs (no dates).</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

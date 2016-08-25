@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4801</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-07">2012-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Criena Fitzgerald</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4801b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Furia</part>
+<part localType="givenname">Lina</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Robustellini, Lina</part>
+</nameEntry>
+<nameEntry localType=""><part>Osmetti, Lina</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-11-04">4 November 1891</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Grosotto, Tirano, Valtellina</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Coolgardie, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Hotel owner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lina Furia owned and ran the Cornwall Hotel in Boulder with her husband Charlie Furia and her son Jack Osmetti from 1926 -1970.</abstract>
+<p>Lina Robustellini migrated to Western Australia in the early 1900s. Her first husband Jack Osmetti was killed on the Golden Horseshoe Mine and she supported her family by running a boarding house. In 1924 she married Charlie Furia and using the compensation money paid out after the death of Jack Osmetti, they purchased the Cornwall Hotel in Boulder. Young migrant miners stayed at the Cornwall, and dances were held for the community every Saturday.</p>
+<p>During the Kalgoorlie riots in 1934 the Cornwall was among many buildings belonging to migrants which were burnt down. Lina continued to sell alcohol to her customers and operated a bar from a corrugated iron shed next door to the remains of the hotel until it was rebuilt with compensation money from the government.</p>
+<p>Lina Furia provided employment for many young migrant women and men, including Nerina Beccarelli, who worked as a waitress in the dining room.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1598806">
+<relationEntry>
+Furia, Lina (18911104-19701231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Furia, Lina', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Furia, Lina</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4801b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005013.htm">
+<relationEntry localType="published">Book: One Hundred Women of the Eastern Goldfields</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">One Hundred Women of the Eastern Goldfields</title>
+<imprint>
+<place>Kalgoorlie, W.A</place>
+<publisher>Goldfields Women's Health Care Association</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002583.htm">
+<relationEntry localType="archival">Nerina Beccarelli, interviewed by Criena Fitzgerald</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Nerina Beccarelli, interviewed by Criena Fitzgerald</unittitle>
+<unitid>5158936</unitid>
+<unitdate>2011</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002582.htm">
+<relationEntry localType="archival">Tess Epis, interviewed by Criena Fitzgerald</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Tess Epis, interviewed by Criena Fitzgerald</unittitle>
+<unitid>5716791</unitid>
+<unitdate>2011</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00579.htm">
+<relationEntry localType="digitalObject">Charlie Furia and Lina Furia, Marriage</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tess Epis</repository>
+<unittitle>Charlie Furia and Lina Furia, Marriage</unittitle>
+<unitdate>1921</unitdate>
+<abstract>Lina Robustellini married Charlie Furia after the death of her first husband Jack Osmetti, who was killed in a mine accident. Charlie also died some years later of silicosis.</abstract>
+<note label="rights">Photograph courtesy of Tess Epis. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00546.htm">
+<relationEntry localType="digitalObject">Lina Furia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tess Epis</repository>
+<unittitle>Lina Furia</unittitle>
+<unitdate>1933</unitdate>
+<note label="rights">Photograph courtesy of Tess Epis. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00536.htm">
+<relationEntry localType="digitalObject">Cornwall Hotel, Kalgoorlie Boulder</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tess Epis</repository>
+<unittitle>Cornwall Hotel, Kalgoorlie Boulder</unittitle>
+<unitdate>c. 1980</unitdate>
+<note label="rights">Photograph courtesy of Tess Epis. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00529.htm">
+<relationEntry localType="digitalObject">Charlie Furia, Lina Furia and their daughter Teresa</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tess Epis</repository>
+<unittitle>Charlie Furia, Lina Furia and their daughter Teresa</unittitle>
+<unitdate>1934</unitdate>
+<note label="rights">Photograph courtesy of Tess Epis. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

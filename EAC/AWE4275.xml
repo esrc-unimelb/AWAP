@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4275</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-26">2009-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-02">2014-09-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4275b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Presbyterian Deaconess Order in Victoria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Work by Presbyterian Deaconesses was established in Victoria in 1898 when six women were 'set apart' by the Commission of the General Assembly of the Presbyterian Church, 'in a special way for Christian service as the chief object of their life.
+
+From the beginning, two important principles were clearly stated:
+
+<list>
+<item>that the ministry of the deaconess was to be seen as a ministry to the less priveleged and persons in need</item>
+<item>that adequate training for such ministry was necessary.</item>
+</list>
+
+After a peripitatic existence for the first 15 or so years, training was provided at Rolland House in Carlton, from 1915, for almost sixty years.
+
+As for the special ministry of deaconesses - the following lists some of the activities they engaged in. They:
+
+<list>
+<item>ministered to the body as well as the soul. Some of the first nurses ever seen in the Australian outback were deaconesses. Trained as they were, they could conduct services where there was no minister. As nurses, they were important leaders in the establishment of the Dr John Flynn's Australian Inland Mission.</item>
+<item> Personal work and contact in the inner subusrbs have proven a friends to those in material, moral, social and spiritual need.</item>
+<item> Assistants to ministers in large parishes.</item>
+<item> In 3 states, been very important in organising youth work - including camps, Sunday schools, bible classes etc.</item>
+<item> Important to teaching scripture in government schools, thereby getting the word across to children in homeswhere religion in unknown. 'the greatest open door in front of the chirch today, and the main hope of preserving Christian ideals in this land'.</item>
+<item> In chanrge of hostels for country girls, visited gaols, attend children's courts and 'as probation officers have been able to keep girls from entering a life of crime.</item>
+<item> Missionary trainees to Korea, China, Pacific Islands.</item>
+<item>that adequate training for such ministry was necessary.</item>
+</list></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5375b.htm">
+<relationEntry localType="Person">
+Goldie, Hope (1896 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462413">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Presbyterian Deaconess Order in Victoria', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Presbyterian Deaconess Order in Victoria</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4275b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

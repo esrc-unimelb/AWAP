@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0623</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-11-04">2003-11-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-31">2015-07-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0623b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Clarke</part>
+<part localType="givenname">Jessie Deakin</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Brookes, Jessie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-12-28">28 December 1914</fromDate>
+<toDate standardDate="2014-11-11">11 November 2014</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Social worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jessie Clarke, daughter of Ivy Brookes and grand daughter of Alfred Deakin, trained in social work and was professionally active in the Port Melbourne, Victoria, area. She was studied in New York in the 1930s, was a junior delegate to the League of Nations Union in Geneva and an activist on behalf of refugees. She founded the the Nappy Wash delivery service in the period after the Second World War.</abstract>
+<p>Jessie Clarke, the granddaughter of Alfred Deakin (Australian Prime Minister 1903-1910) and the daughter of Ivy (née Deakin) and Herbert Brookes, enrolled at the University of Melbourne in 1931. She graduated with an Arts/Social Work degree and continued her studies in New York before the Australian government offered her a position as junior delegate to the League of Nations Union in Geneva.</p>
+<p>Later, with the war imminent, she returned to Australia and became president of the Victorian International Refugee Emergency Council. A few days after the outbreak of World War II she married William Anthony Francis Clarke, the son of Sir Frank Clarke, MLC, whom she had earlier taken to task for his reported remarks in the Legislative Council about 'rat-faced refugees'. Clarke worked with the Lord Mayor's Patriotic and Welfare Fund as a voluntary social worker dealing with the problems of army wives and relatives at first in Sydney, where her husband was stationed, and later in Melbourne.</p>
+<p>In 1946 the Clarkes decided to start a napkin wash service in response to the post war baby boom. Nappie Wash, which grew to become the second largest such service in the world, was largely a family affair, with 13 relatives and friends providing the initial capital. At various stages of its history members of the family have been directors of the company which was sold in 1975.</p>
+<p>Clarke, whose husband died in 1953, was a foundation member of the Australian Assistance Plan set up by Prime Minister Whitlam. She was involved also with community health groups such as the Abbeyfield Society, Melbourne-South Yarra Group, Broadmeadows Community Health Centre and the Melbourne District Health Council.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0514b.htm">
+<relationEntry localType="Person">
+Brookes, Ivy (1883 - 1970)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-537477">
+<relationEntry>
+Clarke, Jessie (1914-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Clarke, Jessie Deakin', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Clarke, Jessie Deakin</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0623b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002253.htm">
+<relationEntry localType="published">Journal Article: The Jessie Clarke Collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gladwin, Frances</name>
+<title render="quoted">The Jessie Clarke Collection</title>
+<imprint>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Victoria News</title>
+<num type="volume">2</num>
+<num type="issue">4</num>
+<num type="pages">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002252.htm">
+<relationEntry localType="published">Book Section: Jessie Clarke: Founder of Nappie Wash</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tipping, Marjorie</name>
+<title render="quoted">Jessie Clarke: Founder of Nappie Wash</title>
+<imprint>
+<place>Ringwood, Vic.</place>
+<publisher>Penguin</publisher>
+<date>1985</date>
+</imprint>
+<bibseries>
+<title render="italic">Double time : women in Victoria - 150 years</title>
+<name type="author">Lake, Marilyn and Kelly, Farley</name>
+<num type="pages">408-419</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001004.htm">
+<relationEntry localType="archival">Clarke, Jessie Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Clarke, Jessie Papers</unittitle>
+<unitid>MS 13268</unitid>
+<unitdate>c. 1900 - c. 1990</unitdate>
+<abstract>Comprises personal and family documents, and records of organisations concerned with health, welfare and aged care, e.g., Nappie Wash, Abbeyfield Society, Melbourne-South Yarra Group, Broadmeadows Community Health Centre, Melbourne District Health Council.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001003.htm">
+<relationEntry localType="archival">[Biographical cuttings on Jessie Clarke, managing director of Nappie Wash Ltd]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Jessie Clarke, managing director of Nappie Wash Ltd]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001002.htm">
+<relationEntry localType="archival">Interview with Jessie Clarke, granddaughter of Alfred Deakin [sound recording] / various interviewers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Jessie Clarke, granddaughter of Alfred Deakin [sound recording] / various interviewers</unittitle>
+<unitid>ORAL TRC 3465</unitid>
+<unitdate>1996 - 2001</unitdate>
+<abstract>Ms Clarke speaks about Melbourne society in the early 1900s; her early memories of her grandfather Alfred Deakin (Australia's 2nd Prime Minister); her travels to America in the 1920s with her family when her father Herbert Brooks was appointed Commissioner-General to the U.S.A.; her interests in music; her work as a social worker in Port Melbourne, Vic.</abstract>
+<physdesc>
+<extent>2 sound discs</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

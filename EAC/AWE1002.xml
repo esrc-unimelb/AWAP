@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1002</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-06-10">2004-06-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1002b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Simon</part>
+<part localType="givenname">Ella</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+<toDate standardDate="1981-02-13">13 February 1981</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Taree, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ella Simon went to school on Purfleet Aboriginal reserve, New South Wales, until the age of twelve. She then worked in Gloucester and Sydney, but returned to Purfleet in 1932 to nurse her sick grandmother, Kundaibark. She married Joe Simon in the mid-1930s, and they travelled around New South Wales, helping Aboriginal people. In 1957 Ella was granted her 'certificate of exemption' from the restrictions imposed by the Aborigines Welfare Board. In 1960 she formed a branch of the Country Women's Association on Purfleet reserve and became its president. She opened the Gillawarra gift shop selling Aboriginal artefacts. She improved the living conditions on Purfleet, by supplying new stoves and introducing electricity. She continued caring for Aboriginal children and the sick. In 1962 she was named Lady of Distinction by Quota and appointed a justice of the peace. She dictated her life story for the book <span style="font-style:italic">Through My Eyes</span> during 1976-78.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-612269">
+<relationEntry>
+Simon, Ella (1902-1981)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Simon, Ella', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Simon, Ella</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1002b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003053.htm">
+<relationEntry localType="published">Book: Through my eyes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Simon, Ella, 1902-1981</name>
+<title render="italic">Through my eyes</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Rigby</publisher>
+<date>1978</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003058.htm">
+<relationEntry localType="published">Newspaper Article: Something that was shameful : two Aboriginal identities in a whole culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brady, Veronica, 1926-</name>
+<title render="quoted">Something that was shameful : two Aboriginal identities in a whole culture</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Age Monthly Review</title>
+<num type="volume">7</num>
+<num type="issue">6</num>
+<num type="pages">3-5</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003057.htm">
+<relationEntry localType="published">Journal Article: The dream of a shared society : on the borderlines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mead, Jenna</name>
+<title render="quoted">The dream of a shared society : on the borderlines</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Book Review</title>
+<num type="issue">96</num>
+<num type="pages">13-15</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003056.htm">
+<relationEntry localType="published">Book: Stories of herself when young : autobiographies of childhood by Australian women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hooton, Joy W. (Joy Wendy), 1935-</name>
+<title render="italic">Stories of herself when young : autobiographies of childhood by Australian women</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003055.htm">
+<relationEntry localType="published">Book: Custodians of the soil : a history of aboriginal-European relationships in the Manning Valley of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ramsland, John, 1942-</name>
+<title render="italic">Custodians of the soil : a history of aboriginal-European relationships in the Manning Valley of New South Wales</title>
+<imprint>
+<place>Taree, NSW</place>
+<publisher>Greater Taree City Council</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003054.htm">
+<relationEntry localType="published">Book: Aboriginal perspectives : resources for English, history, general studies, social sciences, women of the sun.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Aboriginal perspectives : resources for English, history, general studies, social sciences, women of the sun.</title>
+<imprint>
+<place>Lismore [N.S.W.]</place>
+<publisher>N.S.W. Dept. of Education, North Coast Region</publisher>
+<date>[1987].</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001711.htm">
+<relationEntry localType="archival">The Aussie image : the language of the image makers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>The Aussie image : the language of the image makers</unittitle>
+<unitid>KIT N531.48/A1</unitid>
+<unitdate>1980</unitdate>
+<abstract>Stimulus material for lower secondary classes; includes chapter The Aboriginal tradition; European contact; mission life; land rights; prejudice; culture; activities for extracts of works by Margaret Tucker, Ella Simon, Robert Merritt, Frank Hardy, Kevin Gilbert, Kath Walker 
+
+Produced by New South Wales. Dept. of Education, includes 1 booklet (teachers notes), 178 printed masters, 168 col. slides, 1 audio cassette; in folder; ill.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001710.htm">
+<relationEntry localType="archival">Sports and community portraits from the north coast of New South Wales - Photographs reproduced in New Dawn Magazine</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Sports and community portraits from the north coast of New South Wales - Photographs reproduced in New Dawn Magazine</unittitle>
+<unitid>NEW.DAWN.1.BW</unitid>
+<unitdate>1970 - 1974</unitdate>
+<abstract>Photographs taken between 1970 &amp; 1974. 36 copynegatives: b&amp;w; 35mm</abstract>
+<physdesc>
+<extent>36 copynegatives</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

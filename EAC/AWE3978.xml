@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3978</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-15">2008-12-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3978b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Collier</part>
+<part localType="givenname">Annette</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1947-12-31">1947</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The Collier sisters - Annette, Alice and Edith - came to public notice in 1954 with the endowment of the £1.25 million Collier Charitable Fund. By 2007, the corpus of the fund was worth $88 million.</abstract>
+<p>Alice, Annette and Edith Collier were daughters of Jenkin Collier, who arrived in Melbourne from Wales in 1852 at the age of 23. Jenkin Collier worked in the building trade, constructing railway lines from Melbourne to Echuca and Deniliquin to Moama, and became involved in the pastoral development of Queensland. </p>
+<p>The Colliers lived at <span style="font-style:italic">Werndew</span>, a mansion on Toorak Road. The three sisters were educated at Melbourne's Presbyterian Ladies' College, while their brother Herbert attended Melbourne Grammar School. Jenkin Collier died at the age of 91, leaving his estate to his family. His daughters were devoted to one another, and never married. They travelled extensively but lived an otherwise unpretentious existence, attending St. John's Church regularly and spending very little of the substantial annual income that they received from the Collier estate. They gave generously to charity, but always insisted on anonymity.</p>
+<p>The wills of Annette, Alice and Edith Collier - who died in 1947, 1950 and 1954 respectively - held that two-fourteenths of the Collier Charitable Fund's annual income be given to the Lord Mayor's Fund. By 2006, the Lord Mayor's Fund alone had distributed over $30 million to various hospitals and charities using its share of the Collier money.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3980b.htm">
+<relationEntry localType="Person">
+Collier, Edith ( - 1954)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3979b.htm">
+<relationEntry localType="Person">
+Collier, Alice ( - 1950)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756083">
+<relationEntry>
+Collier, Annette (-1947)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Collier, Annette', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Collier, Annette</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3978b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004213.htm">
+<relationEntry localType="published">Thesis: In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lemon, Barbara</name>
+<title render="quoted">In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>School of Historical Studies, University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004486.htm">
+<relationEntry localType="published">Resource Section: Collier, Jenkin (1829 - 1921)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hone, J. Ann</name>
+<title render="quoted">Collier, Jenkin (1829 - 1921)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A030411b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004361.htm">
+<relationEntry localType="published">Site Exhibition: In Her Gift: Women Philanthropists in Australian History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">In Her Gift: Women Philanthropists in Australian History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wiph/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004300.htm">
+<relationEntry localType="published">Report: Lord Mayor's Fund News Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lord Mayor's Fund</name>
+<title render="italic">Lord Mayor's Fund News Report</title>
+<imprint>
+<place>Melbourne</place>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3128</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-07-18">2008-07-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3128b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Laidler</part>
+<part localType="givenname">Bertha May</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Walker, Bertha</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-07-08">8 July 1912</fromDate>
+<toDate standardDate="1975-05-24">24 May 1975</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Richmond, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Carlton, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Bertha Laidler stood as a candidate for the Communist Party of Australia in the seat of Richmond in the Legislative Assembly at the Victorian state election, which was held in June 1943.</abstract>
+<p>Bertha Laidler, daughter of Thomas Percival (Percy) Laidler and Christiane Alicia nee Goss was born into a socialist family. They lived above Will Andrade's bookshop in Bourke Street, Melbourne. She attended the Queensberry Street State school, Carlton.<br />
+Educated in Communism and Socialism from an early age, Laidler attended Stotts Business College and later worked for the Victorian Public Service in the Motor Registration Branch. She travelled to London in 1931 where she joined the Communist Party of Great Britain. On her return to Australia in 1933 she was active in the Communist Party of Australia, and the Shop Assistants' Union of Victoria. She later worked for the Federated Ironworkers Association of Australia in Melbourne, Sydney and Newcastle before travelling to New Zealand with fellow communists Judah Waten and Noel Counihan.<br />
+She served with the Women's Auxiliary Australian Air Force form May 1945 until May 1946. She moved to Darwin in October 1946 and met her future husband, Joseph Walker.<br />
+She curtailed her involvement with the CPA after having children.<br />
+She was a founding member of the Australian Society for the Study of Labour History.<br />
+Her publications include: <span style="font-style:italic">How to defeat conscription</span> and <span style="font-style:italic">Solidarity forever</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742052">
+<relationEntry>
+Laidler, Bertha May (1912-1975)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Laidler, Bertha May', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Laidler, Bertha May</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3128b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004271.htm">
+<relationEntry localType="published">Booklet: How to defeat conscription: a story of the 1916 and 1917 campaigns</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walker, Bertha</name>
+<title render="italic">How to defeat conscription: a story of the 1916 and 1917 campaigns</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Anti-conscription Jubilee Committee</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004270.htm">
+<relationEntry localType="published">Book: Solidarity forever: a part story of the life and times of Percy Laidler - the first quarter of a century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walker, Bertha</name>
+<title render="italic">Solidarity forever: a part story of the life and times of Percy Laidler - the first quarter of a century</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>National Press</publisher>
+<date>1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004013.htm">
+<relationEntry localType="published">Resource Section: Walker, Bertha May (1912 - 1975)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hudson, David</name>
+<title render="quoted">Walker, Bertha May (1912 - 1975)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A160556b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002149.htm">
+<relationEntry localType="archival">Papers of Bertha Walker</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Papers of Bertha Walker</unittitle>
+<unitid>MS10772</unitid>
+<unitdate>1932 - 1975</unitdate>
+<abstract>The collection contains correspondence 1932-1975; unpublished autobiography CH.1-4; material relating to an unpublished book on the depression of 1929-1935; working files. Includes a collection of newspaper clippings.</abstract>
+<physdesc>
+<extent>1.4 m</extent>
+<physfacet>Correspondence, manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

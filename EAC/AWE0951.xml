@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0951</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-11">2004-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0951b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Beal</part>
+<part localType="givenname">Susan</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Ross, Susan</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1935-01-01">1935</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dr Susan Beal has been investigating the circumstances surrounding Sudden Infant Death Syndrome (SIDS) for more than 20 years. Beal who grew up in Sydney, New South Wales, studied medicine at Sydney University and specialised in paediatrics. She married in 1959 and had five children between 1960 and 1970. The family moved to South Australia in the early 60s. Dr Beal began working at the Adelaide Children's Hospital as research registrar in neurosurgery and then running the Cerebral Palsy Clinic. In 1970 she was asked to investigate the incidence of SIDS in South Australia. Since then Dr Beal has been involved in research and public awareness campaigns that have led to a dramatic decrease in deaths. Between 1973 and 1990 she visited more than 500 families who had lost babies to cot death, and in 1986 was able to show that the rate of death was highest among babies who slept face-down. She is credited with being the first person anywhere to argue publicly against babies sleeping on their stomachs, and in the countries that have heeded her advice, including Australia, the United Kingdom and New Zealand, the incidence of SIDS has almost halved. Dr Susan Beal was appointed a Member of the Order of Australia (AM) in the Queen's Birthday honours list, 1997, for service to medicine, particularly in the fields of paediatrics and SIDS research.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-609337">
+<relationEntry>
+Beal, Susan Mitchell (1935-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Beal, Susan', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Beal, Susan</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0951b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002843.htm">
+<relationEntry localType="published">Book: The little boat with the big blue eyes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beal, Susan and Williams, Bruce  (illustrated by)</name>
+<title render="italic">The little boat with the big blue eyes</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Susan Beal</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002842.htm">
+<relationEntry localType="published">Book: Sudden infant death syndrome : problems, progress and possibilities</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Krous, Henry F and Byard, Roger W</name>
+<title render="italic">Sudden infant death syndrome : problems, progress and possibilities</title>
+<imprint>
+<place>London</place>
+<publisher>Arnold</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001570.htm">
+<relationEntry localType="archival">Interview with Susan Beal [sound recording] Interviewer: Helen Chryssides</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Susan Beal [sound recording] Interviewer: Helen Chryssides</unittitle>
+<unitid>OH 505/2</unitid>
+<unitdate>23 October 1998</unitdate>
+<abstract>The Honoured Women Oral History Project 
+
+Dr Susan Beal was appointed a Member of the Order of Australia (AM) in the Queen's Birthday honours list, 1997, for service to medicine, particularly in the fields of paediatrics and sudden infant death syndrome (SIDS) research. Susan Beal, nee Ross, grew up in Sydney, New South Wales. She studied medicine at Sydney University and specialised in paediatrics. She married in 1959 and had five children between 1960 and 1970. The family moved to South Australia in the early 60s. Dr Beal began working at the Adelaide Children's Hospital as research registrar in neurosurgery and then running the Cerebral Palsy Clinic. In 1970 she was asked to investigate the incidence of SIDS in South Australia. Since then Dr Beal has been involved in research and public awareness campaigns that have led to a dramatic decrease in deaths. Her work included home visits following every death between 1973 and 1989. At the time of the interview, she was working for the Crippled Children's Association with a caseload of over 50 families.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001572.htm">
+<relationEntry localType="archival">[Biographical cuttings on Susan Beal, Dr., epidemiologist]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Susan Beal, Dr., epidemiologist]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001571.htm">
+<relationEntry localType="archival">[Biographical cuttings on Dr Susan Beal, researcher into sudden infant death syndrome]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Dr Susan Beal, researcher into sudden infant death syndrome]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001536.htm">
+<relationEntry localType="archival">Launch of the second stage of The Honoured Women Oral History Project [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Launch of the second stage of The Honoured Women Oral History Project [sound recording]</unittitle>
+<unitid>OH 568</unitid>
+<unitdate>7 March 2000</unitdate>
+<abstract>A recording of the launch of the second stage of the State Library of South Australia's Honoured Women Oral History Project in the Lecture Theatre of the Institute Building. Bronwyn Halliday, Director of the State Library, chairs the launch and introduces the Hon. Diana Laidlaw MLC, Minister for the Status
+of Women, and Beth Robertson, Manager, Audio-Visual Project Team, State Library. The Minister reflects on the project's instigation and in particular her annual luncheon for new women recipients of Australia Day and Queen's Birthday honours. Ms Robertson explains the focus of the project and promotes the Library's J D Somerville Oral History Collection that now contains a substantial archive about women's community service. She plays excerpts from Honoured Women interviews. Speeches and an interview excerpt include references to recently deceased Dame Roma Mitchell. Pianist Stella Panozzo plays before and after the speeches.
+Speech notes for Bronwyn Halliday and Beth Robertson with interview excerpt transcripts available (7 pages.)</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2722</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-07-19">2007-07-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-01-12">2016-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2722b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Collins</part>
+<part localType="givenname">Jacinta Mary Ann</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1962-09-04">4 September 1962</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jacinta Collins was chosen to represent Victoria for the Australian Labor Party in the Senate in 1995. She was elected to the same position in 1998, but defeated at the general elections in 2004. She was re-appointed in May 2008 on the resignation of Senator Robert Ray, but she had been re-elected at the 2007 general election and took her seat in the Senate for a term of six years on 1 July 2008. She held the portfolio of Health and Ageing for a short period before the 2013 election, when she was re-elected and the Labor Government was defeated.</abstract>
+<p>Jacinta Collins has been a member of the Australian Labor Party since 1987. She completed a Bachelor of Arts (Monash) and Bachelor of Social Work (La Trobe), before working as a Social Welfare Officer and Research Officer for the Shop, Distributive and Allied Employees' Association. In 1989, Collins joined the ALP's Administrative Committee; Status of Women Committee; and Social Justice Policy Committee. She was appointed to the Senate in 1995 following the death of Senator Olive Zakharov.</p>
+<p>In the ten years from 1995 to 2005, Collins served on Senate Legislative and References Committees on Community Affairs; Economics; and Employment, Workplace Relations, Small Business and Education. She was a participating member on the References Committee for Foreign Affairs, Defence and Trade. Collins was a member of the Parliamentary Delegation to the 101st IPU Conference in Brussels, Belgium, April 1999; and of the Parliamentary Delegation to the Russian Federation in mid-2005. From 1998 to 2001, she was Parliamentary Secretary representing the Shadow Ministers for Industrial Relations and Employment, Training and Population in the Senate. From mid-2003 to 2004, Collins was a member of the Opposition Shadow Ministry, serving as Shadow Minister for Children and Youth.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-537657">
+<relationEntry>
+Collins, Jacinta (1962-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Collins, Jacinta Mary Ann', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Collins, Jacinta Mary Ann</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2722b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

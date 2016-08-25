@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0995</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-06-07">2004-06-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0995b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fry</part>
+<part localType="givenname">Edith</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1858-01-01">1858</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Feminist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Edith Ada Fry was born in England in 1858, the eighth child of James Kight and Amelia Fry and the youngest sister of Arthur Fry. When the family came to Sydney in the early 1870s they lived at "Sunnyholt", Blacktown; after her father's death in 1896 Edith moved with her mother and sister Katie to "Headingley" in Coogee and later to the North Shore. Edith was prominent in the early days of the women's movement in New South Wales; in the early 1890s she joined the Womanhood Suffrage League of New South Wales, was a member of its council and later honorary treasurer. It was during this time that she met Rose Scott, who became a close friend. A founding member in 1896 of the National Council of Women of New South Wales, she held various offices and was later appointed Honorary Life Vice-President. She was one of the Council's delegates at the Quinquennial Meeting of the International Council of Women held in Rome in 1913. She was also a founding member of the Women's Club in 1901, served on the Executive in its formative years and was made an Honarary Life Member. Edith Fry died in Sydney in 1940.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0994b.htm">
+<relationEntry localType="Corporate Body">
+The Women's Club (1901 - ?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0776b.htm">
+<relationEntry localType="Person">
+Scott, Rose (1847 - 1925)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0776b.htm">
+<relationEntry localType="Person">
+Scott, Rose (1847 - 1925)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763091">
+<relationEntry>
+Fry, Edith (1858-1940)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fry, Edith', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fry, Edith</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0995b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001689.htm">
+<relationEntry localType="archival">Fry family - papers of Edith Fry, 1881 - 1940</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Fry family - papers of Edith Fry, 1881 - 1940</unittitle>
+<unitid>ML MSS 1159, ADD-ON 2076</unitid>
+<unitdate>1881 - 1940</unitdate>
+<abstract>1881 - 1940; Correspondence, including letters from : R.Wilson (1881); brother Arthur Fry (1886); Marie L.Farquharson, state secretary of the National Council of Women of NSW (1928); brother Walter Fry (1936); with letters (2) from Edith to Walter Fry (1936); copy of letter to the editor, Sydney Morning Herald, from Walter Fry with an obituary for Edith (1940). (Locn No.: ML MSS 1159, ADD-ON 2076/BOX 9)
+1912 - 1940; Miscellaneous papers, including : address from the Women's Club (1909); newscuttings re Edith Fry and the NCW of NSW (1912-1927); 'An Appreciation' by Mrs Mildred Musico, published in the NCW of NSW Biennial Reports for 1938 -1940. (Locn No.: ML MSS 1159, ADD-ON 2076/BOX 9)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0831</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-05">2004-04-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0831b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ballantyne</part>
+<part localType="givenname">Gwenneth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Gwenneth Ballantyne who grew up in North Adelaide and Torrensville in South Australia attended Scott's Business College. She worked for the Freemasons under Mr Charles Glover as a typist. Later she became secretary for the Adelaide, South Australian based Little Theatre Company. Ballantyne also was with the Hut theatre. She taught drama at the Wilderness School, South Australia for 27 years and worked with John Bishop to establish a Festival Theatre in Adelaide. Ballantyne joined the Lyceum Club and performed 'Victoria Regina' at the Club. She became President of the Club in 1978, and resigned as leader of the Play Reading Group in 1985.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765070">
+<relationEntry>
+Ballantyne, Gwenneth
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ballantyne, Gwenneth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ballantyne, Gwenneth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0831b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002732.htm">
+<relationEntry localType="published">Book: Play acting</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ballantyne, Colin and Ballantyne, Gwenneth.</name>
+<title render="italic">Play acting</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>National Fitness Council of S. Aust</publisher>
+<date>[195-?]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001393.htm">
+<relationEntry localType="archival">Interview with Gwenneth Ballantyne [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Gwenneth Ballantyne [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/5</unitid>
+<unitdate>c. 1986</unitdate>
+<abstract>Adelaide Lyceum Club Oral History 
+
+Gwenneth Ballantyne talks about growing up in North Adelaide and Torrensville, World War I, actress Mimi Mattin, the Depression, attending Scott's Business College, job as a typist with the Freemasons under Mr Charles Glover, acting in 'A Portrait of a Gentleman in Slippers', secretary for the Little Theatre Company, marriage and children, World War II, husband Colin's return, theatre involvement, the Hut theatre, teaching drama at the Wilderness School for 27 years, joining the Lyceum Club, performed 'Victoria Regina' at the Club, trip to Europe, working with John Bishop to establish a Festival Theatre, became President of the Lyceum Club in 1978, and in 1985 resigned as leader of the Play Reading Group.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

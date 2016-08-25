@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0152</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-16">2002-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0152b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fall</part>
+<part localType="givenname">Constance Amy</part>
+<part localType="honorific title">OBE, RRC, FCN</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-10-13">13 October 1903</fromDate>
+<toDate standardDate="1992-09-15">15 September 1992</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Birmingham, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Narrabeen, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Constance Fall's distinguished war service in the Royal Australian Army Nursing Corps was acknowledged with a Mention in Dispatches on 1 April 1941 and the award of the Royal Red Cross medal on 16 April 1942, when she was serving with the 1st Australian General Hospital in the Middle East. Born in England of Australian parents, and educated there, Constance Fall completed her nursing training in Launceston, Tasmania. After her war service she assumed the position of matron-in-charge of the King George V Hospital in Sydney, New South Wales from 1948-1960 and from 1961 became matron of the New South Wales Masonic Homes in Glenfield. She was appointed Officer of the Order of the British Empire in 1976 for services to the Red Cross Society.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756055">
+<relationEntry>
+Fall, Constance Amy (1903-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fall, Constance Amy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fall, Constance Amy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0152b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001354.htm">
+<relationEntry localType="published">Resource Section: Honours and Awards ( Gazetted ) Database</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian War Memorial</name>
+<title render="quoted">Honours and Awards ( Gazetted ) Database</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Fall, Constance Amy</title>
+<name type="author">Australian War Memorial</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.awm.gov.au/database/h_award.asp"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001731.htm">
+<relationEntry localType="published">Resource Section: FALL, CONSTANCE AMY</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">FALL, CONSTANCE AMY</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=120133"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000781.htm">
+<relationEntry localType="published">Newspaper Article: Biographical cuttings (available reading room NLA)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Biographical cuttings (available reading room NLA)</title>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000624.htm">
+<relationEntry localType="archival">Fall, Constance Amy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Fall, Constance Amy</unittitle>
+<unitid>2002/04608363</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>FALL CONSTANCE AMY : Service Number - NX262 : Date of birth - 13 Oct 1903 : Place of birth - BIRMINGHAM ENGLAND : Place of enlistment - SYDNEY NSW : Next of Kin - FALL LOUIS</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000482.htm">
+<relationEntry localType="archival">Biographical cuttings on Lieutenant Constance Amy Fall, former Principal Matron Australian General Hospital, Middle East, 1942</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Lieutenant Constance Amy Fall, former Principal Matron Australian General Hospital, Middle East, 1942</unittitle>
+<unitdate>1942</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000623.htm">
+<relationEntry localType="archival">Periodical Awards</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Periodical Awards</unittitle>
+<unitid>AWM119</unitid>
+<unitdate>1942</unitdate>
+<abstract>Periodical Awarads to Maj-Gen S R Burston and Others - April 1942 [Lt E C V Adams; Maj H T Allan; Sgt R W Anderson; Brig L E Beavis; Lt H R Beer; Lt-Col L G Binns; Capt T R Blamey; Brig A J Boase; Lt-Col A Brown; Lt E R Bucknell; Lt J R Burrell; Maj-Gen S R Burston; Sgt J W Christsen; Cpl C R Dodd; Matron Constance A Fall; Capt M Feitel; Lst-Col M A Fergusson; Cpl D L Fraser; Capt S J M Goulston; Capt A Fryberg; Maj J F Herbertson; S/Sgt J T A Hollands; L/Sgt J G Hunt; Col R G H Irving; Sgt G H Jones; Sgt E J Kerr; Lt-Col W Kirkhope; WOI R A Lawson; Lt-Col C W B Littlejohn; T/Capt L C MacLarn; L/Cpl R Muirhead; Capt D O Muller; Sgt E J Richards; Chaplain C L Riley; A/Sgt L Rodda; Matron Annie M Sage; Maj J O Smith; Lt-Col K W Starr; Col J Steigrad; Capt A L F Taylor; Lt-Col T V Taylor; Lt-Col D N Veron; Lt-Col J A Watson; Maj W W Wearne; Lt-Col A S Wilson; Lt J H Wilton; Lt-Col W J V Windeyer; Maj I J Wood; Lt R A Yates; Sgt K W Young]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

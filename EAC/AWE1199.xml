@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1199</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-06-01">2005-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1199b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sykes</part>
+<part localType="givenname">Roberta</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+<toDate standardDate="2010-11-14">14 November 2010</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Townsville, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal administrator</term>
+</occupation>
+<occupation>
+<term>Aboriginal health worker</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Roberta (Bobbi) Sykes was born and brought up in Townsville, Queensland. She left school at 14 and trained as a nurse. In 1971 she moved to Sydney, and in 1972 helped establish the Aboriginal Tent Embassy in Canberra. She worked as Education and Publicity Officer for the newly founded Aboriginal Medical Service in Redfern, and began a ten-year career as a freelance journalist. She has written poetry and film reviews, and contributed to contemporary discussions on a wide range of indigenous issues.
+
+From 1975 to 1980 Bobbi Sykes was an adviser on Aboriginal health and education to the New South Wales Health Commission, following which she moved to the United States and completed her doctorate on Aboriginal education at Harvard University. Upon her return to Sydney, she continued writing and lecturing. She has held appointments at Charles Sturt and Macquarie universities and has worked as a consultant.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-548367">
+<relationEntry>
+Sykes, Roberta B (1943-2010)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sykes, Roberta (Bobbi)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sykes, Roberta (Bobbi)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1199b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003514.htm">
+<relationEntry localType="published">Book: Mum Shirl: an autobiography with the assistance of Bobbi Sykes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mum Shirl</name>
+<title render="italic">Mum Shirl: an autobiography with the assistance of Bobbi Sykes</title>
+<edition>2</edition>
+<imprint>
+<place>Richmond, Victoria</place>
+<publisher>Heinemann</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003513.htm">
+<relationEntry localType="published">Book Section: Black women in Australia - a history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="quoted">Black women in Australia - a history</title>
+<imprint>
+<place>Harmondsworth, England</place>
+<publisher>Penguin</publisher>
+<date>1975</date>
+</imprint>
+<bibseries>
+<title render="italic">The other half; women in Australian society</title>
+<name type="author">Mercer, J.</name>
+<num type="pages">313-321</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003512.htm">
+<relationEntry localType="published">Book: Black majority</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="italic">Black majority</title>
+<imprint>
+<place>Hawthorn, Victoria</place>
+<publisher>Hudson</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003511.htm">
+<relationEntry localType="published">Book: Love poems and other revolutionary actions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="italic">Love poems and other revolutionary actions</title>
+<edition>2</edition>
+<imprint>
+<place>St Lucia, QLD</place>
+<publisher>Univeristy of Queensland Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003510.htm">
+<relationEntry localType="published">Book: Snake cradle, Snake dancing and Snake circle (autobiographical trilogy)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="italic">Snake cradle, Snake dancing and Snake circle (autobiographical trilogy)</title>
+<imprint>
+<place>St Leonards, NSW</place>
+<publisher>Allen and Unwin</publisher>
+<date>1997-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003509.htm">
+<relationEntry localType="published">Book Section: While my name is remembered</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="quoted">While my name is remembered</title>
+<imprint>
+<place>St Lucia, QLD</place>
+<publisher>University of Queensland Press</publisher>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">Oodgeroo; a tribute</title>
+<name type="author">Shoemaker, Adam and Laurie Hergenhan</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003508.htm">
+<relationEntry localType="published">Conference Paper: Dr Roberta Sykes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sykes, Roberta (Bobbi)</name>
+<title render="quoted">Dr Roberta Sykes</title>
+<imprint>
+<place>Buderim, Queensland</place>
+<publisher>National Council of the Women of the Year</publisher>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Women of the Year: a collection of speeches by Australia's most successful women</title>
+<num type="pages">212-215</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001014.htm">
+<relationEntry localType="published">Book: Murawina : Australian women of high achievement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Roberta Sykes ; photography by Sandy Edwards</name>
+<title render="italic">Murawina : Australian women of high achievement</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003515.htm">
+<relationEntry localType="published">Book: Women who do and women who don't join the women's movement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowland, Robyn</name>
+<title render="italic">Women who do and women who don't join the women's movement</title>
+<imprint>
+<place>London</place>
+<publisher>Routledge &amp; K. Paul</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0982</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-28">2004-05-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-06-18">2015-06-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0982b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Queensland Rural Women's Network Inc</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1993-01-01">1993</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Queensland</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Lobby group</term>
+</function>
+<function>
+<term>Voluntary organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Queensland Rural Women's Network Inc (QRWN) was formed in 1993 to meet the needs of women in rural communities throughout the state. Since then it has grown considerably and runs a series of programs in regional centre's as well as being involved at a national and international level.
+The membership of QRWN is not restricted to women in primary industries. Members include those who work in related roles in the rural and regional communities, such as Department of Primary Industries and Queensland Health Department. We actively seek, and have, a large number of members who undertake a huge variety of activities in their communities.
+"Our focus is on all rural women and their families"
+QRWN aims to provide opportunities for the self-development of rural women as well as being a lobby group that undertakes action in all areas affecting rural women and families, when the necessity arises
+Vision
+"To bring together women to support and enhance rural families and communities by building networks of information, friendship and resources."
+Mission
+Is to help all rural Queensland women, whether living on the land or in the towns, to contribute more effectively to their communities.
+Aims
+• provide a stimulating and interesting forum for discussions and debate on all issues affecting women
+• provide a support system through networking in all areas of our state network with other groups throughout Australia and the world to improve country-city relationships
+• encourage provision of services by government agencies and private organisations
+• praise the status of all rural women
+• promote the value and diversity of rural industries and communities
+• encourage personal development and education in rural communities
+Structure
+QRWN extends over six regions under the management of Regional Directors - Northern, Western, Central, Wide Bay Burnett, South East and Border. The Management Committee, with representatives from all over Queensland, meets. There are a number of local branches operating.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4747b.htm">
+<relationEntry localType="Cultural Artefact">
+ABC Radio Rural Woman of the Year Awards (1994 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766060">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Queensland Rural Women's Network Inc', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Queensland Rural Women's Network Inc</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0982b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

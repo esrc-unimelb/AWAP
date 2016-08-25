@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0311</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-02-20">2002-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0311b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Derham</part>
+<part localType="givenname">Dorothy Lush</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Poet</term>
+</occupation>
+<occupation>
+<term>Academic</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dorothy Derham was the daughter of H. and Grace Derham (née Taylor and one of four sisters including Mrs Aeneas Gunn), graduated at the University of Melbourne (B.A. 1919, Dip.Ed. 1920, M.A. 1921) and taught English and French to the examination forms at Ruyton Girls' School. She was first cousin to Alfred and Enid Derham, and a close friend of the latter.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742058">
+<relationEntry>
+Derham, Dorothy Lush
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Derham, Dorothy Lush', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Derham, Dorothy Lush</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0311b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000268.htm">
+<relationEntry localType="archival">Derham, Dorothy Lush</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Derham, Dorothy Lush</unittitle>
+<unitid>93/18</unitid>
+<unitdate>1884 - 1924</unitdate>
+<abstract>Letters from Enid Derham, most to cousin Dorothy Derham, with one to Mrs. Aeneas Gunn, written while abroad, Jan - Dec. 1914 (15) Letters to Dorothy Derham and her aunt, Miss L.C. Taylor, from Mme Jauffret, Paris, giving with news of her family, occasional coments on in France, and compliments on DD's French. 1919, 1922 and 1924 (4). Photograph of students in Tudor costume with autographs (DD not among them). Matriculation Examination Certificate, Carrie Taylor, Oct. 1885; Miss Rosenhain, B.A. (Melb.), teacher: advt. "Shakespearean Oracle" 1884</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

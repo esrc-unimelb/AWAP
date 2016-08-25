@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1128</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-10">2004-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1128b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Baines</part>
+<part localType="givenname">Sarah Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Baines, Jennie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1866-01-01">1866</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jennie Baines was a prominent feminist and socialist in both Britian and Australia. Born in Birmingham, the daughter of a gunamker, she was sent to work in a factory when she was just 11. She soon joined her parents in their Salvation Army work. She married George Baines in 1888 and had five children. In 1905 she jioned the Women's Social and Political Union, becoming a full-time organiser. She was imprisoned 15 times and in 1913 was smuggled out of the country to Melbourne with her family. Once there, she worked for  the Women's Political Association and joined the Women's Peave Army. With Adela Pankhurst Walsh she campaigned tirelessly against the war and conscription. She also joined the Socialist Part in 1917. In the years after World War One she continued to work in both the Labor and Socialist parties.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0542b.htm">
+<relationEntry localType="Corporate Body">
+Women's Peace Army (1915 - 1919)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775053">
+<relationEntry>
+Baines, Sarah Jane (1866-1951)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baines, Sarah Jane (Jennie)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baines, Sarah Jane (Jennie)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1128b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003419.htm">
+<relationEntry localType="published">Book Section: Jennie Baines: Suffrage and an Australian Connection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith</name>
+<title render="quoted">Jennie Baines: Suffrage and an Australian Connection</title>
+<imprint>
+<place>London/New York</place>
+<publisher>Routledge</publisher>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Votes for Women</title>
+<name type="author">June Purvis and Sandra Stanley Holton</name>
+<num type="pages">246-266</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001898.htm">
+<relationEntry localType="archival">Sarah Jane Baines Correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Fryer Library and Department of Special Collections, University of Queensland</repository>
+<unittitle>Sarah Jane Baines Correspondence</unittitle>
+<unitdate>1907 - 1909</unitdate>
+<abstract>Correspondence from Emily and Christabel Pankhurst, E. Pethick Lawrence and Dora Marsden. Includes news releases and folded newspaper cuttings from "The Suffragette" June 13, 1913.</abstract>
+<physdesc>
+<extent>118 pages</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

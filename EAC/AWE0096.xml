@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0096</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-15">2001-02-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0096b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Melbourne Women's Theatre Group</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1974-01-01">1974</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Women performers from the Australian Performing Group and women from the Women's Movement established the Melbourne Women's Theatre Group. The Group, which rejected gender stereotypes both on and off stage, nurtured the advancement of women performers, directors, technicians, musicians, designers and writers.
+
+<span style="font-style:italic">Out of the Frying Pan</span> (1974), <span style="font-style:italic">Sister's Delight Festival</span> (1974), <span style="font-style:italic">She'll be Right Mate</span> (1976) and <span style="font-style:italic">Edges</span> (1977) were some of the programmes produced.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0095b.htm">
+<relationEntry localType="Person">
+Spunner, Suzanne Sylvia (1951 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-498413">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Melbourne Women's Theatre Group', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Melbourne Women's Theatre Group</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0096b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000202.htm">
+<relationEntry localType="published">Book: Original women's theatre : the Melbourne Women's Theatre Group, 1974-77</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tait, Peta</name>
+<title render="italic">Original women's theatre : the Melbourne Women's Theatre Group, 1974-77</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Artmoves</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000067.htm">
+<relationEntry localType="archival">Suzanne Spunner manuscript collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Special Collections, Academy Library, UNSW@ADFA, Australian Defence Force Academy</repository>
+<unittitle>Suzanne Spunner manuscript collection</unittitle>
+<unitid>mss G221</unitid>
+<unitdate>c. 1974 - 1990</unitdate>
+<abstract>Manuscripts, theatre programmes, reviews, correspondence correspondence, notebooks, photographs, artworks and cassette tapes, for works of Suzanne Spunner including <span style="font-style:italic">'Not still lives'</span>, <span style="font-style:italic">'Edna for the garden'</span>, and '<span style="font-style:italic">Running up a dress</span>'. There is also material pertaining to '<span style="font-style:italic">Lip</span>' magazine (a feminist arts journal) and the Women's Theatre Group of Melbourne.</abstract>
+<physdesc>
+<extent>1.2 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

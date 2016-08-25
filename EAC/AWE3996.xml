@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3996</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-15">2009-01-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3996b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Eades</part>
+<part localType="givenname">Mary Cranwill</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1845-01-01">1845</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Geelong, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Parkerville, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Postmistress</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mary Eades was the first government official in Broken Hill, New South Wales, serving as postmistress from 1 January 1886.</abstract>
+<p>The daughter of Samuel Eades and Ellen Eades (nee Kerwan), Mary came from a family of six children. In 1866, in Geelong, she married Zechariah Dawson Wilson and had six children. A Lieutenant with the Victorian Company Department, Wilson died at Warrnambool, Victoria, in 1881 at the age of 46 years.</p>
+<p>Mary moved with her family to Silverton, near Broken Hill in New South Wales. In 1886 she married John Oliver Renowden, and had two more children - Mary Kate, born October 1888, and John R. Oliver, born January 1891. One son from her first marriage, Robert Wilson, died in Broken Hill in April 1893.</p>
+<p>John Oliver Renowden was a member of Broken Hill's first Progress Committee. His sketch of the town pre-settlement is now held at the Broken Hill Railway Museum. When the Committee elected to appoint a postmistress and run a mail coach between Silverton and Mount Gipps, Mary was appointed postmistress. She began work on the first day of January, 1886, with a salary of ten pounds per annum.</p>
+<p>Mary left Broken Hill with her family in 1893 to live in Parkerville, Western Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716078">
+<relationEntry>
+Eades, Mary Cranwill (1845-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Eades, Mary Cranwill', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Eades, Mary Cranwill</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3996b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004316.htm">
+<relationEntry localType="published">Book: Some Outstanding Women of Broken Hill and District</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Camilleri, Jenny</name>
+<title render="italic">Some Outstanding Women of Broken Hill and District</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Jenny Camilleri (Broken Hill Historical Society/Broken Hill Council)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

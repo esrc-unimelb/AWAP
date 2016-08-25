@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0405</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-03">2002-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0405b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hodgson</part>
+<part localType="givenname">Agnes</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Agnes Hodgson was superintendent of the Australian Women's Land Army in Tasmania. 
+
+In 1940 she became the organising secretary when the Tasmanian government provided a grant to help establish the Agricultural Department's research farm at Cressy as a training farm for land girls.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0393b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Land Army (AWLA) (1942 - 1945)
+</relationEntry>
+<descriptiveNote>
+<p>Superintendent, in Tasmania</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765077">
+<relationEntry>
+Hodgson, Agnes
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hodgson, Agnes', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hodgson, Agnes</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0405b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001744.htm">
+<relationEntry localType="published">Edited Book: Thanks girls and goodbye : the story of the Australian Women's Land Army 1942-45</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hardisty, Sue (ed.)</name>
+<title render="italic">Thanks girls and goodbye : the story of the Australian Women's Land Army 1942-45</title>
+<imprint>
+<place>Ringwood, Vic</place>
+<publisher>Viking O'Neil</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000886.htm">
+<relationEntry localType="archival">Women's Land Army, Launceston, Tasmania</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Women's Land Army, Launceston, Tasmania</unittitle>
+<unitid>PR00765</unitid>
+<unitdate>1940 - 1995</unitdate>
+<abstract>Three looseleaf papers and handwritten copies relating to the establishment of the Women's Land Army in Launceston, Tasmania in 1940. Included is a handwritten organisational chart of the Women's Land Army (WLA), Tasmania from registered rural women up to the Tasmanian Department of Agriculture and Manpower and the Commonwealth War Organisation of Industry; a handwritten itemised list of the categories of women who were required to be listed on the 'Compulsory Register of rural women' and, typescript copies of minutes of a meeting held on June 28, 1940. Present at that meeting were three members of the Country Women's Association, Tasmania, Mrs Belmont Clark, Mrs Alice Jean Thomas OBE, Mrs V. (Edith Ranson); Mr Guy Parsons, probably Tasmanian Primary Producers Union; Mr Francis Forster, Tasmanian Member of House of Assembly and probably President of Tasmanian Farmers, Stockowners and Orchardists Association and, Miss Agnes Hodgson for whom there are brief biographical details.</abstract>
+<physdesc>
+<extent>0.01 m, 3 items</extent>
+<physfacet>Papers</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

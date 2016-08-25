@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0565</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-24">2003-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0565b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Gentlewomen's Aid Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1894-01-01">1894</fromDate>
+<toDate standardDate="1989-12-31">1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Williamstown, Victoria,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Melbourne, Victoria,  Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Gentlewomen's Aid Society was established in 1894 in the Williamstown home of Mrs John Clark, wife of the Reverend Clark, in an attempt to assist the many 'gentlewomen' who were left destitute as a result of the 1890s economic depression. Eligibility for membership rested on a recommendation from a committee member, a medical practitioner or a clergyman stating that the applicant was in genuine need of the Society's assistance. The Society held two Sales of Work a year in a public hall to enable 'those ladies who are dependent on their own exertions to sell their work' and were either too frail or too old to battle the commercial world. The Society depended on donations and subscriptions to assist with operating costs. It remained in existence until 1989, when it was dissolved as a result of dwindling membership and declining demand for assistance the Society offered.</abstract>
+<p> In its annual reports the Gentlewomen's Aid Society stated that it offered assistance 'to any poor gentlewomen in Victoria, and is unsectarian, and the ladies of the Committee wish that its aims should be more widely known and understood, that, being more generally supported, they may be enabled to extend its usefulness'. A definition of 'gentlewoman' was 'a woman of good birth or breeding; a lady'. Although it was a registered charity organisation, it did not receive government aid.</p>
+<p>After each Sale of Work members received the full amount that their work realised, with any unsold articles returned to them. Expenses were defrayed by sale of tickets, donations and subscriptions and by profits from refreshment and sweet stalls.</p>
+<p>After all the expenses were paid and contingencies provided for, the Committee spent the balance buying useful garments which were sent to the various hospitals and asylums, which meant that not only did the Society assist its members, it helped those in other charitable institutions.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<descriptiveNote>
+<p>represented at the inaugural meeting held on 19 March 1902</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766061">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gentlewomen's Aid Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gentlewomen's Aid Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0565b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000972.htm">
+<relationEntry localType="archival">The Gentlewomen's Aid Society papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>The Gentlewomen's Aid Society papers</unittitle>
+<unitid>MS 12986</unitid>
+<unitdate>1909 - 1990</unitdate>
+<abstract>Includes minute books, annual reports, receipts and expenditure ledgers, members' lists and correspondence. Also includes legal documents, details of benefactors and disbursements.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

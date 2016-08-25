@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2454</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-03-11">2007-03-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2454b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mealing</part>
+<part localType="givenname">Philomena</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Johnston, Philomena</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Mealing, Bonnie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-08-28">28 August 1912</fromDate>
+<toDate standardDate="2002-01-01">1 January 2002</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Olympian</term>
+</occupation>
+<occupation>
+<term>Swimmer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Philomena "Bonnie" Mealing was an Australian freestyle and backstroke swimmer of the 1920s and 1930s, who won a silver medal in the 100m backstroke at the 1932 Summer Olympics in Los Angeles, the first Australian to win a medal in backstroke.
+
+At the age of 14 or 15, she was selected for the 1928 Summer Olympics in Amsterdam after only a year of competing at national level. After a long three month sea voyage, and a bout of homesickness, she gained weight during the voyage, finishing third and fourth in her heat of the 100m freestyle and backstroke respectively, and was eliminated. This brought condemnation from Australian journalists, who obviously had little appreciation of the difficulties associated with the long trip from Australia to Europe. As Mealing later noted, the only training they could do while on board the ship was in a canvas pool that could only take a maximum of two strokes. 'When the ship rolled, so did we!'
+
+After the Olympics, Mealing abandoned the freestyle events to concentrate on the backstroke, and in February 1930, she set a world record of 1m 20.6s in the 100m backstroke. However, the Australian authorities decided against sending any female swimmers to the inaugural 1930 British Empire Games in Hamilton, Canada, she she was unable to test herself against the best swimmers from Canada and England. By the time the 1932 Summer Olympics arrived, the 18 year old American swimmer Eleanor Holm had already cut 2s off her world record, and Holm easily defeated Mealing by 2s to claim the gold.
+
+In 1933, Mealing set a world record in the 200m backstroke, but then retired from swimming, foregoing an opportunity to win gold at the 1934 British Empire Games in London.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1928-01-01">1928</fromDate>
+<toDate standardDate="1928-12-31">1928</toDate>
+</dateRange>
+<event>Participated at the Amsterdam Olympic Games</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1932-01-01">1932</fromDate>
+<toDate standardDate="1932-12-31">1932</toDate>
+</dateRange>
+<event>Silver Medalist at the Los Angeles Olympic Games - Swimming - 100m Backstroke</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2225b.htm">
+<relationEntry localType="Corporate Body">
+City Girls' Amateur Sports Association (1918 - c. 1935)
+</relationEntry>
+<descriptiveNote>
+<p>Bonnie Mealing was a member of the CGASA before she became an Olympic swimmer</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2235b.htm">
+<relationEntry localType="Person">
+Wearne, Eileen (1912 - 2007)
+</relationEntry>
+<descriptiveNote>
+<p>Bonnie Mealing and Eileen Wearne were members of the team that competed at the 1932 Los Angeles Olympic Games</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2234b.htm">
+<relationEntry localType="Person">
+Robinson, Edith (1906 - 2000)
+</relationEntry>
+<descriptiveNote>
+<p>Bonnie Mealing and Edith Robinson were members of the team that competed in the 1928 Amsterdam Olympic Games</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714067">
+<relationEntry>
+Mealing, Philomena (1912-2002)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mealing, Philomena', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mealing, Philomena</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2454b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003757.htm">
+<relationEntry localType="published">Book: A Proper Spectacle: Women Olympians 1900-1936</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Stephanie and Tedder, Anita</name>
+<title render="italic">A Proper Spectacle: Women Olympians 1900-1936</title>
+<imprint>
+<place>Petersham</place>
+<publisher>Walla Walla Press with ZeNaNa Press and the Centre for Olympic Studies, UTS</publisher>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Celebrating 100 years of women in the Olympics</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

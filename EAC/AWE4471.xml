@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4471</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-15">2010-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4471b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kearney</part>
+<part localType="givenname">Christine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Research officer</term>
+</occupation>
+<occupation>
+<term>Farmer</term>
+</occupation>
+<occupation>
+<term>Religious sister</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Christine Kearney was a Regional winner (Gippsland, Victoria) of the Rural Woman of the Year Award in 1994. She and her husband were dairy farmers in Dollar, Victoria. Christine was important to the establishment of rural counselling networks in her area.</abstract>
+<p>Christine Kearney did not come from a farming family; she was a city girl brought up about six miles out of Adelaide. She only came to a farm after marrying in 1980. Michael, her husband, bought it from his mother and then added to it.</p>
+<p>Upon leaving school in 1961, seventeen-year-old Christine joined a religious order. She left when she was about thirty-five and returned to Adeladie where she met Michael who had also been in a religious order. After a relatively quick courtship, she and were married. Michael had taken over a small part of the family property - a small venture but big debt. It was not an ideal time to be borrowing for farming land (1982). They survived day by day through a period of drought and rising interest rates. As Christine reflects, 'We didn't have any comforts here; we didn't have any money to spend on entertainment, but, because we hadn't ever had that in our lives, we didn't look for it'</p>
+<p>Chrisitine was one of the first farming women in Victoria to get unemployment benefits. A social worker suggestedd she should apply. Her husband couldn't because he was a self employed person. But wives, given that their status on farms at the time was that of 'a silent sleeping partner' and that they weren't recognised as wage earners, satisfied the criteria, although most didn't know it. Christine managed to successfully apply for the dole, after proving that the farm would run without her.</p>
+<p>After about two months on unemployemeny benefits she got a job off farm on a research program designed to investigate the possibilities for tourism in the local shire. She began work in May 1985. As well as bringing in a salary that helped to save the farm, Chrisitine going off the farm created possibilities for her to meet new people. It meant that she had new things to bring back to the farm and talk about. It brought life back to their farm.</p>
+<p>Christine was very interested in establishing a Women on Farms group in her region. She aso tried to get the rural counsellor program up and running in her district. Federal funding was available, matching funds raised locally were also required, and they proved to be difficult to raise. It was very difficult to convince the conservative rural sector that a counsellor was needed; as Christine later observed, 'It was unheard of that rural people had welfare problems'. In 1987 they employed their first rural counsellor.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in Victoria - Regional Winner for Gippsland</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00727b.htm">
+<relationEntry localType="Corporate Body">
+Women on Farms Gatherings (1990 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477331">
+<relationEntry>
+Kearney, Christine (1943-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kearney, Christine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kearney, Christine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4471b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004839.htm">
+<relationEntry localType="published">Resource Section: 1994 ABC Rural Woman of the Year Regional Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1994 ABC Rural Woman of the Year Regional Winners</title>
+<imprint>
+<publisher>ABC Radio &amp; ABC Online</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/previous94.htm#reg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002412.htm">
+<relationEntry localType="archival">Christine Kearney interviewed by Ros Bowden in the Women of the land oral history project</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Oral History and Folklore Collection</repository>
+<unittitle>Christine Kearney interviewed by Ros Bowden in the Women of the land oral history project</unittitle>
+<unitid>ORAL TRC 3406/26</unitid>
+<abstract>Kearney, a , dairy farmer, is a regional winner of the 1994 Rural Woman Award and speaks of her background, joining a religious order in 1961, starting the dairy farm in a very difficult period caught between the drought of the 1980s, the high interest rates and the fall of the price of milk, getting unemployment benefits, looking after the crops, sharing the dairy farming duties, involvement of her husband in the United Dairyfarmers of Victoria (UDV), keeping up with ongoing education, financial difficulties and its consequences and the rapid growth of the rural counselling network.
+Recorded in 1995</abstract>
+<physdesc>
+<extent>1 Sound cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

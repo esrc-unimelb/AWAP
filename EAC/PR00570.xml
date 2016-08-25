@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00570</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-25">2009-11-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00570b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Constable</part>
+<part localType="givenname">Hon. Dr. Elizabeth </part>
+<part localType="honorific title">MLA DipEd, MA, MEd, PhD</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-12-02">2 December 1943</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dr Elizabeth Constable was an independent candidate elected to the Thirty-Third Parliament of Western Australia for the Legislative Assembly seat of Floreat at a by-election on 20 July 1991 held to fill the vacancy consequent upon the resignation of Hon Andrew Mensaros. The  electorate was abolished in the redistribution of 1994. She was then elected to the Thirty-Fifth Parliament for Churchlands (new seat) on 14 December 1996. She was re-elected in 2001, 2005 and 2008.
+
+</abstract>
+<p>Elizabeth Blanton was born in Sydney in 1943 to Phyllis and Leonard Blanton. She attended Presbyterian Ladies' College in Pymble, and then the University of Sydney, where she studied history and psychology. In 1964 she married Ian Constable, and while living in Boston in the early seventies with Ian and their two sons, completed a Masters in Education at the Harvard Graduate School. The Constable family arrived in Perth, Western Australia, in 1975, where Elizabeth held a tenured lectureship in education for eight years at the University of Western Australia. In 1985 she completed a doctorate in educational psychology. Constable entered the Parliament of Western Australia in 1991, the first woman ever to elected as an Independent, and is currently a member of the Legislative Assembly for Churchlands.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477442">
+<relationEntry>
+Constable, Hon. Dr. Elizabeth (19431202-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Constable, Hon. Dr. Elizabeth ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Constable, Hon. Dr. Elizabeth </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00570b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0136</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-04">2002-10-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0136b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Elphick</part>
+<part localType="givenname">Gladys</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-08-27">27 August 1904</fromDate>
+<toDate standardDate="1988-01-19">19 January 1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A Kaurna woman, Gladys Elphick was born in Adelaide and brought up on the Point Pearce Reserve. Elphick's life long work against discrimination and exploitation of Aboriginal people included her formation of the Aboriginal Women's Council and, with others, a legal aid service, medical service and the Aboriginal Community Centre in Adelaide. Also well known as 'Aunty Glad', Elphick was appointed as a Member of the Order of the British Empire on 1 January 1971 for services to the Aboriginal community. In 1984, during National Aborigines Week, Elphick was named South Australian Aboriginal of the Year.
+
+<small> Horton (ed) (1994), <span style="font-style:italic">Encyclopaedia of Aboriginal Australia</span>; Healey (2001),<span style="font-style:italic"> S.A.'s Greats</span>.</small></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0120b.htm">
+<relationEntry localType="Person">
+McNamara, Natascha Duschene (1935 - )
+</relationEntry>
+<descriptiveNote>
+<p>Co-founded the Aboriginal Women's Council</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0079b.htm">
+<relationEntry localType="Person">
+O'Donoghue, Lowitja (1932 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1965-01-01">1965</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Co-founders of the Aboriginal Women's Council</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-723092">
+<relationEntry>
+Elphick, Gladys (1904-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Elphick, Gladys', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Elphick, Gladys</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0136b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001342.htm">
+<relationEntry localType="published">Newspaper Article: Everybody knows her as Auntie Glad</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Everybody knows her as Auntie Glad</title>
+<imprint>
+<date>1979</date>
+</imprint>
+<bibseries>
+<title render="italic">SA Aboriginal Affairs Newsletter</title>
+<num type="volume">1</num>
+<num type="issue">1</num>
+<num type="pages">10</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001335.htm">
+<relationEntry localType="published">Journal Article: Current problems of Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elphick, Gladys</name>
+<title render="quoted">Current problems of Aborigines</title>
+<imprint>
+<date>1970</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Journal of Science</title>
+<num type="volume">32</num>
+<num type="issue">11</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001347.htm">
+<relationEntry localType="published">Conference Proceedings: The Aborigines of South Australia : their background and future prospects : proceedings of a conference held at the University of Adelaide, June 13-16, 1969</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Aborigines of South Australia : their background and future prospects : proceedings of a conference held at the University of Adelaide, June 13-16, 1969</title>
+<imprint>
+<place>Adelaide</place>
+<date>1969</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001339.htm">
+<relationEntry localType="published">Newspaper Article: Gladys battles for her people.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Gladys battles for her people.</title>
+<imprint>
+<date>1981</date>
+</imprint>
+<bibseries>
+<title render="italic">Adelaide Advertiser</title>
+<num type="pages">5</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001344.htm">
+<relationEntry localType="published">Newspaper Article: Permit system keeps people on reserves : changed attitude must come from whites</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elphick, Gladys</name>
+<title render="quoted">Permit system keeps people on reserves : changed attitude must come from whites</title>
+<imprint>
+<date>1969</date>
+</imprint>
+<bibseries>
+<title render="italic">Origin</title>
+<num type="volume">1</num>
+<num type="issue">2</num>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001340.htm">
+<relationEntry localType="published">Newspaper Article: Aboriginal Honour for Glad</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hirst, C.</name>
+<title render="quoted">Aboriginal Honour for Glad</title>
+<imprint>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">Adelaide Advertiser</title>
+<num type="pages">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001016.htm">
+<relationEntry localType="published">Book: Living in South Australia : a social history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elizabeth Kwan</name>
+<title render="italic">Living in South Australia : a social history</title>
+<imprint>
+<place>Netley, S. Aust.</place>
+<publisher>South Australian Government Printer</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001024.htm">
+<relationEntry localType="published">Book: Turning the tide : a personal history of the Federal Council for the Advancement of
+Aborigines and Torres Strait Islanders</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bandler, Faith</name>
+<title render="italic">Turning the tide : a personal history of the Federal Council for the Advancement of
+Aborigines and Torres Strait Islanders</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001284.htm">
+<relationEntry localType="published">Edited Book: S.A.'s greats: the men and women of the North Terrace plaques</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Healey, John</name>
+<title render="italic">S.A.'s greats: the men and women of the North Terrace plaques</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Historical Society of South Australia</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001333.htm">
+<relationEntry localType="published">Book: Living black: blacks talk to Kevin Gilbert</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gilbert, Kevin</name>
+<title render="italic">Living black: blacks talk to Kevin Gilbert</title>
+<imprint>
+<place>Ringwood, Vic.</place>
+<publisher>Penguin</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001334.htm">
+<relationEntry localType="published">Book: Aboriginal people and their communities today, Years 5-7.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Aboriginal people and their communities today, Years 5-7.</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Education Dept. of South Australia</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001336.htm">
+<relationEntry localType="published">Book: The Kaurna people : Aboriginal people of the Adelaide Plains : an Aboriginal studies course for secondary students in years 8-10.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Kaurna people : Aboriginal people of the Adelaide Plains : an Aboriginal studies course for secondary students in years 8-10.</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Education Dept. of South Australia</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001337.htm">
+<relationEntry localType="published">Book: Survival in our own land : 'Aboriginal' experiences in "South Australia' since 1836; told by Nungas and others</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mattingley, Christobel; Hampton, Ken</name>
+<title render="italic">Survival in our own land : 'Aboriginal' experiences in "South Australia' since 1836; told by Nungas and others</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Wakefield Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001338.htm">
+<relationEntry localType="published">Book: As we've known it : 1911 to the present</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Graham, Doris May; Graham, Cecil Wallace</name>
+<title render="italic">As we've known it : 1911 to the present</title>
+<imprint>
+<place>Underdale</place>
+<publisher>South Australian College of Advanced Education</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001343.htm">
+<relationEntry localType="published">Book: Sketches of outstanding Aborigines; Extracts from an Australia Day address at Maughan Methodist Church P.S.A., Adelaide, on Sunday, January 29th, 1956.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rowe, Gordon</name>
+<title render="italic">Sketches of outstanding Aborigines; Extracts from an Australia Day address at Maughan Methodist Church P.S.A., Adelaide, on Sunday, January 29th, 1956.</title>
+<imprint>
+<place>Adelaide?</place>
+<publisher>Aborigines' Friends' Association?</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002905.htm">
+<relationEntry localType="published">Book: Some Aboriginal women pathfinders : their difficulties and their achievements</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beeson, Margaret J (compiled by)</name>
+<title render="italic">Some Aboriginal women pathfinders : their difficulties and their achievements</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Woman's Christian Temperance Union of Australia</publisher>
+<date>[1980]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001345.htm">
+<relationEntry localType="published">Conference Proceedings: Reports and resolutions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Conference on Aboriginal Affairs (8th : 1965 : Canberra, A.C.T.)</name>
+<title render="italic">Reports and resolutions</title>
+<imprint>
+<place>Canberra</place>
+<date>1965</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001346.htm">
+<relationEntry localType="published">Book: Sister, if you only knew [videorecording]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Baker, Suzanne; Isaac, Janet; Grenville, Kate</name>
+<title render="italic">Sister, if you only knew [videorecording]</title>
+<imprint>
+<publisher>Film Australia</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001348.htm">
+<relationEntry localType="published">Journal: C.A.W.S.A. : newsletter of the Council of Aboriginal Women of South Australia Inc.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">C.A.W.S.A. : newsletter of the Council of Aboriginal Women of South Australia Inc.</title>
+<imprint>
+<place>Adelaide : C.A.W.S.A.,</place>
+<date>1968-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001349.htm">
+<relationEntry localType="published">Edited Book: A Question of choice : an Australian Aboriginal dilemma; A collection of papers Advancement of Science Congress, Adelaide, 1969.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Berndt, Ronald M.</name>
+<title render="italic">A Question of choice : an Australian Aboriginal dilemma; A collection of papers Advancement of Science Congress, Adelaide, 1969.</title>
+<imprint>
+<place>Nedlands, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001350.htm">
+<relationEntry localType="published">Journal Article: The role played by Aboriginal women in South Australia, particularly among urban Aborigines, since 1945</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jackson, Russ</name>
+<title render="quoted">The role played by Aboriginal women in South Australia, particularly among urban Aborigines, since 1945</title>
+<imprint>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">Cabbages and Kings</title>
+<num type="volume">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001393.htm">
+<relationEntry localType="published">Newspaper Article: Nunkuwarrin Yunti celebrates 30 years. SA</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brown, Christine</name>
+<title render="quoted">Nunkuwarrin Yunti celebrates 30 years. SA</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Koori Mail</title>
+<num type="pages">25</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001394.htm">
+<relationEntry localType="published">Newspaper Article: High-flyers at Wilto Yerlo / Students soar at Wilto Yerlo. Koori Mail Education</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brown, Christine</name>
+<title render="quoted">High-flyers at Wilto Yerlo / Students soar at Wilto Yerlo. Koori Mail Education</title>
+<imprint>
+<date>1999</date>
+</imprint>
+<bibseries>
+<title render="italic">Koori Mail</title>
+<num type="pages">29,37</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001395.htm">
+<relationEntry localType="published">Newspaper Article: Honours for Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Honours for Aborigines</title>
+<imprint>
+<date>1972</date>
+</imprint>
+<bibseries>
+<title render="italic">Identity</title>
+<num type="pages">34</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001396.htm">
+<relationEntry localType="published">Newspaper Article: Details of pioneers in Aboriginal movement.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horner, Jack</name>
+<title render="quoted">Details of pioneers in Aboriginal movement.</title>
+<imprint>
+<date>1972</date>
+</imprint>
+<bibseries>
+<title render="italic">Identity</title>
+<num type="pages">10-11</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001341.htm">
+<relationEntry localType="published">Book: Race relations in Australia : the Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gale, Fay; Brookman, Alison</name>
+<title render="italic">Race relations in Australia : the Aborigines</title>
+<imprint>
+<place>Sydney</place>
+<publisher>McGraw-Hill</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

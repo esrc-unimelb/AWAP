@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4089</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-03-03">2009-03-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4089b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lord</part>
+<part localType="givenname">Pamela</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Peters, Pam</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Volunteer</term>
+</occupation>
+<occupation>
+<term>Grazier</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Pam Lord moved to Thackaringa Station in outback New South Wales with her husband John in 1948. Conducting regular hospital visits since 1965, she has offered more than forty years of continuous service to the Flying Doctors auxiliary in Broken Hill.</abstract>
+<p>Pam Peters was educated at Girton College (now Pembroke) in Adelaide. At sixteen she began to visit the Lords, family friends living at Thackaringa Station in New South Wales, 40km from Broken Hill. She and John Lord became firm friends and were married several years later, in 1948, at St Peter's College Chapel in Adelaide. Pam willingly gave up her university Arts course and moved to Thackaringa to take on the role of station-owner's wife, a world apart from the Adelaide social scene of beach holidays and Friday night dances. Already a competent horse rider, she relished station life and soon turned her hand to cooking for eight men, cranking the engine for electricity and, on the odd occasion, dispatching with poisonous snakes. John and Pam had two children, Sally and David. After several years of South Australian school correspondence lessons they attended boarding school in Adelaide.</p>
+<p>Pam Lord joined the Flying Doctors auxiliary in 1965, volunteering for hospital visits. In those early years she was delegated to provide patients with cakes and sweets, toiletries and even cigarettes, or to run errands for them and write letters on their behalf. As the number of auxiliary members dwindled, Pam became the sole hospital visitor for the Flying Doctors in Broken Hill, and has remained so for the last 20 years. Today the auxiliary has a stronger focus on fundraising and finds terrific support in this endeavour from Broken Hill residents. In 2008, it was able to raise $65,000 for the Flying Doctors. One of the auxiliary's biggest fundraising campaigns is the Christmas Pudding Drive - 25 women bake for two weeks to produce and sell 2,000 Christmas puddings.</p>
+<p>In 2008, John and Pam Lord celebrated their diamond wedding anniversary - 60 years.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716089">
+<relationEntry>
+Lord, Pamela (1928-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lord, Pamela', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lord, Pamela</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4089b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002210.htm">
+<relationEntry localType="archival">Interview with Pam Lord</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Interview with Pam Lord</unittitle>
+<unitdate>6 February 2009</unitdate>
+<abstract>Interview conducted in Broken Hill as part of the AWAP Broken Hill exhibition. To be lodged with the Outback Archives, Broken Hill City Library.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00495.htm">
+<relationEntry localType="digitalObject">Extracts of Interview with Pam Lord</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Extracts of Interview with Pam Lord</unittitle>
+<unitdate>6 February 2009</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00492.htm">
+<relationEntry localType="digitalObject">Pam Lord</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Pam Lord</unittitle>
+<unitdate>December 2008</unitdate>
+<note label="rights">Pam Lord</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00491.htm">
+<relationEntry localType="digitalObject">John and Pam Lord at Thackaringa</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>John and Pam Lord at Thackaringa</unittitle>
+<unitdate>December 2008</unitdate>
+<note label="rights">Pam Lord</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

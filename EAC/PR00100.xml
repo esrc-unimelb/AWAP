@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00100</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Katey Bereny and Alison Bartlett</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00100b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sound Women's Collective</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Sound Women's Peace Collective</part>
+</nameEntry>
+<nameEntry localType="Previous name"><part>Women for Survival</part>
+</nameEntry>
+<nameEntry localType=""><part>Women's Peace Train </part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Political organisation</term>
+</function>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Sound Women's Peace Collective was formed from Women For Survival after their successful Pine Gap Women's Peace Camp in 1983 to organize another national women's protest at Cockburn Sound, WA. The Western Australian group, Women's Action for Nuclear Disarmament, played a key role in preparing this event. It was held in December 1-14, 1984 at Point Perron in Cockburn Sound, near the HMAS Stirling Naval Base on Garden Island and close to Fremantle where nuclear capable US warships frequently docked and utilized the services of local women for 'rest and recreation'. An innovative Peace Train was organized with the railways and unions to bring women from the Eastern states for this action, but the costs became burdensome; the Peace train was transformed into a Road Train, a cavalcade of buses travelling together, but even this proved impossible to coordinate. The memory and idyll of the Peace Train remains however in posters and newsletter images, which are testament to its ingenuity.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00099b.htm">
+<relationEntry localType="Person">
+Ward, Elizabeth (Biff)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0813b.htm">
+<relationEntry localType="Corporate Body">
+Sound Women's Peace Camp
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00077b.htm">
+<relationEntry localType="Corporate Body">
+Feminist Anti-Nuclear Group (FANG) (1982 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00082b.htm">
+<relationEntry localType="Corporate Body">
+Women's Action Against Global Violence (WAAGV)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00080b.htm">
+<relationEntry localType="Corporate Body">
+Women Against Nuclear Energy (WANE) (1980 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477552">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sound Women's Collective', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sound Women's Collective</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00100b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

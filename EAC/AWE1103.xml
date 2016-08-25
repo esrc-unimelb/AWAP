@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1103</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-10-27">2004-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1103b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">James</part>
+<part localType="givenname">Florence</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Florence James (1902-1993) was a novelist, editor and reviewer. She was born in New Zealand and educated at Sydney University where she began her long association with Dymphna Cusack. Together James and Cusack wrote two books, 'Four Winds and a Family', a story for children, and 'Come in Spinner' which won the Sydney Daily Telegraph prize in 1948. 
+Florence James went to England in 1927. She shared a bedsitting room with Christina Stead for a short time, and worked mainly as a journalist and independent literary agent until her return to Australia in 1938. James went to England again in 1947 and from 1951 worked as an independent literary agent and reader for Constable and Co. and for Richmond, Towers and Benson Limited. While in London she acted as a talent scout for Australian and New Zealand writers including Mary Durack, Nene Gare, Maurice Shadbolt, David Martin and Sylvia Ashton-Warner. 
+James maintained a close friendship with many of the women she met at University and with the writers whose work she promoted. In the early 1970s she became an active member of the Religious Society of Friends (Quakers) in Australia. James married William ('Pym') Heyting in 1932. They divorced in 1948. They had two daughters. Florence James died in 1993.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1051b.htm">
+<relationEntry localType="Person">
+Franklin, Stella Maria ( Marian) Sarah Miles (1879 - 1954)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4321b.htm">
+<relationEntry localType="Person">
+Cusack, Dymphna (1902 - 1981)
+</relationEntry>
+<descriptiveNote>
+<p>Cusack collaborated with Florence James on <span style="font-style:italic">Come in Spinner.</span></p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-596102">
+<relationEntry>
+James, Florence (1902-1993)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'James, Florence', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">James, Florence</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1103b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004620.htm">
+<relationEntry localType="published">Book: Come in Spinner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cusack, Dymphna and James, Florence</name>
+<title render="italic">Come in Spinner</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Heinemann</publisher>
+<date>1951</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003195.htm">
+<relationEntry localType="published">Edited Book: Yarn spinners : a story in letters, Dymphna Cusack, Florence James, Miles Franklin</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">North, Marilla</name>
+<title render="italic">Yarn spinners : a story in letters, Dymphna Cusack, Florence James, Miles Franklin</title>
+<imprint>
+<place>St Lucia, Qld</place>
+<publisher>University of Queensland Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001848.htm">
+<relationEntry localType="archival">Florence James - Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Florence James - Papers</unittitle>
+<unitid>MLMSS 5877</unitid>
+<unitdate>1890 - 1993</unitdate>
+<abstract>The collection comprises 20 manuscript record series. You may navigate to a more detailed description of each series from this collection record.
+Diaries, 1931-1993
+Correspondence with her family, 1916-1992
+Correspondence with personal and literary friends, 1928-1992
+Publishing correspondence and related material, 1951-1993
+Papers concerning the novel 'Four winds and a family', 1946-1953, 1963-1974
+Papers concerning the novel 'Jungfrau' by Dymphna Cusack, 1989
+Papers concerning the novel 'Come in spinner', 1947-1992
+Papers concerning the television mini-series 'Come in spinner', 1980-1993
+Papers concerning books about Australia and New Zealand which Florence James was commissioned to write (not published), 1963-1992
+Papers concerning her work as an editor and journalist, 1940-1991, nd
+Papers concerning literature, writing method and talks about literature, 1947-1992
+Papers concerning International PEN and Australian Society of Authors, 1955-1981
+Travel diaries and related papers, 1934-1987
+Papers concerning Religious Society of Friends (Quakers), ca.1960-1991
+Legal and financial records, 1934-1992
+Miscellaneous papers, 1951, 1972-1990
+Personal documents and papers concerning family history, 1890-1993
+Photographs, 1929-1991
+Printed material, 1921-1990
+Oral history tapes, 1991</abstract>
+<physdesc>
+<extent>6.63 m, 51 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001807.htm">
+<relationEntry localType="archival">Franklin, Miles, 1879-1954, correspondence and literary papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Franklin, Miles, 1879-1954, correspondence and literary papers</unittitle>
+<unitid>Mfm G 247427-27477</unitid>
+<unitdate>1887 - 1954</unitdate>
+<abstract>Literary notebooks, 1934-c1948 (15 v.) -- General correspondence and correspondence with Joseph Furphy, Mary Fullerton, C. Hartley Gratton, Dymphna Cusack, Florence James -- Family correspondence: Barton-Cotteril, Franklin Family, Graham-Lampe, Maxwell-Wilkinson -- Novel: Within a footstep of the goal, 1896 -- Novels: Incomplete drafts and notes for various novels, [c189-]-[19--] -- Novels, For sale to the highest bidder, 1896 -- Short stories, [189-]-1901 -- Plays, 1945-[195-] and verse, 1897-1940 -- Research materials re Catherine Helen Spence, 1853-1939 --Papers re Joseph Furphy, 189?-1907 --Joseph Furphy research material, 1867-1939 --Novels, 1899-193-: My brilliant career, Some everyday folk and Dawn, Old Blastus of Bandicoot -- Various published and unpublished novels and sketches -- Brent of Bin Bin novels and stories; Personal correspondece and papers, 1929-53 -- Correspondence and miscellaneous papers, 1841-1950; Family papers.</abstract>
+<physdesc>
+<extent>55 v.</extent>
+<physfacet>Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000084.htm">
+<relationEntry localType="archival">Papers of Nancy Cato</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Nancy Cato</unittitle>
+<unitid>MS 757</unitid>
+<unitdate>1939 - 1995</unitdate>
+<abstract>Letters, novel "Towards the source", "Green grows the vine", miscellaneous verse, photographs, editor's "mock up" of the Jindyworobak Anthology, 1950. Also includes letters, mainly personal, from other writers commenting on her work, (1946-1976). Correspondents include Ian Mudie, Mary Durack, John Bray, Gwen Harwood, R.H. Morrison, Katharine Susannah Prichard, Douglas Stewart, Dorothy Green, C. B. Christesen, Kylie Tennant, Dymphna Cusack, Nancy Keesing (added 9.12.76). Other letters added to the collection include those of: Florence James, Nancy Keesing, Judith Wright, Dorothy Green, Gwen Harwood and Flexmore Hudson (added 30.5.96) and Andrew Hay, son of William Gosse Hay (added 16.6.96). A number of letters refer to the formation of Lyrebird Writers, of which Cato and Roland Robinson were founding members. The collection also contains a transcript of dictated excerpts from the diary of Daniel Matthews, 1889, together with photcopies of his diaries, 1899-90, used in research for Mr Maloga (added 30.5.96).</abstract>
+<physdesc>
+<extent>0.85 m, 3 boxes 1 folio box</extent>
+<physfacet>Correspondence, Photographs, Drafts of books, </physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

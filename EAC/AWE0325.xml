@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0325</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-03-06">2002-03-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey and Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0325b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Melbourne Society of Women Painters and Sculptors</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Students' Art Club</part>
+</nameEntry>
+<nameEntry localType=""><part>Woomballana</part>
+</nameEntry>
+<nameEntry localType=""><part>Women's Art Club</part>
+</nameEntry>
+<nameEntry localType=""><part>Melbourne Society of Women Painters</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>The Ola Cohn Centre for the Arts, 41-43 Gipps Street, East Melbourne</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Arts organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Melbourne Society of Women Painters and Sculptors was founded in 1902 by women who had been students at the Art School of the National Gallery of Victoria, to provide a forum for artistic discussion and an opportunity to view and comment on each other's work.
+
+Originally named the Students' Art Club, it became "Woomballana" (meaning either 'everlasting beauty' or 'search for beauty') Art Club, The Women's Art Club, the Melbourne Society of Women Painters and finally, in 1954, the present title was adopted.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0323b.htm">
+<relationEntry localType="Person">
+Cohn, Carola (Ola) (1892 - 1964)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1964-12-31">1964</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-633006">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Melbourne Society of Women Painters and Sculptors', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Melbourne Society of Women Painters and Sculptors</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0325b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003381.htm">
+<relationEntry localType="published">Catalogue: Annual exhibition / Melbourne Society of Women Painters &amp; Sculptors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual exhibition / Melbourne Society of Women Painters &amp; Sculptors</title>
+<imprint>
+<place>Melbourne</place>
+<date>[?1902-]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003380.htm">
+<relationEntry localType="published">Pamphlet: Society and exhibition rules</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Society of Women Painters and Sculptors</name>
+<title render="italic">Society and exhibition rules</title>
+<imprint>
+<place>[Melbourne]</place>
+<date>[1968?]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003379.htm">
+<relationEntry localType="published">Pamphlet: Constitution</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Society of Women Painters and Sculptors</name>
+<title render="italic">Constitution</title>
+<imprint>
+<place>[Melbourne]</place>
+<date>1966</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003378.htm">
+<relationEntry localType="published">Book: Brief history from 1901-1959 / [compiled from old minutes and reports]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mathews, Marjorie McChesney</name>
+<title render="italic">Brief history from 1901-1959 / [compiled from old minutes and reports]</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Society of Women Painters and Sculptors</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003377.htm">
+<relationEntry localType="published">Book: The Melbourne Society of Women Painters and Sculptors, 1901 - 1980 : a survey of exhibiting members, 9 March - 20 April 1980</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Melbourne Society of Women Painters and Sculptors, 1901 - 1980 : a survey of exhibiting members, 9 March - 20 April 1980</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>McClelland Gallery</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003376.htm">
+<relationEntry localType="published">Newsletter: News bulletin / Melbourne Society of Women Painters and Sculptors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">News bulletin / Melbourne Society of Women Painters and Sculptors</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Society</publisher>
+<date>1966-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000669.htm">
+<relationEntry localType="published">Book: More Than Just Gumtrees: A Personal, Social and Artistic History of the Melbourne Society of Women Painters and Sculptors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Peers, Juliet</name>
+<title render="italic">More Than Just Gumtrees: A Personal, Social and Artistic History of the Melbourne Society of Women Painters and Sculptors</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Society of Women Painters and Sculptors</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000668.htm">
+<relationEntry localType="published">Resource: The Melbourne Society of Women Painters and Sculptors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Society of Women Painters and Sculptors</name>
+<title render="italic">The Melbourne Society of Women Painters and Sculptors</title>
+<imprint>
+<publisher>Melbourne Society of Women Painters and Sculptors</publisher>
+</imprint>
+<extptr linktype="simple" href="http://home.vicnet.net.au/~mswps/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001746.htm">
+<relationEntry localType="archival">The Melbourne Society of Women Painters and Sculptors Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>The Melbourne Society of Women Painters and Sculptors Records</unittitle>
+<unitid>MS 10713</unitid>
+<unitdate>1904 - 1978</unitdate>
+<abstract>Records include: Minutes 1904-1971. Correspondence 1964-1978. Catalogues, press cuttings. Manuscripts, artworks and autobiographical materials of the sculptor Ola Cohn (1892-1864). Collection also includes records of the Woomballano Art Club (1904-1926) and the Women's Art Club (1918-1948).</abstract>
+<physdesc>
+<extent>0.85 m, 5 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

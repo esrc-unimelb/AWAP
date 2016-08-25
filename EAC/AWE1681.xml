@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1681</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-14">2005-12-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-09">2016-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1681b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Megarrity</part>
+<part localType="givenname">Alison Patricia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1961-02-09">9 February 1961</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Local government councillor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Alison Megarrity was the (ALP) member for Menai in the New South Wales Legislative Assembly. She was first elected to the seat in 1999 and was re-elected in 2003 and 2007. She did not seek re-election at the 2011 state election, but stood as a federal candidate in the seat of Hughes at the 2013 election, but was unsuccessful. Prior to Alison's time in state politics she was a Councillor with the Liverpool City Council (1994-1999).</abstract>
+<p>Alison Megarrity grew up in central western NSW where her father was a railwayman. She was educated at Our Lady of Mercy College, Parramatta and Macquarie University, from which she graduated BA.</p>
+<p>She worked in public sector organizations dealing with housing, education, and consumer affairs before winning the seat of Menai in 1999 at her first attempt.<br />
+She was active in the ALP, being a member of the Chipping Norton branch and holding office not only in the branch but also in the Moorebank and Menai State Electorate Councils.</p>
+<p>She was elected to the Liverpool City Council in 1994 and represented it on the Chipping Norton Lakes Authority and the Georges River Combined Councils. She was a board member of the Whitlam Leisure Centre, deputy convenor of the Georges River Environment Alliance and Chair of the Chipping Norton Community Centre management Committee. She married Robert Megarrity,in 1982 and they have two sons, Liam and Glyn.</p>
+<p>She served as Assistant Speaker from May 2007-March 2011. She was also Parliamentary Secretary, Assisting the Minister for Infrastructure and Planning and Natural Resources, 2003-2005, as well as Parliamentary Secretary Assisting the Attorney-General, Minister for the Environment and the Art, 2005-2007..</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-725078">
+<relationEntry>
+Megarrity, Alison Patricia
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Megarrity, Alison Patricia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Megarrity, Alison Patricia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1681b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

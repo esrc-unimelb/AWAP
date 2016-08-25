@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4398</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-01">2009-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4398b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">De Groen</part>
+<part localType="givenname">Alma Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Mathers, Alma Margaret</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-09-05">5 September 1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Manawatu, North Island, New Zealand</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Playwright</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A New Zealander by birth, Alma De Groen has distinguished herself as a feminist playwright whilst living in Australia and Canada. On moving to Australia in 1964, she wrote her first play, <span style="font-style:italic">The Sweatproof boy</span> in 1968. She has written for live theatre, film, radio and television in Canada and Australia. In 1998 she was the first playwright to win the Patrick White Award for her contribution to Australian theatre. In 2003 she returned to live and work in New Zealand.</abstract>
+<p>Alma De Groen's plays include: <span style="font-style:italic">The Joss Adams Show</span>, <span style="font-style:italic">The after-life of Arthur Cravan</span>, <span style="font-style:italic">Going home</span>, <span style="font-style:italic">Chidley</span>, <span style="font-style:italic">Vocations</span>, <span style="font-style:italic">The Rivers of China</span>, <span style="font-style:italic">The girl who saw everything</span>, <span style="font-style:italic">The woman in the window</span>, <span style="font-style:italic">Wicked sisters</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-577169">
+<relationEntry>
+De Groen, Alma (19410905-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'De Groen, Alma Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">De Groen, Alma Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4398b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000001.htm">
+<relationEntry localType="published">Edited Book: Australian Feminism: A Companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Caine, Barbara</name>
+<title render="italic">Australian Feminism: A Companion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002376.htm">
+<relationEntry localType="archival">Papers of Alma de Groen</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>UNSW@ADFA Academy Library</repository>
+<unittitle>Papers of Alma de Groen</unittitle>
+<unitid>MS 172</unitid>
+<unitdate>c. 1946 - 2002</unitdate>
+<abstract>Comprises papers relating to Alma de Groen's career as a playwright. The collection consists of correspondence, notebooks, drafts of plays, reviews, newspaper cuttings, scrapbook, audio cassette tapes and photographs relating to plays written for stage, film, radio and television.</abstract>
+<physdesc>
+<extent>1.69 m, 14 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

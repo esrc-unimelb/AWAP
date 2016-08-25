@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0911</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-20">2004-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0911b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Retalic</part>
+<part localType="givenname">Lucy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lucy Retalic was born in 1910. Her mother was in the Red Cross and during WWI Lucy performed in concerts when she was 4 years old. She went to St Peter's Girls' School and joined Heather Gell's Eurythmic classes after school. Miss Gell staged shows at the Tivoli theatre. Retalic became a kindergarten teacher and her first appointment was at the Riverside school. She became Director of the Lavis Kindergarten in Adelaide and then left teaching to work with doctors in Melbourne. In 1937 she went to England to work with opthalmologists for 15 months. She returned home via Europe and during World War II worked with the RAAF trainee pilots to pass their eye tests. She married in 1948. Retalic was involved in the circles in the Lyceum Club and was leader of the Garden Circle. Retalic did a lot of overseas travel which she enjoyed. Retalic worked with opthalmologists to provide screening for people in outback Australia to identify eye disease. This was organised through the Lions Club</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+<descriptiveNote>
+<p>Leader of the Garden Circle</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-725074">
+<relationEntry>
+Retalic, Lucy (1910-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Retalic, Lucy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Retalic, Lucy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0911b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001496.htm">
+<relationEntry localType="archival">Interview with Lucy Retalic [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Lucy Retalic [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/38</unitid>
+<unitdate>19 August 1990</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Lucy Retalic was born in 1910. Her mother was in the Red Cross and during WWI Lucy performed in concerts when she was 4 years old. She went to St Peter's Girls' School and joined Heather Gell's Eurythmic classes after school. Miss Gell staged shows at the Tivoli theatre. Lucy became a kindergarten teacher and her first appointment was at the Riverside school. She became Director of the Lavis Kindergarten in Adelaide and then left teaching to work with doctors in Melbourne. In 1937 she went to England to work with opthalmologists for 15 months. She returned home via Europe and during World War II worked with the RAAF trainee pilots to pass their eye tests. She married in 1948. Lucy was involved in the circles in the Lyceum Club and was leader of the Garden Circle. Lucy did a lot of overseas travel which she enjoyed. Lucy worked with opthalmologists to provide screening for people in outback Australia to identify eye disease. This was organised through the Lions Club</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

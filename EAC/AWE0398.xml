@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0398</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-02">2002-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-19">2015-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0398b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>New South Wales Army Nursing Service Reserve (NSWANSR)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1899-05-01">May 1899</fromDate>
+<toDate standardDate="1903-07-01">1 July 1903</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Armed services organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Army Nursing Service Reserve was established in 1899 and attached to the New South Wales Army Medical Corps. This was the first official female army nurses' organisation in the Australian colonies. Nurse Nellie Gould was appointed lady superintendent of the Reserve. On the 17 January 1900 Nurse Gould left with thirteen nursing sisters to serve in the Boer War as part of the British Army. The nursing contingent returned to Australia in 1902. The Reserve was replaced by the Australian Army Nursing Service (AANS), that was formed post Federation.</abstract>
+<p><span style="font-style:italic">New South Wales Army Medical Corps attached to Imperial Draft Contingent - Roll of individuals entitled to the South Africa Medal and Clasps:</span></p>
+<list><item>Gould, Ellen Julia - Lady Superintendent</item>
+<item>Johnstone, Julia Bligh - Superintendant</item>
+<item>Austin, Anne - Sister</item>
+<item>Frater, Penelope - Sister</item>
+<item>Garden, Anna Gardiner - Sister</item>
+<item>Hoadley, Emily - Sister</item>
+<item>Lister, Elizabeth Ward - Sister</item>
+<item>Martin, Marion Philippe - Sister</item>
+<item>Matchett, Annie L - Sister</item>
+<item>Newton, Nancy - Sister</item>
+<item>Nixon, Elizabeth - Sister</item>
+<item>Pocock, Mary Annie - Sister</item>
+<item>Steel, Mabel - Sister</item>
+<item>Woodward, Theresa E - Sister</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0229b.htm">
+<relationEntry localType="Person">
+Nixon, Elizabeth (1865 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0418b.htm">
+<relationEntry localType="Person">
+Pocock, Mary Anne (Bessie) (1863 - 1946)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1899-01-01">1899</fromDate>
+<toDate standardDate="1903-12-31">1903</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0397b.htm">
+<relationEntry localType="Person">
+Gould, Ellen Julia (Nellie) (1860 - 1941)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1899-01-01">1899</fromDate>
+<toDate standardDate="1902-12-31">1902</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Lady superindent</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768086">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'New South Wales Army Nursing Service Reserve (NSWANSR)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">New South Wales Army Nursing Service Reserve (NSWANSR)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0398b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001923.htm">
+<relationEntry localType="published">Book: Just wanted to be there : Australian Service Nurses 1899-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reid, Richard</name>
+<title render="italic">Just wanted to be there : Australian Service Nurses 1899-1999</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth Department of Veterans' Affairs</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000892.htm">
+<relationEntry localType="published">Book: Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bassett, Jan</name>
+<title render="italic">Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000704.htm">
+<relationEntry localType="archival">Nominal rolls and lists of medals and clasps for New South Wales Military Forces who served in Boer War.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Sydney Office</repository>
+<unittitle>Nominal rolls and lists of medals and clasps for New South Wales Military Forces who served in Boer War.</unittitle>
+<unitid>Series B5204</unitid>
+<unitdate>1899 - 1907</unitdate>
+<abstract>Folder 3B lists the members of the New South Wales Army Merical Corp who were entitled to the South Africa Medal and Clasp under the Army Order granting the Medal issued on 1st April, 1901. 
+Page 11 lists the Nursing Sisters. The Nursing Sisters accompanied the Second Contingent which departed on 17th January 1900 on board the ship <span style="font-style:italic">Moravian.</span> Four remained in South Africa, Lady Superintendent and the others returned. Nursing Sister Elizabeth Nixon was awarded the Royal Red Cross; and was mentioned in despatches in the London Gazette, 27.9.01, and Nursing Sister Mary Annie Pocock was mentioned in despatches, in the London Gazette 27.7.01.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000856.htm">
+<relationEntry localType="archival">Informal portrait of three nurses who accompanied the Second Contingent to the Boer War as members of the NSW Army Medical Corps.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Informal portrait of three nurses who accompanied the Second Contingent to the Boer War as members of the NSW Army Medical Corps.</unittitle>
+<unitid>A03962</unitid>
+<unitdate>c. 1902</unitdate>
+<abstract>Informal portrait of three nurses who accompanied the Second Contingent to the Boer War as members of the NSW Army Medical Corps. Matron E. J. (Nellie) Gould, Lady Superintendent of the first contingent of Australian military nurses to serve overseas, holds a nurse's chatelaine containing essential tools of the trade (left). Miss Penelope Frater (Sister), holding her Queen Victoria chocolate box, one of those issued to troops and nurses to celebrate the New Year of 1900 (centre). Miss Julia Bligh Johnston (Superintendent) (right), stands with a Rhodesian ridgeback named Buller, brought back from South Africa in 1902.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00024.htm">
+<relationEntry localType="digitalObject">Gould, Frater and Bligh</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Gould, Frater and Bligh</unittitle>
+<unitid>A03962</unitid>
+<unitdate>c. 1902</unitdate>
+<abstract>Informal portrait of three nurses who accompanied the Second Contingent to the Boer War as members of the NSW Army Medical Corps. Matron E. J. (Nellie) Gould, Lady Superintendent of the first contingent of Australian military nurses to serve overseas, holds a nurse's chatelaine containing essential tools of the trade (left). Miss Penelope Frater (Sister), holding her Queen Victoria chocolate box, one of those issued to troops and nurses to celebrate the New Year of 1900 (centre). Miss Julia Bligh Johnston (Superintendent) (right), stands with a Rhodesian ridgeback named Buller, brought back from South Africa in 1902.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

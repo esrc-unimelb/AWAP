@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0808</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-03-31">2004-03-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Denise Tallis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0808b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bennett</part>
+<part localType="givenname">Mary Montgomerie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Christison, Mary</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1881-07-08">8 July 1881</fromDate>
+<toDate standardDate="1914-08-18">18 August 1914</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1881-07-18">18 July 1881</fromDate>
+<toDate standardDate="1961-10-06">6 October 1961</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Kalgoorlie, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Aboriginal rights activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mary Montgomerie Bennett spent her childhood in Queensland, returning to London from 1903 to 1908 to study, and again in 1914 to marry. When her husband died in 1927 she returned to Western Australia to pursue her interest in Aboriginal education. She worked at the Mount Margaret Mission from 1932, dramatically improving educational outcomes through the implementation of progressive teaching methods. Over the next three decades Bennett was a passionate advocate for Aboriginal rights employing her connections with international humanitarian groups and women's organisations to support her campaigns to improve the lives of Aborigines, in particular Aboriginal women.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3983b.htm">
+<relationEntry localType="Person">
+Devanny, Jean (1894 - 1962)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1023b.htm">
+<relationEntry localType="Corporate Body">
+The United Associations of Women (1929 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-562223">
+<relationEntry>
+Bennett, M M (1881-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bennett, Mary Montgomerie (Montgomery)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bennett, Mary Montgomerie (Montgomery)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0808b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002694.htm">
+<relationEntry localType="published">Book: Hunt and die : the prospect for the Aborigines of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie)</name>
+<title render="italic">Hunt and die : the prospect for the Aborigines of Australia</title>
+<imprint>
+<place>London</place>
+<publisher>Anti-Slavery Society</publisher>
+<date>1950</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100112.htm">
+<relationEntry localType="published">Resource Section: Bennett, Mary Montgomerie (1881-1961)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">G. C. Bolton, H. J. Gibbney</name>
+<title render="quoted">Bennett, Mary Montgomerie (1881-1961)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A070271b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002688.htm">
+<relationEntry localType="published">Book: Teaching the aborigines : data from Mount Margaret Mission, W.A</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie) (notes by)</name>
+<title render="italic">Teaching the aborigines : data from Mount Margaret Mission, W.A</title>
+<imprint>
+<place>[S.l : s.n,]</place>
+<publisher>(Perth: City and Suburban Print)</publisher>
+<date>[1935]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002794.htm">
+<relationEntry localType="published">Book: Christison of Lammermoor</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie)</name>
+<title render="italic">Christison of Lammermoor</title>
+<imprint>
+<place>London</place>
+<publisher>Alston Rivers</publisher>
+<date>[1927]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002690.htm">
+<relationEntry localType="published">Conference Paper: The Aboriginal mother in Western Australia in 1933</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie)</name>
+<title render="quoted">The Aboriginal mother in Western Australia in 1933</title>
+<imprint>
+<date>[1933?]</date>
+</imprint>
+<bibseries>
+<title render="italic">British Commonwealth League Conference</title>
+<num type="pages">[4]</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002691.htm">
+<relationEntry localType="published">Book: The Australian Aboriginal as a human being</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie)</name>
+<title render="italic">The Australian Aboriginal as a human being</title>
+<imprint>
+<place>London</place>
+<publisher>Alston Rivers</publisher>
+<date>1930</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002693.htm">
+<relationEntry localType="published">Book: Human rights for Australian Aborigines : how can they learn without a teacher?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bennett, M. M. (Mary Montgomerie)</name>
+<title render="italic">Human rights for Australian Aborigines : how can they learn without a teacher?</title>
+<imprint>
+<place>[Australia]</place>
+<date>[1957?]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002695.htm">
+<relationEntry localType="published">Book Section: Mary Montgomerie Bennett</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="quoted">Mary Montgomerie Bennett</title>
+<imprint>
+<place>Broadway, N.S.W.</place>
+<publisher>Women's Redress Press Inc</publisher>
+<date>[1988]</date>
+</imprint>
+<bibseries>
+<title render="italic">200 Australian women : a Redress anthology</title>
+<name type="author">Radi, Heather.</name>
+<num type="pages">128-129</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002698.htm">
+<relationEntry localType="published">Book: Broken circles : fragmenting indigenous families 1800-2000</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Haebich, Anna.</name>
+<title render="italic">Broken circles : fragmenting indigenous families 1800-2000</title>
+<imprint>
+<place>Fremantle, W.A.</place>
+<publisher>Fremantle Arts Centre Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002697.htm">
+<relationEntry localType="published">Thesis: Ideas have wings : white women challenge Aboriginal policy, 1920-1937</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Paisley, Fiona</name>
+<title render="quoted">Ideas have wings : white women challenge Aboriginal policy, 1920-1937</title>
+<imprint>
+<publisher>La Trobe University</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002699.htm">
+<relationEntry localType="published">Journal Article: Visionary, vassal or vandal? Rod Schenk - Missionary : A case study in Western Desert missions.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Duckham, Ian.</name>
+<title render="quoted">Visionary, vassal or vandal? Rod Schenk - Missionary : A case study in Western Desert missions.</title>
+<imprint>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002700.htm">
+<relationEntry localType="published">Book: A drop in a bucket : the Mount Margaret story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Morgan, M. R. (Margaret R.)</name>
+<title render="italic">A drop in a bucket : the Mount Margaret story</title>
+<imprint>
+<place>Box Hill, Vic.</place>
+<publisher>United Aborigines Mission</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004310.htm">
+<relationEntry localType="published">Book: Jean Devanny: Romantic Revolutionary</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ferrier, Carole</name>
+<title render="italic">Jean Devanny: Romantic Revolutionary</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002696.htm">
+<relationEntry localType="published">Edited Book: Women in Australia : an annotated guide to records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Kay, Murnane, Mary, Picot, Anne and National Research Program (Australia)</name>
+<title render="italic">Women in Australia : an annotated guide to records</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001366.htm">
+<relationEntry localType="archival">Allegations by Mrs M.M. Bennett in regard to native slavery, inadequate reserves and traffic in native women.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Records Office of Western Australia</repository>
+<unittitle>Allegations by Mrs M.M. Bennett in regard to native slavery, inadequate reserves and traffic in native women.</unittitle>
+<unitid>230-66/1932</unitid>
+<abstract>File of press clippings, typescripts of lectures and correspondence relating to the attacks on the Aborigines Department made by Mary M. Bennett</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001365.htm">
+<relationEntry localType="archival">Bennett, Mary M. (Mary Montgomery) Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Fryer Library and Department of Special Collections, University of Queensland</repository>
+<unittitle>Bennett, Mary M. (Mary Montgomery) Papers</unittitle>
+<unitid>b1987576</unitid>
+<unitdate>1837 - 1928</unitdate>
+<abstract>Collection consists of 2 bound vols. of materials by and on Robert Christison, explorer, pioneer and owner of Lammermoor, North Qld. Also included : material on the Dalleburra Aboriginal Tribe of North Qld; folder containing letters from various overseas institutions to Mrs. Mary Bennett concerning her donation, and other letters from friends re her book "Christison of Lammermoor"; 20 glass negatives from 1856-1910 of views of the Station and of the Aborigines of the Dalleburra Tribe.</abstract>
+<physdesc>
+<extent>2 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002167.htm">
+<relationEntry localType="archival">Jean Devanny Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>James Cook University of North Queensland, Library Archives</repository>
+<unittitle>Jean Devanny Papers</unittitle>
+<unitid>80L-82L. Additional material 172L</unitid>
+<unitdate>c. 1930 - c. 1955</unitdate>
+<abstract>This collections includes personal letters and papers, business correspondence, Communist Party of Australian publications and material, material relating to the so-called 'Aboriginal Problem' in the 1930s and numerous manuscript copies of publications.</abstract>
+<physdesc>
+<extent>7 boxes</extent>
+<physfacet>Manuscript and Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001364.htm">
+<relationEntry localType="archival">Records of Mt. Margaret Aboriginal Mission</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Records of Mt. Margaret Aboriginal Mission</unittitle>
+<unitid>ACC 4796A</unitid>
+<unitdate>1921 - 1969</unitdate>
+<abstract>Register of births (1921-1966); register of deaths (1923-1969); admissions to Graham Children's Home (1931-1966); endowment of cottage families (n.d.). 
+Originals in private ownership.</abstract>
+<physdesc>
+<extent>0.01 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001363.htm">
+<relationEntry localType="archival">Schenk family Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Schenk family Papers</unittitle>
+<unitid>ACC 5602A</unitid>
+<abstract>Draft manuscript "Teaching the Aborigines" by M.M. Bennett (typing, writing, shorthand by Mrs M. Schenk); arithmetic workbook of Reggie Ninggeerr (Johnston), student of Mrs Schenk; recollections of Mount Margaret.</abstract>
+<physdesc>
+<extent>0.03 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

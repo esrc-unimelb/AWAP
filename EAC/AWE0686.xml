@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0686</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-30">2004-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-04">2015-09-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0686b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bishop</part>
+<part localType="givenname">Lenore</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Wilson, Lenore</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1919-01-01">1919</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mount Gambier, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Councillor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lenore Bishop, née Wilson, was born in Mount Gambier, South Australia where her father was a butcher. After finishing high school she began working, first as a legal secretary, then as a journalist, and then with her husband in a hardware business. Lenore became heavily involved in community work during her three children's school years. Following the retirement of Mount Gambier's first woman councillor in 1959, Lenore was asked to stand. She was re-elected two years later unopposed. At this time she was one of very few women in local government. In 1964 Lenore nominated for mayor and was unopposed, becoming the first woman mayor in South Australia. Lenore retired from council in 1967 but returned as the region's first woman alderman in 1972.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766052">
+<relationEntry>
+Bishop, Lenore (1919-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bishop, Lenore', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bishop, Lenore</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0686b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001160.htm">
+<relationEntry localType="archival">Interview with Lenore Bishop [sound recording] Interviewer: Adair Dunsford</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Lenore Bishop [sound recording] Interviewer: Adair Dunsford</unittitle>
+<unitid>OH 250/10</unitid>
+<abstract>Lenore Bishop, nee Wilson, was born in Mount Gambier, South Australia where her father was a butcher. After finishing high school she began working, first as a legal secretary, then as a journalist, and then with her husband in a hardware business. Lenore outlines her extensive experience of community work during her three children's school years. Following the retirement of Mount Gambier's first woman councillor in 1959, Lenore was asked to stand. She was re-elected two years later unopposed. Lenore explains her feeling of responsibility as one of very few women in local government and the qualities she believes women bring to the role. In 1964 Lenore nominated for mayor and was unopposed, becoming the first women mayor in South Australia. Lenore explains her achievements as mayor and also describes the added burden of the traditional mayoress role. Lenore retired from council in 1967 but returned as the region's first woman alderman in 1972.
+
+Recorded on 27 May 1994, 2 hours.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

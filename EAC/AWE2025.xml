@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2025</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-06">2006-02-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2025b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Timbrell</part>
+<part localType="givenname">Jane Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1951-01-01">c. 1951</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>North Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Union organiser</term>
+</occupation>
+<occupation>
+<term>Unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Timbrell was a Labor candidate in the NSW state election, in Strathfield, in 1995 and again in a by-election in Strathfield in 1996. She was unsuccessful both times.
+
+She enjoyed success at a local government level and was the first Labor woman elected to the Ashfield Municipal Council in 1991-95. She worked as in Industrial Officer for the New South Wales Public Service Association from 1982, serving as the association's Women's Officer between 1996-2002.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<event>Active trade unionist in the Federated Miscellaneous Workers' Union (FMWU) (SA Branch) representing the photographic industry.</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<event>Delegate to the South Australian United Trades and Labor Council (SAUT&amp;LC)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<event>Member of the SA Working Women's Charter Standing Committee</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+<event>Delegate of S UT&amp;LC to ACTU Women's Committee</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<event>Member of the management committee of the SA Working Women's Centre</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1981-01-01">1981</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+<event>Employed as an Industrial Officer with the NSW Public Service Association</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+<event>Alderman/Councillor on Ashfield Municipal Council (first Labor woman elected to Ashfield Council)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+<event>Deputy Mayor, 1992-1993.(First Woman)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-739075">
+<relationEntry>
+Timbrell, Jane Elizabeth (1951-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Timbrell, Jane Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Timbrell, Jane Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2025b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004487.htm">
+<relationEntry localType="published">Book: Women in Australian Parliament and Local Government: An updated history 1975-1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Decker, Dianne</name>
+<title render="italic">Women in Australian Parliament and Local Government: An updated history 1975-1992</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Local Government Women's Association</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

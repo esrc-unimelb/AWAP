@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0229</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-31">2002-10-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-19">2015-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0229b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Nixon</part>
+<part localType="givenname">Elizabeth</part>
+<part localType="honorific title">RRC</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1865-01-01">1865</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mean Meer, Bengal, India</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Nixon was one of the first twelve nurses from the New South Wales Army Nursing Service Reserve (NSWANSR) to sail on the <span style="font-style:italic">Moravian</span> with the 2nd Contingent of the New South Wales Army Medical Corps (NSWAMC) on 17 January 1900 to South Africa to serve in the Boer War. Unlike many of the more than 60 Australian nurses who went to the Boer War, she did not have to pay her own passage. She was awarded the Royal Red Cross medal on 27 September 1901 for her outstanding work with the wounded and those who succumbed to tropical diseases and was Mentioned in Dispatches on 10 September 1901. The King of England, Edward VII, presented her with her medal at St James' Palace on 12 March 1902. She was one of three Australian nurses who were awarded the medal for service in the Boer War.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0398b.htm">
+<relationEntry localType="Corporate Body">
+New South Wales Army Nursing Service Reserve (NSWANSR) (1899 - 1903)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766056">
+<relationEntry>
+Nixon, Elizabeth (1865-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Nixon, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Nixon, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0229b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001447.htm">
+<relationEntry localType="published">Resource Section: Australian nurses in the Boer War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chamberlain, Max</name>
+<title render="quoted">Australian nurses in the Boer War</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Defending Victoria</title>
+<name type="author">Ian MacFarlane</name>
+</bibseries>
+<extptr linktype="simple" href="http://users.netconnect.com.au/~ianmac/readroom.htm#nursing"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001446.htm">
+<relationEntry localType="published">Book: Our War Nurses: The History of the Royal Australian Army Nursing Corps 1902-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Goodman, R.D.</name>
+<title render="italic">Our War Nurses: The History of the Royal Australian Army Nursing Corps 1902-1988</title>
+<imprint>
+<place>Brisbane, Queensland</place>
+<publisher>Boolarong Publications</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000892.htm">
+<relationEntry localType="published">Book: Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bassett, Jan</name>
+<title render="italic">Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000704.htm">
+<relationEntry localType="archival">Nominal rolls and lists of medals and clasps for New South Wales Military Forces who served in Boer War.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Sydney Office</repository>
+<unittitle>Nominal rolls and lists of medals and clasps for New South Wales Military Forces who served in Boer War.</unittitle>
+<unitid>Series B5204</unitid>
+<unitdate>1899 - 1907</unitdate>
+<abstract>Folder 3B lists the members of the New South Wales Army Merical Corp who were entitled to the South Africa Medal and Clasp under the Army Order granting the Medal issued on 1st April, 1901. 
+Page 11 lists the Nursing Sisters. The Nursing Sisters accompanied the Second Contingent which departed on 17th January 1900 on board the ship <span style="font-style:italic">Moravian.</span> Four remained in South Africa, Lady Superintendent and the others returned. Nursing Sister Elizabeth Nixon was awarded the Royal Red Cross; and was mentioned in despatches in the London Gazette, 27.9.01, and Nursing Sister Mary Annie Pocock was mentioned in despatches, in the London Gazette 27.7.01.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1042</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-08-04">2004-08-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-10-17">2013-10-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1042b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Liaison Committee of Women's International Organisations - Australia Group</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Australian Liaison Committee of Women's National Organizations</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1963-12-31">1963</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Women's rights organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australia Group of the Liaison Committee of Women's International Organisations was formed in April 1950 to gain status and representation at United Nations meetings held in Australia and South East Asia. The Australian Group operated for some time to combine national and international functions, but in 1954 it was resolved to limit activities to those of "a group of organisations" specially concerned with such subjects as human rights, the status of women, and the nationality of married women.
+
+The Australian Group organised Australian participation in various international-agency conferences in the South-East Asian area, notably the United Nations Commissions on the Status of Women, and the United Nations Seminar on Civic Responsibilities and Increased Participation of Asian Women in Public Life (1957).
+
+In 1963 the Liaison Committee headquarters group in London voluntarily withdrew from consultative status with the United Nations Economic and Social Council, and the Australia Group, feeling that the Australian Committee was no longer necessary, ceased to function later in that year.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-778072">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Liaison Committee of Women's International Organisations - Australia Group', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Liaison Committee of Women's International Organisations - Australia Group</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1042b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001790.htm">
+<relationEntry localType="archival">Records of the Liaison Committee of Women's International Organisations, Australia Group</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Records of the Liaison Committee of Women's International Organisations, Australia Group</unittitle>
+<unitid>MS 1082</unitid>
+<unitdate>1947 - 1963</unitdate>
+<abstract>The records of the Australia Group of the Liaison Committee of Women's International Organisations include correspondence (1950-1963) with the Liaison Committee headquarters group in London, affiliated organisations, international non-government agencies, Australian government bodies and others. The minutes of the Australia Group Liaison Committee cover the period 1947 to 1960.
+
+In addition there are roneoed copies of minutes of the Liaison Committee Headquarters group in London for the period November 1949 to February 1961, and a headquarters information sheet.
+
+The collection also contains printed and mimeographed material, principally reports by Australian observers and United Nations reviews reprints of proceedings at various United Nations seminars and conferences held in the Pacific area, 1956 to 1959. In addition there is a miscellaneous collection of material mainly related to the affiliated organisations.</abstract>
+<physdesc>
+<extent>0.4 m, 3 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

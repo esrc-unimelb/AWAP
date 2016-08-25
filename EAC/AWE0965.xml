@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0965</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-21">2004-05-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0965b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Infants' Home (Ashfield, New South Wales)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Sydney Foundling Hospital</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1874-01-01">1874</fromDate>
+<toDate standardDate="1877-12-31">1877</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1874-01-01">1874</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Ashfield, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>17 Henry St,
+Ashfield, NSW 2131
+Phone: 9799 4844
+Fax:      9799 4122
+Email: mail@theinfantshome.org.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Welfare organisation</term>
+</function>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Originally established as the Sydney Foundling Hospital in 1874, it became the Infants' Home in 1877. It assumed responsibility for the care of infants of single mothers and destitute parents and provided a temporary home for the mothers. Its management comprised an all female Board until 1973, when the first male joined. It was the first organisation to move from residential care to long day care in the early 1970s and the third family day care scheme to commence operations in New South Wales. The Family Centre of Early Intervention commenced in 1978.</abstract>
+<p>The members of the first committee comprised Mrs E B Parnell, President, Mrs Julia Bensusan, Secretary, Mrs G F Wise, Treasurer, Mrs (later Lady) E Deas Thomson ( daughter of Governor Bourke and wife of the Colonial Secretary), Lady Murray, Mrs Henry Moore, Mrs Fischer, Mrs Alexander, Mrs Holt, Mrs John Smith and Mrs St John. Mrs John Eales, Mrs Goodenough and Mrs Dumaresq joined in the first year.</p>
+<p>Rules for admission to the institution were laid down by July 1874. They required firstly for each application to be dealt with on its merits; secondly, for the infant to be no older than three months; thirdly for the mother to produce satisfactory evidence of her previous respectability and fourthly there had to be proof that the father had deserted the baby and be beyond the reach of the law to enforce him to support it.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1011b.htm">
+<relationEntry localType="Person">
+Bensusan, Julia ( - 1878)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1874-01-01">1874</fromDate>
+<toDate standardDate="1878-12-31">1878</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-752073">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Infants' Home (Ashfield, New South Wales)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Infants' Home (Ashfield, New South Wales)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0965b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002923.htm">
+<relationEntry localType="published">Pamphlet: Infants' Home Ashfield: constitution and rules</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Infants' Home (Ashfield, NSW)</name>
+<title render="italic">Infants' Home Ashfield: constitution and rules</title>
+<imprint>
+<place>Ashfield, NSW</place>
+<publisher>Infants' Home (Ashfield, NSW)</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002915.htm">
+<relationEntry localType="published">Journal: Happenings at Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Happenings at Home</title>
+<imprint>
+<date>2001-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002913.htm">
+<relationEntry localType="published">Book: Betrayed and forsaken: the official history of the Infants' Home, Ashfield, founded in 1874 as the Sydney Foundling Institution</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lorne-Johnson, Susan</name>
+<title render="italic">Betrayed and forsaken: the official history of the Infants' Home, Ashfield, founded in 1874 as the Sydney Foundling Institution</title>
+<imprint>
+<place>Ashfield, New South Wales</place>
+<publisher>The Infants' Home</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001603.htm">
+<relationEntry localType="archival">Infants' Home (Ashfield NSW) - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Infants' Home (Ashfield NSW) - Records</unittitle>
+<unitid>MLMSS 2983</unitid>
+<unitdate>1874 - 1966</unitdate>
+<abstract>Contains Minute books, 1874-1965 ( vols ML MSS 2983/1-42); Letterbooks, 1874-1896 ( vols ML MSS 2983/43-44); records re inmates, 1874-1964 (vols MLMSS 2983-45-49; diary of Emily Trollope, matron of Infants' Home, 1875-1876 (vol ML MSS 2983/50; financial records, 1885-1893 (vols ML MSS 2983/51-52; visitors book, 1874-1901 (vol MLMSS 2983/53); newspaper cuttings, including miscellanea, 1877-1966 ( Box ML MSS 2983/54</abstract>
+<physdesc>
+<extent>59 boxes + 53 volumes + 1 chest + 1 folder</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0687</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-30">2004-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0687b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Turnbull</part>
+<part localType="givenname">Antonia Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Richmore, Toni</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Japan</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Doctor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Toni Turnbull, née Richmore, was born in Japan where her father was stationed. Toni went to school in several countries and matriculated at an Adelaide Catholic girls school. She began Science at Adelaide University before transferring to Medicine. In her fourth year Toni married, and in her final year her first child was born. Working for the Family Planning Association and in general practice, Toni became increasingly disturbed by the number of women seeking abortions for convenience. In the early 1980s Toni came to believe that God was asking her to speak out and she also became convinced of the extent of post-abortion grief.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763062">
+<relationEntry>
+Turnbull, Antonia Mary (1950-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Turnbull, Antonia Mary (Toni)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Turnbull, Antonia Mary (Toni)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0687b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001161.htm">
+<relationEntry localType="archival">Interview with Dr Toni Turnbull [sound recording] Interviewer: Barbara Baird</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Dr Toni Turnbull [sound recording] Interviewer: Barbara Baird</unittitle>
+<unitid>OH 250/11</unitid>
+<abstract>Antonia Mary Turnbull, nee Richmore, was born in Japan where her father was stationed. Toni went to school in several countries and matriculated at an Adelaide Catholic girls school. She began Science at Adelaide University before transferring to Medicine. In her fourth year Toni married, and in her final year her first child was born. Toni describes experiences crucial to her later activism: participating in an abortion during her pregnancy, and caring for her baby as a resident at Queen Elizabeth Hospital. Working for the Family Planning Association and in general practice, Toni became increasingly disturbed by the number of women seeking abortions for convenience. In the early 1980s Toni came to believe that God was asking her to speak out and she also became convinced of the extent of post-abortion grief. She discuss specific issues in the pro-life/pro-choice debate, as well as her identification with the women's movement.
+
+Recorded on 31 May 1994, 2 hours 6 minutes.</abstract>
+<physdesc>
+<extent>3 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

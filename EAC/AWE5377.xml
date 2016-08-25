@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5377</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-23">2014-09-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5377b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Administrative Appeals Tribunal</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-07-01">1 July 1976</fromDate>
+<toDate standardDate="2015-07-01">1 July 2015</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Administrative Appeals Tribunal was established under the Commonwealth Administrative Appeals Tribunal Act (1975) and commenced operations on 1 July 1976. The Tribunal was set up to provide an independent review mechanism for administrative decisions made by Australian Government ministers, departments, agencies, and some other tribunals. In limited circumstances, the Tribunal also had powers to review administrative decisions made by state government and non-government bodies. The Tribunal also had some powers to review decisions made by the Norfolk Island Government.
+
+On 13 May 2014 the Government announced that the Administrative Appeals Tribunal would be amalgamated with the Migration Review Tribunal, Refugee Review Tribunal, Social Security Appeals Tribunal and Classification Review Board with effect from 1 July 2015.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4850b.htm">
+<relationEntry localType="Person">
+Burton, Pamela Melrose (1946 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Pamela Burton was a Senior Member of the Federal Administrative Appeals Tribunal</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0451b.htm">
+<relationEntry localType="Person">
+O'Neil, Pamela Frances (1945 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1996-01-01">1996</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Pamela O'Neil was a Senior Member of the Federal Administrative Appeals Tribunal</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-629264">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Administrative Appeals Tribunal', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Administrative Appeals Tribunal</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5377b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

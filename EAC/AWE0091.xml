@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0091</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-14">2001-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-24">2014-11-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0091b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sybylla Press</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Ross House, 1st Floor,
+247-251 Flinders Lane
+Melbourne 3000 VIC
+AUSTRALIA</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Feminist publisher</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Sybylla Feminist Press was established as a printing cooperative in 1976 and since 1982 has run a small publishing program producing titles that explore feminist and left perspectives. The publications include fiction and non-fiction by women, with a special interest in new writers and work that is innovative in style.</abstract>
+<p>Sybylla's list includes <span style="font-style:italic">Working Hot</span>, winner of the 1989 Innovative Writing Prize in the Victorian Premier's Literary Awards, and <span style="font-style:italic">She's Fantastical</span>, shortlisted for the 1995 World Fantasy Awards. While occasional grants have been awarded for particular publishing projects, Sybylla receives no recurrent funding from government or other bodies for its operations. Due to escalating costs the printery was relinquished in 1988, and since then a small group of women have contributed their unpaid labour to maintain Sybylla's publishing venture.</p>
+<p>In the context of increasing concentration of media ownership in Australia, Sybylla is committed to independently owned, alternative publishing. Although Sybylla continues to publish unique pieces of fiction and non-fiction, the titles from its early years still speak to the current cultural, political and social landscape, and many have seeped their way into the Australian cult canon. In the 1990s Sybylla has established a working relationship with Spinifex press, another Melbourne based feminist publisher. Sybylla and Spinifex work together in the areas of distribution and cross-promotion.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0092b.htm">
+<relationEntry localType="Corporate Body">
+Spinifex Press (1990 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-604986">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sybylla Press', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sybylla Press</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0091b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000068.htm">
+<relationEntry localType="archival">Sybylla Feminist Press Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Sybylla Feminist Press Records</unittitle>
+<unitid>MS 13197</unitid>
+<unitdate>1976 - 1992</unitdate>
+<abstract>Records, comprising financial records such as wage books and tax documents; job sheets, log books, an accident book, stock takes, minutes, correspondence, funding submissions, ephemera and manuscripts of some Sybylla publications; also material concerning the ASIO surveillance of David Morris, ca. 1930-ca. 1950.</abstract>
+<physdesc>
+<extent>5.61 m, 33 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

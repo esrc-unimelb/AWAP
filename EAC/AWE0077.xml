@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0077</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0077b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sexual Health and Family Planning Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Family Planning Association</part>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>Sexual Health and Family Planning Australia  is the representative national body for eight, independent Australian state family planning organisations which deliver the Australian Family Planning Program. At national and international levels a key objective of all Australian Family Planning Organisations is to promote safe sex practices, health and well being and protective behaviours in order to empower people to make informed choices for themselves.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0042b.htm">
+<relationEntry localType="Person">
+Coleman, Marie Yvonne
+</relationEntry>
+<descriptiveNote>
+<p>Marie Coleman was a committee member of the planning group which established FPA Vic.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0805b.htm">
+<relationEntry localType="Person">
+Greenwood, Irene Adelaide (1898 - 1992)
+</relationEntry>
+<descriptiveNote>
+<p>Foundation member</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1137b.htm">
+<relationEntry localType="Person">
+Wilhelm, Eileen Vimy (1919 - 2004)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960s</fromDate>
+<toDate standardDate="1970-12-31">1970s</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Vim Wilhelm was President and CEO of the NSW Branch of the Family Planning Association in the 1960s and earl 1970s</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0101b.htm">
+<relationEntry localType="Person">
+Vick, Lesley Helen (1945 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0101b.htm">
+<relationEntry localType="Person">
+Vick, Lesley Helen (1945 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-769079">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sexual Health and Family Planning Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sexual Health and Family Planning Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0077b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

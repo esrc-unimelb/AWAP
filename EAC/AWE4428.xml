@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4428</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-01-12">2010-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4428b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">RoadKnight</part>
+<part localType="givenname">Margret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-07-01">July 1943</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Folk singer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margret RoadKnight was an activist in the women's liberation movement in Australia during the 1970s. She began her singing career in Melbourne in 1963. In 1973 she supported a women's liberation initiative, the She Concerts, which were held in Sydney and Melbourne. She was well-known for her song 'Girls in Our Town' which was one of the first songs to explore the isolation of young Australian married women living in suburbia. She has performed solo and in collaboration with many local and overseas performers, singing jazz, blues, folk, gospel and songs raising issues of social justice, both in Australia and overseas.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-551814">
+<relationEntry>
+RoadKnight, Margret (19430701-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'RoadKnight, Margret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">RoadKnight, Margret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4428b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000001.htm">
+<relationEntry localType="published">Edited Book: Australian Feminism: A Companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Caine, Barbara</name>
+<title render="italic">Australian Feminism: A Companion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002385.htm">
+<relationEntry localType="archival">Interview with Margret RoadKnight, musician [sound recording] / interviewed by Peter Parkhill</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Oral History and Folklore Collection</repository>
+<unittitle>Interview with Margret RoadKnight, musician [sound recording] / interviewed by Peter Parkhill</unittitle>
+<unitid>ORAL TRC 4566</unitid>
+<abstract> 2000.
+4 digital audio tapes (ca. 260 min.
+
+RoadKnight speaks of her current projects such as teaching for Musica Viva, producing a programme called Out of Africa relating to the spread of African music, producing an ABC programme on gospel music, her experiences in performing, how her musical tastes developed while still at school, the folk music scene in Melbourne in 1962, the politics of the folk scene, her first regular gig at the Reata while working in the public service, coffee lounges in the 1960s and the other competition, the folk scene in Sydney, putting on her own concert and recording an album which won awards, singing with Frank Traynor's band and Bentley's Boogie Band, an Australia Council music study grant to visit the United States in 1974, her trip to China including an invitation to the Peking Conservatorium, her trip to a festival in Tonga as well as visit to South Korea, her interest in African music, her recording career and public exposure, her role as a singer in Australian society and the relevance of songs.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette tapes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0013</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0013b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Breen</part>
+<part localType="givenname">Marie Freda</part>
+<part localType="honorific title">Dame, DBE, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Chamberlin, Marie</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1902-11-03">3 November 1902</fromDate>
+<toDate standardDate="1928-12-12">12 December 1928</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-11-03">3 November 1902</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>St Kilda, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Brighton, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dame Marie Breen was a Federal Senator for Victoria for the Liberal Party from July 1962 to June 1968 (retired).</abstract>
+<p>Marie Chamberlin was the daughter of Frederick William and Jeanne (née Conquest) Chamberlin, and was educated at St Michael's Church England Girls' Grammar School (St Kilda). She married Robert Breen on 12 December 1928. They had three daughters, one of whom, Jeannette Patrick, was the Liberal Member for Brighton, 1976-1985 and Parliamentary Secretary of the Liberal Party, 1979-82.</p>
+<p>Marie Breen was a Federal Senator for Victoria for the Liberal Party from July 1962 to June 1968 (retired). Breen's community-based work included her membership of the Victorian Family Council, 1958-78; the Victorian Association of Citizens Advice Bureaux, 1970-1978; and the Marriage Guidance Council of Victoria (later Relationships Australia), 1957-1971. Breen was appointed as Dames Commander of the Order of the British Empire on 16 June 1979 for service to the community. She had earlier been appointed an Officer of the British Empire, on 1 January 1958, for her work in the role of State President of the National Council of Women (Victoria).</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1206b.htm">
+<relationEntry localType="Person">
+Patrick, Jeannette Tweeddale (1929 - 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0067b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Australia (1931 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+<descriptiveNote>
+<p>President of the National Council of Women of Victoria Inc.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0807b.htm">
+<relationEntry localType="Corporate Body">
+Liberal Party of Australia Federal Women's Committee (1945 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1952-01-01">1952</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728056">
+<relationEntry>
+Breen, Marie Freda (1902-1993)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Breen, Marie Freda', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Breen, Marie Freda</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0013b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000147.htm">
+<relationEntry localType="published">Edited Book: Who's Who of Australian Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lofthouse, Andrea</name>
+<title render="italic">Who's Who of Australian Women</title>
+<imprint>
+<place>North Ryde (NSW)</place>
+<publisher>Methuen Australia</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000815.htm">
+<relationEntry localType="archival">Interview with Dame Marie Freda Breen (sound recording), interviewer: Bernadette Schedvin].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Interview with Dame Marie Freda Breen (sound recording), interviewer: Bernadette Schedvin].</unittitle>
+<unitid>ORAL TRC 4900/8</unitid>
+<unitdate>18 June 1983</unitdate>
+<abstract>3 cassettes, 156 minutes. Dame Marie Breen speaks about her family background and experiences; her interest in politics; the councils and committees she worked on; her entry into politics; her Senate experience; recollections of colleages in the Senate; her activities since leaving the Senate: UNICEF, Victorian Family Council and Citizens' Advice Bureau; the prospects ahead.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000813.htm">
+<relationEntry localType="archival">Interview with Dame Marie Freda Breen, politician and Senator for Victoria in the Federal Parliament, 1962-1968 (sound recording), interviewer: Amy McGrath.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Interview with Dame Marie Freda Breen, politician and Senator for Victoria in the Federal Parliament, 1962-1968 (sound recording), interviewer: Amy McGrath.</unittitle>
+<unitid>ORAL TRC 816</unitid>
+<unitdate>27 August 1980</unitdate>
+<abstract>1 sound cassette, 90 minutes. Dame Marie Breen speaks about her family origins; her school days; her political career; National Council for Women; the Citizens' Advice Bureau; Marriage Guidance Council; her pre-selection for the Senate; the Committees she served on; impressions of other Women Senators; the Victorian Liberal Party; the Australian Asian Association; women today.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

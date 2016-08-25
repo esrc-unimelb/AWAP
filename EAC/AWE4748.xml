@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4748</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-05-06">2011-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4748b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Brown</part>
+<part localType="givenname">Amanda</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Middle Swan, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Photo journalist</term>
+</occupation>
+<occupation>
+<term>Printmaker</term>
+</occupation>
+<occupation>
+<term>Social activist</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Amanda brown was born in Middle Swan in 1956, and brought up in a European Jewish and irish Heritage. She studied Photomedia Design at the Central Institute of Technology in Perth, Western Australia.</abstract>
+<p>Over the years, Amanada has observed and documented in images the Australian and international social, political and industrial landscape. Her photojournalism has been informed by a commitment to advocacy for social justice for indigenous and working people, both here and in the United States.</p>
+<p>In 1988, Amanda travelled from Perth with indigenous Australians and documented their journey in the Anti- Bicentennial march in Sydney. This march highlighted issues such as deaths in custody and the effects of colonisation on the indigenous Australian population.</p>
+<p>In 1998, she documented the waterfront dispute by wharfies striking against Patrick's Stevedores at Fremantle<br />
+wharf, Western Australia.</p>
+<p>In 2000, travelled to America and spent time with Native Americans in remote areas photographing the people and the landscape. This is an ongoing project that has also included documentation of journeys therough American small towns of Greyhound buses. In 2000 she instigated a town bus service for the city of Gallup, New Mexico.</p>
+<p>Her advocacy has included work on behlaf of incarcerated Native Americans, writing letters of support for parole and prison visits. She has spent time at the communities of Kaltukatjara (Docker River) in the Northern Territory in 2008 and Pukatja (Ernabella) in South Australia in 2010 as a community worker. These opportunities have enabled a personal insight and knowledge into indigenous remote Australian culture.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1514321">
+<relationEntry>
+Brown, Amanda (1956-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Brown, Amanda', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Brown, Amanda</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4748b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004917.htm">
+<relationEntry localType="published">Resource: Ten Years Invisibility</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Ten Years Invisibility</title>
+<imprint>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.pica.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004916.htm">
+<relationEntry localType="published">Resource: Picture This</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Art Gallery of Western Australia</name>
+<title render="italic">Picture This</title>
+<imprint>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://artgallery.wa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004915.htm">
+<relationEntry localType="published">Resource: Out of Site: Industrial, Breadbox Gallery, Artrage,</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Out of Site: Industrial, Breadbox Gallery, Artrage,</title>
+<imprint>
+<publisher>Artrage</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.artrage.com.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004914.htm">
+<relationEntry localType="published">Resource: Bienala Intercontinentala De Grafica Mica</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Muzeul De Istorie, Aiud, Romania</name>
+<title render="italic">Bienala Intercontinentala De Grafica Mica</title>
+<imprint>
+<publisher>Muzeul De Istorie, Aiud, Romania,</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aiud-art.ro"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004913.htm">
+<relationEntry localType="published">Resource: Photos including: Wild it was Beautiful, Solo, Skyetching</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">City of Fremantle Festival of Photography</name>
+<title render="italic">Photos including: Wild it was Beautiful, Solo, Skyetching</title>
+<imprint>
+<publisher>FreeFoto</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.fotofreo.com/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004912.htm">
+<relationEntry localType="published">Resource: 100 days of active Resistance</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vivian Westwood + Lee</name>
+<title render="italic">100 days of active Resistance</title>
+<imprint>
+<publisher>Vivian Westwood + Lee</publisher>
+</imprint>
+<extptr linktype="simple" href="http://ar100days.com"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

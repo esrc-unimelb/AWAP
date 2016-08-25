@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0461</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-03-25">2003-03-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0461b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Darling</part>
+<part localType="givenname">Janet Patteson</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Gunther, Janet Patteson</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-08-31">31 August 1913</fromDate>
+<toDate standardDate="2007-12-31">2007</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Casino, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A nursing sister serving with the 2/10th Australian General Hospital, Pat Gunther (later Darling) was one of the Australian nurses taken prisoner by the Japanese in Sumatra during World War II. She writes about her three and a half years incarceration and survival in <span style="font-style:italic">Portrait of a Nurse</span> published in 2001.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0407b.htm">
+<relationEntry localType="Corporate Body">
+Sydney &amp; Metropolitan Ex-Prisoners of War Welfare Association (1999 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0569b.htm">
+<relationEntry localType="Cultural Artefact">
+Australian Ex-Prisoners of War Memorial
+</relationEntry>
+<dateRange>
+<toDate standardDate="1947-02-04">4 February 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: NFX70493</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1947-02-04">4 February 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: NFX70493</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766097">
+<relationEntry>
+Darling, Janet Patteson (1913-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Darling, Janet Patteson (Pat)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Darling, Janet Patteson (Pat)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0461b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001845.htm">
+<relationEntry localType="published">Book: Portrait of a nurse : prisoner of war of the Japanese 1942-1945 Sumatra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Darling, Pat</name>
+<title render="italic">Portrait of a nurse : prisoner of war of the Japanese 1942-1945 Sumatra</title>
+<imprint>
+<place>Mona Vale, NSW</place>
+<publisher>Don Wall</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001920.htm">
+<relationEntry localType="published">Newspaper Article: A poppy for the one who died in her place (in World War II)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A poppy for the one who died in her place (in World War II)</title>
+<imprint>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+<num type="pages">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001919.htm">
+<relationEntry localType="published">Newspaper Article: Horrors hidden for 53 years. After half a century of silence, Pat Darling, one of 13 nurses who survived internment in Sumatra, talked to Cassandra Jardine about life and death in a Japanese POW camp.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jardine, Cassandra</name>
+<title render="quoted">Horrors hidden for 53 years. After half a century of silence, Pat Darling, one of 13 nurses who survived internment in Sumatra, talked to Cassandra Jardine about life and death in a Japanese POW camp.</title>
+<imprint>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">Sun-Herald</title>
+<num type="pages">49</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001884.htm">
+<relationEntry localType="published">Resource Section: GUNTHER, JANET PATTESON</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">GUNTHER, JANET PATTESON</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=182691"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001921.htm">
+<relationEntry localType="published">Newspaper Article: Nurses revisit war hell (Bangka Island, Singapore)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Warnock, Steve and Chapman, Barry (Photographer)</name>
+<title render="quoted">Nurses revisit war hell (Bangka Island, Singapore)</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Sun-Herald</title>
+<num type="pages">5</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001846.htm">
+<relationEntry localType="published">Resource: Brave Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Angell, Barb</name>
+<title render="italic">Brave Women</title>
+<extptr linktype="simple" href="http://www.angellpro.com.au/women.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000923.htm">
+<relationEntry localType="archival">Darling, Janet Patterson 'Pat' (Sister)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Darling, Janet Patterson 'Pat' (Sister)</unittitle>
+<unitid>PR01989</unitid>
+<abstract>1. Manuscript titled "Eastern Interlude"(98 pages) written by Janet 'Pat' Darling: autobiographical account of nursing and POW (Japanese) experiences in Second World War. 2. Published book: "Portrait of a Nurse: Prisoner of War of the Japanese 1942-1945, Sumatra" by Pat Darling (nee Gunther), MID - signed by author.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>manuscript, Publications</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000922.htm">
+<relationEntry localType="archival">Gunther, J Pat (Nursing Sister)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Gunther, J Pat (Nursing Sister)</unittitle>
+<unitid>PR90/019</unitid>
+<unitdate>1939 - 1945</unitdate>
+<abstract>Letter to Pat Gunther while a POW at Palembang, Sumatra. Refers to communications from Sister Gunther and current news of two men. Newspaper photograph after release from captivity</abstract>
+<physdesc>
+<extent>2 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000924.htm">
+<relationEntry localType="archival">Dutch silver jam spoon : Sister P Gunther, 2/10 Australian General Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Dutch silver jam spoon : Sister P Gunther, 2/10 Australian General Hospital</unittitle>
+<unitid>REL28267</unitid>
+<abstract>Associated with Sister Pat Gunther, 2/10 Australian General Hospital, who served in Malaya and Singapore. She was captured by the Japanese when they sunk the SS Vyner Brooke, the ship on which she was being evacuated, near Banka Island, in February 1942. The spoon came from a Dutch residence where she was initially held with other nurses for ten days. She retained the spoon throughout the rest of her captivity at Palembang in Sumatra.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000846.htm">
+<relationEntry localType="archival">Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</unittitle>
+<unitid>P01701.003</unitid>
+<unitdate>18 October 1945</unitdate>
+<abstract>Fremantle, WA. 18 October 1945. Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs), aboard the hospital ship <span style="font-style:italic">Manunda</span> on its arrival. Most of the nurses were staff members of the 2/10th and 2/13th Australian General Hospital (2/10AGH and 2/13AGH) and the 2/4th Casualty Clearing Station (2/4CCS) who have returned from Malaya. Known to be in the photograph are: Christien 'Chris' Oxley, Jean 'Jennie' Greer, Beryl 'Woodie' Woodbridge, Florence 'Trot' Trotter, Eileen 'Shortie' Short, Jessie Blanch, Valerie Smith, Violet McElnea, Betty 'Jeff' Jeffrey, Nesta James, Pat Blake, Janet P. 'Pat' Gunther, Jess Doyle, Cecilia E. M. 'Del' Delforce, Iole Harper, Sylvia Muir, Joyce 'Tweedie' Tweddell, V. Haig, Wilma Oram, Jean Ashton, Jessie Simons, Ada C. 'Mickey' Syer and Veronica R. Clancy. The woman in the centre wearing the dress uniform and hat is Colonel Annie M. Sage, Matron-in-Chief of the AANS. The woman in the foreground, standing behind the two seated nurses on the right, is Captain E. Mavis Hannah (later Allgrove) and the tall woman third from the right holding flowers is Vivian Bullwinkel. A number of the nurses are holding bouquets of flowers that have been sent by their families. Many of these nurses became prisoners of war (POWs) when they were captured by the Japanese after the fall of Singapore in February 1942 and survived captivity. Bullwinkel survived the massacre of 21 nurses on Radji Beach, Banka Island on 16 February 1942. (Donor: E.M. Allgrove)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00130.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial Nurses</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial Nurses</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00129.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

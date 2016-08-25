@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1071</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-21">2004-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1071b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Archer</part>
+<part localType="givenname">Caroline Lillian</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1922-01-01">1922</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cherbourg, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Narrabri, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Caroline Archer was born in 1922 and is best known for her leadership in the 1970s of the One People of Australian League (OPAL), an organisation that sought to promote the interests of Aborignal people. She was appointed executive officer of OPAL in 1972, becoming the first Aboriginal person to hold the position.</abstract>
+<p>Caroline Archer was born at Cherbourg Aboriginal Reserve, where she received poor education and suffered from malnutrition. After working as a domestic servant at 'Whetstone' station near Inglewood, she moved to Brisbane, working first in a private home and then at the Canberra Hotel (1935-49), where she learnt to operate the switchboard. In 1950 she was employed as a PMG switchboard operator. On 29 December 1951 she married Fredrick Archer, a photographer; they had two daughters and a son. She opened an Aboriginal art shop, where she gave training to Aboriginal women.</p>
+<p>In 1972 she was asked to run the Miss OPAL quest and was subsequently appointed the first Aboriginal executive officer of OPAL (the One People of Australia League). As State president of OPAL she travelled interstate to federal conferences and to lobby politicians. She was also nominated for election to the National Aboriginal Consultative Committee but failed to win election.</p>
+<p>Caroline spent much of her time teaching Aboriginal culture to children all over Queensland and in Canberra. She died at Narrabri on her way back to Brisbane on 8 September 1978.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0090b.htm">
+<relationEntry localType="Corporate Body">
+One People of Australia League (1961 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1978-12-31">1978?</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775056">
+<relationEntry>
+Archer, Caroline Lillian (1922-1979)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Archer, Caroline Lillian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Archer, Caroline Lillian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1071b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100240.htm">
+<relationEntry localType="published">Resource Section: Archer, Caroline Lillian (1922-1978)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ballard,B. A.</name>
+<title render="quoted">Archer, Caroline Lillian (1922-1978)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A130077b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003280.htm">
+<relationEntry localType="published">Newspaper Article: My people - my life's work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Archer, Caroline</name>
+<title render="quoted">My people - my life's work</title>
+<imprint>
+<date>1978</date>
+</imprint>
+<bibseries>
+<title render="italic">Aboriginal News</title>
+<num type="volume">3</num>
+<num type="issue">4</num>
+<num type="pages">12,19</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003279.htm">
+<relationEntry localType="published">Newsletter: Death of two OPAL workers [Joyce Wilding and Caroline Archer of One People of Australia League]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Death of two OPAL workers [Joyce Wilding and Caroline Archer of One People of Australia League]</title>
+<imprint>
+<place>Queensland</place>
+<date>1979</date>
+</imprint>
+<bibseries>
+<title render="italic">Aboriginal and Islanders Advancement News</title>
+<num type="volume">4</num>
+<num type="issue">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001831.htm">
+<relationEntry localType="archival">Newspaper Clippings Relating to Caroline Archer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Newspaper Clippings Relating to Caroline Archer</unittitle>
+<unitid>AIAS MF 268</unitid>
+<unitdate>1973 - 1975</unitdate>
+<abstract>Microform copies of nespaper clippings relating to the life of Caroline Archer.
+1. 'She's first in Top Job', <span style="font-style:italic">Courier Mail</span>, January 30th, 1973
+2. 'A picture of a Mum',  <span style="font-style:italic">Courier Mail</span>, January 31st, 1973
+3. 'Australia neglects history', <span style="font-style:italic">Express</span>, February 19th, 1975</abstract>
+<physdesc>
+<extent>3 newspaper clippings</extent>
+<physfacet>Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

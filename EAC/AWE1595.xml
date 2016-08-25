@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1595</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-13">2005-12-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1595b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hatfield</part>
+<part localType="givenname">Bronia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Goldstein, Bronia</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+<occupation>
+<term>Psychiatrist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Bronia Hatfield is a highly qualified medical practitioner. She first stood as a Natural Law Party candidate in the House of Representatives elections for Sydney in 1993 and then again as a Natural Law Party candidate in the New South Wales Legislative Assembly elections for Bligh in 1999. Both times she was not elected.</abstract>
+<p>When she ran for election, Bronia Hatfield was a well known psychiatrist and an outstanding linguist. She has lived, studied, worked and taught on five continents in eleven languages.</p>
+<p>Bronia Hatfield became a registered medical practitioner in NSW in 1954, before working as a resident medical officer at Griffith Base Hospital. In 1954-55 she worked at the Royal Alexandra Hospital for Children, Camperdown, and from 1958 she was a member of the School Medical Service.</p>
+<p>Apart from her medical degrees from both Vienna (MD 1949) and Sydney (MB, BS, 1954), she has a Diploma in Psychological Medicine from the Royal College of Physicians, England (1969), and the Royal College of Surgeons, England. She is a Fellow of the Royal Australian and New Zealand College of Psychiatrists (1971), and a Member of the Royal College of Psychiatrists, London (1972). She is a life member of the Institute of Community Psychiatry and Mental Health, Bombay (1985). She is a member of the International College of Psychosomatic Medicine (1985) and a member of the International Society for Neuroimmunomodulation (ISNIM) (1989).</p>
+<p>From 1983, Hatfield was a visiting professor to M.I. University, USA. She has been President of the Centre for Research into Spiritual Development Inc in Sydney. For many years she attended and spoke at international conferences and world congresses on Psychiatry, Meditation and World Peace, including the State of the World Forum in San Francisco.</p>
+<p>Hatfield has been passionate about world peace from childhood and, being a Holocaust Survivor, the only one from her immediate and vast extended family, she experienced the injustice people can inflict upon others early in life. Her life experience prompted her to become a committed peace activist. She has held international conferences in Yalta, Tel Aviv, the USA, London and Paris. She attended as an active participant a score of other international peace events.</p>
+<p>Hatfield founded a Drop in Centre for Holocaust Survivors in Sydney.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-735066">
+<relationEntry>
+Hatfield, Bronia
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hatfield, Bronia (Bronislawa)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hatfield, Bronia (Bronislawa)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1595b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

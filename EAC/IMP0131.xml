@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0131</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-02">2002-10-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0131b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Isbister</part>
+<part localType="givenname">Jean Sinclair</part>
+<part localType="honorific title">OBE, CBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Paton, Jean Sinclair</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1915-09-12">12 September 1915</fromDate>
+<toDate standardDate="1940-07-05">5 July 1940</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-09-12">12 September 1915</fromDate>
+<toDate standardDate="2008-08-20">20 August 2008</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Paediatrician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Sinclair Isbister (known as Clair) was a consultant paediatrician at the Royal North Shore Hospital, New South Wales, from 1949 and published many books on motherhood under the name Clair Isbister. She was appointed to The Order of the British Empire - Officer (Civil) on 1 January 1969 for services to medicine.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1969-01-01">1969</fromDate>
+<toDate standardDate="1969-12-31">1969</toDate>
+</dateRange>
+<event>OBE - For services to mothers and babies</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+<event>CBE - For services to medicine</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-596093">
+<relationEntry>
+Isbister, Clair (1915-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Isbister, Jean Sinclair (Clair)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Isbister, Jean Sinclair (Clair)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0131b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004814.htm">
+<relationEntry localType="published">Resource: Dr Clair Isbister</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Verbatim</name>
+<title render="italic">Dr Clair Isbister</title>
+<imprint>
+<publisher>ABC Radio National</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/verbatim/stories/2005/1529980.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004813.htm">
+<relationEntry localType="published">Resource: Dr Clair Isbister</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Verbatim</name>
+<title render="italic">Dr Clair Isbister</title>
+<imprint>
+<publisher>ABC Radio National</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/verbatim/stories/2008/2347839.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004812.htm">
+<relationEntry localType="published">Article: Obituary: Dr Clair Isbister (12.9.1915 - 20.8.2008)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary: Dr Clair Isbister (12.9.1915 - 20.8.2008)</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Family Association</title>
+<num type="volume">23</num>
+<num type="issue">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.family.org.au/index.php?option=com_content&amp;view=article&amp;Itemid=94&amp;id=141"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004811.htm">
+<relationEntry localType="published">Article: Fount of knowledge on mothercraft</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stephens, Tony</name>
+<title render="quoted">Fount of knowledge on mothercraft</title>
+<imprint>
+<publisher>John Fairfax</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/news/obituaries/fount-of-knowledge-on-mothercraft/2008/08/25/1219516365699.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000881.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1968</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Legge, J S</name>
+<title render="italic">Who's Who in Australia 1968</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000478.htm">
+<relationEntry localType="archival">Biographical cuttings on Clair Isbister</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Clair Isbister</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR02662.htm">
+<relationEntry localType="archival">[Conversation with Clair Isbister]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Reading Room</repository>
+<unittitle>[Conversation with Clair Isbister]</unittitle>
+<unitid>ORAL DeB 861</unitid>
+<unitdate>1920 - 1975</unitdate>
+<abstract>Oral history recording with Hazel de Berg 30 December 1975, c60 minutes, 12 page transcript [DeB 861].</abstract>
+<physdesc>
+<extent>1 reel</extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

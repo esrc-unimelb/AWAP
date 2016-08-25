@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0076</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0076b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Reproductive Health Alliance</part>
+<part localType="parent">Australian Reproductive Health Foundation</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>PO Box 3937
+Weston Creek ACT 2611
+Telephone (02) 6287 4422
+Fax (02) 6287 3532
+email: arha@arha.org.au</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>The Australian Reproductive Health Alliance worked for the improvement in the well-being and status of women and the development of reproductive health. ARHA promoted knowledge, education and research relating to the development of family planning and other reproductive health services, paying particular attention to the needs of indigenous people, both within Australia and internationally. It ceased operation on 30 September 2011.</abstract>
+<p>The establishment of ARHA and ARHF followed from the <span style="font-style:italic">UN Conference on Population and Development </span>held in Cairo in 1994. The outcomes of this conference included a shift from a purely demographic focus for the UN's population programs to a woman-centred approach, recognising the rights of all women to access quality reproductive and sexual health services.</p>
+<p>The importance of education for women and girls was also recognised as was access to good maternal and child health services. ARHA aimed through public education and advocacy to ensure that Australia met its obligations as per the Cairo agreement. It acted as the secretariat for the All Party Parliamentary Group on Population and Development. Similar groups exist in Europe and the UK and have been extremely successful in keeping population and related issues on the public agenda.</p>
+<p>The ARHA mission statement was:</p>
+<list><item>To promote public support, both within Australia and internationally, for improvement in the well-being and status of women and the development of reproductive health in families and individuals by means including<list><item>the production of educational materials</item>
+<item>the organisation of seminars and workshops</item>
+<item>the preparation of briefing materials for members of the press</item>
+<item>networking with parliamentarians, government departments and other interested parties as requires</item>
+<item>the support and promotion of alliances of opinion makers with comparable aims and objectives.</item></list></item>
+<item>To promote knowledge, education and research relating to the development of family planning and other reproductive health services, paying particular attention to the needs of indigenous people, both within Australian and internationally.</item>
+<item>Where appropriate, to identify and support reproductive health, and enhance the status of women and girls, either working independently or with partner organisations.</item>
+<item>To promote, maintain and extend the interest of ARHA members in a broad range of issues concerning reproductive health and its role in development.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0042b.htm">
+<relationEntry localType="Person">
+Coleman, Marie Yvonne
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0042b.htm">
+<relationEntry localType="Person">
+Coleman, Marie Yvonne
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0101b.htm">
+<relationEntry localType="Person">
+Vick, Lesley Helen (1945 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477304">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Reproductive Health Alliance', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Reproductive Health Alliance</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0076b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

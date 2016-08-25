@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00124</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-18">2010-03-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Cath Styles</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00124b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Banner</part>
+<part localType="givenname">Esma Mavis</part>
+<part localType="honorific title">International Refugee Organization service medallion</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">28 July 1910</fromDate>
+<toDate standardDate="2001-06-30">30 June 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Refugee support worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Esma Banner worked in Europe for the United Nations Relief and Rehabilitation Administration (UNRRA) as an employment officer (c. 1945-50) and a welfare officer in a displaced persons camp (c. 1950-51).</abstract>
+<p>Esma Banner left school at fourteen to look after her sick mother. She attended a business college for one year in 1926. She then found a position as a shorthandwriter and typist for a business and moved quickly through the ranks to the position of secretary to the Director. She worked there for thirteen years. When her mother died in 1940 she worked with her father in his haulage business as well as for a Sydney solicitor.</p>
+<p>Esma Banner started work with United Nations Relief and RehabilitationAdministration (UNRRA) in 1944 in its Sydney office. From 15th to2 0th February she attended the 7th meeting of the Committee of the Council for the Far East at Lapstone Hotel, Glenbrook, NSW. She then worked in the Melbourne office of UNRRA for a period of three months. Whilst there she was selected to work in Germany with the International Refugee Organisation (IRO) and left Sydney for London on 28 June 1945. Her position as Area Employment Officer involved travel to places such as Munich, Nellingen, Ludwigsburg, Pforzbeim and Traunstein. Her final position in Germany was in a Displaced Persons' Camp in Pforzheim.</p>
+<p>She returned to Australia in 1951. A few years later Ms Banner applied to the University of Sydney for a Diploma Course in Social Work and was accepted. On completion of her course she worked for the Department of Social Security for eighteen years at which point she retired.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477505">
+<relationEntry>
+Banner, Esma Mavis (1910-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Banner, Esma Mavis', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Banner, Esma Mavis</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00124b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00125.htm">
+<relationEntry localType="archival">Records kept by Esma Banner</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Sydney Office</repository>
+<unittitle>Records kept by Esma Banner</unittitle>
+<unitid>CP 585</unitid>
+<unitdate>1947 - 1950</unitdate>
+<abstract>In her work with the United Nations Relief and Rehabilitation Administration (UNRRA) and the International Refugee Organisation, Esma Banner kept various records including photographs, minutes of meetings, newspaper articles, printed booklets, work reports, policy material, speakers' notes and a wartime log. These records are in three series in the National Archives of Australia.</abstract>
+<physdesc>
+<extent>0.720000028610229 m</extent>
+<physfacet>photographs, newspaper articles, printed booklets, paper documents</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

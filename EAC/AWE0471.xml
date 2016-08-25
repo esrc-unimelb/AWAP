@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0471</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-04-01">2003-04-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0471b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cheers</part>
+<part localType="givenname">Joanne</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jo Cheers served with 10 Force Support Battalion in East Timor and was posted to Sydney early in 2002. She was presented with a  Meritorious Unit Citation in the 2002 Australia Day Honours list (for sustained outstanding service in the provision of logistic support to warlike operations in East Timor) by the Commanding Officer of her present unit in the presence of military and civilian members of the unit.</abstract>
+<h4>Meritorious Unit Citation</h4>
+<p>'<span style="font-style:italic">Warrant Officer Class Two Joanne Cheers</span></p>
+<p>We extend our very sincere congratulations to Jo Cheers on receipt of the Insignia of the Meritorious Unit Citation earned for her service with the 10th Force Support Battalion during warlike operations in East Timor.</p>
+<p>The 10th Force Support Battalion (10 FSB) was awarded the Meritorious Unit Citation in the 2002 Australia Day Honours list for sustained outstanding service in the provision of logistic support to warlike operations in East Timor. 10 FSB became the Army's first logistics Unit to be awarded the highly prestigious citation and is only the second unit in the Army to receive the citation.</p>
+<p>The Governor of Queensland, Major General Peter Arnison awarded the Citation during a parade at Lavarack Barracks on Saturday 13 April 2002, and members representing units of 10 FSB were presented with the Citation. A group of former members of 10 FSB were also on parade to receive the Citation and eligible former members not present on 13 April 2002 were presented with the Citation by their respective Commanding Officers.</p>
+<p>Jo Cheers served with 10 FSB in East Timor and was posted to Sydney early in 2002. She was presented with her Award by the Commanding Officer of her present unit in the presence of military and civilian members of the unit.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0421b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps Association (NSW Branch) (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477305">
+<relationEntry>
+Cheers, Joanne
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cheers, Joanne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cheers, Joanne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0471b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

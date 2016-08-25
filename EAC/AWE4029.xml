@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4029</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-28">2009-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4029b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Breuer</part>
+<part localType="givenname">Lyn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Lecturer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Australian Labor Party, Lyn Breuer was elected as the Member for Giles in the House of Assembly of the Parliament of South Australia at the election, which was held on 11 October 1997. She was re-elected in 2002, 2006 and 2010.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728058">
+<relationEntry>
+Breuer, Lyn
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Breuer, Lyn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Breuer, Lyn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4029b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002229.htm">
+<relationEntry localType="archival">Interview with Lyn Breuer [sound recording] Interviewer: Allison Murchie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Interview with Lyn Breuer [sound recording] Interviewer: Allison Murchie</unittitle>
+<unitid>Oh 576/13</unitid>
+<unitdate>2000</unitdate>
+<abstract>5 hours (approx. to date) Lyn Breuer talks about her happy childhood, father working for BHP in Whyalla, involvement in theatre, attending South School, men landing on the moon in 1969, working class culture, father's death at 57. Tape 2. Whyalla South Primary School, Whyalla High School, being a prefect, first boyfriend was Graham Jose - later an Olympic cyclist, getting married at 24. Tape 3. Leaving school, job offers, moving to Adelaide, moratorium marches, starting at Flinders University, left in first year, working in the Department of Taxation, married in 1971, having two children, divorced after 18 years. Tape 4. Working at the CES after the birth of her son, job at TAFE to get young women into non-traditional areas and women returning to work after having children, at TAFE from 1989 to 1997, coordinator of the Women's Studies Programme at TAFE, children were 2 and 10 when her husband left, at 40 years of age nominated for local council, elected to Whyalla Council and was there for 8 to 9 years, satisfying work, became Deputy Mayor after three years, 1994 conference Women, Power and Politics, stood for pre selection when Frank Blevins retired. Tape 5. Campaigning in the two years up to the 1997 election, women in politics, media, stand on refugees, Woomera Camp, Baxter camp, treatment of children, attitude of community towards refugees, 1997 election, gained over 50% of the vote on election night, election to the National Executive of the ALP, factions dominate the Labor Party. 'More Working Women' series</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

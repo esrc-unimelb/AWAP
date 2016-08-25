@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0488</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-05-09">2003-05-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0488b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Savage</part>
+<part localType="givenname">Eleanor</part>
+<part localType="honorific title">GM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-10-17">17 October 1912</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Quirindi, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>For lifesaving after the ship <span style="font-style:italic">Centaur</span> was attacked by a Japanese submarine, Lieutenant Ellen Savage was awarded the George Medal on 22 August 1944.</abstract>
+<p>Ellen Savage joined the Australian Army on 18 November 1941. She was one of 12 nurses posted to the hospital ship <span style="font-style:italic">Centaur.</span> At dawn on 14 May 1943, while sailing between Sydney and Port Moresby, the ship was torpedoed by a Japanese submarine off the Queensland coast. Only having time to grab a lifejacket, Lieutenant (Lt) Savage jumped into the sea before the ship went down. Managing not to be sucked into the whirlpool, she found a piece of debris to help her stay afloat. She and other survivors drifted until they were able to tie-up with other rafts. During the thirty-four hours that they floated, before being picked up by the US destroyer <span style="font-style:italic">Mugford</span>, Lt Savage attended to the wounded without disclosing the extent of her own injuries.</p>
+<p>For her courage Lt Ellen Savage became the second Australian woman to be awarded the George Medal.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-745052">
+<relationEntry>
+Savage, Ellen (19121017-19850425)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Savage, Eleanor', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Savage, Eleanor</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0488b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001909.htm">
+<relationEntry localType="published">Resource Section: SAVAGE, ELLEN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">SAVAGE, ELLEN</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=186373"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001908.htm">
+<relationEntry localType="published">Resource Section: Sister Ellen Savage GM AANS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">Sister Ellen Savage GM AANS</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The sinking of the <span style="font-style:italic">Centaur</span></title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.dva.gov.au/media/publicat/2003/centaur/ellen.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001923.htm">
+<relationEntry localType="published">Book: Just wanted to be there : Australian Service Nurses 1899-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reid, Richard</name>
+<title render="italic">Just wanted to be there : Australian Service Nurses 1899-1999</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth Department of Veterans' Affairs</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001436.htm">
+<relationEntry localType="published">Book: Twentieth-Century Women of Courage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Escott, Beryl E</name>
+<title render="italic">Twentieth-Century Women of Courage</title>
+<imprint>
+<place>Gloucestershire (UK)</place>
+<publisher>Sutton Publishing</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000892.htm">
+<relationEntry localType="published">Book: Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bassett, Jan</name>
+<title render="italic">Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00054.htm">
+<relationEntry localType="digitalObject">Sister Ellen Savage</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Sister Ellen Savage</unittitle>
+<unitid>044428</unitid>
+<unitdate>May 1943</unitdate>
+<abstract>Sister Ellen Savage, Australian Army Nursing Service (AANS), being interviewed at Greenslopes Army Hospital about 7 or 10 days after her rescue from the hospital ship Centaur.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00055.htm">
+<relationEntry localType="digitalObject">Sister Ellen Savage</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Sister Ellen Savage</unittitle>
+<unitid>ART22196</unitid>
+<unitdate>1943</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

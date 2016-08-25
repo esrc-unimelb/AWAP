@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00056</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Kathleen Bambridge</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00056b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St Peters Women's Community Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Women's Community Centre</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1972-03-08">8 March 1972</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>St Peters, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>64 Nelson Street, Stepney 5069 South Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Feminist organisation</term>
+</function>
+<function>
+<term>Community organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St Peters Women's Community Centre was established in 1977 and provides a meeting place for the women of the St Peters/Norwood area of Adelaide. The Centre offers childcare and courses for women including fitness self defence, crafts, yoga, maintenance. It also has a strong volunteer program offering women the opportunity to gain new skills before entering the work force.
+
+</abstract>
+<p>St Peters Women's Community Centre was established to provide a venue for the women in the area as part of the International Women's Year Initiative.  A survey of the women were undertaken in the area to demonstrated a need for the Centre. Two and a half years of meeting mostly weekly, saw the women trying to organise the accomodation funding and structure of the centre.  The St Peters Council granted the funding and a building and the women worked to renovate the old house in which the Centre was offically opened in 1977. The Centre offered a meeting place, and a series of cources that would run for a term where child care was provided.  Grants were given for the Arts Grants Advisory Board for the craft courses and Early Childhood Council for the child care worker.  The courses included yoga, self defence, fitness, craft, massage and assertiveness training.  A walking group and free film were also part of the Centre.  The strong volunteer program offers women's work skills to help with paid employment.  In 2007 the Centre was involved in a campaign to preserve the 100 year old cottages they occupy and were sucessful.  Some of the women involved in the Centre over its long history are, Chris Beasley, Mary Nettle,  Sally and Monica O'Wheel, Suzi Jones, Viv Szekeres, Mary McLeod, Myra Betschild, Trish Fairley, Connie Frazer, Bernice Cohen, Sue Hetzel.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00096b.htm">
+<relationEntry localType="Corporate Body">
+Adelaide Women's Liberation Movement Archive  (1984 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477518">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Peters Women's Community Centre', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Peters Women's Community Centre</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00056b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00055.htm">
+<relationEntry localType="archival">St Peters Women's Community Centre</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>St Peters Women's Community Centre</unittitle>
+<unitdate>8 March 1975 - </unitdate>
+<abstract>The St Peters Women's Community Centre was offically opened in 1977 and provides a meeting place for women. The women's services they provide included a term by term program of activities for women. There is also a volunteer program for women to learn new skills as a step to paid employment. </abstract>
+<physdesc>
+<extent>0.800000011920929 m, 30 daybooks and folders</extent>
+<physfacet>Minutes, correspondence, daybooks</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

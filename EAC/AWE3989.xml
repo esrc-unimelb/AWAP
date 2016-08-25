@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3989</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-12">2009-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3989b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Von Puttkamer</part>
+<part localType="givenname">Margarethe Hermine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1856-05-12">12 May 1856</fromDate>
+<toDate standardDate="1933-09-29">29 September 1933</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Oven Goldfields, near Beechworth, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margarethe Von Puttkamer was the first nurse at Broken Hill, New South Wales.</abstract>
+<p>Margarethe Von Puttkamer (or Peg, as she was known to friends) was of German descent. Her father, George Christian Hermann (Baron) Von Puttkamer, was born on the 18th December 1820 in Pomerania, Germany. He was a member of Infantry Regiment No. 9 in Stargard, Pomerania, before serving as a lieutenant in the Schleswig-Holstein Army from 1848 to 1850. Georg migrated to South Australia in 1850 and worked as a labourer and shepherd, and as a gold prospector in Victoria. On 22 July 1851 in Adelaide he married Amalie Catarine Hirdes, who hailed from Kassal, Hessen in Germany and who, like Georg, had travelled to South Australia on the barque <span style="font-style:italic">Sophie</span>.</p>
+<p>Margarethe trained as a nurse in Melbourne before moving to Adelaide, where she was a trainee in 1884. Around 1885, she moved to Broken Hill and became matron of the Broken Hill and District Hospital, working with Emma Burkhill. On 16 May 1889 she married John David Robertson (b.28 May 1854, d.19 April 1926), a compositor for the local paper, the <span style="font-style:italic">Silver Age</span>. She resigned from the Broken Hill Hospital, but opened her own private hospital in Chloride Street.</p>
+<p>John and Margarethe had two children, Amelia Hermine Ethel Robertson (born 15 January 1890) and John 'Jock' David Robertson Junior (born 6 August 1895). Georg Von Puttkamer had died some years earlier - 21 October 1859 - near Blanchetown, South Australia. His wife Amalie lived until 24 October 1910, when she died at Angaston, South Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716083">
+<relationEntry>
+Von Puttkamer, Margarethe Hermine (1856-1933)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Von Puttkamer, Margarethe Hermine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Von Puttkamer, Margarethe Hermine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3989b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004380.htm">
+<relationEntry localType="published">Booklet: The Silver Mirror</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wichert, E.B.</name>
+<title render="italic">The Silver Mirror</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Back to Broken Hill Celebration Committee</publisher>
+<date>1933</date>
+</imprint>
+<bibseries>
+<title render="italic">Official Souvenir of the Back to Broken Hill Jubilee Celebrations</title>
+<name type="author">A.W.B. Orman</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004316.htm">
+<relationEntry localType="published">Book: Some Outstanding Women of Broken Hill and District</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Camilleri, Jenny</name>
+<title render="italic">Some Outstanding Women of Broken Hill and District</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Jenny Camilleri (Broken Hill Historical Society/Broken Hill Council)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004381.htm">
+<relationEntry localType="published">Book: Nursing in South Australia: First Hundred Years, 1837-1937</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Nursing in South Australia: First Hundred Years, 1837-1937</title>
+<edition>2</edition>
+<imprint>
+<place>Adelaide</place>
+<publisher>S.A. Trained Nurses Centenary Committee</publisher>
+<date>1939</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002181.htm">
+<relationEntry localType="archival">Von Puttkamer, Margarethe Hermine (Peg) Baroness</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Outback Archives, Broken Hill City Library</repository>
+<unittitle>Von Puttkamer, Margarethe Hermine (Peg) Baroness</unittitle>
+<unitid>Filing system by name</unitid>
+<abstract>Folder containing articles, photograph, cuttings.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Typescript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0175</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-11-14">2001-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-23">2015-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0175b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gash</part>
+<part localType="givenname">Joanna</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1944-07-21">21 July 1944</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Groningen, Netherlands</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Liberal Party of Australia, Joanna Gash was elected to the House of Representatives of the Parliament of Australia as the Member for Gilmore, New South Wales, in 1996. She was re-elected in 1998, 2001, 2004, 2007 and 2010.</abstract>
+<p>Joanna Gash obtained a Diploma of Tourism and Hospitality from the Institute of Administration (Sydney), and has held positions including Regional Manager, Tourism Commission of NSW (Outer Sydney Region); Director, Southern Highlands Tourism Agency; Consultant, Macarthur Country Tourist Association and Guest house co-proprieter. She is a former Councillor with the Wingecarribee Shire Council where she chaired the Works and Town Planning Committee from 1991 to 1995.</p>
+<p>Gash has also served as president of the NSW Council of Tourist Associations; director of the Restaurant and Caterer's Association of NSW; delegate to the NSW National Parks and Wildlife Advisory Board; delegate to the Women's Consultive Committee; delegate to the Domestic Violence Council, NSW; and Chairman of the Salvation Army Red Shield Appeal. Since entering parliament she has been a member of the House of Representatives Standing Committee on Employment, Education and Training (from 30 May 1996); Chair of the Coalition Defence and Veterans' Affairs Committee; Chair of the Australian Egypt Parliamentary Group and Deputy Chair of the Australian Parliamentary Christian Fellowship.</p>
+<p>Gash has two daughters and enjoys reading, theatre and golf.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-727070">
+<relationEntry>
+Gash, Joanna (1944-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gash, Joanna', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gash, Joanna</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0175b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000362.htm">
+<relationEntry localType="published">Resource Section: Women in the Party</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Liberal Party of Australia NSW Division</name>
+<title render="quoted">Women in the Party</title>
+<extptr linktype="simple" href="http://www.nsw.liberal.org.au/women_in_politics/women_in_politics/women_in_the_party.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000361.htm">
+<relationEntry localType="published">Resource Section: Mrs Joanna Gash MP, Member for Gilmore (NSW)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Parliament House</name>
+<title render="quoted">Mrs Joanna Gash MP, Member for Gilmore (NSW)</title>
+<extptr linktype="simple" href="http://www.aph.gov.au/house/members/biography.asp?id=AK6"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

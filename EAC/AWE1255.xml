@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1255</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-07-27">2005-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1255b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Buchanan</part>
+<part localType="givenname">Cheryl</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cunnamulla, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal rights activist</term>
+</occupation>
+<occupation>
+<term>Aboriginal writer</term>
+</occupation>
+<occupation>
+<term>Publisher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Cheryl Buchanan studied at the University of Hawaii as a scholarship-holder. Upon her return to Australia she became involved in the Brisbane Tribal Council, and attended the University of Queensland.
+
+During 1974 Buchanan worked as the race relations field director for the Australian Union of Students and spent several months visiting communities in the Northern Territory and Western Australia, encouraging their struggle for land rights. In 1975 she moved to Melbourne, Victoria, where she became director of the Black Resources Centre (BRC). The Centre later moved to Brisbane, and Cheryl became one of the principal campaigners for the acquittal of 'The Brisbane Three', two Aboriginal men and a Chilean charged with conspiracy over an alleged extortion attempt. The three were acquitted due partly to the support of BRC periodical <span style="font-style:italic">Black Liberation</span> from 1975 to 1977. Buchanan was one of the main contributors to this publication, writing articles on a range of issues including history, politics, education, land rights, prisons and welfare.
+
+In 1980 she published <span style="font-style:italic">Kargun</span>, the first of a series of poetry volumes by Lionel Fogarty. This publication led to the development of Murrie Coo-ee, an Aboriginal publishing firm at Coominya which continues to operate under Buchanan's directorship.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-458879">
+<relationEntry>
+Buchanan, Cheryl (1955-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Buchanan, Cheryl', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Buchanan, Cheryl</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1255b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003566.htm">
+<relationEntry localType="published">Journal Article: Communication (oral tradition, telepathy, and sign language)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buchanan, Cheryl</name>
+<title render="quoted">Communication (oral tradition, telepathy, and sign language)</title>
+<imprint>
+<date>1977</date>
+</imprint>
+<bibseries>
+<title render="italic">Black Liberation</title>
+<num type="volume">2</num>
+<num type="issue">3</num>
+<num type="pages">6</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003565.htm">
+<relationEntry localType="published">Report: Responding to custody levels: a greater community response to addressing the underlying causes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buchanan, Cheryl</name>
+<title render="italic">Responding to custody levels: a greater community response to addressing the underlying causes</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003567.htm">
+<relationEntry localType="published">Booklet: The true history of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buchanan, Cheryl</name>
+<title render="italic">The true history of Australia</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Black Resource Centre</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0763</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-24">2004-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0763b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Catholic Women's League, Tasmania Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-05-17">17 May 1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Launceston, Tasmania,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>16 Criterion St
+Hobart, Tas. 7000</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Catholic Women's League Tasmania was established in 1941 in Launceston to bring together Catholic women, to help them meet socially, to engage in charitable work and to assist them to play their part in public life. Gwen Mullins, the catalyst for its formation, expressed concern about the isolation of Catholics from the general community in Launceston and particularly the non participation of Catholic women in any civic sphere at all. It has been involved in a range of issues including the family, immigration, media programs and educational opportunites for girls. By the 1980s it had developed a greater  international awareness with the creation of the office of International Secretary. It is affiliated with the Catholic Women's League Australia Inc.</abstract>
+<p>The objects of the Catholic Women's League Tasmania Inc. were to:<br />
+Promote the spiritual, cultural, intellectual and social interests of Catholic women,<br />
+To train and encourage Catholic women to play their proper part in advancing the moral and civic welfare of the community,<br />
+To assert and defend Christian principles in relation to marriage, the home and education,<br />
+To work for the extension of the Kingdom of Christ in union with our spiritual guides,<br />
+To co-operate with other societies in an effort to obtain our objects.</p>
+<p>The CWL Tasmania is organised into three branches: the North, West/North-west and the South. It produces a monthly magazine <span style="font-style:italic">Review</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-589532">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Catholic Women's League, Tasmania Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Catholic Women's League, Tasmania Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0763b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002585.htm">
+<relationEntry localType="published">Resource: About us</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Women's League, Tasmania Inc.</name>
+<title render="italic">About us</title>
+<imprint>
+<publisher>Catholic Women's League, Tasmania inc.</publisher>
+<date>2004</date>
+</imprint>
+<extptr linktype="simple" href="http://www.tased.edu.au/tasonline/cwltas/aboutu.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002584.htm">
+<relationEntry localType="published">Book: Women of faith and action: history of the Catholic Women's League, Tasmania 1941-1986.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Nuss, Anne Rushton</name>
+<title render="italic">Women of faith and action: history of the Catholic Women's League, Tasmania 1941-1986.</title>
+<imprint>
+<place>Hobart, Tasmania</place>
+<publisher>Southern Holdings</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001267.htm">
+<relationEntry localType="archival">Catholic Women's League, Tasmania Inc. records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmania Catholic Archives</repository>
+<unittitle>Catholic Women's League, Tasmania Inc. records</unittitle>
+<unitdate>1941</unitdate>
+<abstract>Minutes; correspondence.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

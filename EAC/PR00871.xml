@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00871</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-08-11">2010-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Christine Donald</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-12">2016-04-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00871b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tracey</part>
+<part localType="givenname">Eliza</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Birth Name"><part>Kearns, Eliza</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1842-01-01">1842?</fromDate>
+<toDate standardDate="1917-02-24">24 February 1917</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>India</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Victoria Park, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Landowner</term>
+</occupation>
+<occupation>
+<term>Litigant</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in India to an Irish soldier, Eliza Tracey immigrated to Western Australia in 1859, where she was known to the citizens of Perth as a soap box orator. She spoke out against the legal profession, and her life was marked by constant dealings with the law.</abstract>
+<p>Eliza Tracey was born in India to Irish soldier Kearns, and an unknown mother. She lived in Ireland for a while before migrating to Western Australia in 1859. There she married John Tracey, an illilterate labourer and ex-convict on 12 January 1860. Together they ran an inn, but found trouble when they did not pay their debts. Further trouble occured in the 1870s when they were charged with stealing sheep. For this, John Tracey was sent to prison, and after this seems to have played no further role in his wife's life.</p>
+<p>After her husband's imprisonment, Eliza Tracey worked as a housekeeper for blacksmith Richard Edmunds. Assisted by lawyer John Horgan, she persued Edmunds to giver her a life interest in his property (consisting of a farm and two cottages). When Edmunds died in 1886, his grandsons and not Tracey claimed the farm rents, as the property was not under Edmunds' name, but his mother's. Although Tracey was still receiving the rent from the two cottages, John Hogan advised her to challenge the grandsons' claim on the farm in three separate lawsuits. She lost all three challenges.</p>
+<p>The legal troubles continued for Tracey, when she was forced to pay £30 in damages to a tenant with whom she had argued. She refused to pay (as advised by John Horgan), and was jailed. John Horgan requested £250 in legal fees, so she gave him the title to her cottages as collateral. To raise the £30 in damages to pay her tenant, a sheriff put her cottage up for sale. It was bought by R. S. Haynes, her new lawyer for £17, significantly less than the £600 the property was actually worth. Haynes also paid Horgan £250 for the titles to the cottages.</p>
+<p>Finding that she was now homeless, Tracey demanded compensation from the government. Several years worth of petitioning, raising money for court cases and even speaking to the Governer-General proved fruitless and by 1907, the courts concluded that Tracey had no case. She was, however, awarded a compassionate allowance in 1904.</p>
+<p>Tracey waged war against the legal profession and published a pamphlet entitled <span style="font-style:italic">Robbed by Malice and Corruption by our Judges and Lawyers</span>. She was also well known in Perth for her soapboax oratory on the Esplanade, where she criticized lawyers as thieves.</p>
+<p>Tracey died in Victoria Park on 24 February 1917, and was buried in Karrakatta cemetery, Perth.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1464615">
+<relationEntry>
+Tracey, Eliza (1842-19170224)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tracey, Eliza', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tracey, Eliza</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00871b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100532.htm">
+<relationEntry localType="published">Resource Section: Tracey, Eliza (1842-1917)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Erickson, Rica</name>
+<title render="quoted">Tracey, Eliza (1842-1917)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A120279b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1535</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-12">2005-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1535b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dethridge</part>
+<part localType="givenname">Susan Margery</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-01-01">c. 1945</fromDate>
+<toDate standardDate="2003-06-12">12 June 2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Councillor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sue Dethridge was a popular and influential local councillor for the Bellingen Shire Council from 1987-2003. She served as Mayor from 1991-1999. Dethridge stood unsuccessfully as an Independent for Coffs Harbour in the New South Wales Legislative Assembly in 1995.</abstract>
+<p>Susan Dethridge was a freelance journalist and inveterate writer of letters to the editor on many subjects. As Mayor, she produced a regular column in the <span style="font-style:italic">Bellingen Courier Sun</span>, drawing attention to local issues with the use of amusing or poignant anecdotes. On being diagnosed with breast cancer, she fought for improved support and treatment of cancer patients.</p>
+<p>Dethridge was a long term local councillor and was the popularly elected Mayor of Bellingen from 1991 to 1999. Having moved to the town of Dorrigo in 1974 and seen it revived by tourism, she was active in promoting tourism as an antidote to the decline of country towns. She was a member of the Regional Development Board from 1997 to 1999, and Australia's Holiday Coast Regional Development Council from 2000 to 2002.</p>
+<p>Dethridge was awarded the Medal of the Order of Australia in 2003 for services to local government. The award was made early due to the state of her health. She died, of breast cancer, that same year and was survived by her husband Barry Dethridge and their three children.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-723077">
+<relationEntry>
+Dethridge, Susan Margery (1945-2003)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dethridge, Susan Margery', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dethridge, Susan Margery</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1535b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004487.htm">
+<relationEntry localType="published">Book: Women in Australian Parliament and Local Government: An updated history 1975-1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Decker, Dianne</name>
+<title render="italic">Women in Australian Parliament and Local Government: An updated history 1975-1992</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Local Government Women's Association</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0084</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-14">2001-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0084b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tindle</part>
+<part localType="givenname">Elizabeth</part>
+<part localType="honorific title">Dr</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-03-31">31 March 1939</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Durham, United Kingdom</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Psychologist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Tindle was president of the Australian Women's Weight Lifting Association, Adelaide 1964. She was a researcher at the UNESCO Charles Darwin Research Station, Galapagos Islands Ecuador, where she studied flamingoes and flightless comorants in 1976. She completed her doctoral thesis on Foetal Alcohol Syndrome and effects, and alcohol-related disabilties.</abstract>
+<p>Tindle was educated at Jarrow Grammar School 1957; London Institute of Education 1959; Adelaide University, BA and Dip Applied Psychology 1960-70s; and Queensland University of Technology, Doctor of Education 1999. </p>
+<p>She has worked as a high school teacher, 1959-70; school counsellor, 1971-76; researcher, 1976-79, 1981-83; University Lecturer, 1985-91; counselling psychologist, QUT, from 1989; and director of private practive in psychology.</p>
+<p>Tindle was awarded the Trailblazer award from the <span style="font-style:italic">Office of the Status of Women</span>, 1999.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-740091">
+<relationEntry>
+Tindle, Elizabeth (1939-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tindle, Elizabeth (Lily)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tindle, Elizabeth (Lily)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0084b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000098.htm">
+<relationEntry localType="published">Newspaper Article: Duo for remote island</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tilbrook, Kym</name>
+<title render="quoted">Duo for remote island</title>
+<imprint>
+<date>1976</date>
+</imprint>
+<bibseries>
+<title render="italic">The Advertiser</title>
+<num type="pages">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

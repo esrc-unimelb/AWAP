@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0409</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-12">2002-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0409b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jackson</part>
+<part localType="givenname">Dawn Valerie Vautin</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-02-22">22 February 1917</fromDate>
+<toDate standardDate="1995-01-20">20 January 1995</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kent, United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Canberra, Australian Capital Territory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dawn Jackson was born in Kent, England, the daughter of Major-General R E Jackson CMG, DSO. Educated at St Catherine's Church of England Girls School, Sydney, she served with the Voluntary Aid Detachment and subsequently with the Australian Army Women's Medical Service. She was a member of the Australian Imperial Forces from 1941 to 1947 and saw service in the Middle East and New Guinea. Colonel Jackson was associated with the combined training of the Army Women's Services Training Company and the Army Women's Services Officers School.
+ 
+On 2 December 1957 Dawn Jackson was appointed the second Director of the Women's Royal Australian Army Corps, a post she held until February 1972.
+
+Dawn Jackson was appointed to The Order of the British Empire - Officer (Military) on 11 June 1960 for her services to the Women's Royal Australian Army Corps.
+
+Colonel Dawn Jackson died on 20 January 1995 in Canberra.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0388b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps (WRAAC) (1951 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1957-12-02">2 Dec. 1957</fromDate>
+<toDate standardDate="1972-02-29">Feb. 1972</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0491b.htm">
+<relationEntry localType="Corporate Body">
+Voluntary Aid Detachments (VAD) (1914 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-05-23">23 May 1941</fromDate>
+<toDate standardDate="1941-10-06">6 October 1941</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: Q90532</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0415b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Medical Women's Service (AAMWS) (1942 - 1951)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-10-06">6 October 1941</fromDate>
+<toDate standardDate="1947-01-30">30 January 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: QFX24150</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767064">
+<relationEntry>
+Jackson, Dawn Valerie Vautin (1917-1995)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jackson, Dawn Valerie Vautin', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jackson, Dawn Valerie Vautin</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0409b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001308.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Legge, J S</name>
+<title render="italic">Who's Who in Australia, 1971</title>
+<edition>20</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001814.htm">
+<relationEntry localType="published">Resource Section: JACKSON, DAWN VALERIE VAUTIN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">JACKSON, DAWN VALERIE VAUTIN</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=371692"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001813.htm">
+<relationEntry localType="published">Resource Section: JACKSON, DAWN VALERIE VANTIN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">JACKSON, DAWN VALERIE VANTIN</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=496083"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001815.htm">
+<relationEntry localType="published">Book: Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ollif, Lorna</name>
+<title render="italic">Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</title>
+<imprint>
+<place>Hornsby, NSW</place>
+<publisher>Ollif Publishing Company</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001891.htm">
+<relationEntry localType="published">Book: A Stroll down memory lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">WRAAC Association</name>
+<title render="italic">A Stroll down memory lane</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001890.htm">
+<relationEntry localType="published">Book: Soldiers of the Queen : women in the Australian Army</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bomford, Janette</name>
+<title render="italic">Soldiers of the Queen : women in the Australian Army</title>
+<imprint>
+<place>South Melbourne, Vic.</place>
+<publisher>Oxford University Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000591.htm">
+<relationEntry localType="archival">Jackson, Dawn Valerie Vautin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Jackson, Dawn Valerie Vautin</unittitle>
+<unitid>2002/05094125</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>JACKSON DAWN VALERIE VAUTIN : Service Number - QFX24150 : Date of birth - 22 Feb 1917 : Place of birth - KENT ENGLAND : Place of enlistment - Unknown : Next of Kin - JACKSON R</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000807.htm">
+<relationEntry localType="archival">A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<abstract>Mosman, Sydney. 2 April 1966. A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000798.htm">
+<relationEntry localType="archival">First WRAAC, Women's Royal Australian Army Corps</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>First WRAAC, Women's Royal Australian Army Corps</unittitle>
+<unitid>F03488</unitid>
+<unitdate>1951 - 1953</unitdate>
+<abstract>On 9 June 1951 the late Major Peggy Williamson led the final parade of eight members of the Womens Australian Army Corps for the jubilee celebrations in Canberra. Later in June 1951 King George VI approved the title "Royal" and the Corps were designated the Women's Royal Australian Army Corps. Southern Command Barracks. WRAAC on the side of the Albert Park Lake road marching. First recruit course in Victoria at Lonsdale 9 July 1951 Gwen McCarken polishing car. Kath Fowler, Margaret Todman, Bryal Longuir and Verna Wilson. South Australian WRAAC's Peg Pine and Pam Gosling. Rennie Griffin and Bryal Muir run along parade ground. Shirley Watkins, Mabs Middleton talking to W/O Alma Young, Jackie Leavy. Lieutenant Gosh talking to recruits. Captain Pat Pitt C.O.. Joan Cousins holding camp mascot "Scottie". Corporal West. WRAAC School Mildura CO Major Dawn Jackson. NCO WRAACS playing softball against Officer cadets 1953. Supervised by Captain Joan Melton. Sergeant Ruby Brown drill instructor and officer cadets practicing the slow march.</abstract>
+<physdesc>
+<extent>1 </extent>
+<physfacet>Film</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00052.htm">
+<relationEntry localType="digitalObject">Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<unitdate>2 April 1966</unitdate>
+<abstract>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia. Mosman, Sydney</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

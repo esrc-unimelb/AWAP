@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0444</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-02-12">2003-02-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0444b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jan</part>
+<part localType="givenname">Sarina</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1961-07-22">22 July 1961</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Darwin, Northern Teritory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Indigenous business leader</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sarina Jan is a Bardi descendent (Nyul Nyul clan) from the Kimberley region (Family name: Hunter) and is strong in her Aboriginality, identity and culture. She is also of Chinese descent and is proud of her Asian ancestry. 
+
+Sarina completed her Bachelor of Arts (Public Relations) and Bachelor of Business (Marketing) in 1996 making her the first Aboriginal person in Western Australia to graduate in both of these specialised fields. She later became the first Aboriginal person to become a member of both the Public Relations Institute of Australia and the Australian Marketing Institute.</abstract>
+<p>Since 1996, Sarina has successfully run her own small public relations and marketing business (SARJAN CONSULTANCIES) in Western Australia and in 1999, with a group of other like-minded Aboriginal professionals, helped to establish The Indigenous Business Institute Ltd. The Institute's purpose is two-fold. Firstly, to specifically assist Aboriginal business people in gaining appropriate and professional business acumen and prowess so that they can cultivate greater Aboriginal independence and business commercialism; and secondly, to encourage linkages (strategic partnerships) between Aboriginal and non-Aboriginal industries, governments, private and public sector businesses that will improve the status, value and asset base of the Institute and its 130 Aboriginal members. As the founding Director and Chairperson of this non-profit organisation, Sarina  is responsible for  facilitating the development and growth of Indigenous entrepreneurialism within Western Australia.</p>
+<p>Other positions Sarina holds include Chairperson of the Aboriginal Customary Law Reference Council (WA Law Reform Commission); Member of the WA Parole Board and the WA Mentally Impaired Board; Councillor for the Australian Marketing Institute (WA) and the University of Western Australia's Research Centre for Women in Business &amp; Management; and Justice of the Peace.</p>
+<p>Sarina's professional logo "Strong woman bringing different people together for Business in a Meeting Circle" is reflected in her life's philosophy: that she is "a cultural experience worth incorporating … ".</p>
+<p>For more information, write to:<br />
+The Indigenous Business Institute Ltd: theibiltd@hotmail.com<br />
+Sarina Jan: sarjan2@bigpond.com</p>
+<p>This entry was research and written by Philida Sturgiss-Hoy</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-732069">
+<relationEntry>
+Jan, Sarina (1961-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jan, Sarina', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jan, Sarina</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0444b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

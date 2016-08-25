@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00694</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-21">2009-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00694b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bennett</part>
+<part localType="givenname">Portia Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1898-01-28">28 January, 1898</fromDate>
+<toDate standardDate="1989-05-01">1 May 1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Portia Bennett was born in Sydney in 1898. In 1913-14 she attended classes under Dattilo Rubbo at the Royal Art Society of New South Wales, then won a scholarship to Julian Ashton's Sydney Art School, where she studied at night between 1915-1919. During the day she attended the Blackfriars Teachers College, where she taught art from 1921-5. In 1925 she married William Wallace and moved to Queensland and then, in 1932, came to Perth, Western Australia. Bennett helped found the Perth Society of Artists, working with Muriel Southern, Florence Hall and Margaret Johnson to establish a place for women artists in Western Australia.
+
+Bennett's preference for architecture over painting as a career is reflected in her fascination with the city and modern recently constructed buildings, and she painted many watercolour studies of the architecture around Perth. This was also in keeping with a Modernist aesthetic - the city as centre for commerce, leisure and display - and a concommitant rejection of traditional pastoral landscapes as subjects for study. Bennett also used conventions of perspective but chose unusual vantage points, which allowed the foregrounding of certain objects which added an abstract quality to works that were highly realistic. As Dr. Sally Quin, curator of the Lawrence Wilson Art Gallery, observed, "Portia Bennett claims a unique place as observer and interpreter of the city." Bennett died in Perth in 1989, aged 91. </abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462243">
+<relationEntry>
+Bennett, Portia Mary (1898-1989)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bennett, Portia Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bennett, Portia Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00694b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00709.htm">
+<relationEntry localType="published">Catalogue: Western Australian Artists 1920-1950</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gray, Anne</name>
+<title render="italic">Western Australian Artists 1920-1950</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Art Gallery of Western Australia</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00701.htm">
+<relationEntry localType="published">Journal Article: Obituary: Portia Bennett</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heymans, Rie</name>
+<title render="quoted">Obituary: Portia Bennett</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Ure Smith</publisher>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">Art &amp; Australia</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00698.htm">
+<relationEntry localType="published">Book Section: Work by Four Perth Women (originally published in The West Australian, 13 September, 1933)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Benson, George</name>
+<title render="quoted">Work by Four Perth Women (originally published in The West Australian, 13 September, 1933)</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1991</date>
+</imprint>
+<bibseries>
+<title render="italic">Cinderella on the Beach: A Source Book of Western Australia's Visual Culture </title>
+<name type="author">Snell, Ted</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00708.htm">
+<relationEntry localType="published">Catalogue: Beyond the Image: Western Australian Women Artists 1920-1960</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harpley, Melissa</name>
+<title render="italic">Beyond the Image: Western Australian Women Artists 1920-1960</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Department of Fine Arts, University of Western Australia</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00699.htm">
+<relationEntry localType="published">Journal Article: Modernism's Back Alley - Perth Streets as Signs of the Times</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bromfeld, David</name>
+<title render="quoted">Modernism's Back Alley - Perth Streets as Signs of the Times</title>
+<imprint>
+<place>Nedlands, Western Australia</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">Westerly: A Quarterly Review</title>
+<num type="volume">31</num>
+<num type="issue">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00697.htm">
+<relationEntry localType="published">Book: Western Australian Art and Artists 1900-1950 </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gooding, Janda</name>
+<title render="italic">Western Australian Art and Artists 1900-1950 </title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Art Gallery of Western Australia</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00696.htm">
+<relationEntry localType="published">Catalogue: Approaches To Modernism: The Art Of Portia Bennett, Elise Blumann And Iris Francis 1930s To 1950s   </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Quin, Sally</name>
+<title render="italic">Approaches To Modernism: The Art Of Portia Bennett, Elise Blumann And Iris Francis 1930s To 1950s   </title>
+<imprint>
+<place>Crawley, Western Australia</place>
+<publisher>Lawrence Wilson Art Gallery, The University of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00700.htm">
+<relationEntry localType="archival">Biographical cuttings on Portia Bennett, painter</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Portia Bennett, painter</unittitle>
+<unitid>BIOG </unitid>
+<abstract>Biographical cuttings on Portia Bennett.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Newspaper Cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

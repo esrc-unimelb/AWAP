@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2856</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-11-14">2007-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2856b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Flynn</part>
+<part localType="givenname">Julie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Radio journalist</term>
+</occupation>
+<occupation>
+<term>Media executive</term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Julie Flynn is the Chief Executive Officer of Free TV Australia, the industry body that represents Australia's commercial television licencees. In her time as CEO, Free TV has been at the forefront of the transition to digital television services and has developed an industry voice to market the strengths of free-to-air television in an increasingly competitive market.
+
+Julie joined Free TV after a distinguished career as a journalist and media executive. She was a senior executive at Radio 2UE, however she is also known for her work as a reporter and commentator in the Canberra Press Gallery with the ABC, the National Times and 2GB.
+
+Julie has won a Walkley award for Radio News reporting and was President of the Canberra Press Gallery.
+
+Julie has been a member of the Public Service Medal Committee, the Walkley Awards Advisory Panel and the Equal Opportunity for Women in the Workplace Advisory Board. She serves on the Board of Directors of the National Breast and Ovarian Cancer Centre.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">c. 1980</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+<event>Walkley Award (Radio) - Best Radio Current Affairs Report (Highly Commended), Radio 2GB, Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+<event>Walkley Award (Radio) - Best Radio News Report, Radio 2GB Sydney</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-760076">
+<relationEntry>
+Flynn, Julie
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Flynn, Julie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Flynn, Julie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2856b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

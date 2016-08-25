@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1137</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-16">2004-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1137b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Wilhelm</part>
+<part localType="givenname">Eileen Vimy</part>
+<part localType="honorific title">AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="preferred name"><part>Wilhelm, Vim</part>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Klopper, Eileen Vimy</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1919-01-01">1919</fromDate>
+<toDate standardDate="2004-12-31">2004</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Crystal Brook, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Social activist</term>
+</occupation>
+<occupation>
+<term>Health worker</term>
+</occupation>
+<occupation>
+<term>Volunteer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Vim Wlehelm was named after the Vickers Vimy, a reconditioned WWI fighter bomber that flew from London to Australia and landed on the day she was born. Her father, Roy Klopper, was an early enthusiast of flying and had built his own aeroplane as a young man. Her mother, Jessie Sullivan, was a midwife and matron of the local hospital at Crystal Brook, north of Adelaide, South Australia. They named their daughter Eileen Vimy but she was nearly always Vim. Jessie died when Vim was ten, and Vim left school at the age of twelve to look after her four siblings. She picked up her formal education again at the age of seventeen when she went to Royal Adelaide Hospital to be a nurse. In 1943 she married a young doctor, Don Wilhelm (with whom she had two children), and graduated top of the state in 1944.
+
+Once graduated, Vimy trained as a family planning nurse at the Marie Stopes Centre in London and learned to appreciate the worth of volunteering. Returning to Australia in 1960 and with some encouragement from Ruby Rich of the Racial Hygiene Association, Vimy joined the Family Planning Association of Australia (FPAA), where she eventually served as president and chief executive officer, on a full-time, volunteer basis. "She ran the organisation as efficiently as she appears to have done everything else in her life," notes a friend. "She turned it from an organisation that had virtually no profile at all, into one that was respected by the medical community and by the community at large." She was later appointed Patron of the Australian Federation of Family Planning Associations (AFFPA), and in 1976 was awarded the Order of Australia in recognition of her pioneering work in family planning. Between 1976 and 1997, Vimy held the Presidency of the NSW Committee of UNICEF and was elected a Life Member in 1994.
+
+After leaving UNICEF in 1997, Vim, at the age of 78, immediately offered her services to the University of New South Wales alumni association as a volunteer.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0077b.htm">
+<relationEntry localType="Corporate Body">
+Sexual Health and Family Planning Australia
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960s</fromDate>
+<toDate standardDate="1970-12-31">1970s</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Vim Wilhelm was President and CEO of the NSW Branch of the Family Planning Association in the 1960s and earl 1970s</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0489b.htm">
+<relationEntry localType="Person">
+Rich, Ruby (1888 - 1988)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756081">
+<relationEntry>
+Wilhelm, Eileen Vimy (1919-2004)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wilhelm, Eileen Vimy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wilhelm, Eileen Vimy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1137b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0226</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-12-19">2001-12-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0226b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Blake</part>
+<part localType="givenname">Audrey</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Audrey and her husband Jack D. Blake were prominent members the Communist Party of Australia. Both were particularly vocal during the Liberal Party's assault on the CPA and Jack Blake wrote numerous articles and papers on the Cold War. Audrey was the first Secretary of the Eureka Youth League when it was formed during the Second World War.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0227b.htm">
+<relationEntry localType="Corporate Body">
+Eureka Youth League (1941 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-551250">
+<relationEntry>
+Blake, Audrey
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Blake, Audrey', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Blake, Audrey</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0226b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001303.htm">
+<relationEntry localType="published">Book Section: Recollections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blake, Audrey</name>
+<title render="quoted">Recollections</title>
+<imprint>
+<place>Broadway, N.S.W.</place>
+<publisher>Fairfax, Syme &amp; Weldon Associates</publisher>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Australians from 1939</title>
+<name type="author">Curthoys, A., Martin,  A.W., Rowse, Tim</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000535.htm">
+<relationEntry localType="published">Book: A proletarian life</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blake, Audrey</name>
+<title render="italic">A proletarian life</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Kibble Books</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000202.htm">
+<relationEntry localType="archival">Eureka Youth League Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Eureka Youth League Collection</unittitle>
+<unitid>94/96</unitid>
+<unitdate>1956 - 1993</unitdate>
+<abstract>Copy of Audrey Blake's manuscript, 'Notes on the development of the Eureka Youth League and its predecessors', 1956, with a new introduction 1993. This is a copy of the manuscript presented to Mr Jim Adams, former administrative secretary of the EYL, with an acknowledgement from Audrey Blake. Mr Adams has included a dedication to the University of Melbourne Archives and a brief history of his involvement in the EYL.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+<physfacet>Notes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000200.htm">
+<relationEntry localType="archival">Interview with Audrey Blake</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Interview with Audrey Blake</unittitle>
+<unitid>86/169</unitid>
+<unitdate>1986</unitdate>
+<abstract>The ABC broadcast an interview with Audrey Blake on 29 November, 6 and 13 December 1986. The tape is an interview adducing reminiscences of the Communist Party of  Australia and the politics of the period.</abstract>
+<physdesc>
+<extent>1 Audio cassette tape</extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000201.htm">
+<relationEntry localType="archival">Blake, Audrey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Blake, Audrey</unittitle>
+<unitid>96/60</unitid>
+<unitdate>1940 - 1952</unitdate>
+<abstract>Negatives of eighteen photographs covering the Eureka Youth League from its inception in the early 1940s (q.v.); 1949 Budapest Youth Carnival for Peace, Australian delegates; Australian Delegates to Berlin Youth Festival 1951; and Australian Youth Carnival For Peace, Sydney, 1952.</abstract>
+<physdesc>
+<extent>18 photographs</extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

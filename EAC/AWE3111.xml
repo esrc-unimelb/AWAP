@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3111</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-05-01">2008-05-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3111b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sidiropoulos</part>
+<part localType="givenname">Popi</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Poppy Sidiropoulos</part>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Greece</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Hairdresser</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Popi Sidiropoulos gained the distinction of becoming the first Greek speaking hairdresser in Melbourne in 1957. She migrated to Australia from Greece in 1957  and on gaining her Hairdressing diploma in Melbourne in the same year, she established her business at home, 'just below Collingwood railway station' and worked there for ten years.</abstract>
+<p>Popi Sidiropoulos worked as a hairdressing apprentice in Greece from the age of thirteen. On arrival in Australia in 1957 with husband Theo, she sat for a Hairdressing examination at the L'Oreal School of Hairdressing in Collins Street, Melbourne. She was awarded the Diploma of Hairdressing with Honours after fifteen minutes of examination in recognition of the high standard of her work. As the only Greek speaking hairdresser at the time, all the young brides travelled long distances to Collingwood to have their hair done at Popi's Hairdressing.</p>
+<p>Her husband Theo was elected Mayor of Collingwood on 1 September 1977. According to his daughter, Anthea, he was the first migrant to be elected to that position who spoke English as a second language.  Popi became the first non-English speaking Lady Mayoress and and carried out her duties with humour and courage, never losing her faith in humanity. She single-handedly catered for all the mayoral meetings, without understanding the concept of 'catering'. A member of the Australian Labor Party, Theo was elected to the Victorian parliament in the Legislative Assembly seat of Richmond in 1977 and retired in 1988. He was the first non-English speaking citizen to be elected to the state parliament.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2134b.htm">
+<relationEntry localType="Concept">
+Greece Born Community of Australia
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-733050">
+<relationEntry>
+Sidiropoulos, Popi
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sidiropoulos, Popi', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sidiropoulos, Popi</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3111b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00193.htm">
+<relationEntry localType="digitalObject">Poppy [sic] Sidiropoulos Outside Her Home Business</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Poppy [sic] Sidiropoulos Outside Her Home Business</unittitle>
+<unitid>La trobe Picture Collection, State Library of Victoria, 820241</unitid>
+<unitdate>1957</unitdate>
+<abstract>Popi Sidiropoulos obtained a hairdressing diploma and opened her own business, out of her home, in 1957. She may have been the first Greek women's hairdresser in Melbourne Victoria. Note the bilingual signage, a portent of things to come.</abstract>
+<physdesc>Photograph of a Photograph<geogname>Melbourne, Australia</geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

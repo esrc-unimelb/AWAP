@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4560</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-08-05">2010-08-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4560b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McCaughey</part>
+<part localType="givenname">Winsome</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Howell, Winsome</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Local government councillor</term>
+</occupation>
+<occupation>
+<term>Mayor</term>
+</occupation>
+<occupation>
+<term>Feminist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Winsome McCaughey had the distinction of becoming the second female lord mayor of the City of Melbourne. She served in that capacity from 1988-89.</abstract>
+<p>Winsome McCaughey was an active member of the women's movement during the 1970s in Melbourne, advocating for child care facilities. After serving on the Melbourne City Council, she took on the position of Commissioner for the Melbourne bid for the Olympic Games for 1996. Unfortunately it was unsuccessful. She then assumed the senior position of Chief Executive Officer of Greening Australia, a position she held for four years. Her subsequent employment was as Chief Executive Officer for the Australian and New Zealand Food Authority and later again as Executive Direstor of the Australian Business Arts Foundation.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-579605">
+<relationEntry>
+McCaughey, Winsome
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McCaughey, Winsome', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McCaughey, Winsome</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4560b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004810.htm">
+<relationEntry localType="published">Book: Building relationships and securing donations : a guide for the arts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCaughey, Winsome, Mathews, Kirsten, editor, Gadd, Nick</name>
+<title render="italic">Building relationships and securing donations : a guide for the arts</title>
+<imprint>
+<place>[Melbourne, Vic]</place>
+<publisher>Australian Business Arts Foundation</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004809.htm">
+<relationEntry localType="published">Book: Community child care : resource book for parents and those planning children's services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCaughey, Winsome, Sebastian, Pat and staff of Community child care</name>
+<title render="italic">Community child care : resource book for parents and those planning children's services</title>
+<imprint>
+<place>Carlton, Vic</place>
+<publisher>Greenhouse Publications</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004808.htm">
+<relationEntry localType="published">Edited Book: Community child care : guidelines for establishing children's services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCaughey, Winsome and Sebastian, Patricia</name>
+<title render="italic">Community child care : guidelines for establishing children's services</title>
+<edition>Draft copy</edition>
+<imprint>
+<place>Ivanhoe, Vic</place>
+<publisher>4 C's</publisher>
+<date>1974?</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002452.htm">
+<relationEntry localType="archival">[Biographical cuttings on Winsome McCaughey, ex-Lord Mayor of Melbourne, containing one or more cuttings from newspapers or journals]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Winsome McCaughey, ex-Lord Mayor of Melbourne, containing one or more cuttings from newspapers or journals]</unittitle>
+<unitid>BIOG</unitid>
+<abstract>Biographical cuttings files contain cuttings, e.g. articles, obituaries, from Australian newspapers and journals from the early 20th century to 2000.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Book</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

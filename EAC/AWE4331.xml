@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4331</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-21">2009-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4331b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Boelke</part>
+<part localType="givenname">Grace</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Robinson, Grace</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-01-01">1870</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Surgeon</term>
+</occupation>
+<occupation>
+<term>Doctor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Grace Boelke was one of the first women medical graduates of the University of Sydney. Founder of the Professional Women's Association, she was a strong advocate of improved conditions for women.
+
+During her lifetime, Boelke held positions in a variety of community organisations, including:
+
+<list><item>Vice-President, Town Planning Organisation of New South Wales</item>
+<item>Convenor, Standing Committee on Health, National Council of Women of New South Wales</item>
+<item>Vice-President, Australian League of Nations (New South Wales branch)</item></list></abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1892-12-31">1892</toDate>
+</dateRange>
+<event>Appointed resident medical officer at the Maternity Hospital of the Sydney Benevolent Society. Later in her career she was employed by the NSW Government Department of Public Instruction in the medical branch and at Berlei Limited as Medical Director</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1893-01-01">1893</fromDate>
+<toDate standardDate="1893-12-31">1893</toDate>
+</dateRange>
+<event>Graduated from the University of Sydney with the degrees Bachelor of Medicine (MB) and Master of Surgery (ChM). She and Iza Coghlan were the first women medical graduates of the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1894-01-01">1894</fromDate>
+<toDate standardDate="1894-12-31">1894</toDate>
+</dateRange>
+<event>Married Paul Wilhlem Boelke (1863-1923, born Berlin), also a doctor</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1912-12-31">1912</toDate>
+</dateRange>
+<event>Formed the Professional Women's Association, which aimed to bring together professional women interested in improving the conditions of women and children</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1924-12-31">1924</toDate>
+</dateRange>
+<event>Travelled to Britain and the United States to investigate hygienic research work, especially in relation to women and children</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0555b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of New South Wales (1896 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462778">
+<relationEntry>
+Boelke, Grace Fairley (1870-19481231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Boelke, Grace', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Boelke, Grace</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4331b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004601.htm">
+<relationEntry localType="published">Book: Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bygott, Ursula and Cable, K. J.</name>
+<title render="italic">Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</title>
+<imprint>
+<place>Sydney</place>
+<publisher>University of Sydney</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002354.htm">
+<relationEntry localType="archival">Personal archives of Boelke nee Robinson Grace Fairley [1870-1948]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Personal archives of Boelke nee Robinson Grace Fairley [1870-1948]</unittitle>
+<unitid>P139</unitid>
+<unitdate>1886 - 1945</unitdate>
+<abstract>Contents include educational certificates/identification documents (1893-1932); letters received, including three letters from the National Council of Women of New South Wales (1923-1942); photographic prints (1870s-1900s); and miscellaneous items (1857-1950s?).</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

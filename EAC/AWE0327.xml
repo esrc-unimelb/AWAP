@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0327</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-03-15">2002-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Lisa McKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-18">2015-09-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0327b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Forrest</part>
+<part localType="givenname">Margaret Elvire</part>
+<part localType="honorific title">Lady</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1844-10-22">22 October 1844</fromDate>
+<toDate standardDate="1929-06-13">13 June 1929</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Le Havre, France</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Forrest was one of Australia's early botanical artists, and the wife of Western Australia's first Premier. She was born Margaret Elvire Hamersley in 1844, to Edward Hamersley and his French wife Anne Louise (Cornelis). They left London with their two young sons aboard the Shepherd, and arrived at Fremantle in 1837. Edward quickly acquired land around Perth and Fremantle, and became involved in viticulture and horse breeding. In 1843 the family made the first of two voyages back to Europe, and on this first extended sojourn, Margaret was born at La Havre, France, in October 1844. The Hamersleys returned to the Swan River colony in 1850.
+
+From an early age, Margaret Hamersley showed enthusiasm for watercolour painting, spending much time studying and sketching wildflowers. She later travelled on sketching trips with other noted botanical artists Marianne North and Rowan Ellis. She married John Forrest on 29 February, 1876 at St. George's Cathedral, Perth, and became heavily involved in political life, accompanying her husband on overseas and interstate trips. Lady Forrest was an active member of Western Australia's first society for artists and exhibited six wildflower watercolours in the Wilgie First Annual Exhibition of Paintings in 1890. She was a founding member of the Western Australia Society of Arts and the Karrakatta Club which was organised to broaden women's outlook by bringing them in contact with the fine arts. After her death in 1929, her collection was bequeathed to the Art Gallery of Western Australia in 1933.
+
+
+<small>Source: http://www.anbg.gov.au/biography/forrest-margaret.html [accessed 15/03/2002] and <span style="font-style:italic">Australian Garden History</span>, vol. 7, no. 6, May/June 1996, p.12.</small></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0211b.htm">
+<relationEntry localType="Corporate Body">
+KarraKatta Club (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-501856">
+<relationEntry>
+Forrest, Margaret (18441022-19290613)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Forrest, Margaret Elvire', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Forrest, Margaret Elvire</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0327b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00682.htm">
+<relationEntry localType="published">Book: Margaret Forrest: Wildflowers of Western Australia </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gooding, Janda</name>
+<title render="italic">Margaret Forrest: Wildflowers of Western Australia </title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Art Gallery of Western Australia</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001136.htm">
+<relationEntry localType="published">Book Section: Forrest, Margaret Elvire (1844-1929), painter and botanical artist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gooding, Janda</name>
+<title render="quoted">Forrest, Margaret Elvire (1844-1929), painter and botanical artist</title>
+<imprint>
+<place>Roseville East, NSW</place>
+<publisher>Craftsman House</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Heritage: The National Women's Art Book</title>
+<name type="author">Kerr, Joan</name>
+<num type="pages">352-353</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001135.htm">
+<relationEntry localType="published">Resource Section: Lady Margaret Forrest (1844-1929)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lady Margaret Forrest (1844-1929)</title>
+<bibseries>
+<title render="italic">Australian National Botanic Gardens - Biography</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.anbg.gov.au/biography/forrest-margaret.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00684.htm">
+<relationEntry localType="published">Booklet: Western Australia's Lady Forrest 1844-1929: A Memoir</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Crowley, F.K.</name>
+<title render="italic">Western Australia's Lady Forrest 1844-1929: A Memoir</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Western Australian Museum Information Series </publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00693.htm">
+<relationEntry localType="published">Book Section: Margaret Forrest</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Popham, Daphne [ed.]</name>
+<title render="quoted">Margaret Forrest</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Western Australian State Government</publisher>
+<date>1978</date>
+</imprint>
+<bibseries>
+<title render="italic">Reflections: Profiles of 150 Women Who Helped Make Western Australia's History</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00686.htm">
+<relationEntry localType="published">Thesis: A Biography of Lady Forrest</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">French, Jane</name>
+<title render="quoted">A Biography of Lady Forrest</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Graylands Teacher's College</publisher>
+<date>1969</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000673.htm">
+<relationEntry localType="published">Journal Article: Lady Margaret Forrest (1844-1929)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lady Margaret Forrest (1844-1929)</title>
+<imprint>
+<date>1996</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Garden History</title>
+<num type="volume">7</num>
+<num type="issue">6</num>
+<num type="pages">12</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00683.htm">
+<relationEntry localType="published">Book: Forrest Family: Pioneers of Western Australia 1842-1982 </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Muir, Alison and Dinee</name>
+<title render="italic">Forrest Family: Pioneers of Western Australia 1842-1982 </title>
+<imprint>
+<place>Manjimup, Western Australia</place>
+<publisher>J.R. Muir &amp; Son</publisher>
+<date>1982</date>
+</imprint>
+<bibseries>
+<title render="italic">Family History of Wiliam and Margaret Forrest, from their arrival in Australind, Western Australia, 1842</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00692.htm">
+<relationEntry localType="archival">Letters written by Lady Margaret Elvire Forrest, 1918</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Letters written by Lady Margaret Elvire Forrest, 1918</unittitle>
+<unitid>ACC 1331A</unitid>
+<unitdate>20 October 1918 - 3 November 1918</unitdate>
+<abstract>Two letters to Sapper W.E. Douglas Hamersley, 6th Field Co., Aust. Engineers, A.I.F. Frame, 20 October and 3 November 1918.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscript; correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00690.htm">
+<relationEntry localType="archival">Letter from Lady Margaret Elvire Forrest to Miss M. St. Clair Layman, 19 April, 1910</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Letter from Lady Margaret Elvire Forrest to Miss M. St. Clair Layman, 19 April, 1910</unittitle>
+<unitid>ACC 142A</unitid>
+<unitdate>19 April, 1910</unitdate>
+<abstract>Letter to Miss M. St. Clair Layman thanking her and her family for their support during the recent elections.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscript; correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00691.htm">
+<relationEntry localType="archival">Letter from Lady Margaret Elvire Forrest to Dr J.S. Battye, 14 June, 1922</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Letter from Lady Margaret Elvire Forrest to Dr J.S. Battye, 14 June, 1922</unittitle>
+<unitid>ACC 850A</unitid>
+<unitdate>14 June, 1922</unitdate>
+<abstract>Letter to Dr. J.S. Battye about books for the Public Library from the Forrest collection.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscript; Correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00689.htm">
+<relationEntry localType="archival">Letter from Lady Margaret Elvire Forrest to Capel Brockman, 1867</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Letter from Lady Margaret Elvire Forrest to Capel Brockman, 1867</unittitle>
+<unitid>ACC 962A</unitid>
+<unitdate>1867</unitdate>
+<abstract>Letter to Capel Brockman (nee Bussell) on the Warren.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscript; correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00687.htm">
+<relationEntry localType="archival">Correspondence and Diary of Lady Margaret Elvire Forrest, covering years 1858-1913 [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Correspondence and Diary of Lady Margaret Elvire Forrest, covering years 1858-1913 [manuscript]</unittitle>
+<unitid>MN 77, ACC 1009A, ACC 6631A </unitid>
+<unitdate>1858 - 1913</unitdate>
+<abstract>Diary of Margaret Hamersley (1874); letters sent to or written by Margaret Hamersley from her family and friends (1860-1879); letters exchanged between Sir John and Lady Forrest (1879-1907); letters mainly written to Lady Forrest from her nieces and nephews (c. 1907-1921); letters to Lady Forrest mainly from English friends (1906-1913).</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscripts, paper douments</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00688.htm">
+<relationEntry localType="archival">Hamersley Family Papers 1839-1922</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Hamersley Family Papers 1839-1922</unittitle>
+<unitid>MN 150, ACC 971A, 1286A, 6491A</unitid>
+<unitdate>1839 - 1922</unitdate>
+<abstract>Pastoralists and farmers. Edward Hamersley (born 1810) arrived in Western Australia in 1837 and settled at Pyrton and Lockridge in the Swan district. Bought grants and established horse breeding stations at Toodyay, York and Williams. Left for Europe in 1843 and returned in 1850. Took up large leases in the Irwin and Greenough districts. Director of the first W.A. Bank in 1841. Held many town allotments in Perth and Fremantle. Served on the Committee of the W.A. Turf Club. MLC for Swan 1857-1865. Member of the Guildford Board of Education 1861-1867. Died 26 November 1874. His daughter Margaret married John Forrest, later the first premier of Western Australia. The collection contains correspondence, including letters sent and received by Margaret Hamersley, later Lady Forrest, and her husband Sir John Forrest; leases and other papers connected with land holdings; photographs; other miscellaneous papers.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Manuscripts/Papers</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

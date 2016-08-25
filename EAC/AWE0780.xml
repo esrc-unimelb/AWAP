@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0780</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-03-11">2004-03-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0780b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women and the Australian Church</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Kurri Kurri, New South Wales,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>9 Casey Close
+Kurri Kurri
+NSW 2327</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Religious organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Women and the Australian Church was established in 1984 as a means of changing the understanding of the role of women in the Australian church and in society. It was initiated by the women Religious within the Catholic church and has been supported ideologically and to some extent financially by the Religious Orders of both men and women. It has developed into a network of local and regional groups in the various states of Australia. Men are included in the membership. Although Catholic by origin, it encourages membership from other religious denominations.</abstract>
+<p>On its establishment as a national project of the Religious women and men of Australia, Women and the Australian Church Inc (WATAC) nominated the primary task to be consciousness raising of women on Christian feminist issues. It has a membership of approximately 2000. WATAC is committed to 'a participative, inclusive model of church which commits women to work towards new forms of partnership with men and with each other in the church', and to 'the emergence of the feminine as intrinsic to an understanding of God, to human wholeness and thereby to church renewal'. The name, WATAC emerged from the ideas of the founding committee who wanted to include all women regardless of whether they were active members of an institutional church.<br />
+Separate groups operate in the Australian states and territories.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-550812">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women and the Australian Church', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women and the Australian Church</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0780b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002643.htm">
+<relationEntry localType="published">Book: Woman and man: one in Christ Jesus: Report on the participation of women in the Catholic Church in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Research Management Group</name>
+<title render="italic">Woman and man: one in Christ Jesus: Report on the participation of women in the Catholic Church in Australia</title>
+<imprint>
+<place>Sydney, NSW</place>
+<publisher>Harper Collins Religious</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001269.htm">
+<relationEntry localType="archival">Women and the Australian Church records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Women and the Australian Church </repository>
+<unittitle>Women and the Australian Church records</unittitle>
+<unitdate>1984 - </unitdate>
+<abstract>To be advised</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

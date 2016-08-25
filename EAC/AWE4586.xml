@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4586</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-09-29">2010-09-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4586b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lever</part>
+<part localType="givenname">Lillian</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Farmer</term>
+</occupation>
+<occupation>
+<term>Business woman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lillian Lever was nominated for the ABC Rural Woman of the Year Award in 1995, for the Queensland district of Capricornia. She and her husband, John, established the first privately run crocodile farm in Australia, in Rockhampton, in 1980. Given that, at the time, Lillian was a C.S.I.R.O. librarian, one might say that it was an interesting career move for her! But John had become fascinated by crocodiles in Papua New Guinea when he ran wildlife research stations there in the 1970s. He offered Lillian what she describes as a package deal; marriage and the chance to move from Melbourne to start a new business in Rockhampton. Koorana Crocodile farm opened in November 1981 stocked with captured crocodiles from the wild that were proving to be a danger to people.</abstract>
+<p>The fact that Koorana still exists and thrives is testament to the perserverence of Lillian and John. When they first started up, there were no guidelines for them to refer to on how to start up a crocodile farm. As crocodiles are an endangered species in Australia, there was no precedent for establishing a business and, according to Lillian, the people in the Department of Primary Industry believed them both to be mad! A chance meeting with the then Premier of Queensland, Joh Bjelke-Petersen at a function opened doors for them. They got the necessary permits which enabled them to begin the back-breaking work of building the farm.</p>
+<p>This job was no picnic. Says Liliian, 'It was horrific at times. We couldn't afford a tractor so we had to clear manually. We lived in a caravan with two of John's sons from his first marriage and the heat in summer was unbelievable.We had to keep everything shut up because of the mozzies and often I'd get heatstroke while cooking - the only air conditioning we had was in the car, so John and the boys would bundle me up and take me for a drive so I could cool down enough to keep cooking! It was the shared vision of what we could create together that kept us going through that really tough start-up phase.'</p>
+<p>Fortunately, that vision has born significant fruit, and Koorana is not only a personal success story for the Lever family, but an important local employer.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in Queensland</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477578">
+<relationEntry>
+Lever, Lillian
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lever, Lillian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lever, Lillian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4586b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004833.htm">
+<relationEntry localType="published">Resource Section: 1995 ABC Rural Woman of the Year Regional Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1995 ABC Rural Woman of the Year Regional Winners</title>
+<imprint>
+<publisher>ABC Radio &amp; ABC Online</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/previous95.htm#95reg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004819.htm">
+<relationEntry localType="published">Resource Section: Women's Business, Women's Wealth</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ellis, Amanda</name>
+<title render="quoted">Women's Business, Women's Wealth</title>
+<imprint>
+<publisher>Random House</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">The Women - Lillian Lever</title>
+<name type="author">Amanda Ellis</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.wbww.com.au/womenarch.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00519.htm">
+<relationEntry localType="digitalObject">Photograph of Lillian Lever</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Photograph of Lillian Lever</unittitle>
+<note label="rights">This photograph is sourced from Amanda Elllis's book Women's Business, Women's Wealth. Copyright resides with the author.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

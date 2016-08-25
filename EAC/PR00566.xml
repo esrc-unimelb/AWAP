@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00566</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-21">2009-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00566b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Warnock</part>
+<part localType="givenname">Diana Muriel </part>
+<part localType="honorific title">BA, OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth"><part>Robinson, Diana Muriel </part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-10-03">3 October 1940</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Diana Warnock was elected as an Australian Labor Party member for Perth to Legislative Assembly of the 34th Parliament of Western Australia, Australian Labor Party on 6 February 1993,  in succession to Ian Christopher Alexander (retired). She was re-elected 1996 but did not contest general election 10 February 2001.
+
+</abstract>
+<p>Diana Muriel Robinson was born in 1940 to Duncan Robinson, a farmer at Kookynie, Western Australia, and his wife Muriel. Diana was educated at Helena School, Darlington, St. Hilda's Anglican School, and the University of Western Australia, where she received a Bachelor of Arts degree in 1960. After graduation, she worked as a journalist for the West Australian newspaper, a research assistant for Professor Gordon Reid, a tutor in Women's Studies at Murdoch University, and a radio presenter on ABC 720WF, Radio 6PR and 6NR. Always interested in politics, before entering State Parliament, she was an activist on behalf of women and minority groups. In 1999, she was awarded the Australian Humanist of the Year for her work in society, particularly on behalf of women. In 1993, she was elected Australian Labor Party Member of the Legislative Assembly for Perth. She held several shadow portfolios, was Opposition Whip from May 1996 to January 1997, and President of the Parliamentary Labor Party from 15 January 1997. She retired from Parliament at the 2001 election.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477452">
+<relationEntry>
+Warnock, Diana Muriel (19401003-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Warnock, Diana Muriel ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Warnock, Diana Muriel </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00566b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00737.htm">
+<relationEntry localType="published">Book: We Hold Up Half the Sky: The Voices of Western Australian ALP Women in Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, Judyth [ed.]</name>
+<title render="italic">We Hold Up Half the Sky: The Voices of Western Australian ALP Women in Parliament</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Australian Labour Party</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00627.htm">
+<relationEntry localType="archival">Interview with Diana Muriel Warnock by Laura Bryant</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Interview with Diana Muriel Warnock by Laura Bryant</unittitle>
+<unitid>OH2709/15</unitid>
+<unitdate>c. 1950 - 1996</unitdate>
+<abstract>Memories of Northbridge 1950s on. Current issues facing Northbridge - the tunnel, policing, identity.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>1 sound cassette, 3-page synopsis.</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00626.htm">
+<relationEntry localType="archival">Interview with Diana Muriel Warnock by Criena Fitzgerald</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Interview with Diana Muriel Warnock by Criena Fitzgerald</unittitle>
+<unitid>OH3129</unitid>
+<unitdate>1940 - 2001</unitdate>
+<abstract>6 Sound Cassettes, 116 page transcript. In the interview, she talks about her parliamentary career, particularly her work on the abortion legislation and her commitment to the Republican Movement. </abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

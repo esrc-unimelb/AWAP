@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0003</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0003b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Melba</part>
+<part localType="givenname">Nellie</part>
+<part localType="honorific title">Dame, GBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Mitchell, Helen Porter</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1861-05-19">19 May 1861</fromDate>
+<toDate standardDate="1931-02-23">23 February 1931</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Opera singer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dame Nellie Melba (née Helen Porter Mitchell) was an internationally renowned opera singer, celebrated for her magnificent coloratura (soprano) voice.</abstract>
+<p>Melba's musical training began in Melbourne at Presbyterian Ladies' College, and continued in France under Mathilde Marchesi. Her operatic debut was in Brussels, in 1887.</p>
+<p>Melba went on to perform in London, Paris and New York before returning to Australia to tour in 1902. She also toured Australia in 1909, 1911, 1924 and 1928. She founded a women's singing school in Melbourne and wrote a singing manual and a memoir. </p>
+<p>Melba was appointed to The Order of the British Empire, Dame Grand Cross (Civil) on 3 June 1927 for services to Australia. She was also appointed to The Order of the British Empire, Dames Commander, on 15 March 1918 for giving fund-raising concerts to assist war wounded during the First World War.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0556b.htm">
+<relationEntry localType="Corporate Body">
+The Austral Salon of Music, Literature and the Arts (1890 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0724b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross Victoria (1914 - )
+</relationEntry>
+<descriptiveNote>
+<p>President of the Australian Red Cross Victoria Lilydale Unit during World War I. She raised millions of dollars helping wounded troops, and Red Cross, in particular, for which she was made Dame by the Governor-General</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-505278">
+<relationEntry>
+Melba, Nellie (-1931)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Melba, Nellie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Melba, Nellie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0003b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000860.htm">
+<relationEntry localType="published">Book: Nellie Melba : the legend still lives</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vickery, Marian</name>
+<title render="italic">Nellie Melba : the legend still lives</title>
+<imprint>
+<place>South Melbourne</place>
+<publisher>Victorian Arts Centre</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100380.htm">
+<relationEntry localType="published">Resource Section: Melba, Nellie (1861-1931)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davidson, Jim</name>
+<title render="quoted">Melba, Nellie (1861-1931)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100464b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000862.htm">
+<relationEntry localType="published">Book: Red plush and black velvet : the story of Dame Nellie Melba and her times</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wechsberg, Joseph</name>
+<title render="italic">Red plush and black velvet : the story of Dame Nellie Melba and her times</title>
+<imprint>
+<place>London</place>
+<publisher>Weidenfeld and Nicolson</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000995.htm">
+<relationEntry localType="published">Newspaper Article: Obituary [Dame Nellie Melba]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary [Dame Nellie Melba]</title>
+<imprint>
+<date>1931</date>
+</imprint>
+<bibseries>
+<title render="italic">Argus</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000996.htm">
+<relationEntry localType="published">Newspaper Article: Obituary [Dame Nellie Melba]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary [Dame Nellie Melba]</title>
+<imprint>
+<date>1931</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000997.htm">
+<relationEntry localType="published">Newspaper Article: Obituary [Dame Nellie Melba]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary [Dame Nellie Melba]</title>
+<imprint>
+<date>1931</date>
+</imprint>
+<bibseries>
+<title render="italic">The Times</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000859.htm">
+<relationEntry localType="published">Book: Nellie Melba, a contemporary review</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moran, William R.</name>
+<title render="italic">Nellie Melba, a contemporary review</title>
+<imprint>
+<place>Westport, Conn.</place>
+<publisher>Greenwood Press</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000857.htm">
+<relationEntry localType="published">Book: Nellie Melba : the first Australian diva</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Magee, Adrian</name>
+<title render="italic">Nellie Melba : the first Australian diva</title>
+<imprint>
+<place>Carlton, Vic.</place>
+<publisher>CIS Cardigan Street Publishers</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000863.htm">
+<relationEntry localType="published">Book: Melba method</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melba, Nellie, Dame</name>
+<title render="italic">Melba method</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Chappell &amp; Co.</publisher>
+<date>1926</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000861.htm">
+<relationEntry localType="published">Book Section: Melodies and memories;  introduction and notes by John Cargher</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melba, Nellie, Dame; Beverley Nichols</name>
+<title render="quoted">Melodies and memories;  introduction and notes by John Cargher</title>
+<imprint>
+<place>West Melbourne, Vic.</place>
+<publisher>Nelson</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000864.htm">
+<relationEntry localType="published">Book: Melodies and memories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melba, Nellie, Dame; Beverley Nichols</name>
+<title render="italic">Melodies and memories</title>
+<imprint>
+<place>London</place>
+<publisher>Butterworth</publisher>
+<date>1925</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000994.htm">
+<relationEntry localType="published">Book: Evensong</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beverley Nichols</name>
+<title render="italic">Evensong</title>
+<imprint>
+<date>1932</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000858.htm">
+<relationEntry localType="published">Book: Popular Australian singers from the early years of sound recording [sound recording]. Volume 1.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Popular Australian singers from the early years of sound recording [sound recording]. Volume 1.</title>
+<imprint>
+<publisher>National Film and Sound Archive</publisher>
+<date>c1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000323.htm">
+<relationEntry localType="published">Resource: Victorian Women's Roll of Honour: Women Shaping the Nation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Victorian Women's Roll of Honour: Women Shaping the Nation</title>
+<edition>1</edition>
+<imprint>
+<publisher>Centurary of Federation Victoria</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dhs.vic.gov.au/__data/assets/pdf_file/0009/643887/Victorian-Honour-Roll-of-Women-commemorative-booklet-2001.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000867.htm">
+<relationEntry localType="published">Book: Papers of Dame Nellie Melba</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="italic">Papers of Dame Nellie Melba</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001218.htm">
+<relationEntry localType="published">Book: 100 great Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Macklin, Robert</name>
+<title render="italic">100 great Australians</title>
+<imprint>
+<place>South Yarra, Vic.</place>
+<publisher>Currey O'Neil Ross</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001353.htm">
+<relationEntry localType="published">Edited Book: Double Time: Women in Victoria - 150 Years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lake, Marilyn and Kelly, Farley</name>
+<title render="italic">Double Time: Women in Victoria - 150 Years</title>
+<imprint>
+<place>Ringwood (Vic.)</place>
+<publisher>Penguin Books Australia Ltd</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001694.htm">
+<relationEntry localType="published">Book: Australian nurses since Nightingale 1860-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Burchill, Elizabeth</name>
+<title render="italic">Australian nurses since Nightingale 1860-1990</title>
+<imprint>
+<place>Richmond (Vic.)</place>
+<publisher>Spectrum Publications Pty Ltd</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001937.htm">
+<relationEntry localType="published">Book: The Shire of Lillydale and its military heritage : the First World War and its effect on the community</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McAleer, A J</name>
+<title render="italic">The Shire of Lillydale and its military heritage : the First World War and its effect on the community</title>
+<imprint>
+<place>Mooroolbark, Vic.</place>
+<publisher>A J McAleer</publisher>
+<date>c1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002044.htm">
+<relationEntry localType="published">Newspaper Article: Melba's keys to past</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Connor, Shaunagh</name>
+<title render="quoted">Melba's keys to past</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Herald Sun</title>
+<num type="pages">92</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002086.htm">
+<relationEntry localType="published">Book: Victoria, the first century : an historical survey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">compiled by the Historical Sub-committee of the Centenary Celebrations Council</name>
+<title render="italic">Victoria, the first century : an historical survey</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Robertson &amp; Mullens</publisher>
+<date>1934</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000866.htm">
+<relationEntry localType="published">Edited Book: Dame Nellie Melba</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franklin Peterson</name>
+<title render="italic">Dame Nellie Melba</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>George Robertson</publisher>
+<date>1915</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000363.htm">
+<relationEntry localType="archival">Miscellaneous papers re Caroline Chisholm and Dame Nellie Melba.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Deakin University Archives</repository>
+<unittitle>Miscellaneous papers re Caroline Chisholm and Dame Nellie Melba.</unittitle>
+<unitid>FRO</unitid>
+<unitdate>1833 - 1953</unitdate>
+<abstract>1. Caroline Chisholm papers, c1833-c1953. 2. Dame Nellie Melba papers, c1885-c1920. Both                 papers on the same microfilm reel.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000329.htm">
+<relationEntry localType="archival">Biographical file of information on Dame Nellie Melba</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Biographical file of information on Dame Nellie Melba</unittitle>
+<unitid>MS 11745</unitid>
+<unitdate>1961</unitdate>
+<abstract>Biographical file of information on Dame Nellie Melba comprising: "Dame Nellie Melba. A centennial review" by Warren Perry (published in Victorian Historical Magazine, vol. 31, no. 4, May 1961); "A Dame Nellie Melba centenary oration" by Dr. Colin Macdonald (published in Victorian Historical Magazine, vol. 31, no. 3, February 1961); "Portrait of a Prima Donna", radio broadcast for the centenary of Melba's birth on 19 May 1961 by John Thompson; press cuttings; one photograph; and references to other newspaper articles on Melba.</abstract>
+<physdesc>
+<extent>0.032 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000330.htm">
+<relationEntry localType="archival">Scrapbook</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Scrapbook</unittitle>
+<unitid>MS 1077</unitid>
+<unitdate>1911 - 1937</unitdate>
+<abstract>Scrapbook relating to Dame Nellie Melba, kept by her personal assistant. Comprises newspaper cuttings, photographs and performance programmes. Includes a series of articles "Melba's life story" published in the Herald newspaper (Melbourne), September 1925. Photographs include portraits of Melba, views of Coombe Cottage (her home near Lilydale, Vic.) and scenes of her arrival at Perth on the R. M. S. "Orsova" in 1914.</abstract>
+<physdesc>
+<extent>0.02 m, 1 Volume</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000331.htm">
+<relationEntry localType="archival">Letters</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Letters</unittitle>
+<unitid>MS 8946</unitid>
+<unitdate>1916</unitdate>
+<abstract>Melba's letters are written from a variety of locations, including Coombe Cottage in Victoria, Chicago, Sussex, Paris and London. There are 7 in all, mainly written to a Thomas Cochrane. Two are incomplete. Also included is an Order of Service for the unveiling and dedication of a window dedicated to the memory of Dame Nellie Melba in the Church of St. Sepulchre's, Holborn, England, in 1962. Also included is a typescript copy of an indenture between James Watson and David Mitchell (Melba's father) 13 November [18]46. Also, a letter from Beverley Nichols in Surrey to John Hetherington in Melbourne 8 August 1964 re. Melba.</abstract>
+<physdesc>
+<extent>7 letters</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000333.htm">
+<relationEntry localType="archival">Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Papers</unittitle>
+<abstract>Mainly letters from Dame Nellie Melba to her cousin Jeannie Armstrong, 1901-1903, but also including two letters from Haddon Chambers to Jeannie Armstrong, c.1901-c.1902, one letter to Haddon Chambers, c.1901-c.1902, and pictorial material.</abstract>
+<physdesc>
+<extent>1 folder</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000328.htm">
+<relationEntry localType="archival">Account book</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Account book</unittitle>
+<unitid>MS 7987</unitid>
+<unitdate>1902 - 1903</unitdate>
+<abstract>Account book kept by Dame Nellie Melba's accountant for her Australasian tour, 1902-1903</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000358.htm">
+<relationEntry localType="archival">Miscellaneous papers re Caroline Chisholm and Dame Nellie Melba.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Miscellaneous papers re Caroline Chisholm and Dame Nellie Melba.</unittitle>
+<unitid>mfm G 27410</unitid>
+<unitdate>1833 - 1953</unitdate>
+<abstract>1. Caroline Chisholm papers, c1833-c1953. 2. Dame Nellie Melba papers, c1885-c1920. Both                 papers on the same microfilm reel.</abstract>
+<physdesc>
+<extent>1 microfilm reel</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000368.htm">
+<relationEntry localType="archival">Correspondence of Melba, Nellie, Dame, 1861-1931.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Correspondence of Melba, Nellie, Dame, 1861-1931.</unittitle>
+<unitid>MS 1356</unitid>
+<abstract>Three signed, undated letters to Jascha Heifetz and a photograph of a facsimile message from Jules Massenet.</abstract>
+<physdesc>
+<extent>7 pages</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000372.htm">
+<relationEntry localType="archival">Melba, Nellie, Dame Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Melba, Nellie, Dame Papers</unittitle>
+<unitid>MS 9331</unitid>
+<unitdate>1908 - 1970</unitdate>
+<physdesc>
+<extent>0.03 m</extent>
+<physfacet>Correspondence, Photographs, Press cuttings, Paper files and documents</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000373.htm">
+<relationEntry localType="archival">Melba, Nellie, Dame Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Melba, Nellie, Dame Papers</unittitle>
+<unitid>MS 9561</unitid>
+<unitdate>1895 - 1923</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Correspondence, Ephemera, Photographs, Printed material</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000374.htm">
+<relationEntry localType="archival">Melba, Nellie, Dame Scrapbooks</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Melba, Nellie, Dame Scrapbooks</unittitle>
+<unitid>MS 5380</unitid>
+<unitdate>1924</unitdate>
+<abstract>Press cuttings covering the Sydney and Melbourne opera seasons, 1924.</abstract>
+<physdesc>
+<extent>0.02 m, 2 books</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000369.htm">
+<relationEntry localType="archival">Records of Melba Memorial Conservatorium of Music</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Melba Memorial Conservatorium of Music</repository>
+<unittitle>Records of Melba Memorial Conservatorium of Music</unittitle>
+<unitdate>1894 - </unitdate>
+<abstract>1894-[ongoing]
+Documents, programs, diaries, music scores, photographs, scrapbooks and memorabilia. The  collection includes: roll books (1894-1924); the Marshall Hall diaries (1901-51); original scores of Fritz Hart; 17 copies of the Melba Magazine (1934-50); extensive artistic programs and details of famous students such as Florence Austral and Gertrude Johnson. Material relating to Dame Nellie Melba includes Melba's personal collection of sheet music, a folder of programmes and Melba's personal library of bound copies of scores and other books. There are also 21 framed photographs, mostly of Melba, but also Marshall Hall and other historical personalities.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000366.htm">
+<relationEntry localType="archival">Family Papers. Marchesi, Mathilde, 1821-1913.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Family Papers. Marchesi, Mathilde, 1821-1913.</unittitle>
+<unitid>MS 2647</unitid>
+<unitdate>1869 - 1945</unitdate>
+<abstract>Descriptive list available (5 p.) under the title Baron Podhragy Collection.
+Letters, photographs, press cuttings 1887-1889 programmes, printed material, and other papers of Mathilde, Blanche and Salvatore Marchesi and Leopold Podhragy. Most of the material dates from the period of the family's association with Dame Nellie Melba and contains 54 letters to family members by Melba, as well as a printed text of an address given by Melba in 1911, photographs, and the original programme of Melba's farewell performance, 1926 June 8. Also includes a typescript entitled "Melba Garcia and the Marchesis: a souvenir of by-gone times" by Leopold Podhragy, and a scrapbook of Mathilde Marchesi, 1887-1889 about her school and pupils.</abstract>
+<physdesc>
+<extent>0.13 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000365.htm">
+<relationEntry localType="archival">Lemmone, John, 1861-1949. Collection of papers relating to Dame Nellie Melba.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Lemmone, John, 1861-1949. Collection of papers relating to Dame Nellie Melba.</unittitle>
+<unitid>MS 4832</unitid>
+<unitdate>1911 - 1928</unitdate>
+<abstract>Letters from Melba to Lemmone, Mabel Batchelor, a former pupil, and Sam Batchelor; program               (1909), cards and photographs, including Melba and violonist Jan Kubelik; typed speech by Dr John Robertson, President of the Red Cross Society of Canada, in praise of Melba; notice of Melba's
+farewell, 1927; financial statements and news cuttings.</abstract>
+<physdesc>
+<extent>0.04 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000370.htm">
+<relationEntry localType="archival">Papers of McCubbin, Frederick, 1855-1917.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Papers of McCubbin, Frederick, 1855-1917.</unittitle>
+<unitdate>1884 - 1962</unitdate>
+<abstract>I. Correspondence. (a) Letters from Frederick McCubbin to his wife, 1907. (b) Letters to Frederick McCubbin and his wife. Correspondents include Dame Nellie Melba, Edward Officer, Dame Ellen Terry and J. C. Williamson. (c) Letters to Frederick McCubbin from Arthur Streeton, 1900-1915. II. Photographs, catalogues and other papers. Includes photographs of paintings by Frederick McCubbin, legal and official documents, notes and lectures. III. Correspondence of Louis McCubbin. Mainly concerning exhibitions of Frederick McCubbin's work.</abstract>
+<physdesc>
+<extent>2 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000371.htm">
+<relationEntry localType="archival">Fairbairn, Anne. The discovery of a Nellie Melba archive</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Fairbairn, Anne. The discovery of a Nellie Melba archive</unittitle>
+<unitid>MS 1370</unitid>
+<unitdate>1971</unitdate>
+<abstract>Mathilde de Castrone Marchesi (Melba's teacher) was grandmother to Baron Podhragy, who had in Vienna inscribed books, letters, photos etc. relevant to the life of the singer. This address outlines her life from these, with a brief outline of events leading to the author's discovery of them.</abstract>
+<physdesc>
+<extent>15 pages</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000362.htm">
+<relationEntry localType="archival">Grainger-Melba Correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Grainger Museum, University of Melbourne</repository>
+<unittitle>Grainger-Melba Correspondence</unittitle>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000359.htm">
+<relationEntry localType="archival">Papers of  Lemmone, John, 1861-1949.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Performing Arts Museum, Victorian Arts Centre</repository>
+<unittitle>Papers of  Lemmone, John, 1861-1949.</unittitle>
+<unitdate>1884 - 1924</unitdate>
+<abstract>Descriptive list available.
+1. Newspaper clippings relating to Nellie Melba, 1907-1946. 2. Sheet music, including pieces for flute and piano, flute and orchestra, pianos and song albums. 3. Music manuscripts, comprising: ten working papers for composition and partly completed works; ten compositions for flute and piano; and eleven song compositions. 4. Photographs. 5. Miscellaneous tickets, cards and publicity handouts. 6. Correspondence. 7. Papers relating to tours managed by John Lemmone: Paderewski Recitals (1904); John Lemmone Concert Tour (1908?); and five Melba tours (1907-1908; 1909; 1911; 1918-1919; 1923-1924). 8. Concert programs. 9. Four original recordings by Lemmore: "Valse Bluette"/"Reverie"; "Fantasy"/"Danse Romantique"; "Bolero"/"Mozart Harp and Flute Concerto"; and "Nightingale"/"By the Brook". 10. Flute belonging to John Lemmone.</abstract>
+<physdesc>
+<extent>2.6 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000360.htm">
+<relationEntry localType="archival">Cochran Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Performing Arts Museum, Victorian Arts Centre</repository>
+<unittitle>Cochran Collection</unittitle>
+<unitdate>1888 - 1926</unitdate>
+<abstract>Descriptive list available.
+1. Letters, including letters from Nellie Melba to Cochran, 1916-1926. 2. Autograph book, 1888-1905. 3. Manuscript of "Round the world in Eighty Years" by Tommy Cochran.</abstract>
+<physdesc>
+<extent>0.32 m, 1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000361.htm">
+<relationEntry localType="archival">Van Straten Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Performing Arts Museum, Victorian Arts Centre</repository>
+<unittitle>Van Straten Collection</unittitle>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000470.htm">
+<relationEntry localType="archival">Scrapbook belonging to Beryl Fanning</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Scrapbook belonging to Beryl Fanning</unittitle>
+<unitdate>1909 - 1931</unitdate>
+<abstract>Scrapbook of Melba's career, compiled by Beryl Fanning. Includes correspondence 1909-1919 from Melba to Beryl Fanning, and programmes. [ Beryl Fanning was a student of Dame Nellie Melba at the University Conservatorium. ]</abstract>
+<physdesc>
+<extent>1 volume</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000364.htm">
+<relationEntry localType="archival">Papers of Hart, Fritz Bennicke, 1874-1949</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Hart, Fritz Bennicke, 1874-1949</unittitle>
+<unitid>MS 2809</unitid>
+<unitdate>1898 - 1951</unitdate>
+<abstract>Correspondence, telegrams, programmes, newspaper cuttings, music (mainly solo songs), photographs, articles by and about Hart, unpublished novels and other papers of Fritz Hart. Parry, David Bispham, George Russell ("A. E."), Nellie Melba, B. J. Dale, Philip Heseltine ("Peter Warlock"), W. K. Magee, Percy Grainger, Angela Thirkell and Granville Bantock.</abstract>
+<physdesc>
+<extent>0.81 m, 46 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1141</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-22">2004-12-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1141b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Local Government Women's Association - New South Wales Branch</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1952-01-01">1952</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Women's rights organisation</term>
+</function>
+<function>
+<term>Lobby group</term>
+</function>
+<function>
+<term>Political organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Local Government Women's Association - New South Wales Branch was formed in Sydney in 1952 with Ald. Marjorie Proposting of Lane Cove Council as first president. Its formation was precipated by the formation of a national Australian Local Government Women's Association in Canberra the previous year. A non-party organisation, it was inspired particularly inspired by the belief that more women should be involved in local government partly because this arm of government was especially relevant to housewives and mothers.
+
+Its aims are:
+-to assist in furthering women's knowledge and understanding of the function of local government; to watch over and protect the interests and rights of women in local government; to take action in relation to any subject or activity of particular interest to women affecting local governing bodies or local government legislation; to encourage women to make a career in local government and to act in an advisory capacity to suitable women candidates for local government election.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1136b.htm">
+<relationEntry localType="Corporate Body">
+Australian Local Government Women's Association (1951 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1144b.htm">
+<relationEntry localType="Person">
+Smith, Addie Viola (1893 - 1975)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-481323">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Local Government Women's Association - New South Wales Branch', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Local Government Women's Association - New South Wales Branch</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1141b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003455.htm">
+<relationEntry localType="published">Conference Proceedings: Annual conference, programme and agenda / Australian Local Government Women's Association, N.S.W. and A.C.T. Branch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual conference, programme and agenda / Australian Local Government Women's Association, N.S.W. and A.C.T. Branch</title>
+<imprint>
+<date>1960-1971?</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004274.htm">
+<relationEntry localType="published">Book: Women in Australian Parliaments and Local Governments, Past and Present</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith, A. Viola</name>
+<title render="italic">Women in Australian Parliaments and Local Governments, Past and Present</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Local Government Women's Association</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001933.htm">
+<relationEntry localType="archival">Australian Local Government Women's Association, NSW Branch - records, undated</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Australian Local Government Women's Association, NSW Branch - records, undated</unittitle>
+<unitid>For access to this material, please contact the Curator of Manuscripts</unitid>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001932.htm">
+<relationEntry localType="archival">Australian Local Government Women's Association NSW Branch Inc. Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Australian Local Government Women's Association NSW Branch Inc. Records</unittitle>
+<unitid>For access to this material, please contact the Curator of Manuscripts</unitid>
+<physdesc>
+<extent>15 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001931.htm">
+<relationEntry localType="archival">A. Viola Smith - further papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>A. Viola Smith - further papers</unittitle>
+<unitid>MLMSS 7032</unitid>
+<unitdate>1957 - 1975</unitdate>
+<abstract>1964-1973; Papers concerning the International Alliance of Women's 'Study on Women's Use of the Vote'
+1967-1973; 'Women's Use of the Vote...Reply to International Alliance Women Questionnaire ...Work Copy'
+1964-1975; 'Voting Methods', including circulars from Alderman Marjorie Propsting (Lane Cove), President of the Australian Local Government Women's Association
+1968-1975; Papers concerning activities as Liaison Representative for the International Federation of Women Lawyers to the United Nations
+1957-1973; 'Australian Federation of Women Voters Constitution; Correspondence; Board Meeting Minutes'
+1960-1973; 'Dawn [:] Journal of AFWVoters', being mainly notes for correspondence concerning The Dawn newsletter
+1960-1975; 'League of Women Voters New South Wales'</abstract>
+<physdesc>
+<extent>0.17 m, 1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001930.htm">
+<relationEntry localType="archival">Lorelei Booker Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Lorelei Booker Papers</unittitle>
+<abstract>A. Correspondence, 192--1991
+Correspondents include Dorothy Adams, 1980; E. M. (Elsie) Ashdown, 197- ; William Ashton, 1959, 1960, 1967; F. Oswald Barnett, 1945; Estelle Collman, 1980, 1982; Theresa Garnett, 1964; Irene Greenwood, 1973, 1981, 1984, Date unknown; Elizabeth Griffiths, 1966; Louise Mackay, 1978, 1983; Bessie Mountford, 1963; Jean Mullin; Margaret G. Myers, 1961; Marjorie Propsting, 1961; A. Viola Smith, 1967; Dorothy Tangney, 1968; Florence M. Taylor, 1955; Bill and Rosemary Townsend; and Adrian and Megan Wintle (Locn No.: MLMSS 7206/1/1)
+1945-1967; Letters received from her sons, Malcolm and Douglas Booker (Locn No.: MLMSS 7206/1/2)
+1961-1991; Letters received from her daughter, Carolyn Norwood (Locn No.: MLMSS 7206/1/3)
+1977-1982; Correspondence concerning the nomination for honours of Ruby Sophia Rich-Schalit and Jean Mullin (Locn No.: MLMSS 7206/1/4)
+1953-1988; Correspondence with newspaper editors (Locn No.: MLMSS 7206/1/5)
+
+B. Miscellaneous papers, 1920-1990
+1983, Date unknown; Genealogical papers concerning the Roper family (Locn No.: MLMSS 7206/1/6)
+1932-1956; Papers concerning the Douglas Social Credit Movement, including newscuttings and photoprints of C. H. Douglas, 193- , and Lillie Beirne at Calgary, Canada, 7 July 1940 (Locn No.: MLMSS 7206/2/1)
+1945-1948, 1959-1961; Papers concerning, and including the correspondence of, Colin Barclay-Smith (Locn No.: MLMSS 7206/2/2)
+1959-1987; Papers concerning Vitamin Supplies Pty Ltd, including correspondence with the company; notices and agenda of Annual General Meeting of shareholders, 1965-1981; and copy of Memorandum and Articles of Association (Locn No.: MLMSS 7206/2/3)
+1962; Papers concerning the 2nd National Conference of the Australian Prison After-Care Council, Sydney, 19-23 Feb. 1962 (Locn No.: MLMSS 7206/2/4)
+1973-1974; Papers concerning the Australian Crime Prevention, Correction and After-Care Council Seminar, Canberra, 7-8 Mar. 1974 (Locn No.: MLMSS 7206/2/5)
+1973, 1980-1989; Papers concerning the Judge Rainbow Memorial Appeal Fund (Locn No.: MLMSS 7206/2/6)
+194- , Date unknown; Literary papers, including radio scripts (Locn No.: MLMSS 7206/2/7)
+1968-1988; Papers concerning funeral and memorial services (Locn No.: MLMSS 7206/3/1)
+1954-1989; General invitations (Locn No.: MLMSS 7206/3/2)
+1961-1985; Wedding invitations and order of service (Locn No.: MLMSS 7206/3/3)
+193--198-; Newscuttings (Locn No.: MLMSS 7206/3/4)
+1920-1990; Notebooks (11) (Locn No.: MLMS 7206/3/5)
+1920-1990; Miscellaneous papers, including letter of introduction from R. Askin, Premier of N.S.W., 1 Aug. 1968; notes concerning overseas trips; scrapbook: 'History of the Australian Stage From "Sydney Mail" 29th to 16 Oct. 1929'; MS. Programme of the Walla Show, July 1920; address book, Date unknown; and notebooks (3) (Locn No.: MLMSS 7206/4/1)
+1942-1986; Printed material, including copy of The Liturgy according to the use of the Liberal Catholic Church prepared for the use of English-speaking congregations (London, 1942); agenda and motions of notice of the Liberal Party of Australia. N.S.W. Division Women's Group Fifth Annual Convention, Sydney, 1 May 1964; Australian Woman's War Charter, 1943; and New Education Fellowship publications (Locn No.: MLMSS 7206/4/2)
+
+C. Photographs of the Booker and Innes families, ca. 1890-1989
+Include family members, and Lorelei Booker with the feminists Eileen Powell, Ruby Rich, Eileen Furley, A. Viola Smith and Jean Mullin, among others (Locn No.: MLMSS 7206/11)
+
+D. Independent Theatre Company (Sydney, N.S.W.), 1956-1973
+1958-1965; Incomplete minutes of meetings of the Board of Directors (Locn No.: MLMSS 7206/4/3)
+1957-1965; Notices of productions and circulars to members and subscribers (Locn No.: MLMSS 7206/4/4)
+1956-1966; Newscuttings (Locn No.: MLMSS 7206/4/5)
+1956-1973; Letters received, 1960, 1966, 1973, and financial records, 1956-1959 (Locn No.: MLMSS 7206/4/6)
+
+E. Australian Federation of Women Voters, 1945-1983
+1948-1983; Papers, including correspondence with International Alliance of Women; Irene Greenwood; Estelle Collman, 1960-1962, and A. Viola Smith, 1962; photoprint of Irene Greenwood; and copy of Resolutions adopted at 13th Triennial Conference, Adelaide, 24-30 Aug. 1963 (Locn No.: MLMSS 7206/5/2)
+1945-1979; Papers, being mainly reports of activities, including those state affiliates, and copies of the Constitution, 1963 and 1979 (Locn No.: MLMSS 7206/5/2)
+1954; Papers concerning the 10th Triennial Conference, Adelaide, 23-28 Aug. 1954 (Locn No.: MLMSS 7206/5/3)
+1957; Papers concerning the 11th Triennial Conference, Sydney, 1-8 Nov. 1957, including photoprints of Lorelei Booker and Eileen Powell (Locn No.: MLMSS 7206/5/4)
+1966; Papers concerning the 14th Triennial Conference, Sydney, 10-15 Oct. 1966 (Locn No.: MLMSS 7206/5/5)
+1969; Papers concerning the 15th Triennial Conference, Perth, 20-25 Oct. 1969 (Locn No.: MLMSS 7206/5/6)
+
+F. League of Women Voters of New South Wales, 1947-1989
+1954-1982; Papers, including copies of reports of Annual General Meeting, 28 July 1980 and 27 July 1981, and of state activities, Nov. 1960-Aug. 1963, and History: 1949-69; and correspondence with Women's Electoral Lobby, International Alliance of Women and United Nations Association of Australia (N.S.W. Division) (Locn No.: MLMSS 7206/6/1)
+1953-1954, 1960, 1964-1969; Copies of incomplete minutes of meetings (Locn No.: MLMSS 7206/6/2)
+1951-1969; Copies of incomplete annual reports (Locn No.: MLMSS 7206/6/3)
+1976-1989; Miscellaneous correspondence (Locn No.: MLMSS 7206/6/4)
+1947-1963; 'Constitutions, Rules etc' concerning various organisations (Locn No.: MLMSS 7206/6/5)
+1957-1960; 'Old Symposia etc' (Locn No.: MLMSS 7206/6/6)
+1953-197-; 'Relevant Documents', being papers concerning Australian legislation on marriage and divorce (Locn No.: MLMSS 7206/7/1)
+
+G. International Alliance of Women, 1961-1979
+1961-1965; Papers concerning the 20th Triennial Congress, Trieste, Italy, 19 Aug.-1 Sept. 1964, including photoprints of Australian delegation and other participants (Locn No.: MLMSS 7206/7/2)
+1973; Papers concerning the 23rd Triennial Congress, New Delhi, India, 7-14 Nov. 1973 (Locn No.: MLMSS 7206/7/3)
+1979; Papers concerning the 25th Triennial Congress, Monrovia, Liberia, 17-22 Sept. 1979 (Locn No.: MLMSS 7206/7/4)
+
+H. Papers received from Addie Viola Smith, 1958-1975
+Mainly concerning Australian Local Government Women's Association, United Nations Commission on the Status of Women, International Human Rights Year 1968, and Edward Robert Hinder and Eleanor Mary Hinder (Locn No.: MLMSS 7206/7/5)
+
+I. Pan-Pacific and Southeast Asia Women's Association. N.S.W. Group, 1950-1989
+1950-1972; Papers (Locn No.: MLMSS 7206/8/1)
+1961-1989; Papers, including proceedings and photoprints of the 9th Conference of the P.P.S.E.A.W.A., Canberra, 7-18 January 1961 (Locn No.: MLMSS 7206/8/2)
+1968-1974; 'Scrap Book', being newscuttings and printed material (Locn No.: MLMSS 7206/8/3)
+
+J. New South Wales Women's Advisory Board, 1974-1976 
+1975-1976; Agenda and minutes of meetings, 16 Apr. 1975-13 July 1976 (Locn No.: MLMSS 7206/8/4)
+1976; Guideline Notes concerning Workshop on Child Care, 21 Mar. 1976 (Locn No.: MLMSS 7206/8/5)
+1975-1976; Papers concerning various topics, including child care , community centres and medical services for working women (Locn No.: MLMSS 7206/8/6)
+1974-1975; Papers concerning Discrimination, Education, Probate, Rape and Status of Children Sub-Committees (Locn No.: MLMSS 7206/9/1)
+1975-1976; 'Statement of Board activities to end December 1975', including reports of country trips and from Convenors of Sub-Committees (Locn No.: MLMSS 7206/9/2)
+1974-1976; Miscellaneous papers, including circulars and reports (Locn No.: MLMSS 7207/9/3)
+
+K. Scrapbooks (14) on the status of women, 1964-1975
+1965-1975; Scrapbooks (12) (Locn No.: MLMSS 7206/9/4-16)
+1964-1969; Scrapbook (Locn No.: MLMSS 7206/10X</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001928.htm">
+<relationEntry localType="archival">Australian Local Government Women's Association Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Australian Local Government Women's Association Records</unittitle>
+<unitid>NLA MS 1794</unitid>
+<unitdate>1951 - 1966</unitdate>
+<abstract>Correspondence chiefly with Alderman Marjory Propsting, President of the Association, circular letters, conference programs, leaflets and newspaper cuttings mainly concerning women in local government.</abstract>
+<physdesc>
+<extent>0.1 m, 6 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001864.htm">
+<relationEntry localType="archival">Pat Richardson scrapbooks relating to the Women's Electoral Lobby and women's events</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Pat Richardson scrapbooks relating to the Women's Electoral Lobby and women's events</unittitle>
+<unitid>PXA 634</unitid>
+<unitdate>1977 - 1999</unitdate>
+<abstract>16 scrapbooks (ca. 1300 photoprints, col. + newscuttings, invitations, programmes and printed items) - 29.5 x 25 cm.-38 x 28 cm.
+Volume 1 - A.L.G.W.A. Local Government, 1977-1980. Local Government Womens' Association, 1984
+Volume 2 - Women's Electoral Lobby N.S.W. &amp; A.C.T. 1982 - Sydney 10th Birthday Party 12/5/82, British Ex-Services Club - International Alliance of Women XXVI Triennial Congress, Helsinki, Finland 
+Volume 3 - Women's Electoral Lobby 1983-1984
+Volume 4 - Women's Electoral Lobby &amp; International Association for Women photographs, Xmas cards 1983-1984
+Volume 5 - Women's Electoral Lobby photographs, Oct 1985-1986
+Volume 6 - Australian Local Government Women's Association, 1985
+Volume 7 - Australian Local Government Women's Association, 1986
+Volume 8 - Women's Electoral Lobby, Aug 1986-1987
+Volume 9 - Women's Electoral Lobby, Sept 1987-December 1987
+Volume 10 - International Alliance of Women (I.A.W.), Strassburg 21-24 Aug 1988 [seminar]
+Volume 11 - Women's Electoral Lobby and Women's Groups begins Jan 1989 + I.A.W. Congress, Melbourne, 22 Sept 1989-1 Oct 1989
+Volume 12 - Women's Electoral Lobby, Nov 1989-Mar1991
+Volume 13 - Pat Richardson personal album, 1989
+Volume 14 - Additional printed items: Business Paper for the meeting of the Community Service Committee … Local Government Association of N.S.W. Shires Association of N.S.W. - Australian Local Government Women's Association, Report of the Twenty-Sixth Annual Conference held at Bega April 27th, 28th and 29th, 1979 - The Australian Local Government Women's Association, New South Wales Branch, constitutions, by-laws and standing orders, 1983, Pamphlet entitled `Women in Local Government' - Proceedings of the 32nd Annual Conference of the Australian Local Government Women's Association funded at Canberra, 1951, N.S.W. Branch, Theme `Water - its uses and abuses' hosted by … Kiama Municipal Council Kiama, N.S.W., Date … 26 to 28 April, 1985 - I.A.W. Conference, trip to France/Germany, 16 Aug-26 Sept, 1988 - International Alliance of Women, a report by Pat Richardson, Board Member, published in WEL National Bulletin, Sept/Oct, 1988
+Volume 15 - Women's Electoral Lobby &amp; women's events, April 1991 - March 1992
+Volume 16 - Pat Richardson representing the WEL at the IAW Triennial Congress, New York, August-September 1999.
+Notes  : The scrapbooks feature prominent women of the time for example: Quentin Bryce, Eva Cox, Rosemary Crowley, Elizabeth Evatt, Rosemary Foot, Janine Haines, Wendy McCarthy, Janet Powell, Edna Ryan, Susan Ryan, Dale Spender, Judy Small, Anne Summers, Margaret Whitlam, etc.</abstract>
+<physdesc>
+<extent>16 Albums</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001788.htm">
+<relationEntry localType="archival">Eleanor M. Hinder - papers, 1837-1963, together with the papers of A. Viola Smith, ca. 1850-1975</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Eleanor M. Hinder - papers, 1837-1963, together with the papers of A. Viola Smith, ca. 1850-1975</unittitle>
+<unitid>MLMSS 770</unitid>
+<unitdate>1850 - 1975</unitdate>
+<abstract>Contents  : I. PERSONAL CORRESPONDENCE, 1923-1963
+II. PROFESSIONAL FILES, ca. 1919-1963
+A. Farmer and Company, ca. 1919-1926
+B. Young Women's Christian Association of China, 1896, 1927-1937
+C. Pan-Pacific Women's Conference, Honolulu, Hawaii (1928), 1928-1929
+D. Employers' Federation of Shanghai, 1931-1945
+E. Shanghai (China). Municipal Council, 1933-1954
+F. International Labour Office, 1942-1948
+G. United Nations Relief and Rehabilitation Administration, 1934-1952
+H. Great Britain. Foreign Office, 1944-1954
+I. Board of Trustees and Rehabilitation Affairs, 1947-1950
+J. United Nations, 1937, 1949-1963
+
+III. SUBJECT FILES, 1918-1975
+A. Individuals, 1924-1963
+B. Organisations, 1951-1971
+C. Miscellaneous, 1918-1975
+
+IV. WRITINGS, 1927-1963
+A. Autobiography and related papers, 1957-1963
+B. Other writings, 1927, 1945, 1952-1959
+
+V. GENEALOGICAL PAPERS, 1837-1970
+A. Hinder family, 1837-1970
+B. Tuckerman family, 1952-1966
+
+VI. MISCELLANEOUS PAPERS, 1914-1974
+
+VII. PAPERS OF AND CONCERNING AGATHA HARRISON, 1916-1962
+
+VIII. PRINTED BOOKS, 1837-1970
+
+IX. PHOTOGRAPHS AND REALIA, 1916-1968
+
+X. PAPERS OF A. VIOLA SMITH, ca. 1850-1975
+A. Hinder family genealogy and chronology
+B. Correspondence concerning Hinder family genealogy
+C. Genealogical subject files - Hinder family - Paternal line
+D. Genealogical subject files - Hinder family - Maternal line
+E. Genealogical subject files - Tuckerman family
+F. Subject files - Organisations
+G. Subject files concerning Eleanor Hinder's immediate family
+H. Miscellaneous personal papers
+I. Papers concerning the estate of Eleanor Hinder</abstract>
+<physdesc>
+<extent>4.8 m, 34 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

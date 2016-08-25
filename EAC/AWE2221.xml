@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2221</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-12-13">2006-12-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2221b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Peden</part>
+<part localType="givenname">Margaret Elizabeth Maynard</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-10-18">18 October 1905</fromDate>
+<toDate standardDate="1981-03-18">18 March 1981</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Sports administrator</term>
+</occupation>
+<occupation>
+<term>Cricketer</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Peden completed a Bachelor of Arts (1926) and Diploma of Education (1928) at the University of Sydney, where she co-founded the women's cricket club and served as president of the women undergraduates' association. While working as sports mistress at Redlands School (1928-34), Peden helped to rebuild the New South Wales Women's Cricket Association, serving as honorary secretary from 1928 to 1944. She captained every New South Wales women's cricket team until 1938, with the exception of the 1930 team - that year she co-founded the Australian Women's Cricket Council. She was secretary of the New South Wales Women's Amateur Sports Council in 1932-37, and later vice-president.
+
+It was Margaret Peden who organised in 1934 the first tour to Australia by an English women's cricket team and, with her sister Barbara, set up Australia's first indoor coaching centre in Sydney. Peden was appointed captain of the Australian team that year, and again in 1937. In 1950 she became an honorary life member of the Women's Cricket Association, England.
+
+In 1935, Peden married Maurice Ranald Emanuel. She gave birth to a son in 1938.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2242b.htm">
+<relationEntry localType="Corporate Body">
+Sydney University Women's Sports Association (1910 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1935-12-31">1935</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Margaret Peden was president of the SUSWA in the early 1930s.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714083">
+<relationEntry>
+Peden, Margaret Elizabeth Maynard (1905-1981)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Peden, Margaret Elizabeth Maynard', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Peden, Margaret Elizabeth Maynard</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2221b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004480.htm">
+<relationEntry localType="published">Resource Section: Peden, Margaret Elizabeth Maynard (1905 - 1981)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stell, Marion K.</name>
+<title render="quoted">Peden, Margaret Elizabeth Maynard (1905 - 1981)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110196b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003761.htm">
+<relationEntry localType="published">Book: Newtown Tarts: A history of the Sydney University Women's Sports Association 1910-1995</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lilienthal, Sonja</name>
+<title render="italic">Newtown Tarts: A history of the Sydney University Women's Sports Association 1910-1995</title>
+<imprint>
+<place>St Leonards, NSW</place>
+<publisher>Allen and Unwin</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

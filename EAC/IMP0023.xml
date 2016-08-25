@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0023</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0023b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cramer</part>
+<part localType="givenname">Mary Therese</part>
+<part localType="honorific title">Lady, DBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1984-09-23">23 September 1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mary Cramer, a teacher before her marriage to John (later Sir John) Cramer, in January 1922, brought her formidable organising skills to rearing their four children and to her public activities. On the election of her husband as mayor of North Sydney in 1939, she assumed the duties of lady mayoress. Known for her natural sense of humour, she organised a Voluntary Aid Detachment for North Sydney at the beginning of World War II, and also the first group of the Women's Australian National Service in Sydney and became its first commandant. Her husband later became a founding member of the Liberal Party of Australia and a Minister for the Army from 1956-1963. She was president of the New South Wales division of the Red Cross Society and of the Mater Misericordae Hospital Advisory Board at North Sydney. Despite recurring illness, she maintained her public activities and was appointed as Dame Commander of the Order of the British Empire on 12 June 1971 for distinguished public service, which had covered four decades. According to the report in <span style="font-style:italic">The Sydney Morning Herald</span> on 26 May 1994 on the death of Sir John Cramer, 'Sir John with his late wife Dame Mary, had left an indelible mark on the lower North Shore'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767056">
+<relationEntry>
+Cramer, Mary Therese (-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cramer, Mary Therese', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cramer, Mary Therese</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0023b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001222.htm">
+<relationEntry localType="published">Book: pioneers, politics and people:a political memoir.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cramer, Sir John</name>
+<title render="italic">pioneers, politics and people:a political memoir.</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000429.htm">
+<relationEntry localType="archival">Interview with Sir John Oscar Cramer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Sir John Oscar Cramer</unittitle>
+<unitid>ORAL TRC 4900/58</unitid>
+<unitdate>28 March 1988 - 14 June 1988</unitdate>
+<abstract>Sound recording. Interview conducted by Ron Hurst as part of Parliament's Oral History project.It comprises 20 cassettes (ca.1200 min.) 1 7/8 ips. Cramer speaks of his family background; early life; real estate business; the Depression; career in local and federal government; power supply problems in NSW 1930-1950; origins and development of Liberal Party; Robert menzies; politicians and issues during his career; experiences as Minister for the Army; life after retirement.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

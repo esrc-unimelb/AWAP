@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1135</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-14">2004-12-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-12-02">2013-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1135b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women's International League for Peace and Freedom (Victoria branch)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Sisterhood of International Peace</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Women's International League for Peace and Freedom (Victoria branch) has its origins with the formation of the Sisterhood of International Peace in Melbourne in 1915. When the Women's International League for Peace and Freedom (WILPF) was founded in Zurich in 1919, the Sisterhood reconstituted itself as the Australian section of this new organisation. The Victorian branch formally separated from the Australian Section in 1920, although considerable overlap continued between these two bodies.
+
+Aside from campaigning for international disarmament and an end to all war, WILPF has taken action on a wide range of social justice issues.</abstract>
+<p>The Sisterhood of International Peace was formed in Melbourne in 1915 'To promote mutual knowledge of each other by the women of different nations, goodwill and friendship, to study the causes - economics and moral - of war; and by every means in their power to bring the humanising influence of women to bear on the abolition of war, and the substitution of international justice and arbitration for irrational methods of violence.' The president was Lucy Paling, the secretary Janet Strong and corresponding secretaries Mabel Drummond and Eleanor Moore. Moore remained as secretary for many years.</p>
+<p>Aside from its central object of abolishing war, WILPF in Australia has focussed on women's rights and Indigenous Australians' rights as well as working with projects for refugees in Australia and overseas.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4909b.htm">
+<relationEntry localType="Organisation">
+Women's International League for Peace and Freedom - ACT branch (1982 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="hierarchical-child" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0184b.htm">
+<relationEntry localType="Corporate Body">
+Women's International League for Peace and Freedom (Australia Section) (1919 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768085">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women's International League for Peace and Freedom (Victoria branch)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women's International League for Peace and Freedom (Victoria branch)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1135b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003446.htm">
+<relationEntry localType="published">Journal: Peace and Freedom</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Peace and Freedom</title>
+<imprint>
+<date>1962-</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of the Women's International League for Peace and Freedom, Australian Section</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001907.htm">
+<relationEntry localType="archival">Women's International League for Peace and Freedom, Australian Section, Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Women's International League for Peace and Freedom, Australian Section, Records</unittitle>
+<unitid>MS 9377</unitid>
+<unitdate>1915 - 1973</unitdate>
+<abstract>Correspondence, minutes, annual reports, newsletters, photographs and printed items related to Australian and international peace movements. Also includes papers of Anna Vroland and Eleanor Moore and documents concerning WILPF International, Australian Aborigines, conscription and women's rights. Also, correspondence between the New Zealand section of the Women's International League for Peace and Freedom and the Australian section of the same League, 1 July 1958-8 January 1967.</abstract>
+<physdesc>
+<extent>38 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001906.htm">
+<relationEntry localType="archival">Women's International League for Peace and Freedom, Victorian Branch, Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Women's International League for Peace and Freedom, Victorian Branch, Papers</unittitle>
+<unitid>Contact archives for details.</unitid>
+<unitdate>1915 - 1960</unitdate>
+<abstract>Contact archives for details.</abstract>
+<physdesc>
+<extent>1.2 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

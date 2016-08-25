@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0305</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-02-20">2002-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0305b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bourke</part>
+<part localType="givenname">Eleanor</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Anderson, Eleanor</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-03-29">29 March 1943</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Hamilton, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Aboriginal welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Eleanor Bourke, née Anderson, formerly Koumalatsos
+Married to Colin Bourke Two children: Sia and Kelly
+Descendant of the Wergaia and Wamba Wamba people of western Victoria.
+Eleanor and her family moved to Murraydale, near Swan Hill, Victoria in 1945. She attended primary and high school in rural Victoria.
+Education; Dip Arts Journalism (RMIT), BA Writing (CCAE), MEdStud (Adelaide) currently PhD Candidate, University of Adelaide.
+Eleanor's paid work includes policy concerning Aboriginal people in both the Victorian and Commonwealth governments and academia.
+Positions held include: Associate Professor in Indigenous Affairs and the Director of the Aboriginal Research Institute, Faculty of the Aboriginal and Islander Studies, University of South Australia.
+Member of the Australian Institute of Aboriginal and Torres Strait Islander Studies, Family Law Council and the National Aboriginal Consultative Committee. Fellow of the Australian College of Education.
+Her membership of community-based organisations include the Victorian Aboriginal Advancement League, the Victorian Aboriginal Education Consultative Group and Camp Jungai Cooperative Ltd.
+
+(Sources: <span style="font-style:italic">Aboriginal Women by Degrees</span> Mary Ann Bin-Sallik, Ed. University of Queensland Press, Queensland, 2000.)
+
+[NB: the above biography was researched and written by Mary Sexton]</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-578855">
+<relationEntry>
+Bourke, Eleanor (1943-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bourke, Eleanor', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bourke, Eleanor</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0305b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000625.htm">
+<relationEntry localType="published">Book: Contemporary Australian Women 1996/97</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Contemporary Australian Women 1996/97</title>
+<imprint>
+<place>Port Melbourne (Vic.)</place>
+<publisher>Reed Reference Australia</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

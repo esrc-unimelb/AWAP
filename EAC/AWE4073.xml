@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4073</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-20">2009-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4073b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Birks</part>
+<part localType="givenname">Rosetta Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Thomas, Rosetta</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1856-03-12">12 March 1856</fromDate>
+<toDate standardDate="1911-10-03">3 October 1911</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>College Park, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Rosetta Birks was a member of the South Australian Women's Suffrage League and the Social Purity Society in Adelaide. She was president of the YWCA.</abstract>
+<p>Rosetta Jane was the daughter of William Kyffin Thomas, founder of Flinders Street Baptist Church in Adelaide, and his wife Mary. Rose was a dedicated member of the Flinders Church. In 1879 she married her sister's widower, Charles Birks, and became stepmother to his children.</p>
+<p>Rose Birks was a member of the Social Purity Society Adelaide ladies' branch committee and, from 1888, was treasurer of the South Australian Women's Suffrage League, working with Mary Lee and Mary Colton. Following the enfranchisement of South Australian women she joined the Woman's League committee. She was appointed to the Adelaide Hospital board in 1896, and later the Queen Victoria Maternity Home board. She was co-founder and vice-president of the National Council of Women in South Australia.</p>
+<p>In 1902, Rose Birks became president of the YWCA. She attended a meeting of the world committee in London in 1906, and attended international conferences in Paris and Berlin, establishing connections between Australian branches of the YWCA and their European and North American counterparts. In 1911 she launched the local YWCA's Travellers' Aid Society, offering protection to unescorted young female travellers and attempting to direct them toward Christian influences.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0823b.htm">
+<relationEntry localType="Person">
+Lee, Mary (1821 - 1909)
+</relationEntry>
+<descriptiveNote>
+<p>Birks and Lee were members of the South Australian Women's Suffrage League</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-734075">
+<relationEntry>
+Birks, Rosetta Jane (1856-1911)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Birks, Rosetta Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Birks, Rosetta Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4073b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004408.htm">
+<relationEntry localType="published">Edited Book: Australian Dictionary of Evangelical Biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Australian Dictionary of Evangelical Biography</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Evangelical History Association</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB101122.htm">
+<relationEntry localType="published">Resource Section: Birks, Rosetta Jane (1856-1911)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Woods, Martin</name>
+<title render="quoted">Birks, Rosetta Jane (1856-1911)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/AS10040b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

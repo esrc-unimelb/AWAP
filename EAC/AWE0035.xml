@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0035</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2000-11-21">2000-11-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0035b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jackson</part>
+<part localType="givenname">Mavis</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-07-21">21 July 1913</fromDate>
+<toDate standardDate="2000-08-06">6 August 2000</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Masulapatam, India</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Microbiologist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mavis Jackson was a microbiologist. She founded International House (University of Melbourne) and served as President of the Lyceum Club from 1973-75.</abstract>
+<p>Mavis Jackson was educated at the Methodist Ladies College, Melbourne and the University of Melbourne (BSc 1931-35). She was one of only two women on the University of Melbourne SRC in her final year. During World War II she worked as a volunteer microbiologist with the Australian Army Medical Corps and as a Blood Transfusion Officer at Heidelberg Millitary Hospital.</p>
+<p>In 1942 Mavis married Alan Vaughan Jackson and raised three children - Ian, Prue and Trevor. Though officially she left the workforce after marrying, she did return to establish the cytology unit at the Alfred Hospital in 1962, and ran it for the next fifteen years.</p>
+<p>Jackson was a foundation member of the International House Council from 1955, and Chair 1973-79. She was a member of the board of management at Yooralla Children's Hospital School 1957-60; of the National Council of Women 1957-60; and of the executive Anti-Cancer Council of Victoria 1967-84. She served as President of the Victorian Society of Cytology in 1966.</p>
+<p>Jackson was awarded honorary life membership of the Lyceum Club (having joined in the early 1930s). She was President of the Club from 1973-75 and twice a member of the general committee. In 1999 she was honored as a "living treasure".</p>
+<p>In 1967 Jackson was named a Member of the Order of the British Empire in recognition of her community service work. Ten years later, in 1977, she was awarded the Queen's Jubilee Medal for community service.</p>
+<p>Mavis Jackson is now the Grandmother of eight children.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0067b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Australia (1931 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1960-12-31">1960</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0054b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Melbourne) (1912 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-740070">
+<relationEntry>
+Jackson, Mavis (1913-2000)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jackson, Mavis', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jackson, Mavis</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004791.htm">
+<relationEntry localType="published">Newspaper Article: Obituaries - Mavis Jackson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"> Kilpatrick, James</name>
+<title render="quoted">Obituaries - Mavis Jackson</title>
+<imprint>
+<publisher>The Age</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00515.htm">
+<relationEntry localType="digitalObject">Mavis Jackson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Mavis Jackson</unittitle>
+<note label="rights">Image appeared in <span style="font-style:italic">The Age</span> and <span style="font-style:italic">UniNews Online</span> obituaries in 2000, presumably supplied by the family. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

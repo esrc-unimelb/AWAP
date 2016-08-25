@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0949</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-10">2004-05-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0949b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cox</part>
+<part localType="givenname">Lesley Mary</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Cuthbertson, Lesley</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1947-01-01">1947</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1918-01-01">1918</fromDate>
+<toDate standardDate="2003-10-12">12 October 2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Unley, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>For service to child development, in particular as the director of the Lesley Cox School of Music, Movement and Drama, and to the community, Lesley Cox was awarded the Medal of the Order of Australia on 26 January 1998.
+
+Cox was introduced to Dalcroze Eurhythmics by Heather Gell. Dalcroze Eurhythmics was established by Emile Jaques-Dalcroze (1865-1950) a Swiss composer and pianist who, in the early years of the twentieth century, researched the effect of human movement on musical perception, and the impact of musical elements on movement technique. He called his approach to music education 'Eurhythmics'. It means, literally, "good rhythm". Cox went to Sydney to study with Gell during the 1940s and again in 1957 to complete her Licentiate. She established the Lesley Cox School of Music, Movement and Drama and published books and sound recordings on the subject.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0950b.htm">
+<relationEntry localType="Person">
+Gell, Heather (1896 - 1988)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714074">
+<relationEntry>
+Cox, Lesley Mary (1918-2003)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cox, Lesley Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cox, Lesley Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0949b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002841.htm">
+<relationEntry localType="published">Book: Two squares of material : 12 plays for children aged 6 to 16 years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M and Moore, Miriam (illustrated by)</name>
+<title render="italic">Two squares of material : 12 plays for children aged 6 to 16 years</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002840.htm">
+<relationEntry localType="published">Book: One square of material : 16 plays for children aged 5 to 12 years</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M and Moore, Miriam (illustrated by)</name>
+<title render="italic">One square of material : 16 plays for children aged 5 to 12 years</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002839.htm">
+<relationEntry localType="published">Book: Tops and toes : for two's to ten's</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M and Warren, Denise (illustrated by)</name>
+<title render="italic">Tops and toes : for two's to ten's</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002838.htm">
+<relationEntry localType="published">Book: Something new : for ages ten to two</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M and Hill, Jan (illustrations by)</name>
+<title render="italic">Something new : for ages ten to two</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002834.htm">
+<relationEntry localType="published">Book: Recollections : a tribute to Heather Gell by those who remember ... : Dalcroze eurhythmics, broadcasts in music through movement for children, the great pageants and spectacles, her early children's television</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M; Holmes, Patricia L ; Pope, Joan, 1935-  (collated by) and  Follett, David (illustrated by)</name>
+<title render="italic">Recollections : a tribute to Heather Gell by those who remember ... : Dalcroze eurhythmics, broadcasts in music through movement for children, the great pageants and spectacles, her early children's television</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Productions</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002831.htm">
+<relationEntry localType="published">Sound recording: Music movement and drama through the singing-game</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M</name>
+<title render="italic">Music movement and drama through the singing-game</title>
+<imprint>
+<place>Eden Hills, S.A.</place>
+<publisher>Lesley Cox Productions</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002830.htm">
+<relationEntry localType="published">Sound recording: Let's get moving</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M</name>
+<title render="italic">Let's get moving</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002828.htm">
+<relationEntry localType="published">Book: The colours of Christmas</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M; illustrations: Warren, Denise and Kirwan, Ian</name>
+<title render="italic">The colours of Christmas</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Publications</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002827.htm">
+<relationEntry localType="published">Resource Section: Vale Lesley Cox</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Vale Lesley Cox</title>
+<imprint>
+<publisher>Dalcroze Council of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Dalcroze Council of Australia</title>
+<name type="author">Dalcroze Council of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.dalcroze.org.au/news1.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002829.htm">
+<relationEntry localType="published">Book: The eurythmics of Emile Jaques-Dalcroze : music, movement, drama : its origins and its purpose, 1865-1996</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dalcroze Society of South Australia and Cox, Lesley M</name>
+<title render="italic">The eurythmics of Emile Jaques-Dalcroze : music, movement, drama : its origins and its purpose, 1865-1996</title>
+<imprint>
+<place>[Eden Hills, S. A.]</place>
+<publisher>Lesley M. Cox</publisher>
+<date>[1996]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001566.htm">
+<relationEntry localType="archival">Interview with Lesley Cox [sound recording] Interviewer: Helen Pearce</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Lesley Cox [sound recording] Interviewer: Helen Pearce</unittitle>
+<unitid>OH 84/4</unitid>
+<unitdate>9 March 1989</unitdate>
+<abstract>Dance in South Australia: Interviews of the Performing Arts Collection</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001565.htm">
+<relationEntry localType="archival">Interview with Lesley Cox [sound recording] Interviewer: Catherine Murphy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Lesley Cox [sound recording] Interviewer: Catherine Murphy</unittitle>
+<unitid>OH 505/1</unitid>
+<unitdate>21 October 1998</unitdate>
+<abstract>The Honoured Women Oral History Project 
+
+Lesley Cuthbertson, nee Cox, was awarded the Medal of the Order of Australia (OAM) in the Australia Day honours list, 1998, for service to child development, in particular as the Director of the Lesley Cox School of Music, Movement and Drama, and to the community. Lesley Cuthbertson was born in Unley, South Australia. She speaks about her early education; nervous illness; introduction to Eurythmics with Heather Gell; her office work; marriage to her first cousin Roderic in 1947; adopting their 3 children; development of the Lesley Cox School of Music, Movement and Drama; charity work; working with children with disabilites; producing books; radio and television programs (Playroom); and inclusion of her methods into teacher training in 1998. She also discusses various productions that she staged including Sacred Dance in 1962 for the Festival of Arts, receiving her OAM, and the scholarship she has set up to honour her late niece, Robin Follett.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001536.htm">
+<relationEntry localType="archival">Launch of the second stage of The Honoured Women Oral History Project [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Launch of the second stage of The Honoured Women Oral History Project [sound recording]</unittitle>
+<unitid>OH 568</unitid>
+<unitdate>7 March 2000</unitdate>
+<abstract>A recording of the launch of the second stage of the State Library of South Australia's Honoured Women Oral History Project in the Lecture Theatre of the Institute Building. Bronwyn Halliday, Director of the State Library, chairs the launch and introduces the Hon. Diana Laidlaw MLC, Minister for the Status
+of Women, and Beth Robertson, Manager, Audio-Visual Project Team, State Library. The Minister reflects on the project's instigation and in particular her annual luncheon for new women recipients of Australia Day and Queen's Birthday honours. Ms Robertson explains the focus of the project and promotes the Library's J D Somerville Oral History Collection that now contains a substantial archive about women's community service. She plays excerpts from Honoured Women interviews. Speeches and an interview excerpt include references to recently deceased Dame Roma Mitchell. Pianist Stella Panozzo plays before and after the speeches.
+Speech notes for Bronwyn Halliday and Beth Robertson with interview excerpt transcripts available (7 pages.)</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0292</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-21">2002-11-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0292b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lahey</part>
+<part localType="givenname">Frances Vida</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1882-08-26">26 August 1882</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Pimpama, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Vida Lahey began her art studies in Brisbane around 1903, before training at the National Gallery School, Victoria (1905-1906, 1909); she lived in London from 1915, moving to Paris after the war, where she studied at Colarossi's Academy. She exhibited regularly in Brisbane and Sydney during the 1930s and 1940s, specialising in still lives, interiors and some landscape. Lahey had a strong commitment to the arts, teaching both adult and childrens art classes, and along with Daphne Mayo was heavily involved in raising funds for, and promoting, the Queensland Art Gallery. She served on the gallery's Art Advisory Committee (1931-37) 'and often argued for a proper purchasing policy and a qualified full-time director - which occurred only in 1949'. She was commissioned by the Gallery to write <span style="font-style:italic">Art in Queensland 1859-1959</span> which was published in 1959 and remains 'a basic text for Queensland art history'. According to Nancy Underhill, Lahey's main contribution was 'to encourage excellence and public involvement in the visual arts, especially in Queensland, and to serve as a point of contact between Brisbane, Sydney and Melbourne'(<span style="font-style:italic">Heritage</span>). Vida Lahey was appointed to The Order of the British Empire - Member (Civil), 1 January 1958, for services to art in Queensland. Her painting 'Beach Umbrellas' was featured on the 1996 $1.20 stamp for Australia Day.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-635820">
+<relationEntry>
+Lahey, Vida (1882-1968)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lahey, Frances Vida', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lahey, Frances Vida</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0292b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001603.htm">
+<relationEntry localType="published">Book: Songs of Colour: The Art of Vida Lahey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacAulay, Bettina</name>
+<title render="italic">Songs of Colour: The Art of Vida Lahey</title>
+<imprint>
+<place>South Brisbane</place>
+<publisher>Queensland Art Gallery</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001602.htm">
+<relationEntry localType="published">Book Section: Lahey, Frances Vida (1882-1968), painter</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Underhill, Nancy D.H.</name>
+<title render="quoted">Lahey, Frances Vida (1882-1968), painter</title>
+<imprint>
+<place>Roseville East, NSW</place>
+<publisher>Craftsman House</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Heritage: The National Women's Art Book</title>
+<name type="author">Kerr, Joan</name>
+<num type="pages">385</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100295.htm">
+<relationEntry localType="published">Resource Section: Lahey, Frances Vida (1882-1968)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maynard, Margaret</name>
+<title render="quoted">Lahey, Frances Vida (1882-1968)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090647b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000555.htm">
+<relationEntry localType="archival">Vida Lahey, letters and scrapbook</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Queensland, John Oxley Library</repository>
+<unittitle>Vida Lahey, letters and scrapbook</unittitle>
+<unitdate>c. 1919 - 1920</unitdate>
+<abstract>Letters written from London and notes on travel in Europe, 1919-20; scrapbook mainly devoted to exhibitions with sketches and reproductions.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000554.htm">
+<relationEntry localType="archival">[Conversation with Vida Lahey] [sound recording] / [interviewer : Hazel de Berg]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>[Conversation with Vida Lahey] [sound recording] / [interviewer : Hazel de Berg]</unittitle>
+<unitid>ORAL DeB 152</unitid>
+<unitdate>26 November 1965</unitdate>
+<abstract>Lahey speaks of her childhood and schooling in Queensland; changes that occurred in her life due to World War I; travelling overseas in 1915; her interest in landscape painting; her method of work when painting from nature.</abstract>
+<physdesc>
+<extent>1 casette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

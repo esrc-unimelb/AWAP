@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0372</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-17">2002-04-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0372b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Haines</part>
+<part localType="givenname">Janine</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-05-08">8 May 1945</fromDate>
+<toDate standardDate="2004-11-20">20 November 2004</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Tanunda, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Politician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>On 11 June 2001, Haines became a Member of the Order of Australia 'for service to the Australian Parliament and to politics, particularly as Parliamentary Leader of the Australian Democrats, and to the community.'
+
+Haines was appointed to the Senate to fill a casual vacancy in South Australia in 1977. In 1986 she became the first woman to lead an Australian political party when she was elected leader of the Australian Democrats.
+
+(Source: <span style="font-style:italic">http://www.itsanhonour.gov.au/honours_list/resultDetail.cfm?awardsID=709341</span> accessed 17/04/2002 and Emma Grahame in <span style="font-style:italic">Australian Feminism: A Companion</span>.)</abstract>
+<p> Haines spent her early family years growing up in country South Australia, settling in Adelaide by the time she attended Brighton High School. She was elected Deputy leader of the Australian Democrats in 1985; elected to the position of Federal leader in 1986 which she held until 1990. Since 1990 she had taken on a number of roles; as a freelance writer and speaker; involvement in a number of organizations; as a member of Parliamentary delegations to South Africa and Iraq.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-567533">
+<relationEntry>
+Haines, Janine (1945-2004)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Haines, Janine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Haines, Janine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0372b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000061.htm">
+<relationEntry localType="published">Book: Getting Equal: The History of Australian Feminism</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lake, Marilyn</name>
+<title render="italic">Getting Equal: The History of Australian Feminism</title>
+<imprint>
+<place>St Leonards, New South Wales</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000001.htm">
+<relationEntry localType="published">Edited Book: Australian Feminism: A Companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Caine, Barbara</name>
+<title render="italic">Australian Feminism: A Companion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002233.htm">
+<relationEntry localType="archival">[Biographical cuttings on Janine Haines]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>[Biographical cuttings on Janine Haines]</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+<physfacet>Book</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002234.htm">
+<relationEntry localType="archival">Interview with Janine Haines, Federal politician 1977-1990, freelance writer and speaker [sound recording] / Interviewer Jenny Palmer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Interview with Janine Haines, Federal politician 1977-1990, freelance writer and speaker [sound recording] / Interviewer Jenny Palmer</unittitle>
+<unitid>ORAL TRC 4753</unitid>
+<unitdate>2001</unitdate>
+<abstract>4 digital audio tapes (250 min.) Haines speaks of her early involvement in Australian poltics at the state level; the emergence of the Democrats in South Australia; her election to Federal Parliament in 1977 as a Senator from South Australia; the difficulties confronting a new member of Parliament; her relationship with the media as the female head of a political party; her relationships on a party level with the other major political parties; her election to the position of Deputy leader of the Australian Democrats in 1985 and then in 1986 to the position of Federal leader which she held till the 1990 Federal election; her activities since leaving Parliament in 1990.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000214.htm">
+<relationEntry localType="archival">Parliamentarians' questionnaires</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Parliamentarians' questionnaires</unittitle>
+<unitid>MS 8806</unitid>
+<unitdate>1982 - 1983</unitdate>
+<abstract>In 1982, biographical information was sought from all Members and Senators of the Parliament of Australia. Responses were received from 154 parliamentarians. The questions cover basic biographical data, and also seek information on political influences, aims and achievements, perceived improvements to the political process, the Parliamentary committee system and career since politics.</abstract>
+<physdesc>
+<extent>0.05 m, 5 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00326.htm">
+<relationEntry localType="digitalObject">The Australian Democrats' Senate team, 1987-90.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>The Australian Democrats' Senate team, 1987-90.</unittitle>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

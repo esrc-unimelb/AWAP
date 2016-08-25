@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4090</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-03-03">2009-03-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4090b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">White</part>
+<part localType="givenname">Margot</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Edes, Margot</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-03-17">17 March 1933</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Broken Hill, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Clerk</term>
+</occupation>
+<occupation>
+<term>Volunteer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margot White was born and raised in Broken Hill, New South Wales, where she worked as a comptometrist and as a clerk. Margot is a dedicated member of the Broken Hill Family History Group and does other voluntary work in the community.</abstract>
+<p>The only daughter of Cecil and Nydia Edes, Margot attended Morgan Street Infant School, North School, Central School, and finally Broken Hill High School, where she remained until the age of 16. On leaving school, she travelled to Adelaide to undertake a four month course in comptometry at the Peacock Brother's Business College.</p>
+<p>Back in Broken Hill, Margot spent four years in the employment of accountant Jack Firth before taking up a position at the Zinc Corporation. In 1956 she married Ray White. Despite union laws discouraging married women from working, Margot was eqiupped with comptometry skills and returned to the workforce in 1958 - had a qualified single girl applied for her job, she would have had to relinquish it. Margot's responsibilities included calculating the 'lead bonus' each month for employees of the mine. This was a payment made in addition to the regular salary and based on the price of lead on the London metal exchange.</p>
+<p>In 1967, Margot resigned from her job to travel overseas with Ray and gave birth to her daughter the following year. In 1970, when her daughter was two years old, she somewhat reluctantly recommenced work for accountant Eric Minchin, who desperately needed help with an audit. In between looking after her daughter and doing the housework, Margot would work from home on the dining room table.</p>
+<p>Margot retired in 1997 at the age of 64, and is an active member of the Broken Hill Family History Group.</p>
+<p><br />
+<span style="font-weight:bold">This entry was prepared and written by Georgia Moodie.</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4014b.htm">
+<relationEntry localType="Person">
+Edes, Nydia Ivy (1901 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716096">
+<relationEntry>
+White, Margot (1933-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'White, Margot', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">White, Margot</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4090b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002211.htm">
+<relationEntry localType="archival">Interview with Margot White</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Interview with Margot White</unittitle>
+<unitdate>4 February 2009</unitdate>
+<abstract>Interview conducted in Broken Hill as part of the AWAP Broken Hill exhibition. To be lodged with the Outback Archives, Broken Hill City Library.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00501.htm">
+<relationEntry localType="digitalObject">Extracts of Interview with Margot White</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Extracts of Interview with Margot White</unittitle>
+<unitdate>4 February 2009</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

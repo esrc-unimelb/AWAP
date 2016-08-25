@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0760</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-20">2004-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0760b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Itinerants Literary Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1894-01-01">1894</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Hobart, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Arts organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Itinerants Literary Society began as a result of a dispute with the Hamilton Literary Society in 1894 when a group of members broke away to form a separate society. They are 'itinerants' in that they meet at each member's home in turn. The Society's rules set out the number of members, hours of meeting and terms of membership. At each meeting, members present papers which range widely. The minutes show how themes and topics are chosen and reveal a close adherence to the rules. Early subjects discussed included famous writers and political topics (including women's suffrage), 'women who have made history' (including Jane Franklin, Sarah Bernhardt and Sonia Kovaleski).</abstract>
+<p>the records preserve a little-known aspect of Hobart women's cultural and social life. Members appear to have been generally conservative. For example, few supported women's suffrage. There is also a poem written in 1954 exhorting electors to vote for Liberal Party leader Robert Menzies. Of particular interest, then, are the papers by Ida McAulay. Her paper on Women's Suffrage expressed disappointment that so few  members supported this move. For her the vote for women both a right and a necessary social reform, especially to achieve change in laws relating to divorce and custody of children. Her paper on education asserted the intellectual of women and extolled the study of science and mathematics for both sexes. She also supported sex education the need for women to restrict the size of their families. While advocating equality of education, she believed that girls should also be trained for motherhood—outlining an extensive curriculum including physiology, hygiene, first aid, nursing, cookery and domestic economy.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4419b.htm">
+<relationEntry localType="Person">
+McAulay, Ida Mary (1858 - 1949)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-752069">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Itinerants Literary Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Itinerants Literary Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0760b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002559.htm">
+<relationEntry localType="published">Journal Article: The Itinerants - a Ladies' Literary Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Cynthia</name>
+<title render="quoted">The Itinerants - a Ladies' Literary Society</title>
+<imprint>
+<date>1985</date>
+</imprint>
+<bibseries>
+<title render="italic">Tasmanian Historical Research Association. Papers and Proceedings</title>
+<num type="volume">32</num>
+<num type="issue">4</num>
+<num type="pages">146-150</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001251.htm">
+<relationEntry localType="archival">Itinerants Literary Society</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Archives Office of Tasmania</repository>
+<unittitle>Itinerants Literary Society</unittitle>
+<unitid>NS 331/1-17</unitid>
+<unitdate>1896 - 1995</unitdate>
+<abstract>Minutes of meetings 1897-1898, 1902-1906, 1943-91 (including manuscript notes about original members); MS and TS of paper 'Oak' by Miss M. T. Butler n.d.; paper about Women's Education by Mrs A. McAulay, 1903; paper about Women's Suffrage by Mrs A. McAulay, 1899; Exercise books containing recipes and notes made Mrs I. McAulay, n.d.; souvenir poem by Mrs Mary Hogg nee Hudspeth to celebrate the foundation of the Society, 1896; lists of speakers and topics, 1955-1973; copy of rules, 1966; order of service for Service of Thanksgiving for the life of Mary Ross Thompson, 24 May 1995.</abstract>
+<physdesc>
+<extent>0.15 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

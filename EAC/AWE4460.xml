@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4460</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-04">2010-03-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4460b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Holt</part>
+<part localType="givenname">Sue</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Farmer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sue Holt was a South Australian regional winner of the ABC Rural Woman if the Year award in 1994.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in S.A.</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1476795">
+<relationEntry>
+Holt, Sue (1940-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Holt, Sue', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Holt, Sue</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4460b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004722.htm">
+<relationEntry localType="published">Book Section: Sue Holt</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bowden, Ros</name>
+<title render="quoted">Sue Holt</title>
+<imprint>
+<place>Sydney</place>
+<publisher>ABC Books</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Women of The Land: Stories of Australia's Rural Women as told to Ros Bowden</title>
+<name type="author">Ros Bowden</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004839.htm">
+<relationEntry localType="published">Resource Section: 1994 ABC Rural Woman of the Year Regional Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1994 ABC Rural Woman of the Year Regional Winners</title>
+<imprint>
+<publisher>ABC Radio &amp; ABC Online</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/previous94.htm#reg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002416.htm">
+<relationEntry localType="archival">Sue Holt interviewed by Ros Bowden in the Women of the land oral history project</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Oral History and Folklore Collection</repository>
+<unittitle>Sue Holt interviewed by Ros Bowden in the Women of the land oral history project</unittitle>
+<unitid>ORAL TRC 3406/13</unitid>
+<abstract>Holt, a farmer, speaks of her childhood, her schooling in Adelaide, her regret of not having done a course in agriculture, the fragility of the land, the Landcare schemes, the growth of Australia's population in the future, the scarcity of fertile land under concrete construction, problems confined to the land: salinity, soil acidity, blue-green algae in dams and rivers, the division between city and country people, her farming period after she left medical school in Adelaide, running commercial cattle, her involvement in the local fire brigade, the Beef Improvement Association, the Breed-plan, her keeping up with the latest technology in breeding cattle, the history of her family, the future of her son and the farm.
+
+Recorded 1995</abstract>
+<physdesc>
+<extent>1 Sound cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

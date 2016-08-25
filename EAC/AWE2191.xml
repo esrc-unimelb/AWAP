@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2191</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-11-14">2006-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2191b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Flintoff-King</part>
+<part localType="givenname">Debbie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Flintoff, Debbie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Track and field athlete</term>
+</occupation>
+<occupation>
+<term>Olympian</term>
+</occupation>
+<occupation>
+<term>Commonwealth or Empire Games gold medalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Debbie Flintoff-King was a hard-working, determined athlete who became an Olympic champion in the grueling 400 meters hurdles event. She won Commonwealth Gold in 1982 and 1986, spent an intense season competing in Europe in 1987, but is best remembered for her last-stride victory in Seoul in 1988.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+<event>Gold Medalist at Brisbane Commonwealth Games - Athletics - 400m Hurdles</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+<event>Competed in Los Angeles</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<event>Gold Medalist at Edinburgh Commonwealth Games - Athletics - 400m Hurdles, 400m</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1988-01-01">1988</fromDate>
+<toDate standardDate="1988-12-31">1988</toDate>
+</dateRange>
+<event>Gold Medalist at the Seoul Olympic Games - Athletics - 400m Hurdles</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-521114">
+<relationEntry>
+Flintoff-King, Debbie (1960-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Flintoff-King, Debbie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Flintoff-King, Debbie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2191b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003847.htm">
+<relationEntry localType="published">Resource: Australia at the Games</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Olympic Committee</name>
+<title render="italic">Australia at the Games</title>
+<imprint>
+<publisher>Australian Olympic Committee</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://corporate.olympics.com.au/index.cfm?p=25"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003727.htm">
+<relationEntry localType="published">Edited Book: The Oxford Companion to Australian Sport</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vamplew, Vray; Moore, Katharine; O'Hara, John; Cashman, Richard; Jobling, Ian</name>
+<title render="italic">The Oxford Companion to Australian Sport</title>
+<edition>Revised Second</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

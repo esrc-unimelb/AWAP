@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0673</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0673b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fritsch</part>
+<part localType="givenname">Berthe Mathilde</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Simpfendor, Berthe Mathilde</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1922-12-31">1922</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Burranduda, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Berthe Mathilde Fritsch (née Simpfendor) was born in 1896 in the Burranduda - Leneva District in Victoria, Australia. Her father was a Lutheran Pastor. She took over the housekeeping duties after her mother died in 1920. She married Walter Fritsch in 1922, moved to New South Wales then back to Victoria, before settling in Adelaide in 1938 at St Stephen,s. There she joined the Lutheran Women's Guild, and the Lutheran Women's Association of South Australia. Fritsch served on the Ladies' Committee of Emmanuel College from 1942-1971 and represented the Lutheran Women's Association at the Women's Jubilee Convention in Canberra in 1951. In 1954 she went to Minneapolis, USA, to the LWF (Lutheran Womens' Federation?) assembly. She had 5 daughters who all graduated from the University of Adelaide.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-755084">
+<relationEntry>
+Fritsch, Berthe Mathilde (1896-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fritsch, Berthe Mathilde', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fritsch, Berthe Mathilde</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0673b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001142.htm">
+<relationEntry localType="archival">Memoirs of 'Mak Le'</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Memoirs of 'Mak Le'</unittitle>
+<unitid>284.1092 FRI</unitid>
+<unitdate>1896 - 1984</unitdate>
+<abstract>Memoirs detail missionary life, life as a minister's wife, and her work with the women's committees. The collection consists of 5 pamphlets privately printed (no publishing details). 'Early Years' (1980): 'Later Years' (1981): 'This, That and the Other' (1982): 'Loose Ends and Knots' (1983): 'Just Memories' (written by her husband, W.W. Fritsch, in 1984)</abstract>
+<physdesc>
+<extent>5 Booklets</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

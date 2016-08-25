@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5545</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-02">2016-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Silbert</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5545b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McGregor</part>
+<part localType="givenname">Katharine Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-05-16">16 May 1903</fromDate>
+<toDate standardDate="1979-06-25">25 June 1979</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Brisbane, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Kangaroo Point, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Katherine McGregor 'looked a picturesque figure in the traditional wig and gown', when she became the first woman in Queensland to be admitted as a barrister, although she never actually practiced as one. She was admitted as a solicitor and a barrister by the Supreme Court of Queensland in October 1926.</abstract>
+<p>Born on 16 May 1903 in South Brisbane, Katharine McGregor received a strict upbringing from her lawyer father. Upon completing her schooling at Brisbane Girls' Grammar School, Katherine won an open scholarship to the University of Queensland where she studied classics. She graduated with first-class honours in 1923, completed a thesis on 'The Island of Samos' for her masterate, and served as honorary secretary of the short-lived Queensland Classical Society.</p>
+<p>Persuaded by her father to carry on the family's legal tradition, Katherine sat the sat the Barristers' Board examinations. As a barrister, she became friends with trailblazing lawyer Agnes McWhinney. Katherine joined her father's law firm where she practised as a solicitor and became a partner in the firm. Katherine set up her own firm in September 1935. From 1939, Katherine worked as a private tutor in Greek and Latin, and as an examiner in classics at secondary and tertiary levels. Softly spoken and nervous, Katherine McGregor was an avid reader. She died on 25 June 1979 in Kangaroo Point.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00323b.htm">
+<relationEntry localType="Person">
+McWhinney, Agnes (1891 - 1987)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McGregor, Katharine Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McGregor, Katharine Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5545b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100913.htm">
+<relationEntry localType="published">Resource Section: McGregor, Katharine Elizabeth (1913-1979)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kenny, Catherine</name>
+<title render="quoted">McGregor, Katharine Elizabeth (1913-1979)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/mcgregor-katharine-elizabeth-10962/text19483"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005750.htm">
+<relationEntry localType="published">Edited Book: A Woman's Place: 100 Years of Queensland Women Lawyers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Purdon, Susan and Rahemtula, Aladin</name>
+<title render="italic">A Woman's Place: 100 Years of Queensland Women Lawyers</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Supreme Court of Queensland Library</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

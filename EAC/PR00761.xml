@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00761</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Janet Butler</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00761b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dow</part>
+<part localType="givenname">Hilda May</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Birth"><part>Grey, Hilda </part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-06-18">18 June 1897?</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Essendon, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Chiltern, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Pharmacist</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Hilda Dow (nee Grey) was the daughter of police magistrate Charles Grey, and sister of Royal Melbourne Hospital Lady Superintendent Helene Grey, OBE.  Hilda Grey became a student of the Victorian College of Pharmacy in 1919. In 1929, she was working at Poynton's pharmacy in Morwell, when she purchased the pharmacy at Chiltern in Victoria. She was elected to the Pharmceutical Society of Victoria as a member in 1930 Hilda apprenticed her husband, Roy Dow, and the two ran the pharmacy in Chiltern until 1968, when they closed the doors. In 1988 Mrs Dow donated the pharmacy, which had been operating on the site since 1859, intact to the National Trust, and it is now a museum. Hilda Dow was a foundation member of the North East branch of the National Trust, a member of the hospital committee and board, of the Infant Welfare Centre and the Red Cross, and a member and office bearer of the Chiltern Branch of the County Women's Association.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0143b.htm">
+<relationEntry localType="Person">
+Grey, Helene Dorothy (1895 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477487">
+<relationEntry>
+Dow, Hilda May (18970618-19911231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dow, Hilda May', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dow, Hilda May</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00761b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00816.htm">
+<relationEntry localType="published">Pamphlet: 'Dow's Pharmacy:  A Brief History of the Chemist's Shop in Conness Street'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Trust of Australia (Victoria)</name>
+<title render="italic">'Dow's Pharmacy:  A Brief History of the Chemist's Shop in Conness Street'</title>
+<imprint>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00752.htm">
+<relationEntry localType="archival">'Women Who Have Achieved'</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Wodonga Historical Society</repository>
+<unittitle>'Women Who Have Achieved'</unittitle>
+<abstract>Biographical details of women who have contributed to Albury/Wodonga, with names of informants</abstract>
+<physdesc>
+<extent>1 File</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00815.htm">
+<relationEntry localType="archival">Dow's Pharmacy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Dow's Pharmacy</unittitle>
+<abstract>Dow's Pharmacy is preserved as it was when Hilda and Roy Dow closed its doors for the last time in 1968. The second pharmacy on the same site, the building dates from 1868, and many artefacts date back to this time. There are also letters, photographs and documents, including prescription books and reference texts, which record the Dows' professional and personal lives,and their involvement in their local community.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00814.htm">
+<relationEntry localType="archival">Chiltern Athenaeum Trust Museum Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Chiltern Athenaeum Trust Museum Records</unittitle>
+<abstract>Photographs and other records relating to Dow's pharmacy; plaque commemorating Dow family.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00810.htm">
+<relationEntry localType="archival">Pharmacy Board of Victoria Record Series</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>Pharmacy Board of Victoria Record Series</unittitle>
+<unitid>Agency VA 1349</unitid>
+<unitdate>1877 - </unitdate>
+<abstract>Register of Apprentices for Indenture, Miscellaneous Subject Files, Minute Books, Correspondence, Letter Books, Legal Opinions, Financial Statements, Examination Results, Annual Reports, Register of Apprentices, Ledger, Index to Minutes, 10/- Licence District Register (poison), Lists of Chemists in Business, Signature Book.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00762.htm">
+<relationEntry localType="archival">Pharmaceutical Society of Victoria - Archives</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Pharmaceutical Society of Victoria - Archives</unittitle>
+<unitid>MS 9601 </unitid>
+<unitdate>c. 1857 - c. 1955</unitdate>
+<abstract>Registers, minute books, annual reports, correspondence, recipe books, syllabi, examination questions, memorabilia, prescription books, price lists, obituaries, biographical records, notes on historical pharmacies, press cuttings, miscellaneous documents, photographs.</abstract>
+<physdesc>
+<extent>1.60000002384186 m, 28 Boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

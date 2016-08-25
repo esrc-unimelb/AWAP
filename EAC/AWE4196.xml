@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4196</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-10">2009-06-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4196b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gibbons</part>
+<part localType="givenname">Geraldine Scholastica</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Mother Scholastica</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1817-01-01">1817</fromDate>
+<toDate standardDate="1901-10-15">15 October 1901</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kinsale, Cork, Ireland</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Marrickville, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Religious sister</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born and educated in Ireland, Geraldine Gibbons arrived in Sydney, New South Wales with her family in 1834. She and a sister joined the newly-arrived Sisters of Charity, and on 17 July 1847 Geraldine was professed as Scholastica, beginning work in the Female Factory at Parramatta. On 9 April 1848 she went to Sydney to establish a home for penitent women in Campbell Street. The home was moved to Carter's Barracks in Pitt Street in March 1849.
+
+At around the same time, the Archbishop of Sydney, John Bede Polding decided to found an order following Benedictine rules but suited to Australian conditions. He found a group of volunteers and requested Mother Scholastica to be superior of both orders. On 2 February 1857 she helped to establish the Community of the Good Shepherd which took the name of the Good Samaritan to avoid confusion with a similar congregation in Europe. She acted as a Novice Mistress and Superior for the Good Samaritans for nearly ten years, wearing the habit of the Charity order while living with the Good Samaritans. Both the Samaritans and the Sisters of Charity prospered under her leadership.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4193b.htm">
+<relationEntry localType="Corporate Body">
+Sisters of the Good Samaritan
+</relationEntry>
+<descriptiveNote>
+<p>Mother Scholastica Gibbons acted as a Novice Mistress and Superior at the Sisters of the Good Samaritan for nearly ten years</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762057">
+<relationEntry>
+Gibbons, Geraldine Scholastica (1817-1901)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gibbons, Geraldine Scholastica', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gibbons, Geraldine Scholastica</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4196b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004563.htm">
+<relationEntry localType="published">Book: The wheeling years : Sisters of the Good Samaritan, 1857-1957</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Sisters of the Good Samaritan</name>
+<title render="italic">The wheeling years : Sisters of the Good Samaritan, 1857-1957</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Sisters of the Good Samaritan</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002283.htm">
+<relationEntry localType="archival">Archives of the Sisters of the Good Samaritan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Archives of the Sisters of the Good Samaritan</repository>
+<unittitle>Archives of the Sisters of the Good Samaritan</unittitle>
+<unitdate>1857</unitdate>
+<abstract>The Good Samaritan Archives contains the records generated by the administrative body of the Sisters of the Good Samaritan and institutions (schools, orphanages, homes for the aged and disadvantaged, womens refuges) for which the Sisters were/are responsible in Australia, in Post World War II Japan, in Kiribati and the Philippines.
+
+Major holdings include:
+
+<list><item>In-House documents from the General Administration Offices of the Sisters of the Good Samaritan. These may be accessed only with the permission of the Superior.</item>
+<item>Documents relating to institutions for which the Sisters of the Good Samaritan are responsible. </item>
+   <item>Admission Registers and other documents relating to: 
+   <item>Parramatta Roman Catholic Orphan School: 1877 - 1886</item>
+   <item>Manly Industrial School/Orphanage: 1881 - 1910</item>
+   <item>Pitt street Womens Refuge Sydney: 1857 - 1901</item>
+   <item>(House of the Good Shepherd)</item>
+   <item>St Magdalens Retreat, Tempe, Arncliffe: 1887-1989</item>
+   <item>Buckingham St, St Magdalens Refuge: 1903 - 1946</item>
+   <item>Good Samaritan Teachers Training College: 1905 - 1983</item></item>
+<item>Brief histories and correspondence relating to convents and schools for which the Good Samaritan Sisters are responsible.</item>
+<item>Photographs, films, slides, videos, memorabilia relating to the above.</item>
+<item>Theses and private publications of Good Samaritan Sisters.</item>
+</list></abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

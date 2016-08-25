@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0607</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-20">2003-10-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0607b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Munro</part>
+<part localType="givenname">Dorothy Jean</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Otter, Dorothy</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1921-12-27">27 December 1921</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-12-27">27 December 1921</fromDate>
+<toDate standardDate="2011-04-30">April 2011</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Glebe Point, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dorothy Munro (née Otter) worked as a secretary in the New South Wales Valuer Generals Department before enrolling in the Women's Royal Australian Naval Service (WRANS) on 12 May 1943. During her service she was a secretary at the Fairmile Training School and had postings at both HMAS <span style="font-style:italic">Penguin</span> and HMAS <span style="font-style:italic">Rushcutter.</span> She achieved the rank of Petty Officer before being discharged on 31 January 1946.
+
+During 1946 Dorothy married and did not return to the work force until all three of her children were at school. Before retiring in 1983, she held several secretarial positions including secretary to general managers and department head. Following her discharge from the WRANS, Munro joined the Naval Association of Australia and participated in social activities and memorial services. After her retirement she became a committee member of the WRANS. In 1990 Munro joined the office staff of the Naval Association first as an office assistant, then as assistant State secretary and finally State secretary before retiring in February 2002. In June of 2002 she became president of the Ex-Women's Royal Naval Service (NSW)</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0390b.htm">
+<relationEntry localType="Corporate Body">
+Ex-Women's Royal Australian Naval Service (NSW) (1968 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0390b.htm">
+<relationEntry localType="Corporate Body">
+Ex-Women's Royal Australian Naval Service (NSW) (1968 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2002-06-01">June 2002</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0387b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Naval Service (WRANS) (1941 - 1984)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-05-12">12 May 1943</fromDate>
+<toDate standardDate="1946-01-31">31 January 1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762080">
+<relationEntry>
+Munro, Dorothy Jean (1921-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Munro, Dorothy Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Munro, Dorothy Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0607b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002174.htm">
+<relationEntry localType="published">Resource Section: OTTER, DOROTHY JEAN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">OTTER, DOROTHY JEAN</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1152438"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

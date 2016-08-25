@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2156</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-06-29">2006-06-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-25">2015-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2156b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cunningham</part>
+<part localType="givenname">Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Crosby, Catherine</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1988-12-31">1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Randwick</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Typist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catherine Cunningham ran for the seat of Coogee, Sydney, in 1948. Her campaign was unsuccessful, but she continued to take a strong interest in politics at local, state and federal levels.</abstract>
+<p>Catherine Crosby was in charge of the typing pool at the Government Printing Office before she married Lucien Cunningham in 1927 at Randwick. The pair had two sons, John and Tony.</p>
+<p>Lucien Cunningham was a member for Coogee from 1941 until his death in 1948. That same year, Catherine stood for the seat of Coogee herself, representing the ALP in the by-election. It was a bitter preselection with at least two other candidates vying for the position. Two further contenders, Harry Jensen and Lou Walsh, withdrew from the ballot, but ultimately Catherine was unsuccessful. The seat was won by Kevin Ellis (Lib).</p>
+<p>Following John's expulsion from the Labor Party, Catherine and her son began to actively support the DLP. Eventually, John ran for the DLP at both federal and state levels. Coogee was one of the Sydney areas in which the ALP split resonated with particular strength, and the Cunningham family were prominent figures in that dispute.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-697051">
+<relationEntry>
+Cunningham, Catherine (1897-1988)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cunningham, Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cunningham, Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2156b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
