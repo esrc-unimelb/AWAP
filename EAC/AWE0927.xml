@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0927</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-22">2004-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0927b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Steele-Scott</part>
+<part localType="givenname">Kathleen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Producer</term>
+</occupation>
+<occupation>
+<term>Actor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kathleen Steele-Scott was born in London and grew up in Yorkshire. The family moved to Birkenhead after World War I and she developed a real interest in the theatre. She went to Hamburg after school and had singing lessons there. On her return she joined the Workhamsford Operatic and Dramatic Society. She met her Australian husband at one of her aunt's boarding houses and the family travelled to Australia for her wedding, visiting her brother in Malta on the way. She began working at the Adelaide Repertory Company in 1946 and produced Britten's opera "Albert Herring". She acted in the 'Ham Funeral' in 1961 and produced 'The Telephone' and 'The Turn of the Screw' with the Intimate Opera Company. In 1972 the company drew up a constitution and the government made a grant to pay an administrator. In 1991 'Through the Opera Glass' was published. The company had grown and become the State Opera of South Australia.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756067">
+<relationEntry>
+Steele-Scott, Kathleen (1910-1998)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Steele-Scott, Kathleen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Steele-Scott, Kathleen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0927b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001514.htm">
+<relationEntry localType="archival">Interview with Kathleen Steele-Scott [sound recording] Interviewer: Barbara Drake</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Kathleen Steele-Scott [sound recording] Interviewer: Barbara Drake</unittitle>
+<unitid>SRG 438/29/56</unitid>
+<unitdate>24 October 1997</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Kathleen Steele-Scott was born in London in 1910 and grew up in Yorkshire. The family moved to Birkenhead after World War I and she developed a real interest in the theatre. She went to Hamburg after school and had singing lessons there. On her return she joined the Workhamsford Operatic and Dramatic Society. She met her Australian husband at one of her aunt's boarding houses and the family travelled to Australia for her wedding, visiting her brother in Malta on the way. She began working at the Adelaide Repertory Company in 1946 and produced Britten's opera "Albert Herring". She acted in the 'Ham Funeral' in 1961 and produced 'The Telephone' and 'The Turn of the Screw' with the Intimate Opera Company. In 1972 the company drew up a constitution and the government made a grant to pay an administrator. In 1991 'Through the Opera Glass' was published. The company had grown and become the State Opera of South Australia.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

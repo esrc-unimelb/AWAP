@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2720</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-07-19">2007-07-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2720b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ladies Literary Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Scribblers</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-11-21">21 November 1911</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Writers group</term>
+</function>
+</functions>
+<biogHist>
+<abstract>In 1911, 32 women came together to form a Literary Society. They were intelligent, creative and active women who contributed significantly to the social and cultural life of Brisbane at the time. These women were not only writers but worked in many charitable, feminist and cultural spheres. They were travellers and observers. They contributed to the Comforts Fund in World War I and were active in women's suffrage movements. Some held a prominent social status by virtue of their husbands' occupations in academia, medicine, law, civil service and the professions, but - until recently - little was known of the contribution of the women themselves. Jean Stewart's <span style="font-style:italic">Scribblers: A Ladies Literary Society in Brisbane, 1911</span> was published in 2007 by Kingswood Press.</abstract>
+<h4>Members of Scribblers, 1911-1912</h4>
+<list><item>Mary Elkington</item>
+<item>Christina Corrie/Thynne</item>
+<item>Caroline, Lady Macartney</item>
+<item>Hermiene Ulrich/Parnell</item>
+<item>Mary Cullen</item>
+<item>Evelyn Drury</item>
+<item>Lucy Wilton Love</item>
+<item>Christina Sandford Jackson</item>
+<item>Mary Gibson</item>
+<item>Trucaninni Corrie</item>
+<item>Annie Turner</item>
+<item>Zina Cumbrae-Stewart</item>
+<item>Katherine Needham</item>
+<item>Selina Rivers</item>
+<item>Kate Lilley</item>
+<item>Lilian Cholmeley</item>
+<item>Jane Bourne</item>
+<item>Dr Eleanor Bourne</item>
+<item>Jessie Murphy</item>
+<item>Naomi Waugh</item>
+<item>Edith Dickson</item>
+<item>Kate Gall</item>
+<item>Getrude Pattinson</item>
+<item>Amy Steele</item>
+<item>Lillian Bernays</item>
+<item>Elizabeth Baker</item>
+<item>Grace Bond</item>
+<item>Maria Lightoller</item>
+<item>Amy Norton</item>
+<item>Eva Hockings/McLay</item>
+<item>Edith Wassell</item>
+<item>Mary, Lady MacGregor</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-752079">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ladies Literary Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ladies Literary Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2720b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003873.htm">
+<relationEntry localType="published">Book: Scribblers: A Ladies Literary Society in Brisbane, 1911</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stewart, Jean</name>
+<title render="italic">Scribblers: A Ladies Literary Society in Brisbane, 1911</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Kingswood Press (J &amp; D Stewart)</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

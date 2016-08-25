@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1075</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-22">2004-09-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1075b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Society of Women Writers Victoria Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Society of Women Writers (Australia) Victorian Branch</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Arts organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Society of Women Writers Victoria Inc. was formed in 1970 with the aim of drawing together women engaged in writing. By 1971 the society claimed 35 members and in 1973 it began producing its own newsletter. By 1974 membership increased to over 80. Initially affiliated with the existing Society of Women Writers in New South Wales, in 1980 a federal body, The Society of Women Writers (Australia), was formed with the state societies becoming branches. In 2000 the federal body was disbanded and the state socieies became independent incorporated bodies.
+
+As of 2004 the Society's website described its aims and activities thus:
+'The main aim of SWWV is to draw together women engaged in the writing profession and to strengthen ties between women writers in Australia and overseas. SWWV seeks to do this by the regular conduct of: workshops, poetry and prose readings, seminars, conferences, book launches and literary competitions.' It also runs postal workshops.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1073b.htm">
+<relationEntry localType="Corporate Body">
+Society of Women Writers (Australia) (1980 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-562187">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Society of Women Writers Victoria Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Society of Women Writers Victoria Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1075b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003321.htm">
+<relationEntry localType="published">Newsletter: Newsletter / The Society of Women Writers (Australia), Victorian Branch</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Newsletter / The Society of Women Writers (Australia), Victorian Branch</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Branch</publisher>
+<date>1975-1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003319.htm">
+<relationEntry localType="published">Book: Equal to the occasion : a scrapbook of vignettes illustrating the life-style of women in Victoria over the last 150 years / collected by the Society of Women Writers (Aust.) Victorian Branch to celebrate the sesqui centenary of Victoria, 1835-1985 ; with an introduction by Lady Hamer.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Equal to the occasion : a scrapbook of vignettes illustrating the life-style of women in Victoria over the last 150 years / collected by the Society of Women Writers (Aust.) Victorian Branch to celebrate the sesqui centenary of Victoria, 1835-1985 ; with an introduction by Lady Hamer.</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cole Publications</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003309.htm">
+<relationEntry localType="published">Newsletter: Write away / The Society of Women Writers Victoria Inc.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Write away / The Society of Women Writers Victoria Inc.</title>
+<imprint>
+<place>Melbourne/Carrum</place>
+<publisher>The Society</publisher>
+<date>1976-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

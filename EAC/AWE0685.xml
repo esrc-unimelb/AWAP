@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0685</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-30">2004-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-04">2015-09-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0685b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Richardson</part>
+<part localType="givenname">Isobel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Indianapolis, United States</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Isobel Richardson was born in Indianapolis in the United States. The family moved to South Australia when Isobel was four years old and, by the time she began secondary school at the Walford Anglican School for Girls, had settled in Blackwood. Isobel trained as a nurse and specialised in infant welfare, working for many years with the Mothers' and Babies' Health Association. She became involved with the Oxford Group and Moral Re-Armament (MRA). The movement's emphasis on self-knowledge, moral absolutes, the involvement of people of all faiths and nationalities, and working on a global scale responded to Isobel's needs and interests. After her retirement Richardson worked at the MRA centre at Panchgani in India.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766067">
+<relationEntry>
+Richardson, Isobel (1921-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Richardson, Isobel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Richardson, Isobel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0685b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001159.htm">
+<relationEntry localType="archival">Interview with Isobel Richardson [sound recording] Interviewer: June Donovan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Isobel Richardson [sound recording] Interviewer: June Donovan</unittitle>
+<unitid>OH 250/9</unitid>
+<abstract>Isobel Richardson was born in Indianapolis in the United States. The family returned to South Australia when Isobel was four years old and, by the time she began secondary school at the Walford Anglican School for Girls, had settled in Blackwood. Isobel trained as a nurse and specialised in infant welfare, working for many years with the Mothers' and Babies' Health Association. She explains how she first heard about the Oxford Group and Moral Rearmament. The movement's emphasis on self-knowledge, moral absolutes, the involvement of people of all faiths and nationalities, and working on a global scale responded to Isobel's needs and interests. She describes her involvement with MRA which has, after her retirement, working at the MRA centre at Panchgani in India. She speaks of other South Australians involved in MRA and comments that many traditional MRA issues, such as Australia's relationship to Asia, are now concerns of the wider community.
+
+Recorded on 8 April 1994, 1 hour 10 minutes.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0347</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-03-27">2002-03-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0347b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Martin</part>
+<part localType="givenname">Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Costume designer</term>
+</occupation>
+<occupation>
+<term>Production designer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catherine Martin won two Oscars for costume design and art direction <span style="font-style:italic">(Moulin Rouge)</span> at the 2002 Academy Awards. At the 2001 Australian Film Institute (AFI) Awards she was the winner of the 'GMD AFI Award for Best Production Design' and joint winner of 'The Kirketon AFI Award for Best Costume Design.'</abstract>
+<p>Martin worked in costume design at the Stables Theatre in Sydney's Kings Cross before completing her Diploma of Design at the National Institute of Dramatic Art (NIDA) in 1998.</p>
+<p>At NIDA Martin met her husband, film director Mark Anthony (Baz) Luhrmann, and the pair were married on 26 January 1997.</p>
+<p>Martin's costume/production credits include: <span style="font-style:italic">La Boheme, Strictly Ballroom, Romeo &amp; Juliet</span> (for which she was nominated for an Academy Award) and <span style="font-style:italic">Moulin Rouge.</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-738098">
+<relationEntry>
+Martin, Catherine (1965-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Martin, Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Martin, Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0347b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000722.htm">
+<relationEntry localType="published">Newspaper Article: A Designing Woman</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Romei, Stephen</name>
+<title render="quoted">A Designing Woman</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">The Australian</title>
+<num type="issue">Preview</num>
+<num type="pages">17-18</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000720.htm">
+<relationEntry localType="published">Resource Section: Catherine Martine : Biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Catherine Martine : Biography</title>
+<imprint>
+<publisher>Hollywood.com Inc</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.hollywood.com/celebs/detail/celeb/187459"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

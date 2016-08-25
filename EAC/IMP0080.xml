@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0080</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-08-23">2002-08-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0080b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Owen</part>
+<part localType="givenname">Gladys Mary</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1889-07-01">1 July 1889</fromDate>
+<toDate standardDate="1960-07-18">18 July 1960</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+<occupation>
+<term>Social worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Gladys Owen, born into a distinguished Sydney legal family, is best remembered as a painter and print-maker; however, she was a founding member of the New South Wales branch of the Australian Red Cross Society in 1913, and 'inherited a fluency in public speaking and tenacity in advocacy and lobbying' (<span style="font-style:italic">Heritage</span>). The <span style="font-style:italic">Sydney Morning Herald</span>, reviewing her 1922 art exhibition, noted that Owen's 'patriotic activities during the war diminished the importance of her contributions to the art life of the State' (20 March 1922, p.5). It was for these services she was appointed OBE (Officer of The Order of the British Empire) in 1918. Owen was the founding joint honorary secretary (1914-1927) of the Society's New South Wales branch and became a vice-president in 1927. According to the <span style="font-style:italic">Australian Dictionary of Biography</span> entry on her husband, fellow artist John Moore, Owen's commitment to the Red Cross and advocacy in social work was life long: 'She was a director of the civil section of the Women's Australian National Service in 1940, a council-member of the State division of the Red Cross 1940-49 and of national headquarters in 1943-49, and honorary secretary of the State Red Cross Field Service in 1941-43. From 1950 she was president of the Council of Social Service of New South Wales'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0717b.htm">
+<relationEntry localType="Corporate Body">
+Youth and Education Services, Australian Red Cross (1914 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1944-01-01">c. 1944</fromDate>
+<toDate standardDate="1945-08-14">14 August 1945</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Australian Red Cross Chairman of National Junior Red Cross</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743061">
+<relationEntry>
+Owen, Gladys Mary (1889-1960)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Owen, Gladys Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Owen, Gladys Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0080b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001068.htm">
+<relationEntry localType="published">Book: The art of Gladys Owen Moore, OBE (1889-1960): an exhibition in retrospect, arranged by Scott Erickson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Erickson, Scott</name>
+<title render="italic">The art of Gladys Owen Moore, OBE (1889-1960): an exhibition in retrospect, arranged by Scott Erickson</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Australian Red Cross Society</publisher>
+<date>c1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001066.htm">
+<relationEntry localType="published">Resource Section: Moore, John Drummond Macpherson (1888-1958)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Flower, Cedric</name>
+<title render="quoted">Moore, John Drummond Macpherson (1888-1958)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100553b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001065.htm">
+<relationEntry localType="published">Book: The Ladies' picture show: sources on a century of Australian  women artists</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ambrus, Caroline</name>
+<title render="italic">The Ladies' picture show: sources on a century of Australian  women artists</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hale and Iremonger</publisher>
+<date>c1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001064.htm">
+<relationEntry localType="published">Book Section: Owen, Gladys Mary (1889-1960), painter, print-maker, embroiderer, radio presenter and programmer, social worker, public speaker and arts administrator</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newton, Gael</name>
+<title render="quoted">Owen, Gladys Mary (1889-1960), painter, print-maker, embroiderer, radio presenter and programmer, social worker, public speaker and arts administrator</title>
+<imprint>
+<place>Roseville East, NSW</place>
+<publisher>Craftsman House</publisher>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Heritage: The National Women's Art Book</title>
+<name type="author">Kerr, Joan</name>
+<num type="pages">422</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002273.htm">
+<relationEntry localType="published">Newspaper Article: A life swimming hard for political equality</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Owen, Mary R and Graham, Janet</name>
+<title render="quoted">A life swimming hard for political equality</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="issue">Obituaries</num>
+<num type="pages">9</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001067.htm">
+<relationEntry localType="published">Book: Advice to soldiers and their dependents, compiled by Gladys Owen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Owen, Gladys</name>
+<title render="italic">Advice to soldiers and their dependents, compiled by Gladys Owen</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New South Wales Recruiting Committee</publisher>
+<date>1917</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100357.htm">
+<relationEntry localType="published">Resource Section: Owen, Gladys Mary (1889-1961)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Owen, Gladys Mary (1889-1961)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110725b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000379.htm">
+<relationEntry localType="archival">Wood engravings by Gladys Owen, 1920s-1950s and woodcut by Maud Sherwood, 1920s-1930s</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of New South Wales</repository>
+<unittitle>Wood engravings by Gladys Owen, 1920s-1950s and woodcut by Maud Sherwood, 1920s-1930s</unittitle>
+<unitid>PXD 765</unitid>
+<unitdate>1920s - 1950s</unitdate>
+<physdesc>
+<extent>14 artworks</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000378.htm">
+<relationEntry localType="archival">Biographical cuttings on Gladys Owen, artist</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Gladys Owen, artist</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

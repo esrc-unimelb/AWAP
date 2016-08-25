@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0080</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-14">2001-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell and Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0080b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Neumann</part>
+<part localType="givenname">Hanna</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Johanna von Caemmerer</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-02-12">12 February 1914</fromDate>
+<toDate standardDate="1971-11-14">14 November 1971</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Lankwitz, Berlin, Germany</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Ottawa, Canada</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Mathematician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Hanna Neumann was Professor and Head of the Department of Pure Mathematics, School of General Studies, Australian National University from 1964-71. Previously she worked as Lecturer and Senior Lecturer in Mathematics at the University of Hull and University of Manchester Institute of Science and Technology, 1946-63.
+
+Neumann became a Fellow of the Australian Academy of Science in 1969.</abstract>
+<p>Neumann completed her D. Phil. At Oxford in 1944. She typed her thesis on a card table by a haystack when the weather permitted. Much of it was written in a caravan by candlelight. This was the only accommodation she could find in Oxford during World War Two.<br />
+She completed her education in Germany, at the Auguste-Viktoria-Schule and the University of Berlin. In 1938 she joined her fiance, Bernhard Hermann Neumann in Britain. A Jewish refugee from Germany, he held a lectureship in mathematics at the University College of South Wales and Monmouthshire, Cardiff. They were married on 22 December 1938 and went on to have five children.<br />
+In Australia as Professor of Pure mathematics at the Australian National University, she quickly became involved with secondary school teachers in the implementation of the mathematics syllabus for the Wyndham scheme in New South Wales. Together with a colleague in the first term of 1964, they ran a once-a-week course for teachers entitled 'The language of sets in school mathematics'. She maintained a direct involvement with secondary teachers of mathematics for the rest of her life.<br />
+Her own research was focused mainly on group theory; on problems related to free products with amalgamations, embeddings and varieties of groups. In her entry for the Australian Dictionary of Biography Kenneth Fowler stated that 'she found joy and beauty in the study of mathematics'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-510077">
+<relationEntry>
+Neumann, Hanna (1914-1971)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Neumann, Hanna', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Neumann, Hanna</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0080b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000097.htm">
+<relationEntry localType="published">Article: Neumann, Hanna - AAS Biographical Memoir 3 (2), 1975.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newman M.F. and Wall G.E.</name>
+<title render="quoted">Neumann, Hanna - AAS Biographical Memoir 3 (2), 1975.</title>
+<imprint>
+<publisher>Australian Science Archives Project</publisher>
+<date>1975</date>
+</imprint>
+<bibseries>
+<title render="italic">Records of the Australian Academy of Science</title>
+<num type="volume">3</num>
+<num type="issue">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/aasmemoirs/neumann.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000096.htm">
+<relationEntry localType="published">Journal Article: Hanna Neumann [Includes list of publications]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wall, G. E.</name>
+<title render="quoted">Hanna Neumann [Includes list of publications]</title>
+<imprint>
+<date>1974</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of Australian Mathematical Society</title>
+<num type="volume">17</num>
+<num type="issue">1</num>
+<num type="pages">1-28</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000095.htm">
+<relationEntry localType="published">Journal Article: Hanna Neumann (1914-1971)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walker, Rosanne</name>
+<title render="quoted">Hanna Neumann (1914-1971)</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Australasian Science</title>
+<num type="volume">22</num>
+<num type="issue">1</num>
+<num type="pages">46</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000094.htm">
+<relationEntry localType="published">Journal Article: Hanna Neuman</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newman, M. F. and Wall, G. E.</name>
+<title render="quoted">Hanna Neuman</title>
+<imprint>
+<date>1975</date>
+</imprint>
+<bibseries>
+<title render="italic">Records of the Australian Academy of Science</title>
+<num type="volume">3</num>
+<num type="issue">2</num>
+<num type="pages">59-87</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000093.htm">
+<relationEntry localType="published">Book Section: Hanna Neumann (1914-1971)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newman, Michael F</name>
+<title render="quoted">Hanna Neumann (1914-1971)</title>
+<edition>156-160</edition>
+<imprint>
+<place>New York</place>
+<publisher>Greenwood Press</publisher>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Women of Mathematics: A Bibliographic Sourcebook</title>
+<name type="author">Louise S. Grinstein and Paul J. Campbell</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000064.htm">
+<relationEntry localType="archival">Hanna Neumann - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Adolph Basser Library, Australian Academy of Science</repository>
+<unittitle>Hanna Neumann - Records</unittitle>
+<unitid>MS 88</unitid>
+<unitdate>1964 - 1972</unitdate>
+<abstract>Personal and scientific correspondence with papers relating to scientific organisations, associations and publishers including the Australian Mathematical Society and its Journal, the Australian National University Science Society and the Australian Association of Mathematics Teachers 1964-72 [90 cm, MS 88].</abstract>
+<physdesc>
+<extent>0.9 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00731.htm">
+<relationEntry localType="digitalObject">Professor and Head of Department of Pure Mathematics in the Australian University's School of General Studies, Professor Hanna Neumann</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian National University (ANU). Photographer unknown. Used with permission.</repository>
+<unittitle>Professor and Head of Department of Pure Mathematics in the Australian University's School of General Studies, Professor Hanna Neumann</unittitle>
+<unitdate>1964</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

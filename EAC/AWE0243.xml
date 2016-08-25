@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0243</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-01-23">2002-01-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0243b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tangney</part>
+<part localType="givenname">Dorothy Margaret</part>
+<part localType="honorific title">Dame, DBE, BA, DipEd.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-03-13">13 March 1911</fromDate>
+<toDate standardDate="1985-06-01">1 June 1985</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In the Queen's Birthday list (8 June 1968) Dorothy Tangney became the first Western Australian born woman to be appointed Dames Commander of the British Empire for services to the Western Australia Parliament. She was a senator for Western Australia in the Senate of the Australian Parliament from 1943 until she retired in 1968.</abstract>
+<p>A former schoolteacher Dorothy Tangney became the first woman member of the Australian Senate. An advocate for health and welfare, she served on the Joint Committee on Social Security 1943-1946 and served as a senator from 1943 until she retired in 1968. Dorothy Tangney featured on the 45c stamp (1973) and the electoral division of Tangney in Western Australia is named after her. Also in 1999 the street, formerly known as Administration Place (Canberra), was changed to Dorothy Tangney Place. In the Queen's Birthday list (8 June 1968) Dorothy Tangney became the first Western Australian born woman to be appointed Dames Commander of the British Empire for services to the Western Australian Parliament.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0054b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Melbourne) (1912 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728052">
+<relationEntry>
+Tangney, Dorothy Margaret
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tangney, Dorothy Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tangney, Dorothy Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0243b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00608.htm">
+<relationEntry localType="published">Thesis: Australia's first woman senator: Dorothy Tangney B.A., Dip. Ed </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wall, Judith</name>
+<title render="quoted">Australia's first woman senator: Dorothy Tangney B.A., Dip. Ed </title>
+<imprint>
+<place>Perth</place>
+<publisher>Teacher's Higher Certificate Thesis</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00607.htm">
+<relationEntry localType="published">Book Section: Dorothy Tangney - biography and reproducation of key parliamentary speech</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, Judyth [ed.]</name>
+<title render="quoted">Dorothy Tangney - biography and reproducation of key parliamentary speech</title>
+<imprint>
+<place>Perth</place>
+<publisher>Australian Labor Party (Western Australian Branch)</publisher>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">We Hold Up Half the Sky: The Voices of Western Australian ALP Women in Parliament</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00606.htm">
+<relationEntry localType="published">Journal Article: Commemoration biography of Dorothy Tangney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lawrence, Carmen</name>
+<title render="quoted">Commemoration biography of Dorothy Tangney</title>
+<imprint>
+<date>1991</date>
+</imprint>
+<bibseries>
+<title render="italic">Papers in Labour History</title>
+<num type="volume">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004737.htm">
+<relationEntry localType="published">Book: So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</title>
+<imprint>
+<place>Leichhardt, NSW</place>
+<publisher>The Federation Press</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004577.htm">
+<relationEntry localType="published">Book: No ordinary lives: pioneering women in Australian politics</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jenkins, Cathy</name>
+<title render="italic">No ordinary lives: pioneering women in Australian politics</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001575.htm">
+<relationEntry localType="published">Book: Reflections : profiles of 150 women who helped make Western Australia's history; Project of the Womens Committee for the 150th Anniversary Celebrations of Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Popham, Daphne; Stokes, K.A.; Lewis, Julie</name>
+<title render="italic">Reflections : profiles of 150 women who helped make Western Australia's history; Project of the Womens Committee for the 150th Anniversary Celebrations of Western Australia</title>
+<imprint>
+<place>Perth, Melbourne [etc.]:</place>
+<publisher>Carrolls</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000833.htm">
+<relationEntry localType="published">Resource Section: List of Electoral Divisions Named After Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Electoral Commission</name>
+<title render="quoted">List of Electoral Divisions Named After Women</title>
+<extptr linktype="simple" href="http://www.aec.gov.au/history/women/women3.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000205.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1983</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Draper, W J</name>
+<title render="italic">Who's Who in Australia 1983</title>
+<edition>24</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000177.htm">
+<relationEntry localType="published">Edited Book: Monash Biographical Dictionary of 20th Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Arnold, John and Morris, Deirdre</name>
+<title render="italic">Monash Biographical Dictionary of 20th Century Australia</title>
+<imprint>
+<place>Port Melbourne (Vic.)</place>
+<publisher>Reed Reference Publishing</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000213.htm">
+<relationEntry localType="archival">Papers of Dorothy Margaret Tangney, 1938-1986</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Dorothy Margaret Tangney, 1938-1986</unittitle>
+<unitid>MS 7564</unitid>
+<unitdate>1938 - 1986</unitdate>
+<abstract>The papers deal inter alia with the Australian Labor Party, the development of Canberra, bank nationalisation, social services, development projects in Western Australia, immigration and international affairs.</abstract>
+<physdesc>
+<extent>4.9 m, 39 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000214.htm">
+<relationEntry localType="archival">Parliamentarians' questionnaires</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Parliamentarians' questionnaires</unittitle>
+<unitid>MS 8806</unitid>
+<unitdate>1982 - 1983</unitdate>
+<abstract>In 1982, biographical information was sought from all Members and Senators of the Parliament of Australia. Responses were received from 154 parliamentarians. The questions cover basic biographical data, and also seek information on political influences, aims and achievements, perceived improvements to the political process, the Parliamentary committee system and career since politics.</abstract>
+<physdesc>
+<extent>0.05 m, 5 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

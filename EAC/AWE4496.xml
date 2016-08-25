@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4496</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-04-19">2010-04-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4496b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Davies</part>
+<part localType="givenname">Mitty</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Davies, Beatrice</part>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Farmer</term>
+</occupation>
+<occupation>
+<term>Volunteer</term>
+</occupation>
+<occupation>
+<term>Community stalwart</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mitty Davies was a regional winner of the ABC Rural Woman of the Year award in 1997. She represented the Broken Hill region in New South Wales. A full partner in a specialist wool growing farm enterprise, she was involved in the day to day management of two properties, 80,000 hectare Murtee Station and 28,000 hectare Oxford. Both properties, at the time of her nomination, carried a total of 26,000 sheep. It was a steep learning curve for a girl born and raised on the New South Wales coast who had never been past the Blue Mountains when she married a farmer from Wilcannia in the 1980s!
+
+Mitty's hard work did not end at the farm gate. In 2009, she received a Queen's Birthday honour for her long and distibguished record of service to the community. She has been a member of the Wilcannia and District Hospital Board and a member of the Far West Advisory Council. She was the Wilcannia and District hospital Board Treasurer and later the Chairman. She was elected the NSW Section Councillor of the Royal Flying Doctor Service and was the Chair of the Regional RFDS Advisory Committee. She also served on the board of the Isolated Children's Parents Association.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<event>Nominated for ABC Rural Woman of the Year in NSW</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2009-06-01">June 2009</fromDate>
+<toDate standardDate="2009-06-30">June 2009</toDate>
+</dateRange>
+<event>Queen's Birthday Honour recipient</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477517">
+<relationEntry>
+Davies, Mitty
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Davies, Mitty', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Davies, Mitty</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4496b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004763.htm">
+<relationEntry localType="published">Resource: Queen's Birthday Honours 2009</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Rural Radio</name>
+<title render="italic">Queen's Birthday Honours 2009</title>
+<imprint>
+<publisher>ABC Radio &amp; ABC Online</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/nsw/content/2009/06/s2592211.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004740.htm">
+<relationEntry localType="published">Resource Section: 1997 ABC New South Wales Rural Woman of the Year Award Winners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">ABC Radio</name>
+<title render="quoted">1997 ABC New South Wales Rural Woman of the Year Award Winners</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC Radio Rural Woman of the Year Award</title>
+<name type="author">ABC Radio</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/rural/rwoty/nsw.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004918.htm">
+<relationEntry localType="published">Site Exhibition: Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/rwya/rwya-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2852</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-11-14">2007-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-12">2016-04-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2852b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lampe</part>
+<part localType="givenname">Anne</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Anne Lampe won a Walkley Award in 1991 for her coverage of the so-called 'Westpac letters'. She has been a business journalist with <span style="font-style:italic">V</span> since 1983. Before that Anne was the London correspondent for the <span style="font-style:italic">Australian Financial Review.</span>She has written about property, banking, insurance, superannuation, tax, commercial litigation and fraud. Anne is particularly interested in focusing on consumer issues and how policy changes affect consumer interests.</abstract>
+<p>Anne Lampe's own statement of support for her application explained the story as follows:</p>
+<p>'The marketing of foreign currency loans and subsequent litigation by off-shore borrowers against major banks as their loan losses mounted has been aired in courts since 1988, with the banks vehemently denying that they were in any way negligent or incompetent in handling their borrowers' foreign currency loans exposure and transactions. <span style="font-style:italic">The Pacific Paterneship/Westpac letters exploded one bank's defence.</span></p>
+<p>'The letters showed mismanagement, staff incompetence and customer rip-offs on a large scale, involving millions of dollars of customer losses, illegal deal switching and secret commission taking on a big scale by dealers.</p>
+<p>'The lawyers' findings in the letters were explosive, showing culpability of PPL as well as containing advice on how westpac could control the damage.</p>
+<p>'It was to change the shape of foreign currency litigation, as well as focusing the attention of the Banking inquiry on th vexed question of who was to blame for the forex loan debacle.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">c. 1980</fromDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+<event>Walkley Award (Print) - Best Coverage of a Current Story (Print), The Sydney Morning Herald - Fairfax</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767092">
+<relationEntry>
+Lampe, Anne
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lampe, Anne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lampe, Anne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2852b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002099.htm">
+<relationEntry localType="archival">Media, Entertainment and Arts Alliance (Australia) - records of the W.G. Walkley Awards, 1956 - 1999</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Media, Entertainment and Arts Alliance (Australia) - records of the W.G. Walkley Awards, 1956 - 1999</unittitle>
+<unitid>MLMSS 6898</unitid>
+<unitdate>1956 - 1999</unitdate>
+<abstract>I. FINALIST AND WINNING ENTRIES, 1982-1998
+II. SCRAP BOOKS, 1956-1979
+III. PRINTED MATERIAL, 1992-1994
+IV. PUBLISHED MATERIAL, 1997-1999
+V. PAPERS OF SIR WILLIAM AND LADY WALKLEY, 1975-1980</abstract>
+<physdesc>
+<extent>22 m, 44 boxes</extent>
+<physfacet>Textual records, Newscuttings, Photographs, Sound recordings, Textual records - (typescript), Textual records - (typescript, photocopy), Moving images - video recordings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0104</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-05-25">2001-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0104b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Doherty</part>
+<part localType="givenname">Muriel Knox</part>
+<part localType="honorific title">RRC</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-07-19">19 July 1896</fromDate>
+<toDate standardDate="1988-09-29">29 September 1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse educator</term>
+</occupation>
+<occupation>
+<term>Nursing administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Muriel Knox Doherty began nursing in 1921 at Royal Prince Alfred Hospital, New South Wales, and set up the first preliminary training school at the Royal Prince Alfred Hospital, 1933-1937. In her capacity as matron-in-charge she was the first nurse appointed to the rank of squadron leader in the Royal Australian Air Force (RAAF), where she inaugurated the Royal Australian Air Force Nursing Service. After World War II she worked with displaced persons at Bergen Belsen concentration camp, as a member of United Nations Relief and Rehabilitation Administration. One of four founders of the New South Wales College of Nursing in 1949, she was also instrumental in the establishment of the Civilian Nursing Services Bureau, and co-authored the first Australian text book for nurses, <span style="font-style:italic">Modern Practical Nursing Procedures</span>, 1944. She was awarded the Royal Red Cross Medal (1st Class) in 1945 for her work in the RAAF Nursing Service.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0491b.htm">
+<relationEntry localType="Corporate Body">
+Voluntary Aid Detachments (VAD) (1914 - )
+</relationEntry>
+<descriptiveNote>
+<p>Served as a Red Cross Voluntary Aid during the First World War</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1939-10-16">16 October 1939</fromDate>
+<toDate standardDate="1940-09-16">16 September 1940</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: N60136</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0573b.htm">
+<relationEntry localType="Corporate Body">
+Royal Australian Air Force Nursing Service (RAAFNS) (1940 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-09-16">16 September 1940</fromDate>
+<toDate standardDate="1945-05-22">22 May 1945</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: 501020</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-632603">
+<relationEntry>
+Doherty, Muriel Knox (1896-1988)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Doherty, Muriel Knox', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Doherty, Muriel Knox</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0104b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001463.htm">
+<relationEntry localType="published">Resource Section: Doherty, Muriel Knox (1896 - 1988), Biographical Entry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Doherty, Muriel Knox (1896 - 1988), Biographical Entry</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P003416b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ASBS00812.htm">
+<relationEntry localType="published">Book: Lifework: Heroes of Australian Health</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Murray, James</name>
+<title render="italic">Lifework: Heroes of Australian Health</title>
+<imprint>
+<place>Edgecliff, NSW</place>
+<publisher>Focus Publishing for [Medical Benefits Fund of Australia Ltd]</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ASBS00811.htm">
+<relationEntry localType="published">Book: Letters from Belsen 1945 : An Australian Nurse's Experiences with the Survivors of War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Doherty, Muriel Knox, and Cornell, Judith and Russell, R. Lynette (eds)</name>
+<title render="italic">Letters from Belsen 1945 : An Australian Nurse's Experiences with the Survivors of War</title>
+<imprint>
+<place>St Leonards, NSW</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ASBS00809.htm">
+<relationEntry localType="published">Book: Off The Record - The Life and Times of Muriel Knox Doherty 1896-1988: An Autobiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Doherty, Muriel Knox and Russell, R. Lynette (ed.)</name>
+<title render="italic">Off The Record - The Life and Times of Muriel Knox Doherty 1896-1988: An Autobiography</title>
+<imprint>
+<place>Glebe, NSW</place>
+<publisher>New South Wales College of Nursing</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001941.htm">
+<relationEntry localType="published">Resource Section: DOHERTY, MURIEL KUOX</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">DOHERTY, MURIEL KUOX</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1081225"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001940.htm">
+<relationEntry localType="published">Resource Section: DOHERTY, MURIEL KNOX</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">DOHERTY, MURIEL KNOX</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=306784"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002552.htm">
+<relationEntry localType="published">Book: Story of the RAAF nursing service : 1940-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Halstead, Gay.</name>
+<title render="italic">Story of the RAAF nursing service : 1940-1990</title>
+<imprint>
+<place>Metung, Vic.</place>
+<publisher>Nungurner Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ASBS00810.htm">
+<relationEntry localType="published">Book: The Life and Times of Royal Prince Alfred Hospital, Sydney, Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Doherty, Muriel Knox and Russell, R. Lynette (ed.)</name>
+<title render="italic">The Life and Times of Royal Prince Alfred Hospital, Sydney, Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New South Wales College of Nursing</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR02912.htm">
+<relationEntry localType="archival">Letters of Muriel Knox Doherty (Matron)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Letters of Muriel Knox Doherty (Matron)</unittitle>
+<unitid>PR91/169</unitid>
+<unitdate>1946 - 1983</unitdate>
+<abstract>Includes one letter from Warsaw in 1946 describing the state of the city, and five letters written between 1974-1983 discussing history of RAAF Nursing Service.</abstract>
+<physdesc>
+<extent>6 letters</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR02911.htm">
+<relationEntry localType="archival">Papers of Muriel Knox Doherty</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Muriel Knox Doherty</unittitle>
+<unitid>MS 1518</unitid>
+<unitdate>1946 - 1952</unitdate>
+<abstract>1. Folio of cuttings, pamphlets, letters, photos entitled: Poland 1946. Includes 'Copy of Community letters from Poland 1946', war photos, t.s. 'Welfare Services in Poland' etc. 2. Scrapbook with certificate inside cover: 'This records the loyal and valued services of Muriel Knox Doherty to the United Nations Relief and Rehabilitation Administration... 31 Dec. 1946'. Contains papers, official letters, newspaper cuttings, photos etc. 3. T.s. extracts from the 'Polish Bulletin', Dec. 1951 to Sept. 1952, on the Katyn War Murders. 10pp. 4. 2 T.s. circular letters 'Youth Auxilliary for European relief' 2p.</abstract>
+<physdesc>
+<extent>0.11 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR02913.htm">
+<relationEntry localType="archival">Scrapbooks, letters and papers of Muriel Knox Doherty (Matron, RRC, AANS and RAAF Nursing Service)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Scrapbooks, letters and papers of Muriel Knox Doherty (Matron, RRC, AANS and RAAF Nursing Service)</unittitle>
+<unitid>3DRL/2518</unitid>
+<unitdate>1914 - 1954</unitdate>
+<abstract>Scrapbooks containing news reports, letters, cards, insignia and nominal rolls covering both wars. Letters regarding the nursing service. Photograph album presented to Matron Hetherington by patients at Reinga, 1916. Certificate of service, diaries.</abstract>
+<physdesc>
+<extent>5 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

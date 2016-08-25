@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0529</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-08">2003-09-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0529b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bryce</part>
+<part localType="givenname">Joan Elvina</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-07-28">28 July 1904</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the original Australian Women's Army Service Officer's School, Joan Bryce was appointed Assistant Commandant. She was discharged on 12 February 1946 with the rank of Lieutenant.
+
+When established in 1981, Joan Bryce became the first patron of the AWAS Association of Queensland.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0149b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Army Service (AWAS) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1946-02-12">12 February 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service number: Q123935</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0527b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Army Service (AWAS) Association of Queensland (1981 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Patron</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-737078">
+<relationEntry>
+Bryce, Joan Elvina (1904-1995)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bryce, Joan Elvina', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bryce, Joan Elvina</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0529b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002012.htm">
+<relationEntry localType="published">Resource Section: BRYCE, JOAN ELVINA</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">BRYCE, JOAN ELVINA</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=81668"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00152.htm">
+<relationEntry localType="digitalObject">Group portrait of members of the first VAD (Voluntary Aid Detachment) contingent to travel overseas.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Group portrait of members of the first VAD (Voluntary Aid Detachment) contingent to travel overseas.</unittitle>
+<unitid>P02480.001</unitid>
+<unitdate>November 1941</unitdate>
+<abstract>Group portrait of members of the first VAD (Voluntary Aid Detachment) contingent to travel overseas. The women are assembled on the boat deck of the Queen Mary, the troopship which carried them over to the Middle East. Two lifeboats are at rear on the edge of the deck. Known to be in this group are: Edna Bland, Joan Bryce, Yvonne Levy (Victorian Camp Commandant), Marjorie Brown (South Australian Camp Commandant), Marjorie Davis, Bertha Meggs, Lesley Long, Rae Batt, Molly Johns, Molly Oliver, Beryl Follows, Nan Liston, Ann Scots Girving, Elsie Paton, Gladys Battye, Molly Hales, Sheila Lennox-Biggar, NX76505 Alice Burns, Alwyn Smith, Edna Helliwell, Marie Robinson, Joan Petts, Joan Whittington, Dr Piper, Joan Shelaugh, Amber Bushell. Sydney, NSW. November 1941. (Donor A. Penman)</abstract>
+<physdesc>Maker:  <span style="font-style:italic">Sydney Morning Herald And The Home</span><geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

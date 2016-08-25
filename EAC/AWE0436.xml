@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0436</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-01-24">2003-01-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-19">2015-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0436b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Anderson</part>
+<part localType="givenname">Margaret Irene</part>
+<part localType="honorific title">GM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-12-11">11 December 1915</fromDate>
+<toDate standardDate="2009-04-17">17 April 2009</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Anderson enlisted in the Australian Army Nursing Service at Dandenong (Victoria) on 19 September 1941.
+
+On 12 February 1942, three days before the fall of Singapore, the freighter, <span style="font-style:italic">Empire Star</span> sailed from Singapore Harbour. The ship which normally had an allocation of space for 20 passengers was carrying over 2100 people. While on route to Batavia the ship came under enemy fire and received three direct hits. During one of the raids two of the Australian nursing staff on board, Sisters Margaret Anderson and Vera Torney, came on deck to attend to the wounded. They protected their patients by covering them with their bodies.
+
+Staff Nurse Margaret Anderson was awarded the George Medal on 22 September 1942 for her bravery when the ship was attacked by enemy aircraft. Staff Nurse Vera Torney was appointed a Member of the Order of the British Empire (Military).
+
+On 4 June 1946 Lieutenant Margaret Anderson was discharged from the Australian Army Nursing Service.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0199b.htm">
+<relationEntry localType="Person">
+Torney, Vera Alexandra (1916 - 2006)
+</relationEntry>
+<descriptiveNote>
+<p>Staff nurse in the Australian Army Nursing Service who was awarded a decoration for Bravery when the ship <span style="font-style:italic">Empire Star</span> was attacked by enemy aircraft</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-09-19">19 September 1941</fromDate>
+<toDate standardDate="1946-06-04">4 June 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: VX63845</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766072">
+<relationEntry>
+Anderson, Margaret Irene (1915-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Anderson, Margaret Irene', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Anderson, Margaret Irene</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0436b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001722.htm">
+<relationEntry localType="published">Resource Section: Anderson, Margaret Irene</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">Anderson, Margaret Irene</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=470770"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001923.htm">
+<relationEntry localType="published">Book: Just wanted to be there : Australian Service Nurses 1899-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reid, Richard</name>
+<title render="italic">Just wanted to be there : Australian Service Nurses 1899-1999</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth Department of Veterans' Affairs</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001436.htm">
+<relationEntry localType="published">Book: Twentieth-Century Women of Courage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Escott, Beryl E</name>
+<title render="italic">Twentieth-Century Women of Courage</title>
+<imprint>
+<place>Gloucestershire (UK)</place>
+<publisher>Sutton Publishing</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000892.htm">
+<relationEntry localType="published">Book: Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bassett, Jan</name>
+<title render="italic">Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000653.htm">
+<relationEntry localType="archival">Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</unittitle>
+<unitid>5192464</unitid>
+<unitdate>1942</unitdate>
+<abstract>George Medal (Staff Nurse M.Anderson, Staff Nurse V. Torney). Award to Torney changed to MBE.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00026.htm">
+<relationEntry localType="digitalObject">Sister Margaret Anderson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Sister Margaret Anderson</unittitle>
+<unitid>126416</unitid>
+<unitdate>27 March 1946</unitdate>
+<abstract>Sister Margaret Anderson who was awarded the George Medal for bravery in action talks to Lady Mountbatten at the 115th Australian General Hospital. Left to right: Sister Margaret Anderson; Lady Mountbatten; Matron Bowe; Sister Wilkinson; Sister James (ex POW); Sister A. Syes.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

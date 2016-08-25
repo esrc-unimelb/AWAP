@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4357</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-09">2009-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4357b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hobbs</part>
+<part localType="givenname">Mary Eleanor</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Hobbs, Eleanor</part>
+</nameEntry>
+<nameEntry localType="Birth"><part>Rawlinson, Mary Eleanor</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1842-01-01">1842</fromDate>
+<toDate standardDate="1920-12-31">1920</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Homemaker</term>
+</occupation>
+<occupation>
+<term>Suffrage activist</term>
+</occupation>
+<occupation>
+<term>Social activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Eleanor Hobbs was an very active participant in the Victorian Woman Suffrage movement. Born in England, she migrated with her father to Melbourne, via South Africa, when she was in her teens. She married Alfred Hobbs, and ironmonger, in 1864 and went on to raise eight children (three daughters and five sons).
+
+Always an attentive mother, she was also an active participant in church and other social movements. She was a member of the Victorian branch of the Women's Christian Temperance Union and a vocal supporter of the suffrage rights for women. She was one of the thousands of people who signed the 1891 'Monster' Women's Suffrage Petition.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0219b.htm">
+<relationEntry localType="Corporate Body">
+The Woman's Christian Temperance Union of Victoria (1885 - )
+</relationEntry>
+<descriptiveNote>
+<p>Eleanor Hobbs presided over the Prahran branch of the WCTU in the late nineteenth century</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3776b.htm">
+<relationEntry localType="Cultural Artefact">
+Women's Suffrage Petition (Monster Petition) (1891)
+</relationEntry>
+<descriptiveNote>
+<p>Hobbs was a signatury to the 1891 Monster petition</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0546b.htm">
+<relationEntry localType="Concept">
+Woman Suffrage
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477472">
+<relationEntry>
+Hobbs, Mary Eleanor (1842-19201231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hobbs, Mary Eleanor', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hobbs, Mary Eleanor</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4357b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004647.htm">
+<relationEntry localType="published">Resource Section: M E Hobbs of Skene Street Geelong</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kenny, Marilyn</name>
+<title render="quoted">M E Hobbs of Skene Street Geelong</title>
+<imprint>
+<publisher>Public Record Office Victoria</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">1891 Women's Suffrage Petition</title>
+<name type="author">Public Record Office Victoria</name>
+</bibseries>
+<extptr linktype="simple" href="http://wiki.prov.vic.gov.au/index.php/Hobbs#M_E_Hobbs_of_Skene_Street_Geelong"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004240.htm">
+<relationEntry localType="published">Resource: 1891 Women's Suffrage Petition</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Victoria</name>
+<title render="italic">1891 Women's Suffrage Petition</title>
+<imprint>
+<publisher>Parliament of Victoria</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.vic.gov.au/womensPetition/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

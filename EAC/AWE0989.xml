@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0989</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-06-01">2004-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Edna M Lemke</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0989b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Powell</part>
+<part localType="givenname">Sarah Jane</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Skewes, Sarah Jane</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1863-08-12">12 August 1863</fromDate>
+<toDate standardDate="1955-08-17">17 August 1955</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Collector, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Box Hill, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sarah Powell was State President of the Soldiers, Sailors and Airmen's Mothers' Association for 25 years and was made Life President. She was decorated with the OBE in June 1943 for her services in this organisation. She founded the Croydon Branch and attended their annual meeting on her 92nd birthday five days before she died.</abstract>
+<p>Sarah Jane Powell the daughter of Thomas and Sarah Skewes (the Skewes are able to trace their ancestry back to John Wesley, the founder of Methodism) was born at Collector in New South Wales. The eldest of ten children she moved with her family to Warrenheip, near Ballarat in Victoria, where her father became the school master and preacher. Here she became a teacher with the Schools Board, an organist for the local church as well as teaching singing and piano. On December 29, 1886 she married Samuel James Powell and moved to Warrnambool. The parents of six children the Powell family moved to Melbourne in 1905.</p>
+<p>Powell became president of the Coburg branch of the Australian Women's National League as well as being the branch delegate to the Council. During World War I, in which she was to lose a son and brother, Powell became involved with the care and welfare of soldiers invalided home from the battlefronts.</p>
+<p>Following the war she became a foundation member of the Soldiers Mothers' Association (later called Sailors', Soldiers and Airmen's Mothers' Association - SS&amp;AMA) in 1919. Powell became State President in 1921 and was made Life President in 1926. A member of the War Memorial Committee - later known as the Shrine of Rememberance, Powell represented the Mothers' Association on the committee of the Kings Memorial. She founded the Croydon Branch of the SS&amp;AMA. When this Branch opened a Home for widows or those separated from their husbands, one of the flatettes was named in her honour.</p>
+<p>In appreciation of her community work Sarah Powell was recognised by being presented with various awards including:<br />
+• The Order of Merit from the Returned Soldiers' League (later named Returned &amp; Services League of Australia - RSL) for her devotion to the cause of the men who fought in the Great War in 1923.<br />
+• The Coronation Medal at the time of the coronation of King George VI in 1937.<br />
+• Appointed Officer of the Order of the British Empire for social welfare work with the armed forces on June 2, 1943.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0269b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's National League (1904 - 1944?)
+</relationEntry>
+<descriptiveNote>
+<p>Council delegate and President of the Coburg branch</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-740089">
+<relationEntry>
+Powell, Sarah Jane (1863-1955)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Powell, Sarah Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Powell, Sarah Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0989b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00165.htm">
+<relationEntry localType="digitalObject">Acknowledgement of support</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Acknowledgement of support</unittitle>
+<abstract>supplied by Mrs Edna Lemke</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00163.htm">
+<relationEntry localType="digitalObject">Representatives from the Fathers and Mothers' Sailors' Soldiers and Airmen's Associations</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Representatives from the Fathers and Mothers' Sailors' Soldiers and Airmen's Associations</unittitle>
+<abstract>Press cutting supplied by Mrs Edna Lemke</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00164.htm">
+<relationEntry localType="digitalObject">Sarah and William Powell with their children</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Sarah and William Powell with their children</unittitle>
+<abstract>photograph supplied by Mrs Edna Lemke</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00162.htm">
+<relationEntry localType="digitalObject">Samuel and Sarah Powell</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Samuel and Sarah Powell</unittitle>
+<abstract>photograph supplied by Mrs Edna Lemke</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00161.htm">
+<relationEntry localType="digitalObject">Mrs Sarah Powell</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Mrs Sarah Powell</unittitle>
+<abstract>photograph supplied by Mrs Edna Lemke</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

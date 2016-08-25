@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00257</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00257b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Attwood</part>
+<part localType="givenname">Julie Maree</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-05-31">31 May 1957</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bundaberg, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Julie Attwood is an Australian Labor Party member (MP) of the Queensland Parliament for the seat of Mount Ommaney. She was elected 13 June 1998. Julie is currently Parliamentary Secretary to the Queensland Treasurer. Prior to her parliamentary career Julie was a manager at the Commonwealth Employment Service at Indooroopilly. She has a Graduate Diploma of Case Management and Client Service with Deakin University in Melbourne, Victoria.</abstract>
+<p>Julie Attwood is actively involved in many local organisations and issues. She is a member of the Community Advisory Committee at Sir David Longland and Wolston Correctional Centres and the Juvenile Detention Centre, in Brisbane, Queensland. Julie volunteers as a pastoral care worker at the Canossa Aged Care Complex in Brisbane and as a community speaker for the Queensland Cancer Fund. Julie is on the Branch Council of the Scout Association of Australia, Queensland Branch Inc. and assists Guides Queensland with their "Women of Substance" mentoring program. She is also patron of many local organisations such as the Centenary and Districts Chamber of Commerce, the Centenary Meals on Wheels, Corinda State School Parents and Citizens, the Oxley Swimming Club, West Brisbane Falcons Basketball Club, the Centenary Junior Rugby League Club, Centenary Suburbs RSL Sub Branch, Centenary Table Tennis Association, and Centenary State High School P&amp;C.</p>
+<p>Her Parliamentary Service includes the following:</p>
+<list><item>Member, Estimates Committee E, 2008</item>
+<item>Parliamentary Secretary to the Treasurer from 13 September 2007.</item>
+<item>Parliamentary Secretary to the Minister for Child Safety 21 September 2006 - 13 September 2007.</item>
+<item>Chair, Estimates Committee G, 2006.</item>
+<item>Chair, Estimates Committee B, 2005. </item>
+<item>Chair, Estimates Committee B, 2004. </item>
+<item>Chair, Estimates Committee F, 2003. </item>
+<item>Chair, Members' Ethics and Parliamentary Privileges Committee 3 May 2001 - 15 August 2006. </item>
+<item>Chair, Estimates Committee G, 2001. </item>
+<item>Member, Members' Ethics and Parliamentary Privileges Committee 30 July 1998 - 23 January 2001. </item>
+<item>Chair, Estimates Committee C 2000, Member 1998 and 1999</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0762b.htm">
+<relationEntry localType="Corporate Body">
+Girl Guides Australia (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477381">
+<relationEntry>
+Attwood, Julie Maree (19570531-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Attwood, Julie Maree', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Attwood, Julie Maree</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00257b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00256.htm">
+<relationEntry localType="published">Resource Section: Julie Attwood - State Member for Mt Ommaney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Labor Party</name>
+<title render="quoted">Julie Attwood - State Member for Mt Ommaney</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Australian Labor Party</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Keep Queensland Strong</title>
+<name type="author">Australian Labor Party</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.qld.alp.org.au/01_cms/details.asp?ID=358"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

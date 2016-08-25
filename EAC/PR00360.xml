@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00360</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00360b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Don</part>
+<part localType="givenname">Ruth </part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-01-01">1902</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ruth Don was the first Senior Mistress of a Queensland high school, as well as the first female Principal of the Domestic Science High School and of Brisbane's Office Training College. She also became the Queensland Teachers Union's first female president. Ruth was founding president of the Forum Club in Brisbane.
+
+</abstract>
+<p>Ruth Don was born into a family of teachers; her father Alex had served as a Queensland Teachers Union president in the 1920s. In 1925 she completed her Bachelor of Arts degree at the University of Queensland. Following a string of temporary appointments, in 1934 Ruth secured a teaching position at the State Commercial High School on George Street in Brisbane where the Queensland University of technology (QUT) now stands. She later became the first Senior Mistress of a Queensland high school in 1954.</p>
+<p>Additionally, Ruth Don, along with two other university graduates, formed the Forum Club in 1941. She took on the position of founding president of the Forum Club, which sought to encourage women to find their voice as public speakers and learn how to run meetings effectively. Participation in the Forum Club provided Ruth with valuable experience for her later role as a union representative.</p>
+<p>Throughout her 40-year teaching career, Ruth was disappointed to encounter so many inequalities penalising female teachers. Her experiences in varied locations provided her with great insights for arguing for better working conditions for women. She was an instrumental player in advocating equal pay for women in the teaching field. Ruth was actively involved in the Queensland Teachers Union (QTU) and, in 1951 she became its first female president. In 1962, Ruth represented the QTU on the Equal Pay Committee, led by the State Service Union. It was not until 1967 that the Arbitration Commission accepted evidence that female teachers should be paid the same rate as male teachers. Ruth retired in 1968 and, just one year later, equal pay for all teachers was initiated by the Queensland Education Department.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1020b.htm">
+<relationEntry localType="Corporate Body">
+Forum Communicators Association Inc. (1941 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756062">
+<relationEntry>
+Don, Ruth (1902-2003)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Don, Ruth ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Don, Ruth </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00360b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00358.htm">
+<relationEntry localType="published">Book Section: Ruth Don (1902 – 2003)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Grant, Heather</name>
+<title render="quoted">Ruth Don (1902 – 2003)</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Office for Women, Queensland Government</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Great Queensland Women</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00357.htm">
+<relationEntry localType="archival">Biographical cuttings on Ruth Don, teacher</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Ruth Don, teacher</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+<physfacet>Book</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5666</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-05-18">2016-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Leah Cameron</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-25">2016-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5666b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cameron</part>
+<part localType="givenname">Leah</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Tasmania</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Leah Cameron is a Palawa woman from Tasmania and the Principal Solicitor and owner of Marrawah Law a Supply Nation certified Indigenous legal practice. Her primary areas of practice are native title, cultural heritage, future acts and commercial law.</abstract>
+<p>Leah Cameron's passion for her work is unwavering and has assisted her in achieving six native title consent determinations to date. Her efforts were recognised in 2008 when she was awarded the Tasmanian Young Achiever of the Year Award in the category of Trade and Career Achievement. Her commitment has also led to her being awarded the Centenary Medal of Australia and the Robert Riley Law Scholarship whilst studying at the University of Tasmania. Her greatest honour was being asked to negotiate and repatriate her ancestors' remains from the British Museum in London on behalf of the Tasmanian Aboriginal community.</p>
+<p>Leah is a regular contributor to the National Talk Black radio program presenting on topical legal issues. She is also a director of Access Community Housing and a member of the Queensland Law Society, North Queensland Law Association and the Far North Queensland Law Association.</p>
+<p>Some of her significant achievements in the field of law include:</p>
+<list><item>Acting for first indigenous homeowner (99-year lease) under Indigenous Home Ownership program in Queensland;</item>
+<item>Acting as solicitor for the applicants in the Djiru People #2 and #3 native title consent determinations 2011; </item>
+<item>Acting as solicitor for the applicant in Wanyurr Majay People native title consent determination 2011; </item>
+<item>Acting as solicitor for the applicant Jirrbal People #1-#3 native title consent determination 2010; </item>
+<item>Supervising solicitors with the successful consent determination of the following native title matters: Muluridji, Djungan, Combined Gunggandji, Gugu Badhun, Jangga, Juru, Tableland Yidinji and Combined Mandingalbay Yidinji Gunggandji;</item>
+<item>Successfully preparing the first application for National Heritage listing for an Aboriginal site within North Queensland.</item></list>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cameron, Leah', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cameron, Leah</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5666b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

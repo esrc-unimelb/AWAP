@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4075</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-20">2009-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4075b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Baeyertz</part>
+<part localType="givenname">Emilia Louise</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Aronson, Emilia</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1842-03-29">29 March 1842</fromDate>
+<toDate standardDate="1926-04-29">29 April 1926</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+<occupation>
+<term>Evangelist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Emilia Baeyertz conducted evangelical missions throughout Australia (Victoria, South Australia and Queensland), New Zealand, Britain and North America.</abstract>
+<p>The daughter of wealthy Jewish parents, Emilia left school at thirteen. When her first fiancé died, she suffered a breakdown and was sent to Australia with her brother to recover her health. Living with her sister in Melbourne, Emilia met Anglican bank manager Charles Baeyertz and married him in October 1865 without informing her family. With Charles, she settled in Colac and had two children. In 1871, Charles was killed in a gun accident and Emilia converted to Christianity shortly thereafter. She began jail and hospital visits, Sunday School teaching, and door to door evangelism in the Jewish community of Melbourne. She was an active member of the YWCA and undertook evangelical missions to Sandhurst (Bendigo) and Ballarat. From 1880 she was conducting missions throughout South Australia, and the Baptists reported over 100 conversions as a result. Emilia moved her campaign to Victoria, Queensland, New Zealand, and finally Britain and North America.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-722079">
+<relationEntry>
+Baeyertz, Emilia Louise (1842-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baeyertz, Emilia Louise', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baeyertz, Emilia Louise</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4075b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004412.htm">
+<relationEntry localType="published">Book: Six New Addresses: Delivered by Mrs Baeyertz</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Baeyertz, Mrs</name>
+<title render="italic">Six New Addresses: Delivered by Mrs Baeyertz</title>
+<imprint>
+<place>Perth</place>
+<publisher>City Printing Company</publisher>
+<date>1904</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004411.htm">
+<relationEntry localType="published">Book: Emilia Baeyertz, Evangelist: Her Career in Australia and Great Britain: An Historical Study and a Compilation of Sources</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Evans, Robert</name>
+<title render="italic">Emilia Baeyertz, Evangelist: Her Career in Australia and Great Britain: An Historical Study and a Compilation of Sources</title>
+<imprint>
+<place>Hazelbrook, NSW</place>
+<publisher>Research in Evangelical Revivals</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004410.htm">
+<relationEntry localType="published">Thesis: The Baptists in South Australia, 1863 to 1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walker, J.S.</name>
+<title render="quoted">The Baptists in South Australia, 1863 to 1914</title>
+<imprint>
+<publisher>Flinders University</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004550.htm">
+<relationEntry localType="published">Resource Section: Cartoon of a woman preaching</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Cartoon of a woman preaching</title>
+<imprint>
+<publisher>Government of South Australia</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">SA Memory: South Australia Past and Present, For the Future</title>
+<name type="author">State Library of South Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.samemory.sa.gov.au/site/page.cfm?c=462"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004408.htm">
+<relationEntry localType="published">Edited Book: Australian Dictionary of Evangelical Biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Australian Dictionary of Evangelical Biography</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Evangelical History Association</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004413.htm">
+<relationEntry localType="published">Book: Popular Revivalism in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hilliard, David</name>
+<title render="italic">Popular Revivalism in South Australia</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Uniting Church Historical Society</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

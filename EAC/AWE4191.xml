@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4191</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-10">2009-06-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4191b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Rowland</part>
+<part localType="givenname">Caroline Ann</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Sister Mary Cordula</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1852-12-31">31 December 1852</fromDate>
+<toDate standardDate="1921-03-11">11 March 1921</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kentish Town, London, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Religious leader</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Caroline Rowland was an English born, German trained nun of the Ursuline order who made profession in October 1873, taking the religious name Mary Cordula. A casualty of the 1877 Falk laws that dissolved and/or expelled teaching religious orders throughout the German Empire, she returned from Germany to England in 1878 where she helped to establish, in Greenwich,  a school for girls which still flourishes under the Ursulines.
+
+In 1882, after accepting an invitation from Bishop Elzear Torreggiani to come to Australia, twelve sisters, including Sister Cordula,  arrived in Sydney, to join him in the vast diocese of Armidale in northern New South Wales. They arrived in the inland town on 12 September, 1882. Here they established a day and boarding school for girls which grew rapidly: St Ursula's College, Armidale, drew its students from all over New South Wales and Queensland and even from Victoria. They also took responsibility for the parochial primary school which had existed under lay administration since the 1850s.
+
+Sister Cordula proved herself to be an adaptable and energetic teacher, business woman and administrator. She held various offices in the religious community: treasurer several times after 1885, superior (1898-1904 and 1905-11) and mistress general of the boarding school (1911-19). 
+
+She was well loved and much admired, and developed a reputation as a fair and broadminded person. Her friendly manner endeared her to the members of her own religious community as well as to the wider local community.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4192b.htm">
+<relationEntry localType="Corporate Body">
+Australian Ursulines
+</relationEntry>
+<descriptiveNote>
+<p>Caroline Rowland (Sister Cordula) was one of the Ursuline nuns who helped to establish the order in Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767080">
+<relationEntry>
+Rowland, Caroline Ann (1852-1921)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rowland, Caroline Ann', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rowland, Caroline Ann</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4191b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004562.htm">
+<relationEntry localType="published">Book: This land of promise : the Ursuline Order in Australia, 1882-1982</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kneipp, Pauline</name>
+<title render="italic">This land of promise : the Ursuline Order in Australia, 1882-1982</title>
+<imprint>
+<place>Armidale, N.S.W.</place>
+<publisher>University of New England</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002282.htm">
+<relationEntry localType="archival">Archives of the Ursulines of the Roman Union</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Archives of the Ursulines of the Roman Union</unittitle>
+<abstract>Nature of the collection is unknown. Please contact:
+
+The Archivist
+Ursulines of the Roman Union
+P.O. Box 272
+Croydon Park, NSW, 2133
+contact@australianursulines.org.au</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2211</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-12-07">2006-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-25">2015-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2211b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Collison</part>
+<part localType="givenname">Jeanne</part>
+<part localType="honorific title">AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-04-08">8 April 1929</fromDate>
+<toDate standardDate="2006-05-13">13 May 2006</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mosman, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Surgeon</term>
+</occupation>
+<occupation>
+<term>Anaesthetist</term>
+</occupation>
+<occupation>
+<term>Medical researcher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>At the age of 27, Jeanne Collison was responsible for developing the first Australian heart-lung machine and leading a team of seven male doctors through the first successful open-heart surgery in the southern hemisphere.</abstract>
+<p>The daughter of Albert Collison, a master builder, and his wife Beatrice, Jeanne was born in Mosman and educated there at Killarney School. She later attended the Sydney Church of England Girls Grammar School (SCEGGS) in Darlinghurst, where - according to Tony Stephens, who wrote Collison's obituary in the <span style="font-style:italic">Sydney Morning Herald</span> - 'the headmistress advised her not to bother with medicine because she would never make the grade'.</p>
+<p>At the age of sixteen, Collison was playing the pipe organ at North Sydney Baptist Church where she met her future husband Neville York, then a twenty-year-old World War II RAAF pilot. Collison graduated with honours from Sydney University in 1952. York, too, became a student of medicine and the two were married in 1955.</p>
+<p>According to Stephens, the death of young children from heart failure drove Collison to become a pioneer in heart bypass anaesthesia in Australia. In 1952, with Helen Windon, she became the first female trainee anaesthetist at the Royal Prince Alfred Hospital, Sydney. She joined the cardiac research team at the Baker Institute in Melbourne in 1956, and the following year, built the first heart-lung machine at Melbourne's Alfred Hospital using PVC tubing and other materials after a colleague sent from the United States a rough sketch of an American design on airmail paper.</p>
+<p>In 1957, Collison returned to Sydney where she established a cardiopulmonary bypass department at the Royal Prince Alfred. Twenty years later she established another at Westmead. In midlife she obtained her pilot's licence, flying with her husband and her son, Simon. Stephens tells us that Collison and York's marriage was 'a 50-year personal and professional partnership of immense happiness, marred only by the accidental death of their only child, Simon, at 18'.</p>
+<p>Jeanne Collison passed away in 2006, just eight days after she was awarded the Order of Australia at Government House.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-722089">
+<relationEntry>
+Collison, Jeanne (1929-2006)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Collison, Jeanne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Collison, Jeanne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2211b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

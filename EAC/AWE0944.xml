@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0944</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-04">2004-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0944b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Golding Centre for Women's History, Theology and Spirituality</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2003-01-01">2003</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Strathfield, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Australian Catholic University
+Mount St Mary Campus
+Locked Bag 2002
+Strathfield NSW 2135
+Phone: (02) 9701 4129
+Fax: (02) 9701 4105
+Email: s.mcgrath@mary.acu.edu.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Tertiary education institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Golding Centre for Women's History, Theology and Spirituality was established in April 2003 on the initiative of Dr Sophie McGrath and Dr Rosa MacGinley who understood the necessity of providing a sound academic basis for the Catholic Church's response to the need for Catholic women to recover their history, theology and spirituality. The Centre comprises a three member team with members based on the campuses of McAuley-Banyo (Queensland), Mt Saint Mary (New South Wales), and St Patrick's (Victoria). A multi-disciplinary centre, it is situated within the Institute for the Advancement of Research with outreach to the various appropriate Schools within the University faculties.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-764077">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Golding Centre for Women's History, Theology and Spirituality', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Golding Centre for Women's History, Theology and Spirituality</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0944b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002792.htm">
+<relationEntry localType="published">Resource Section: Summary history of the Golding Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Summary history of the Golding Centre</title>
+<bibseries>
+<title render="italic">Golding Centre for Women's History, Theology and Spirituality</title>
+</bibseries>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001544.htm">
+<relationEntry localType="archival">Golding Centre for Women's History, Theology and Spirituality records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Golding Centre for Women's History, Theology and Spirituality</repository>
+<unittitle>Golding Centre for Women's History, Theology and Spirituality records</unittitle>
+<unitdate>1962 - </unitdate>
+<abstract>Includes material on pre-history of the Centre from 1962-5, the Second Vatican Council; steps taken to implement the ACU Research project in Women's History, Theology and Spirituality as the first step towards the establishment of a Centre; the activities of the Project period including its annual biannual newsletter, and the history of the centre to date.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

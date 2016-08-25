@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0812</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-01">2004-04-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0812b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gilchrist</part>
+<part localType="givenname">Roma Catherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Tuffin, Roma</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1909-09-01">1 September 1909</fromDate>
+<toDate standardDate="1931-12-31">1931</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-09-01">1 September 1909</fromDate>
+<toDate standardDate="1983-10-29">29 October 1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Peace activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Roma Gilchrist was first a member of the Modern Women's Club before joining the Union of Australian Women, Western Australian Branch. She was vice-president in 1954 and president from 1957 until 1971.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0809b.htm">
+<relationEntry localType="Corporate Body">
+Modern Women's Club (1938 - c. 1950)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0810b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women. Western Australian Branch (1950s - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0810b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women. Western Australian Branch (1950s - 1973)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1971-12-31">1971</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775083">
+<relationEntry>
+Gilchrist, Roma Catherine (1909-1983)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gilchrist, Roma Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gilchrist, Roma Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0812b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002703.htm">
+<relationEntry localType="published">Book Section: Roma Gilchrist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bosworth, Michal</name>
+<title render="quoted">Roma Gilchrist</title>
+<imprint>
+<place>Broadway, N.S.W</place>
+<publisher>Women's Redress Press Inc</publisher>
+<date>[1988]</date>
+</imprint>
+<bibseries>
+<title render="italic">200 Australian women : a Redress anthology</title>
+<name type="author">Radi, Heather</name>
+<num type="pages">225-226</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001370.htm">
+<relationEntry localType="archival">Papers of John and Roma Gilchrist, 1927-1984</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Papers of John and Roma Gilchrist, 1927-1984</unittitle>
+<unitid>ACC 3255A, 3532A, 3801A, 5894A</unitid>
+<unitdate>1927 - 1984</unitdate>
+<abstract>The collection documents the Gilchrists' involvement with various radical organizations, including the Modern Women's Club, Union of Australian and the Workers' Art Guild. There is material on communism, socialism, and working people.
+
+The papers at ACC 3532A, documenting their friendship with Katharine Susannah Prichard which began in the 1930s, includes diaries (incomplete) for 1964 and 1969, envelopes from various countries, films (including film from Katharine Susannah Prichard's funeral) taken by John Gilchrist, letters from Prichard, manuscripts, publications, recordings and reminiscenses about Prichard by John Gilchrist. ACC 3801A deals mainly with Roma Gilchrist's involvement with the Women's Movement, 1940-1982. ACC 3255A &amp; 5894A include certificates; conference papers; correspondence (much with the Union of Australian Women, 1962-1982); press cuttings of reviews of plays by the Workers' Art Guild (1954-1981); diaries of holidays in Europe, South East Asia, Japan and the USSR; files on the Humanist Society (1966-1968), disarmament, the Workers Art Guild, the Union of Australian Women and other subjects; histories; lists of the members of the Union of Australian Women and the Modern Women's Club; memoir of organisations and people they worked with; newsletters; notes and notebooks; photographs; plays (some written by the Gilchrists); poetry of John Gilchrist; programs; publications on communism, socialism and the working classes; reports; scrapbooks; songs; specifications; and other writings.</abstract>
+<physdesc>
+<extent>2 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

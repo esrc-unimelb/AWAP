@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5568</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-08">2016-02-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-12">2016-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5568b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women Lawyers Association of New South Wales</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1952-01-01">1952</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Professional association</term>
+</function>
+<function>
+<term>Feminist organisation</term>
+</function>
+<function>
+<term></term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Women Lawyers' Association of New South Wales was foramlly established in 1952, making it the first formal association of its kind in Australia. It's key objectives, as set out in the constitution, were:
+
+<list>
+<item>to provide a common meeting ground for women lawyers;</item>
+<item>to foster the growth of a corporate spirit among women lawyers;</item>
+<item>to make suggestions and work for the reform of the law and the administration of the law particularly as affecting women and children;</item>
+<item>to assist with such movements for the advancement of women as the Association may from time to time decide;</item>
+<item>to participate as a body in matters of interest to the legal profession;</item>
+<item>such other objects as the association shall in general meeting from time to time decide.</item>
+
+</list></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5572b.htm">
+<relationEntry localType="Person">
+Pike, Veronica (1900 - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5643b.htm">
+<relationEntry localType="Person">
+Croucher, Rosalind Frances (1954 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5565b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women Lawyers (1997 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5569b.htm">
+<relationEntry localType="Person">
+Cohen, Nerida Josephine (1912 - 2002)
+</relationEntry>
+<descriptiveNote>
+<p>Nerida Cohen was the Inaugural President of Women Lawyers Association New South Wales</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5664b.htm">
+<relationEntry localType="Person">
+Beazley, Margaret Joan (1951 - )
+</relationEntry>
+<descriptiveNote>
+<p>In 2013, Beazley was the recipient of the Women Lawyers of NSW Lifetime Achievement award.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women Lawyers Association of New South Wales', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women Lawyers Association of New South Wales</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5568b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005840.htm">
+<relationEntry localType="published">Thesis: A History of Women in the Legal Profession in New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Brien, Joan M.</name>
+<title render="quoted">A History of Women in the Legal Profession in New South Wales</title>
+<imprint>
+<publisher>Department of History, University of Sydney</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

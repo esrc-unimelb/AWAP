@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0886</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-15">2004-04-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0886b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cherry</part>
+<part localType="givenname">Enid</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-01-01">1891</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Enid Cherry was born in Adelaide in 1891. She served in the Australian Army Nursing Service between 1917 and 1919. In the 1920s she was appointed as an industrial nurse at Myers in Rundle Street, Adelaide. Here she remained for 23 years, as the nurse to provide care for staff and customers.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1917-05-18">18 May 1917</fromDate>
+<toDate standardDate="1918-08-30">30 August 1918</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: S/Nurse. Served overseas</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-764095">
+<relationEntry>
+Cherry, Enid (1891-1986)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cherry, Enid', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cherry, Enid</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0886b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001464.htm">
+<relationEntry localType="archival">Interview with Enid Cherry [sound recording] Interviewer: Beth M. Robertson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Enid Cherry [sound recording] Interviewer: Beth M. Robertson</unittitle>
+<unitid>OH 47/2</unitid>
+<unitdate>13 March 1981</unitdate>
+<abstract>Army Nurses of the Great War
+
+Enid Cherry trained at the Adelaide Hospital from 1913 to 1916 and a year later enlisted in the Australian Army Nursing Service to answer a call for Australian nurses to serve in under-staffed British hospitals. She served for 15 months in the 60th General Hospital at Salonika before contracting dysentery and being invalided home. During the 1920s Miss Cherry worked at the Wakefield Street Private Hospital before taking up the position of nursing sister at the Myer department store for 23 years until her retirement in 1952.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001462.htm">
+<relationEntry localType="archival">Interview with Enid Cherry [sound recording] Interviewer: Barbara Parker</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Enid Cherry [sound recording] Interviewer: Barbara Parker</unittitle>
+<unitid>OH 17/22</unitid>
+<unitdate>February 1985</unitdate>
+<abstract>History of Nursing in South Australia 
+
+Enid Cherry was born in Adelaide in 1891. At the age of 22 she began training at the Adelaide Hospital and completed the course in 1916. She served in the Australian Army Nursing Service between 1917 and 1919. Later she worked at the Wakefield Street Private Hospital and did midwifery training at the Queen's Home. In the 1920s she was appointed as an industrial nurse at Myers in Rundle Street. Here she remained for 23 years, as the nurse to provide care for staff and customers. At the time of the interview, Barbara Parker was senior nurse in the Occupational Health Branch of the South Australian Health Commission.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001463.htm">
+<relationEntry localType="archival">Interview with Kathleen Turner and Enid Cherry [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Kathleen Turner and Enid Cherry [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/21</unitid>
+<unitdate>25 April 1976</unitdate>
+<abstract>History of Nursing in South Australia
+
+Kathleen Turner, nee Conway, and Enid Cherry were both Adelaide-born nurses who served overseas during the First World War. The brief interview about their experiences was recorded on Anzac Day at the nursing home in which Mrs Turner lived. She had travelled to England in 1915 to join the British Army Nursing Service, served in the Middle East, and married an English airman. Miss Cherry received her call to the Australian Army Nursing Service in 1917, served in the Middle East and in Albany, Western Australia during the influenza epidemic.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

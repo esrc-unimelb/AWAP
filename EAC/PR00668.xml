@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00668</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-21">2009-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Janet Butler</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00668b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Geelong District Nursing Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-02-01">1 February 1907</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Geelong, Victoria, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Voluntary community support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Geelong District Nursing Society (For Nursing the Sick Poor in their own Homes) was founded on 1 February 1907. An initial meeting was convened by Geelong's Lady Mayoress, Mrs Bostock, in October 1906, which was presided over by the mayor, and a committee formed of volunteer workers. The first nurse, Miss Edwards, was engaged and began work on 31 January 1907. By the mid –twenties, a car had been purchased for the nurses' use.  The Society was funded by donations, bequests and subscriptions, grants from the Hospitals and Charities Commission, and collections, and received support from the Geelong Hospital. The Society applied to the Ladies' Benevolent Society when help was needed for a patient, relieved distress where extra nourishment was needed, and distributed parcels donated by Geelong societies to patients at Christmas. Though they deleted the words 'poor and needy' from the description of their work in 1960, by 1980 demand for the Society's services had risen, because of the aging population, the policy of early discharge from hospital, and the desire to nurse the aged and terminally ill in their own homes.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00637b.htm">
+<relationEntry localType="Corporate Body">
+Geelong and Western District Ladies Benevolent Association (1855 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00716b.htm">
+<relationEntry localType="Person">
+Goodman, Ada Laura (1855 - 1931)
+</relationEntry>
+<descriptiveNote>
+<p>Ada Goodman was an early supporter of the Geelong District Nursing Society</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462355">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Geelong District Nursing Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Geelong District Nursing Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00668b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00660.htm">
+<relationEntry localType="archival">Geelong &amp; District Nursing Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Geelong &amp; District Nursing Service</unittitle>
+<unitid>GRS 726-730</unitid>
+<unitdate>1906 - 1980</unitdate>
+<abstract>Annual General Meeting Minutes, Annual Reports, Constitution &amp; Correspondence, Minutes, Sister's Report Book</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

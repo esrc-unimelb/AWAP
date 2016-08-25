@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00288</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-21">2009-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00288b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fowler</part>
+<part localType="givenname">Jennifer </part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-04-14">14 April, 1939</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bunbury, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Composer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jennifer Fowler is an internationally renowned composer who was born in Bunbury, Western Australia. She works as a freelance composer in London, where she has lived since 1969.
+
+</abstract>
+<p>Jennifer Fowler was born in Bunbury, Western Australia, in 1939. She studied at the University of Western Australia, during which time she won several composition prizes. While still a student, her pieces were performed in the Festival of Perth and broadcast by the Australian Broadcasting Commission (ABC). In 1968 Fowler spent a year working at the Electronic Music Studios of the University of Utrecht on a Dutch Government scholarship. Since 1969 she has been living in London where she works as a free-lance composer.</p>
+<p>Fowler's output includes orchestral works, chamber pieces, works for voice and instrumental ensemble, solo music and vocal ensembles. Her international prizes include an award from the Academy of the Arts in Berlin (1970), joint winner of the Radcliffe Award of Great Britain; first prize in the GEDOK International Competition for Women Composers (1975) and the Miriam Gideon prize from the International Association of Women in Music (2003).</p>
+<p>Fowler's works are regularly performed at international festivals; past performances include the ISCM World Music Days, the Gaudeamus Music Week (Holland), the Huddersfield Festival of Contemporary Music (UK), the International Sydney Spring Festival and Women in Music festivals in USA, UK, Italy and Australia. She has received commissions from organisations including the British Broadcasting Commission (BBC), the Australian Broadcasting Commission (ABC), the Festival of Perth, the Music Board of the Australia Council, The Song Company (Sydney), Donne in Musica (Italy) and Women in Music (UK).</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-555719">
+<relationEntry>
+Fowler, Jennifer (1939-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fowler, Jennifer ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fowler, Jennifer </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00288b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00672.htm">
+<relationEntry localType="published">Journal Article: Of Small Bagpipes and Double Basses</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fowler, Jennifer</name>
+<title render="quoted">Of Small Bagpipes and Double Basses</title>
+<imprint>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">Contemporary Music Review</title>
+<num type="volume">11</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00289.htm">
+<relationEntry localType="archival">Jennifer Fowler Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of western Australia, Scholars' Centre, Reid Library</repository>
+<unittitle>Jennifer Fowler Collection</unittitle>
+<unitid>For access to this collection, contact Toby Burrows: tburrows@library.uwa.edu.au or +61 8 6488 2358</unitid>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

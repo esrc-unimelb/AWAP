@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1538</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-12">2005-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1538b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dombkins</part>
+<part localType="givenname">Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Management consultant</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Dombkins is a community activist and an outstanding scholar. She ran for election as a Liberal Party candidate in the New South Wales Legislative Assembly for Kogarah in 1995 and then as an Independent in the Kogarah Municipal Council elections of 1999.</abstract>
+<p>Margaret Dombkins completed a B.Ed, Grad. Dip Commerce/Management and a M.A at Charles Sturt University. She started her professional life teaching primary school students in the NSW Department of Education. When her youngest child went to school, she returned to study and achieved outstanding results. She won an Australian Post Graduate Research Scholarship to complete her doctorate, for which her thesis was "The Relationship of Strategy to Newspaper Organisation Success" in the Graduate School of Journalism and Creative Writing, University of Wollongong.<br />
+Margaret Dombkins was encouraged by her family to respond to the Liberal Party recruitment and training scheme in 1994 and subsequently ran a very successful campaign in 1995, taking the sitting member to preferences and achieving a 1.5% swing to the Liberals, the only positive swing in an election which saw the Liberal government defeated.</p>
+<p>Although she had run as the Liberal Party candidate for Kogarah in 1995, Margaret Dombkins was so opposed to high rise developments in the electorate, that in 1999, she issued a personal letter urging electors to vote for the ALP candidate, Cherie Burton, who was successful after the distribution of preferences. In 1999 also, she ran for election to the Kogarah Municipal Council, being narrowly defeated.</p>
+<p>Margaret Dombkins subsequently changed her political allegiance and joined the ALP. In 2005 she is the Chair of the ALP Arts, Cultural Heritage and Community Development Policy Committee.</p>
+<p>She is married to David Dombkins, the President of the Institute of Project Management in 2005, and they have three children, all completing their university studies.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-731061">
+<relationEntry>
+Dombkins, Margaret
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dombkins, Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dombkins, Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1538b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5665</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-05-18">2016-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Jill Segal (with Nikki Henningham)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-18">2016-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5665b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Segal</part>
+<part localType="givenname">Jillian</part>
+<part localType="honorific title">AM, Centenary Medal</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Johannesburg, South Africa</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Executive</term>
+</occupation>
+<occupation>
+<term>Commissioner</term>
+</occupation>
+<occupation>
+<term>Chairperson</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jillian Segal has held executive and non-executive positions in a variety of Australian corporations and across the financial sector. She is a Fellow of the Institute of Company Directors, Member of the Harvard Club of Australia, Member of Chief Executive Women and Founding Co-Chair, WomenCorporateDirectors (Australian Chapter).</abstract>
+<p>Jillian Segal has a BA LL.B from the University of New South Wales and an LL.M from Harvard Law School. She started her law career as an associate to The Right Honourable Sir Anthony Mason at the High Court of Australia after graduating from Law School with the University Medal.</p>
+<p>After completing her Masters at Harvard Law School and working in a New York law firm, Jillian returned to Sydney to become a Senior Associate and later a partner at Allen, Allen and Hemsley (now Allens Linklaters) in the corporate and environment fields.</p>
+<p>She then went on to become a Commissioner and later Deputy Chair of the Australian Securities and Investments Commission (ASIC). After completion of her five year term she was a review member of the Dawson Review into the Trade Practices Act. In 2003 she set out to pursue a non-executive career. Since that time, she has held a range of corporate and government advisory board positions.</p>
+<p>Jillian is currently a Non-Executive Director of the National Australia Bank and the Garvan Institute of Medical Research. She is Deputy Chancellor of UNSW Australia, and Chairman of the General Sir John Monash Foundation, Australia's national scholarship organization for postgraduate study overseas. Jillian is Chairman of the Australia Israel Chamber of Commerce (NSW). She is a Trustee of The Sydney Opera House Trust and a Member of the Australian War Memorial Council. Previous roles have included a non-executive director of ASX Limited; Chairman of the Banking and Finance Ombudsman Board (now FOS), the Administrative Review Council and a member of the Federal Government's Remuneration Tribunal.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Segal, Jillian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Segal, Jillian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5665b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

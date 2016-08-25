@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0880</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-14">2004-04-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis and Carolyne Carter</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0880b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Benevolent Society of New South Wales</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>The Society for the Promotion of Christian Knowledge and Benevolence</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1813-01-01">1813</fromDate>
+<toDate standardDate="1818-12-31">1818</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1813-01-01">1813</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Level 1,
+188 Oxford Street,
+Paddington, NSW 2021
+Phone: (02) 9339 8000
+Fax: (02) 9360 2319</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Welfare organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Benevolent Society of New South Wales was the first charitable organisation to be established in Australia. It aims were 'to relieve the poor,  the distressed, the aged, the infirm,'  to discourage begging and to 'encourage industrious habits' among the poor and to provide them with religious instruction. In 1820 a Ladies Committee was established to attend cases of poor married women during their confinement. This service marked the beginning of the District Nursing service in Australia. In line with the changing needs of pregnant women, the Benevolent Society built and opened the Royal Hospital for Women in 1905 and was responsible for its administration until 1992 when it handed it over to the state government. The Society continues to work in the field of social welfare in New South Wales.</abstract>
+<p> In 1823 the initial Ladies' Committee severed its connection with the Benevolent Society and continued to operate as a separate society.  By  1878 the Benevolent Society had appointed a Ladies' Committee to assume responsibility for interviewing all applicants for admission to the Asylum, which had been established in 1821. </p>
+<p>After incorporation of the Society in 1902, the first board of directors included three women, the first to be elected to the Board of Management. They were Mrs Binney, a subscribers' representative, Mrs Buzacott and Mrs Cruickshank, government nominees.  Lady Renwick was president of the Ladies' Committee while her husband, Sir Arthur Renwick was the president of the Benevolent Society.</p>
+<p>The Ladies' Committee had suggested the name of Royal Hospital for Women and had been responsible for furnishing the new hospital together with funds from individual donors. Nevertheless, by 1913 the Society decided to disband the Ladies' Committee believing it had outlived its usefulness. The official reason for its demise was that the executive powers that the Ladies' Committee sought were not provided for under the Act of Incorporation. The real reason appeared to be their interference in the day to day operation of the hospital, which had caused tension between the matron, the medical staff and the Committee. The longest serving member of the Committee, Mrs N Paton was co-opted on to the Board of the Society as a director.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00167b.htm">
+<relationEntry localType="Person">
+Fairfax, Ruth Beatrice (1878 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-468375">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Benevolent Society of New South Wales', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Benevolent Society of New South Wales</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0880b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002757.htm">
+<relationEntry localType="published">Book: The development of the Benevolent (Sydney) Asylum, 1788-1855</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cummins, C. J. (Cyril Joseph)</name>
+<title render="italic">The development of the Benevolent (Sydney) Asylum, 1788-1855</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Department of Health</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002753.htm">
+<relationEntry localType="published">Book: Guide to the records of the Benevolent Society of New South Wales, 1813-1995</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Scifleet, Paul</name>
+<title render="italic">Guide to the records of the Benevolent Society of New South Wales, 1813-1995</title>
+<edition>1st</edition>
+<imprint>
+<place>Sydney</place>
+<publisher>Benevolent Society of New South Wales</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002749.htm">
+<relationEntry localType="published">Book: A very present help: caring for Australians since 1813: the history of the Benevolent Society of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rathbone, R. W. ( Ronald, William)</name>
+<title render="italic">A very present help: caring for Australians since 1813: the history of the Benevolent Society of New South Wales</title>
+<imprint>
+<place>Sydney</place>
+<publisher>State Library of New South Wales Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002758.htm">
+<relationEntry localType="published">Book: Poverty's prison: the poor in New South Wales 1880-1918</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Brien, Anne</name>
+<title render="italic">Poverty's prison: the poor in New South Wales 1880-1918</title>
+<imprint>
+<place>Carlton, Victoria</place>
+<publisher>Melbourne University Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001455.htm">
+<relationEntry localType="archival">Benevolent Society of New South Wales records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of New South Wales</repository>
+<unittitle>Benevolent Society of New South Wales records</unittitle>
+<unitid>MLMSS 6091</unitid>
+<unitdate>1813 - 1995</unitdate>
+<abstract>This collection comprises the records of the Benevolent Society, 1813-1995, and the records of its predecessor the New South Wales Society for Promoting Christian Knowledge and Benevolence, 1813-1818. Records include minute books, indexes and registers of admissions and discharges, ledgers, journals, correspondence, and subject files. The collection includes the surviving records of the Benevolent Asylum, the Society's Thomas Street Asylum, Renwick Hospital for Infants, Scarba House for Children and the Royal Hospital for Women. As a result of flooding in the Society's records storage area a number of the early records of Scarba House for Children and Renwick Hospital for Infants were destroyed or lost.</abstract>
+<physdesc>
+<extent>75 m, 232 boxes</extent>
+<physfacet>manuscript, Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001454.htm">
+<relationEntry localType="archival">Benevolent Society of New South Wales records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Benevolent Society of New South Wales</repository>
+<unittitle>Benevolent Society of New South Wales records</unittitle>
+<unitdate>1955 - </unitdate>
+<abstract>Includes Minutes 1955-: Correspondence 1955-; Reports 1955-
+The acquisition focus is on the records of the Benevolent Society and related subsidiaries which includes the Royal Hospital for Women - Paddington, Scarba, Community Services.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

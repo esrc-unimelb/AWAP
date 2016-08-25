@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2835</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-11-14">2007-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2835b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Riddell</part>
+<part localType="givenname">Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Napier, New Zealand</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Poet</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Born in New Zealand in 1910, Elizabeth Riddell was recruited as a journalist to work in Sydney straight from school. In 1939 she started work on <span style="font-style:italic">The Sun</span> newspaper, during World War Two she opened and ran the <span style="font-style:italic">Daily Mirror's</span> New York bureau, and in the 1960s, she became senior interviewer and critic for the arts pages of<span style="font-style:italic"> The Australian.</span> Several books of her poetry have been published over the years.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1970-12-31">c. 1970</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+<event>Walkley Award (Print) - Best Newspaper Feature Story, The Australian - News Limited</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1969-01-01">1969</fromDate>
+<toDate standardDate="1969-12-31">1969</toDate>
+</dateRange>
+<event>Walkley Award (Print) - Best Newspaper Feature Story, The Australian - News Limited</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-618114">
+<relationEntry>
+Riddell, Elizabeth (1907-1998)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Riddell, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Riddell, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2835b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003924.htm">
+<relationEntry localType="published">Book: From the midnight courtyard</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Riddell, Elizabeth</name>
+<title render="italic">From the midnight courtyard</title>
+<imprint>
+<place>North Ryde</place>
+<publisher>Angus and Robertson</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003923.htm">
+<relationEntry localType="published">Book: The untrammelled</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Riddell, Elizabeth</name>
+<title render="italic">The untrammelled</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Viking</publisher>
+<date>1940</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003922.htm">
+<relationEntry localType="published">Book: This Difficult Island</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Riddell, Elizabeth</name>
+<title render="italic">This Difficult Island</title>
+<imprint>
+<place>Deakin</place>
+<publisher>Molonglo Press.</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003925.htm">
+<relationEntry localType="published">Resource: Portrait of Elizabeth Riddell [picture]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kahan, Louis</name>
+<title render="italic">Portrait of Elizabeth Riddell [picture]</title>
+<imprint>
+<date>1970</date>
+</imprint>
+<extptr linktype="simple" href="http://nla.gov.au/nla.pic-an4001596"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003921.htm">
+<relationEntry localType="published">Resource: Portrait of Elizabeth Riddell, Bondi, 1984 [picture]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bolton, A. T.</name>
+<title render="italic">Portrait of Elizabeth Riddell, Bondi, 1984 [picture]</title>
+<extptr linktype="simple" href="http://nla.gov.au/nla.pic-an14483924"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003920.htm">
+<relationEntry localType="published">Resource Section: Interview with Elizabeth Riddell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hughes, Robin</name>
+<title render="quoted">Interview with Elizabeth Riddell</title>
+<imprint>
+<publisher>Film Australia</publisher>
+<date>1992</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Biography Online</title>
+<name type="author">Esther Multimedia and Film Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.australianbiography.gov.au/riddell/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002090.htm">
+<relationEntry localType="archival">Papers of Elizabeth Riddell, 1982-1990 [manuscript].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Elizabeth Riddell, 1982-1990 [manuscript].</unittitle>
+<unitid>MS 9235</unitid>
+<unitdate>1982 - 1990</unitdate>
+<abstract>1. Drafts of poems and reviews by Riddell, including "First hearing", "Some people in summer" and those published in The Overland and The Bulletin. 2. Twelve letters and eight cards, 1984-1990, from Barrett Reid. Most were written while Reid was the editor of The Overland. 3. Cuttings and typescripts of articles and 18 poems by Barrett Reid, including an obituary of John Reid and "A landscape painter: the Sidney Nolan Retrospective Exhibition" and copies of Reid's correspondence with Max Harris. 4. Papers relating to Patrick White's Flaws in the Glass. 5. Letters of Stephen Murray-Smith (1982 and 1988) concerning the Dictionary of Australian Quotations.</abstract>
+<physdesc>
+<extent>0.14 m, 1 Box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002089.htm">
+<relationEntry localType="archival">Poems Of Elizabeth Riddell, [ca. 1960-1994] [manuscript].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Poems Of Elizabeth Riddell, [ca. 1960-1994] [manuscript].</unittitle>
+<unitid>MS 9068</unitid>
+<unitdate>1960 - 1994</unitdate>
+<abstract>Annotated typescript drafts of four poems, c.1960 -"Mr and Mrs Beam", "The Doom Caller", "The Optimist" (all signed) and "Mr Dove" (unsigned) - together with an article about Riddell, written by Janet Hawley and published in the "Good Weekend", 20 August 1994, pp. 16-17. All items are bound in one volume, and formerly formed part of the library of collector Geoffrey Cains.</abstract>
+<physdesc>
+<extent>0.01 m, 6 Pages</extent>
+<physfacet>Binder Volume</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002088.htm">
+<relationEntry localType="archival">Conversation with Elizabeth Riddell [sound recording] / interviewer, Hazel de Berg.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Conversation with Elizabeth Riddell [sound recording] / interviewer, Hazel de Berg.</unittitle>
+<unitid>ORAL TRC 1/943</unitid>
+<abstract>1 sound tape reel (ca. 30 min.), interview conducted  June 16, 1976, Transcript available. Riddell speaks of the beginnings of her career as a journalist ; her poetry writing ; her interviewing technique. She also tells of her family history and background.</abstract>
+<physdesc>
+<extent>1 </extent>
+<physfacet>Tape Reels</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

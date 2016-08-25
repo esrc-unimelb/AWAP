@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1354</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-12-06">2005-12-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1354b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bate</part>
+<part localType="givenname">helma Florence</part>
+<part localType="honorific title">CBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Olsen, Thelma</part>
+</nameEntry>
+<nameEntry localType="adopted name"><part>Sundstrom, Thelma</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Harvey, Thelma</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Kirkby, Thelma</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-08-03">3 August 1904</fromDate>
+<toDate standardDate="1984-07-26">26 July 1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Turramurra, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Thelma Bate was unsuccessful in her attempts to enter State and Federal Parliament, but worked for the community and for equality regardless of gender, race or creed throughout her life. She ran as a member of the Country Party in the New South Wales Legislative Assembly for Dubbo, 1947 (known as Harvey), in the Senate in 1951 and 1953 for Gwydir (now known as Kirkby) and in Kirkby's 1953 by election for the House of Representatives.</abstract>
+<p>Thelma Florence Bate was born 3 August 1904, daughter of Olaf Olsen. She later took her stepfather's name, Sundstrom, she was educated at Fort Street Girls' High School and the University of Sydney, graduating BA 1928.</p>
+<p>After travelling abroad, she taught secondary school and in 1934 married a grazier, Richard Harvey, and went to live on his property near Ivanhoe, New South Wales. Widowed in 1946, she stood for the Country Party in the NSW Legislative Assembly seat of Dubbo in 1947 and was narrowly defeated.</p>
+<p>In 1949 she married Kenneth Kirkby. She ran for the Senate in 1951 and 1953, unsuccessfully, on the Country Party ticket. She was one of two Country Party candidates for the Federal seat of Gwydir in a by election in 1953, and was again unsuccessful. She later devoted her considerable energy to various organizations including the Country Women's Association of NSW, which she represented in Toronto, Canada, 1953, at the Association of Country Women of the World. She was a member of the CWA for over 40 years, and served as secretary 1957-59, and president 1959-62. She was insistent that the Association include Aboriginal women and was an executive member of the Foundation for Aboriginal Affairs.</p>
+<p>She was actively involved in establishing the International Houses at both the University of Sydney and the University of New South Wales, which housed international students in Australia on the Colombo Plan. It was for this work that she received the CBE in 1969.</p>
+<p>In 1958 she married Henry Bate, known as Jeff, but the marriage ended in divorce in 1968. She had no children.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0209b.htm">
+<relationEntry localType="Corporate Body">
+Country Women's Association of Australia (1945 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728082">
+<relationEntry>
+Bate, helma Florence (1904-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bate,Thelma Florence', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bate,Thelma Florence</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1354b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

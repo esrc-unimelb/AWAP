@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1152</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-03-16">2005-03-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1152b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Moyle</part>
+<part localType="givenname">Alice Marshall</part>
+<part localType="honorific title">OA</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Brown, Alice Marshall</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1908-12-25">25 December, 1908</fromDate>
+<toDate standardDate="2005-04-09">9 April, 2005</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bloemfontein, South Africa</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Ethnomusicologist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Alice Marshall Moyle was an ethno-musicologist of high renown whose work is always referred to whenever Aboriginal music is studied in schools and tertiary institutions. A talented musician, she was prompted by a talk by A.P. Elkin, then Professor of Anthropology at the University of Sydney, to undertake a study of some recordings of Aboriginal music he had made. She was awarded the Master of Arts (Hons) for this work in 1957. She then undertook her own field trips to complete the first systematic attempt to identify and musically characterise the many different styles and genres of Aboriginal music found in northern and central Australia. Her doctoral thesis, awarded in 1975, was one outcome of this work.
+
+Moyle was a founding member of the Australian Institute of Aboriginal Studies (AIAS) and became a Research Officer there from 1964 to 1965. From 1966-73 Moyle was AIAS Research Fellow in Ethnomusicology, based at Monash University and later a Research Fellow and Research Officer at the Institute in 1973 and 1974 respectively. Her work included the documentation of Aboriginal sound instruments, the history of Aboriginal music and dance through film, field recordings, archaeo-musicology, analysis, taxonomy, and the cataloguing and indexing of ethno-musicological material held in the Institute. She took a great interest in the preservation of recorded sound material and was the guiding force behind the establishment of the 'Sound Archive' at the (then) AIAS.
+
+Moyle also played a key role in the establishment of the Musicological Society of Australia and in 1982-83 served as the Society's National President. She was later instrumental in forming a branch of the International Council for Traditional Music in Australia. She became a Member of the Order of Australia - General Division on Australia Day 1977, was elected as an Honorary Fellow of the Australian Academy of the Humanities on 4 November 1994, and received a degree of Doctor of Music (honoris causa) from the University of Sydney in 1989 and another from the University of Melbourne in 1995.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-508348">
+<relationEntry>
+Moyle, Alice M (1908-2005)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Moyle, Alice Marshall', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Moyle, Alice Marshall</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1152b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003467.htm">
+<relationEntry localType="published">Finding Aid: Guide to the Alice Moyle Collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+<title render="italic">Guide to the Alice Moyle Collection</title>
+<imprint>
+<place>Canberra</place>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aiatsis.gov.au/lbry/ms/finding_aid/MS3501.htm#_Toc84751339"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003584.htm">
+<relationEntry localType="published">Resource: Musical Connections: The Life and Work of Alice Moyle</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+<title render="italic">Musical Connections: The Life and Work of Alice Moyle</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aiatsis.gov.au/lbry/dig_prgm/alice_moyle/moyle_hm.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001947.htm">
+<relationEntry localType="archival">Alice Moyle Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Alice Moyle Collection</unittitle>
+<unitid>MS 3501</unitid>
+<unitdate>1886 - 2002</unitdate>
+<abstract>Personal papers, correspondence, manuscripts, audio-visual materials and publications relating to Alice Marshall Moyles life and work as an ethnomusicologist</abstract>
+<physdesc>
+<extent>11.3 m, 60 Boxes</extent>
+<physfacet>60 boxes + 3 folio boxes + 2 folio folder boxes or binders plus boxed ephemera and map folder.</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

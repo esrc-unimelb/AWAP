@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3974</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-11">2008-12-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3974b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Griffiths</part>
+<part localType="givenname">Glynde Nesta</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1889-07-04">4 July 1889</fromDate>
+<toDate standardDate="1968-06-04">4 June 1968</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Double Bay, Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Bellevue Hill, Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Author</term>
+</occupation>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+<occupation>
+<term>Historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Nesta Griffiths wrote <span style="font-style:italic">Point Piper: Past and Preset</span> in 1947, followed by <span style="font-style:italic">Some Houses and People of New South Wales</span> in 1949 and <span style="font-style:italic">Some Southern Homes of New South Wales</span> in 1952. The stories of various well established families recounted in each publication were partly informed by society gossip, and partly by research conducted by Griffiths in Sydney's Mitchell Library.</abstract>
+<p>Glynde Nesta Griffiths - always known as Nesta - was the daughter of London-born merchant Frederick Close Griffiths and his wife Annette Agnes. Nesta and her sister Gwendolen were raised at Point Piper, near Sydney. Neither married, and they lived together at Bellevue Hill from 1929 until their deaths, just five months apart, in 1968.</p>
+<p>The Griffiths sisters (known 'affectionately and disrespectfully as the Griffs' according to Helen Rutledge) were members of the Royal Sydney Golf Club. Passionate about family history and heritage, they supported the National Trust and Nesta was a member of the Royal Australian Historical Society. Her books on southern and northern homes in New South Wales were sometimes self-published and not well edited, but their value lies in the author's personal acquaintance with her subjects. </p>
+<p>The sisters, who had received little inheritance, came to live quite comfortably thanks to a number of Gwendolen's shrewd investments on the stock market. Both made significant contributions to Sir Lorimer Dods' Children's Medical Research Foundation during their lifetimes. In her will, Gwendolen provided for Dods' grandchildren, while Nesta bequeathed her residual estate - valued at $300,000 - to the Foundation itself.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-478365">
+<relationEntry>
+Griffiths, G Nesta (1889-1968)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Griffiths, Glynde Nesta', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Griffiths, Glynde Nesta</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3974b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004295.htm">
+<relationEntry localType="published">Book: Some Southern Homes of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Griffiths, Glynde Nesta</name>
+<title render="italic">Some Southern Homes of New South Wales</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Shepherd Press</publisher>
+<date>1952</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004294.htm">
+<relationEntry localType="published">Book: Point Piper: Past and Present</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Griffiths, Glynde Nesta</name>
+<title render="italic">Point Piper: Past and Present</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Ure Smith</publisher>
+<date>1947</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004289.htm">
+<relationEntry localType="published">Book: Some Houses and People of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Griffiths, Glynde Nesta</name>
+<title render="italic">Some Houses and People of New South Wales</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Ure Smith</publisher>
+<date>1949</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004213.htm">
+<relationEntry localType="published">Thesis: In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lemon, Barbara</name>
+<title render="quoted">In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>School of Historical Studies, University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004361.htm">
+<relationEntry localType="published">Site Exhibition: In Her Gift: Women Philanthropists in Australian History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">In Her Gift: Women Philanthropists in Australian History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wiph/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004293.htm">
+<relationEntry localType="published">Book: My Grandfather's House</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rutledge, Helen</name>
+<title render="italic">My Grandfather's House</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100805.htm">
+<relationEntry localType="published">Resource Section: Griffiths, Glynde Nesta (1889-1968)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rutledge, Martha</name>
+<title render="quoted">Griffiths, Glynde Nesta (1889-1968)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A140379b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002160.htm">
+<relationEntry localType="archival">Letter from Nesta Griffiths</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Letter from Nesta Griffiths</unittitle>
+<unitid>MS 4829, folders 46-47 (correspondence 1942-1977)</unitid>
+<unitdate>1942 - 1977</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

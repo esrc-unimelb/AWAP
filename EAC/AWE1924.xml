@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1924</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-02-01">2006-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Annette Alafaci</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-02">2016-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1924b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Moore</part>
+<part localType="givenname">Clover</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Collins, Clover</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-10-22">22 October 1945</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Politician</term>
+</occupation>
+<occupation>
+<term>Mayor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>An indefatigable and very successful campaigner, whose support in her community continues to grow. Clover Moore was Alderman of the South Sydney City Council from 1980-81 and Alderman of the Council of the City of Sydney 1981-87. She was elected Lord Mayor of Sydney 2003. Clover was also elected as an Independent to the New South Wales Legislative Assembly seat of Bligh in 1988, 1991, 1995, 1999 and 2003. In 2007 she was elected to the new seat of Sydney and relinquished it in 2012.
+
+ In the 1990s Clover Moore held the balance of power in the Legislative Assembly, with two other independents. She is renowned for her hard work and her community attachments.She continues to hold the position of Lord Mayor of Sydney.</abstract>
+<p>Clover Moore was born in Sydney, one of three daughters of Kathleen and Francis Collins. She was educated at Loreto College, Kirribilli and Elm Court Dominican Convent, Moss Vale. She matriculated to Sydney University, where she studies arts (B.A. Dip.Ed.) and lived at Sancta Sophia College. After graduation she began work as English/History teacher at Fort Street High School. And then lived and taught in London and Europe for several years. She married Peter Moore, an architect, in 1972 and they have two children, Sophie and Tom.</p>
+<p>The Moores returned to Australia in 1975, and in 1980 she ran and won a seat on South Sydney Council. She has been in public office ever since, serving on the City of Sydney Council and in the Legislative Assembly, to which she was elected from Bligh in 1988. From 2003 she was both Lord Mayor of Sydney and the MLA for Bligh, and from 2007 Sydney until 2012. She continues to hold the position of Lord Mayor of Sydney in 2016.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-597322">
+<relationEntry>
+Moore, Clover
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Moore, Clover', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Moore, Clover</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1924b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

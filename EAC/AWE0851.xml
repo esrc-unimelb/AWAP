@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0851</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-07">2004-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-28">2015-08-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0851b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Deal</part>
+<part localType="givenname">Patricia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-11-21">21 November 1933</fromDate>
+<toDate standardDate="2004-07-06">6 July 2004</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Chain Valley Bay, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Social worker</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Patricia Deal was trained at the Rachel Forster Hospital at Redfern. She worked in various Repatriation Hospitals, becoming the Director of Nursing at the Repatriation General Hospital in Daw Park, Adelaide. She also served as a nurse in Vietnam as part of the Australian Army Nursing Corps and remained an active member, retiring in 1986 with the rank of Major.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0446b.htm">
+<relationEntry localType="Corporate Body">
+Royal Australian Army Nursing Corps (RAANC) (1948 - )
+</relationEntry>
+<descriptiveNote>
+<p>Served in Vietnam retiring with the rank of Major</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766081">
+<relationEntry>
+Deal, Patricia (1931-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Deal, Patricia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Deal, Patricia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0851b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005697.htm">
+<relationEntry localType="published">Newspaper Article: Nursing icon a visionary 'Nightingale'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Nursing icon a visionary 'Nightingale'</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Adelaide Advertiser</title>
+<num type="pages">78</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001424.htm">
+<relationEntry localType="archival">Interview with Patricia Deal [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Patricia Deal [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/44</unitid>
+<unitdate>22 February 1990</unitdate>
+<abstract>History of Nursing in South Australia  
+
+Patricia Deal was born in Sydney and was a dressmaker before beginning training at the Rachel Forster Hospital at Redfern. She completed the course in 1957, and did midwifery in Perth the following year. In 1959 she joined the staff of the Repatriation General Hospital at Concord, New South Wales and has continued to serve in repatriation hospitals apart from a short term in Vietnam in 1969. In 1968 Pat studied at the NSW College of Nursing for the Diploma in Nursing Administration, and in 1971 she enrolled at the University of NSW to do a social work course. She transfered to the Arts Faculty and completed an arts degree in 1974. In 1977 she took leave from her post as Director of Nursing at the Repatriation General Hospital, Daw Park (which she still held at the time of the interview) and studied for the Masters Degree in Health Planning, also at the University of NSW. Pat was actively associated with the Australian Army Nursing Corps for twenty five years, retiring with the rank of Major in 1986.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

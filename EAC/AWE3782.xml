@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3782</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-27">2008-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3782b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Paterson</part>
+<part localType="givenname">Elizabeth Deans</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="preferred name"><part>Paterson, Betty</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Wltshire, Elizabeth</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1895-03-18">18 March 1895</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Illustrator</term>
+</occupation>
+<occupation>
+<term>Cartoonist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Paterson and her sister Esther were prodigies born into the elite of Melbourne's bohemian set. Father (Hugh) and uncle (John Ford) were both artists and her first playmates were her neighbours, the children of Frederick McCubbin.
+
+Art impinged upon every facet of her life throughout its entire course. Her Art Deco cartoons were published regularly in magazines such as <span style="font-style:italic">The Bulletin</span> and <span style="font-style:italic">Aussie</span>. Her illustrated interpretations of 'permissive' 1920s society resonated with those she depicted - she became artist-by-appointment to the flappers.
+
+Betty Paterson married twice, and had one child, a daughter, Barbara.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">c. 1920</fromDate>
+<toDate standardDate="1940-12-31">c. 1940</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
+</dateRange>
+<event>Married - Kenneth Newman (later divorced)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1952-01-01">1952</fromDate>
+</dateRange>
+<event>Married - Married the painter Albion Wiltshire</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+<event>Member of the British Empire (MBE)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3783b.htm">
+<relationEntry localType="Person">
+Paterson, Esther (1892 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-757051">
+<relationEntry>
+Paterson, Elizabeth Deans (1895-1970)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Paterson, Elizabeth Deans (Betty)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Paterson, Elizabeth Deans (Betty)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3782b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001063.htm">
+<relationEntry localType="published">Edited Book: Heritage : the national women's art book, 500 works by 500 Australian women artists from colonial times to 1955</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kerr, Joan</name>
+<title render="italic">Heritage : the national women's art book, 500 works by 500 Australian women artists from colonial times to 1955</title>
+<imprint>
+<place>Roseville East, NSW</place>
+<publisher>Craftsman House</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002146.htm">
+<relationEntry localType="archival">Biographical cuttings on Betty Paterson, portrait artist</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Betty Paterson, portrait artist</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002134.htm">
+<relationEntry localType="archival">Esther Paterson interviewed by Hazel de Berg</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Esther Paterson interviewed by Hazel de Berg</unittitle>
+<unitid>TRC 1/536</unitid>
+<unitdate>1893 - 1971</unitdate>
+<abstract>1 sound tape of about 45 minutes.
+Transcript available
+Paterson speaks of her childhood experiences living in Carlton, Victoria, the centre for artists at that time; her relatives and family; training at the National Gallery; the Australian art scene; galleries; attitudes of artists and society; Frederick McCubbin, Norman Lindsay, Bernard Hall, Arthur Streeton, Hugh Paterson and Prime Minister Andrew Fischer. She also speaks of her painting and portraiture including technique, subject and sales.</abstract>
+<physdesc>
+<extent>1 Sound tape</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00246.htm">
+<relationEntry localType="digitalObject">Betty Paterson: Self Portrait</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Betty Paterson: Self Portrait</unittitle>
+<abstract>Scanned copy of a reproduction used in Joan Kerr's <span style="font-style:italic">Heritage: The National Women's Art Book</span>. It was first published in <span style="font-style:italic">Aussie</span> on April 15, 1925.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

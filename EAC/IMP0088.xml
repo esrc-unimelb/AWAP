@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0088</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-09-02">2002-09-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0088b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mayo</part>
+<part localType="givenname">Helen Mary</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1878-10-01">1 October 1878</fromDate>
+<toDate standardDate="1967-11-13">13 November 1967</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Doctor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dr Helen Mayo was appointed an Officer of the Order of the British Empire (Civil) on 3 June 1935 for her maternal and child welfare activities. She worked well past retirement age and established several children's health facilities.</abstract>
+<p>Helen Mayo was educated privately and at the Advanced School for Girls; she matriculated in 1895. Mayo began a medical degree at the University of Adelaide in 1898, and became the university's second woman medical graduate. She gained her doctorate in medicine (MD) in 1926. She opened a private practice in Adelaide in 1906 specialising in midwifery and the health of women and children. She lectured at the University of Adelaide 1926-1934. Mayo also founded the Mothers and Babies' Health Association (1927) which grew out of the School for Mothers she established with social worker Harriet Stirling in 1909. The organisation still exists today, as Child and Youth Health. Stirling and Mayo also set up an independent hospital in 1913 to address the special needs of infant patients. In 1917 it was taken over by the Government and became the Mareeba Babies' Hospital, with Mayo as honorary responsible medical officer.</p>
+<p>Mayo also worked for the Adelaide Children's Hospital, lectured at the University of Adelaide, established a donor service for the Red Cross Transfusion Service and chaired a committee which aimed to establish a women's university college. In 1935 Dr Helen Mayo was appointed an Officer of the Order of the British Empire (Civil) for her maternal and child welfare activities. She was also a Fellow of the Royal Society of Medicine, a foundation Fellow of the Royal Australasian College of Physicians and President of the Australian Federation of University Women.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0215b.htm">
+<relationEntry localType="Corporate Body">
+Australian Federation of Graduate Women Inc. (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0094b.htm">
+<relationEntry localType="Person">
+Stirling, Harriet Adelaide
+</relationEntry>
+<descriptiveNote>
+<p>Co-founders of the School for Mothers (1909) and the Mareeba Babies' Hospital (1913)</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0720b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross Blood Service
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Supervisor, Australian Red Cross Blood Transfusion Services, South Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756061">
+<relationEntry>
+Mayo, Helen M (1878-1967)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mayo, Helen Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mayo, Helen Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0088b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/HASB00862.htm">
+<relationEntry localType="published">Resource Section: Mayo, Helen Mary (1878-1967)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hicks, Neville and Leopold, Elisabeth</name>
+<title render="quoted">Mayo, Helen Mary (1878-1967)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">10</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100455b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001287.htm">
+<relationEntry localType="published">Journal Article: Some aspects of the history of infant welfare in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mayo, Helen Mary</name>
+<title render="quoted">Some aspects of the history of infant welfare in South Australia</title>
+<imprint>
+<date>1960</date>
+</imprint>
+<bibseries>
+<title render="italic">Medical Journal of Australia</title>
+<num type="issue">18 June</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001285.htm">
+<relationEntry localType="published">Journal Article: A very remarkable woman: Dr Helen Mary Mayo, 1978-1967</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Denham, D.</name>
+<title render="quoted">A very remarkable woman: Dr Helen Mary Mayo, 1978-1967</title>
+<imprint>
+<date>1991</date>
+</imprint>
+<bibseries>
+<title render="italic">University of Adelaide Library News</title>
+<num type="volume">13</num>
+<num type="issue">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001124.htm">
+<relationEntry localType="published">Newspaper Article: Obituary: Helen Mayo</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacKay, D. G.</name>
+<title render="quoted">Obituary: Helen Mayo</title>
+<imprint>
+<date>1968</date>
+</imprint>
+<bibseries>
+<title render="italic">South Australian Clinics</title>
+<num type="volume">3</num>
+<num type="issue">2</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001123.htm">
+<relationEntry localType="published">Book: A goodly heritage: an appreciation of the life and work of the late Dr Helen Mayo</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horan, Margaret Burton</name>
+<title render="italic">A goodly heritage: an appreciation of the life and work of the late Dr Helen Mayo</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Australasian Medical Publishing Co.</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002717.htm">
+<relationEntry localType="published">Book Section: Helen Mayo</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacKinnon, Alison</name>
+<title render="quoted">Helen Mayo</title>
+<imprint>
+<place>Broadway, N.S.W.</place>
+<publisher>Women's Redress Press Inc</publisher>
+<date>[1988]</date>
+</imprint>
+<bibseries>
+<title render="italic">200 Australian women : a Redress anthology</title>
+<name type="author">Radi, Heather</name>
+<num type="pages">113-114</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/HASB00869.htm">
+<relationEntry localType="published">Book Section: The Medicals: Laura Hope, Helen Mayo, Rosamund Benham [and] Phyllis Cliento</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mackinnon, Alison</name>
+<title render="quoted">The Medicals: Laura Hope, Helen Mayo, Rosamund Benham [and] Phyllis Cliento</title>
+<imprint>
+<place>Netley, S.A.</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">The New Women: Adelaide's Early Women Graduates</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002718.htm">
+<relationEntry localType="published">Book: The new women : Adelaide's early women graduates</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mackinnon, Alison, 1942-</name>
+<title render="italic">The new women : Adelaide's early women graduates</title>
+<imprint>
+<place>Netley, S. A.</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001288.htm">
+<relationEntry localType="published">Book: The hands of a woman: South Australian Medical Women's Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The hands of a woman: South Australian Medical Women's Society</title>
+<imprint>
+<place>Kent Town</place>
+<publisher>Wakefield Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001286.htm">
+<relationEntry localType="published">Report: Private medicine and public health</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hicks, Neville</name>
+<title render="italic">Private medicine and public health</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Dept. of Community Medicine, University of Adelaide</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001284.htm">
+<relationEntry localType="published">Edited Book: S.A.'s greats: the men and women of the North Terrace plaques</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Healey, John</name>
+<title render="italic">S.A.'s greats: the men and women of the North Terrace plaques</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Historical Society of South Australia</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001016.htm">
+<relationEntry localType="published">Book: Living in South Australia : a social history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elizabeth Kwan</name>
+<title render="italic">Living in South Australia : a social history</title>
+<imprint>
+<place>Netley, S. Aust.</place>
+<publisher>South Australian Government Printer</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000477.htm">
+<relationEntry localType="archival">Mayo, Helen Mary</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Barr Smith Library, Special Collections, The University of Adelaide</repository>
+<unittitle>Mayo, Helen Mary</unittitle>
+<unitid>09M.D M47</unitid>
+<abstract>Some observations on biological therapy. Thesis for M.D. Degree. Typewritten copy.</abstract>
+<physdesc>
+<extent>0.33 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000476.htm">
+<relationEntry localType="archival">Mayo, Helen Mary [Address]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Barr Smith Library, Special Collections, The University of Adelaide</repository>
+<unittitle>Mayo, Helen Mary [Address]</unittitle>
+<unitid>378.942 M473</unitid>
+<unitdate>1971</unitdate>
+<abstract>Address delivered at the opening of the Dr. Helen Mayo wing, St. Ann's College, 29th June 1961. Typewriter copy.</abstract>
+<physdesc>
+<extent>7 leaves</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000192.htm">
+<relationEntry localType="archival">Papers of the Mayo family</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Papers of the Mayo family</unittitle>
+<unitid>PRG 127</unitid>
+<unitdate>1904 - 1965</unitdate>
+<abstract>Papers of the Mayo family comprising correspondence, biographical notes, addresses, papers relating to Mothers and Babies Health Association, St. Ann's College and the Australian Federation of University Women of Dr Helen Mayo, correspondence, biographical notes, addresses and publications of Professor Elton Mayo, papers relating to John Christian Mayo, correspondence of Sir Herbert Mayo and papers of Mary Penelope Mayo.</abstract>
+<physdesc>
+<extent>0.9 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

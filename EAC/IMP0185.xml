@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0185</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-18">2002-10-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0185b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">de Berg</part>
+<part localType="givenname">Hazel Estelle</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1984-02-03">3 February 1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Deniliquin, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Hazel de Berg interviewed thousands of people in her work as an oral historian. A significant number of her interviews are held in the oral history collection of the National Library of Australia. She was appointed a Member of the Order of the British Empire (Civil) on 1 January 1968 for services in collection of archival material.</abstract>
+<p>The third of six children to the Revered George Holland and his wife Ann, Hazel de Berg was raised in Deniliquin and trained as a radiographer. In 1957, author Frank Clune asked her to record a book for a blind friend. She completed a recording of <span style="font-style:italic">Old Day, Old Ways</span> by Dame Mary Gilmour. To provide some background biographical information, Hazel de Berg asked Dame Mary Gilmour if she would agree to a recorded interview. The information provided produced some previously unrecorded detail.</p>
+<p>This recording became the first of the de Berg oral history collection, held at the National Library in Canberra and comprising approximately 1300 hour-long taped interviews. Originally the project was self-funded but in 1960, Sir Harold White, the Federal Parliamentary Librarian and National Librarian, offered her a Commonwealth Grant.</p>
+<p>For more than 25 years Hazel de Berg documented Australia's social history by recording poets, novelists, historians, painters, musicians and scientists, - people who were contributing to the ongoing intellectual life of Australia. Predeceased by her husband William, Hazel de Berg died on 3 February 1984 from a heart attack. She was survived by her twin daughters Diana and Deborah, and son Michael.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-542626">
+<relationEntry>
+De Berg, Hazel (-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'de Berg, Hazel Estelle', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">de Berg, Hazel Estelle</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0185b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001374.htm">
+<relationEntry localType="published">Book: The Hazel de Berg recordings from the oral history collection of the National Library of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Hazel de Berg recordings from the oral history collection of the National Library of Australia</title>
+<imprint>
+<place>Canberra</place>
+<publisher>National Library of Australia</publisher>
+<date>c1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001356.htm">
+<relationEntry localType="published">Sound recording: [Conversation with Gwen Meredith] / [interviewer : Hazel de Berg]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">[Conversation with Gwen Meredith] / [interviewer : Hazel de Berg]</title>
+<imprint>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001641.htm">
+<relationEntry localType="published">Newspaper Article: Sound advice for the future</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Scott, Natalie</name>
+<title render="quoted">Sound advice for the future</title>
+<imprint>
+<date>1971</date>
+</imprint>
+<bibseries>
+<title render="italic">The Australian</title>
+<num type="pages">9</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001639.htm">
+<relationEntry localType="published">Newspaper Article: She has them taped</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">She has them taped</title>
+<imprint>
+<date>1968</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+<num type="pages">6</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001638.htm">
+<relationEntry localType="published">Newspaper Article: Pioneer in oral history recording</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Pioneer in oral history recording</title>
+<imprint>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+<num type="pages">12</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000489.htm">
+<relationEntry localType="archival">[Tape recorder used by Hazel de Berg for interviews for Oral History] [realia]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Reading Room</repository>
+<unittitle>[Tape recorder used by Hazel de Berg for interviews for Oral History] [realia]</unittitle>
+<unitdate>1960</unitdate>
+<abstract>1 tape recorder : metal and bakelite ; 21.5 x 34.5 x 45.5 cm.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000488.htm">
+<relationEntry localType="archival">[Talking history program on the National Library's Oral History section and the Hazel de Berg Collection] / [sound recording] / [Compiled by : Tim Bowden].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Reading Room</repository>
+<unittitle>[Talking history program on the National Library's Oral History section and the Hazel de Berg Collection] / [sound recording] / [Compiled by : Tim Bowden].</unittitle>
+<unitdate>1989</unitdate>
+<abstract>Devised for the Talking history program following the official opening of the National Library's new Oral History and Sound Preservation studios and reading room. The program also features the Hazel de Berg Oral History collection, held in the National Library. Those recorded include the Governor-General Bill Hayden, Mark Cranfield - chief Oral History Officer (N.L.A.), Diana Rich (De Berg's daughter), Harold White (former National Librarian), Hazel De Berg and Dame Mary Gilmore.</abstract>
+<physdesc>
+<extent>1 tape reel</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000487.htm">
+<relationEntry localType="archival">Papers of Hazel Estelle de Berg</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Hazel Estelle de Berg</unittitle>
+<unitid>MS 2249</unitid>
+<unitdate>1960 - 1967</unitdate>
+<abstract>Letters to Hazel de Berg, 1960-1967, most of which concern her interviewing of artists, writers, etc; Address book and lists of appointments for interviews; Australian Society of Authors - reports, agendas, etc. 1965-1967; Literary manuscripts by Rodney A. Milgate: Eleven poems, Inside outside or Fifteen poems etc.,and by Mary Lisle: Memoried ways, TS poem (1 p.), Out west its worse (Feature written and produced for ABC radio by John Thompson. Annotated photocopied TS); Printed material (mostly invitations to art exhibitions and catalogues of exhibitions).</abstract>
+<physdesc>
+<extent>0.07 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000486.htm">
+<relationEntry localType="archival">Papers of Hazel Estelle de Berg</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Hazel Estelle de Berg</unittitle>
+<unitid>MS 888</unitid>
+<unitdate>1959 - 1963</unitdate>
+<abstract>The collection contains: letters from poets and artists including Eleanor Dark, Henrietta  Drake-Brockman, Sumner Locke Elliott, Xavier Herbert, A. D. Hope, Dorothea Mackellar, Ian  Mudie, and Katharine Susannah Prichard; a transcript of tape-recordings (1 v.); typescript for book  "All roads lead to Rome" by Frank Clune; a list of books received with the collection, catalogued  and shelved in the Whelan collection; a curriculum vitae for Grace Cuthbert Brown M.B.E. M.B.  Ch.M., F.R. O.G.; a transcript "about Virgil Reilly" and biographical data on Bart. J. Bok.</abstract>
+<physdesc>
+<extent>0.15 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000485.htm">
+<relationEntry localType="archival">Biographical cuttings on Hazel Estelle de Berg, oral historian</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Hazel Estelle de Berg, oral historian</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001511.htm">
+<relationEntry localType="archival">[Conversation with Stroma Buttrose] [sound recording] / [interviewer: Hazel de Berg]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>[Conversation with Stroma Buttrose] [sound recording] / [interviewer: Hazel de Berg]</unittitle>
+<unitid>22883</unitid>
+<unitdate>24 February 1978</unitdate>
+<abstract>Hazel de Berg collection
+
+Buttrose speaks of her work as Commissioner of the Planning Appeal Board ; she speaks of her beginnings as a writer ; her childhood in South Australia ; winning first prize in a poetry competition ; teaching geography ; joining the State Planning Office in 1957 ; she describes the way she writes ; her studies in town planning. Buttrose reads the poems: "Writing office", "Man", "A day in the south", "John McDowall Stuart", "The growth of love by telephone" and "The look of love".</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001355.htm">
+<relationEntry localType="archival">[Conversation with Irene Greenwood] [sound recording] / [interviewer: Hazel de Berg]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>[Conversation with Irene Greenwood] [sound recording] / [interviewer: Hazel de Berg]</unittitle>
+<unitid>ORAL DeB 916</unitid>
+<unitdate>7 March 1976</unitdate>
+<abstract>Greenwood speaks of her work as a broadcaster for the ABC commencing in 1936 ; about her involvement with the feminist movement ; her mother, Mary Driver, who was a founder of women's groups in W.A. ; the Women's International League for Peace and Freedom.
+1 cassette (ca. 33 min.) : 1 7/8 ips.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000490.htm">
+<relationEntry localType="archival">Australian poetry live classics from the Hazel de Berg collection / [sound recording] : selected by Geoff Page.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Australian poetry live classics from the Hazel de Berg collection / [sound recording] : selected by Geoff Page.</unittitle>
+<unitdate>1996</unitdate>
+<abstract>Archival recordings of Australian poets; 1 sound cassette (ca. 60 min.) + 1 booklet (viii, 49 p. ; 15 cm.).</abstract>
+<physdesc>
+<extent>1 sound cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

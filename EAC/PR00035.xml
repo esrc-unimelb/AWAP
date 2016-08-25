@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00035</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Kathleen Bambridge</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00035b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women Against Rape Adelaide</part>
+<part localType="parent">Adelaide Women's Liberation Movement</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>WAR</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1981-04-26">26 April 1981</fromDate>
+<toDate standardDate="1982-04-25">25 April 1982</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social Awareness</term>
+</function>
+<function>
+<term>Protesting</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Women Against Rape (WAR) was formed after the 1981 ANZAC Day March in Canberra where three hundred women demonstrated about and for women raped in war. The Adelaide women organised a rally in support of the women who had been arrested in Canberra.
+
+</abstract>
+<p>Women Against Rape (WAR) was formed after the 1981 ANZAC Day March in Canberra where three hundred women demonstrated about and for the women raped in war.  The Canberra group had been protesting at ANZAC Day Marches since 1979. The Adelaide women organised a rally in support of the women who had been arrested.   With the aid of the Internation Women's Day Collective, WAR undertook a campaign to raise awareness of this issue in Adelaide.  The women wanted to march at the end of the ANZAC Day march but permission was not granted. They were advised they could march only after 12 pm.  WAR met in Victoria Square and they laid wreaths at the War Memorial, which where then removed by police and bystanders.  WAR's campaign highlighed the fact that when they handed out a newsheet of their actions they were prevented due to the by-law preventing women from selling or distributing news. Women Against Rape was part of a International movement of women, protesting rape in war.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00037b.htm">
+<relationEntry localType="Person">
+Quixley, Suzi
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477544">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women Against Rape Adelaide', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women Against Rape Adelaide</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00036.htm">
+<relationEntry localType="archival">Women Against Rape Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Women Against Rape Records</unittitle>
+<unitid>being processed</unitid>
+<unitdate>1981 - 1982</unitdate>
+<abstract>Contents include a cotton and silk banner, correspondence, newsclippings and legal documents related to their activities.</abstract>
+<physdesc>
+<extent>1.50000001303852E-03 m, 5 folders, one banner</extent>
+<physfacet>minutes, correspondence, fabic banner and legal documents.</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00108.htm">
+<relationEntry localType="archival">Adelaide Women's Liberation Movement</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Adelaide Women's Liberation Movement</unittitle>
+<unitdate>November 1969 - May 1989</unitdate>
+<abstract>The Adelaide Women's Liberation Movement began at the University of Adelaide in 1968, with the women who were active in young labour, the anti-vietnam war campaign questing their frustration and roles in these groups that were male dominated. Anna Yeatman, Anne Summers and Julie Ellis are credited with starting the newsletters Sisterhood, and Body Political by late 1969 they produced Liberation, the Adelaide Women's Liberation Newsletter which replaced Sisterhood. Their first protest was against the Miss Fresher competition, which gain media exposer to their ideas of women's liberation. Public meetings where called and the broader community involvement brought about the establishment of the Women's Liberation Movement housed at Bloor House. They provided an environment where ideas for supporting women'd rights were fostered. From this the Women's Liberation Movement in Adelaide was the catalyst for the establishment of the Women's Health Centre at Hindmarsh, The Rape Crisis Centre, Women's Studies Resource Centre, Abortion Action Campaign, St Peters Women's Community Centre, Women's Health Centers at Chrisities Beach and Elizabeth, lobbied for Women's Studies to be part of Tertiary education, women's representation in parliments, Working Women's Centre to Protect women's working rights, the Women's Peace Movement. Bloor House provided a space for women to express their personal political ideas and to get feedback and support. The Women's Liberation Movement moved from Bloor House to Eden St in Adelaide and then to Mary St, Hindmarsh were it was closed in 1989.</abstract>
+<physdesc>
+<extent>0.323000013828278 m, 1021 </extent>
+<physfacet>banners, minutes, correspondence, badges, posters, flyers, daybooks</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

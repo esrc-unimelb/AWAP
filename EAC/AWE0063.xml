@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0063</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0063b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Macnamara</part>
+<part localType="givenname">Annie Jean</part>
+<part localType="honorific title">Dame, DBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Connor, Annie Jean</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1934-01-01">1934</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1899-04-01">1 April 1899</fromDate>
+<toDate standardDate="1968-10-16">16 October 1968</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Beechworth, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical scientist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Macnamara, born in 1899 at Beechworth, Victoria, and a graduate of the University of Melbourne, was a physician at the Children's Hospital Melbourne in 1922 and 1923, a consultant and medical officer to the Poliomyelitis Committee of Victoria 1925-1931, and medical officer, Yooralla Hospital School for Crippled Children 1928-1951. During 1931-1933 she held the Rockefeller Foundation travelling scholarship, furthering her studies on poliomyelitis. While in America she learnt about the virus myxomatosis and it was largely due to her efforts that the Australian Government held field trials testing the virus as a means to eradicating Australia's rabbit problem. She was on the part-time staff of the Walter and Eliza Hall Institute of Medical Research 1933-1937. As Mrs Annie Jean Connor (she married Dr Ivan Connor in 1934), she was appointed Dame Commander of the Order of the British Empire for her services to the welfare of children in 1935, and was known as Dame Jean Macnamara.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743084">
+<relationEntry>
+Macnamara, Jean (1899-1968)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Macnamara, Annie Jean', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Macnamara, Annie Jean</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0063b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001144.htm">
+<relationEntry localType="published">Journal Article: Obituary - Annie Jean Macnamara</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Upjohn, William</name>
+<title render="quoted">Obituary - Annie Jean Macnamara</title>
+<imprint>
+<date>1970</date>
+</imprint>
+<bibseries>
+<title render="italic">The Medical Journal of Australia</title>
+<num type="issue">5 September</num>
+<num type="pages">472-476</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001470.htm">
+<relationEntry localType="published">Resource Section: Macnamara, Annie Jean (1899 - 1968), Biographical Entry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Macnamara, Annie Jean (1899 - 1968), Biographical Entry</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P001288b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000088.htm">
+<relationEntry localType="published">Resource Section: Dame Annie Jean Macnamara (1899-1968)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith, Ann G.</name>
+<title render="quoted">Dame Annie Jean Macnamara (1899-1968)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100337b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000086.htm">
+<relationEntry localType="published">Article: No Standing Back: Dame Jean Macnamara</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sherratt, Tim</name>
+<title render="quoted">No Standing Back: Dame Jean Macnamara</title>
+<imprint>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Australiasian Science</title>
+<num type="issue">Summer</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/exhib/journal/as_macna.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002144.htm">
+<relationEntry localType="published">Book: 150 years, 150 stories : brief biographies of one hundred and fifty remarkable people associated with the University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Flesch, Juliet and McPhee, Peter</name>
+<title render="italic">150 years, 150 stories : brief biographies of one hundred and fifty remarkable people associated with the University of Melbourne</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Department of History, University of Melbourne</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000087.htm">
+<relationEntry localType="published">Resource: Technology in Australia 1788-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Academy of Technological Sciences and Engineering</name>
+<title render="italic">Technology in Australia 1788-1988</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2000</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/tia/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000060.htm">
+<relationEntry localType="archival">Papers of Dame Jean Macnamara</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Dame Jean Macnamara</unittitle>
+<unitid>MS 2399</unitid>
+<unitdate>1920 - 1968</unitdate>
+<abstract>A collection of correspondence, press cuttings, case histories, appointment books, sketches, articles, etc. relating to the life and career of Dr Jean Macnamara. There is a large amount of published material much of which consists of Dr Macnamara's own writings. There is also a considerable volume of material relating to her interest in the eradication of rabbits by the introduction into Australia of the virus disease, myxomatosis. She was largely responsible for persuading the Australian Government to hold field trials using myxomatosis. Other fields of interest represented in the collection include orthopaedics, research into polio, and animal diseases which have some relationship to human beings and to domestic animals. Also included are several folders of letters written by Dr Macnamara to her family while she was overseas on a Rockefeller Foundation travelling scholarship from 1931-1933.</abstract>
+<physdesc>
+<extent>6 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

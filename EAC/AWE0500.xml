@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0500</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-08-21">2003-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0500b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Melbourne Ladies Benevolent Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Melbourne Ladies Welfare Society</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1845-01-01">1845</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria,  Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>In response to the perceived needs of the 'deserving poor', the Melbourne Ladies Benevolent Society (MLBS) began operations as the Presbyterian Female Visiting Society in August 1845. By 1851, it was known as the MLBS, and retained that name until 1964, when it became the Melbourne Ladies' Welfare Society. The Society supplied food, clothing and other necessities to the respectable poor at home, particularly women in the Fitzroy and surrounding areas. The MLBS was acknowledged as Melbourne's principal relieving agency and played a major role in dispensing social service benefits until the 1940s, when the Commonwealth Government assumed a greater responsibility for social welfare.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0586b.htm">
+<relationEntry localType="Person">
+Downing, Cecilia (1858 - 1952)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1015b.htm">
+<relationEntry localType="Person">
+Dunn, Louisa
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1869-01-01">1869</fromDate>
+<toDate standardDate="1891-12-31">1891</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0590b.htm">
+<relationEntry localType="Person">
+Desailly, Frances Esme
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768088">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Melbourne Ladies Benevolent Society', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Melbourne Ladies Benevolent Society</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0500b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001967.htm">
+<relationEntry localType="published">Journal Article: Poor relief in Melbourne: the Benevolent Society's contribution, 1845-1893</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kennedy, Richard</name>
+<title render="quoted">Poor relief in Melbourne: the Benevolent Society's contribution, 1845-1893</title>
+<imprint>
+<date>1974</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of the Royal Australian Historical Society</title>
+<num type="volume">60</num>
+<num type="issue">4</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001966.htm">
+<relationEntry localType="published">Report: Annual report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Ladies Welfare Society</name>
+<title render="italic">Annual report</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Ladies Welfare Society</publisher>
+<date>1965</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001965.htm">
+<relationEntry localType="published">Report: Annual report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Ladies Benevolent Society</name>
+<title render="italic">Annual report</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Ladies' Benevolent Society</publisher>
+<date>1964</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001964.htm">
+<relationEntry localType="published">Book: Women who helped pioneers: pages of Melbourne history that glow</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Woinarski, G Zichy and Abbott, E. S.</name>
+<title render="italic">Women who helped pioneers: pages of Melbourne history that glow</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Ladies' Benevolent Society</publisher>
+<date>1945</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001963.htm">
+<relationEntry localType="published">Book: Women's work during fifty years in connection with the Melbourne Ladies' Benevolent Society,1845-1895</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Melbourne Ladies' Benevolent Society</name>
+<title render="italic">Women's work during fifty years in connection with the Melbourne Ladies' Benevolent Society,1845-1895</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne Ladies' Benevolent Society</publisher>
+<date>1895</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002743.htm">
+<relationEntry localType="published">Book: Deserted and destitute: motherhood, wife desertion and colonial welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Twomey, Christina</name>
+<title render="italic">Deserted and destitute: motherhood, wife desertion and colonial welfare</title>
+<imprint>
+<place>Melbourne, Victoria</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001968.htm">
+<relationEntry localType="published">Book: Single mothers and their children: disposal, punishment and survival in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee and Howe, Renate</name>
+<title render="italic">Single mothers and their children: disposal, punishment and survival in Australia</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cambridge University Press</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001744.htm">
+<relationEntry localType="archival">Dunn R C Mrs, records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Dunn R C Mrs, records</unittitle>
+<unitid>ML MSS 1722</unitid>
+<unitdate>1891</unitdate>
+<abstract>Address from the Melbourne Ladies Benevolent Society, November 1891, on the occasion of her resignation from the position of Honorary Treasurer.</abstract>
+<physdesc>
+<extent>1 volume</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000930.htm">
+<relationEntry localType="archival">Melbourne Ladies Benevolent Society, minute books [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Melbourne Ladies Benevolent Society, minute books [manuscript]</unittitle>
+<unitid>MS 12414</unitid>
+<unitdate>1850 - 1893</unitdate>
+<abstract>Minute books, 8 June, 1850-19 July, 1960, 4 August 1970-5 August 1975, 28 September 1981-29 August 1983. The collection includes also the minute book of the Industrial Home, 7 January 1861-19 August 1862.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Minutes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

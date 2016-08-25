@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4296</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-03">2009-09-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-19">2015-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4296b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fidler</part>
+<part localType="givenname">Mabel Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1871-03-02">2 March 1871</fromDate>
+<toDate standardDate="1960-02-25">25 February 1960</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Wollongong, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Headmistress</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mabel Maude Fidler was the founder of Ravenswood School for Girls.
+
+Mabel Fidler and her sister, Isabel Margaret Fidler, attended Emily Baxter's Argyle School in Surry Hills and both were winners of the prestigious Fairfax Prize.
+
+Fidler worked as a governess for several years before opening her own school in 1901. The classes took place in a schoolroom erected on the block adjacent to her home, 'Ravenswood', in Gordon, Sydney. It was a non-sectarian private day school for girls.
+
+Fidler sold the school to the Methodist Church in 1924, by which point it had 180 pupils. She retired as Headmistress the following year but continued on as the President of the Old Girls' Union (ROGU) until 1938. One of her last 'official' appearances was at the Jubilee Celebrations of ROGU in 1958 at which the new Mabel Fidler Library was opened.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4295b.htm">
+<relationEntry localType="Corporate Body">
+Ravenswood School for Girls (1901 - )
+</relationEntry>
+<descriptiveNote>
+<p>Mabel Fidler was the founding headmistress of Ravenswood School for Girls</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4310b.htm">
+<relationEntry localType="Person">
+Fidler, Isabel Margaret (1869 - 1952)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462329">
+<relationEntry>
+Fidler, Mabel Maude (1871-1960)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fidler, Mabel Maude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fidler, Mabel Maude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4296b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004604.htm">
+<relationEntry localType="published">Resource: Ravenswood School for Girls, 'Our Heritage'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ravenswood School</name>
+<title render="italic">Ravenswood School for Girls, 'Our Heritage'</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.ravenswood.nsw.edu.au/Our-Heritage/Ravenswood-Our-Heritage.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004603.htm">
+<relationEntry localType="published">Book: Ravenswood: educating girls 1901-2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Binns, Marjorie</name>
+<title render="italic">Ravenswood: educating girls 1901-2001</title>
+<imprint>
+<place>Wahronnga, N.S.W</place>
+<publisher>Helicon Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100203.htm">
+<relationEntry localType="published">Resource Section: Fidler, Isabel Margaret (1869-1952)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jacobs, Marjorie</name>
+<title render="quoted">Fidler, Isabel Margaret (1869-1952)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080519b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002322.htm">
+<relationEntry localType="archival">Ravenswood Archives</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Ravenswood School for Girls</repository>
+<unittitle>Ravenswood Archives</unittitle>
+<unitid>Contact the archivist</unitid>
+<unitdate>1901 - </unitdate>
+<abstract>The Ravenswood Archives commenced 'officially' in 1988. Lorna Puflett, previously senior librarian until 1985 had accumulated a great deal of material of archival interest and she commenced her new position as the Ravenswood archivist in 1988. The collection contains: paper records dating back to the foundation of the school in 1901; over 9 000 photographs from 1904 onwards; a complete collection of school magazines/year books from 1925; samples of old school uniforms; including hats, ties, badges and sports gear, prize certificates, trophies, examples of pupils work. Ravenswood Archives also runs an Oral History Programme and a 'Women of Ravenswood' collection. Several school class groups visit the Archives annually to learn about the history of the school and for research.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Paper, photographs, fabric/material, digital</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3973</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-12-10">2008-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3973b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Steele</part>
+<part localType="givenname">Joyce Wilfred</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Liberal and Country League, Joyce Steele was the first woman to be elected to the House of Assembly in the South Australian Parliament in 1959. She stood in the seat of Burnside. She was the first woman in the South Australian Parliament to achieve Cabinet rank as Minister for Education in the Hall Government from 1968-69, then moved to the Social Welfare Ministry in 1969. After major electoral reform in 1968, Steele stood for the new seat of Davenport at the 1970 state election and won convincingly. She retired before the 1973 election.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-728055">
+<relationEntry>
+Steele, Joyce (19090529-19910524)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Steele, Joyce Wilfred', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Steele, Joyce Wilfred</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3973b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004577.htm">
+<relationEntry localType="published">Book: No ordinary lives: pioneering women in Australian politics</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jenkins, Cathy</name>
+<title render="italic">No ordinary lives: pioneering women in Australian politics</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002132.htm">
+<relationEntry localType="published">Book: Liberal women : Federation to 1949</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">Liberal women : Federation to 1949</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Federation Press</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002200.htm">
+<relationEntry localType="archival">Liberal Party, S. A. Division : SUMMARY RECORD</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Liberal Party, S. A. Division : SUMMARY RECORD</unittitle>
+<unitid>SRG 168 PART OUTSIZE 1,6</unitid>
+<unitdate>1900 - 1997</unitdate>
+<abstract>Liberal Party records including the former Australian National League, Liberal Union, Liberal Federation and Liberal and Country League, comprising minutes, subject files, electoral papers, membership lists, reports, press cuttings, posters, publications, films, videos, sound recordings and photographs together with records of the Liberal Club Ltd and of the Young Liberal Movement. Also includes minutes and financial records of the Eyre State Electoral Committee. A selection of 57 photographs from series 1/58 has been digitised and is available to see on the South Australiana Database; do a NUMBER search on SRG 168/1/58/2-100</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002199.htm">
+<relationEntry localType="archival">Interview with Joyce Steele [sound recording] Interviewer: Anne Geddes</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Interview with Joyce Steele [sound recording] Interviewer: Anne Geddes</unittitle>
+<unitid>PRG 727/2/8</unitid>
+<unitdate>1984</unitdate>
+<abstract>Sound cassette, 58 minutes</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002198.htm">
+<relationEntry localType="archival">Recordings of Joyce Steele [sound recording] Interviewer: Meg Denton</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Recordings of Joyce Steele [sound recording] Interviewer: Meg Denton</unittitle>
+<unitid>OH 368</unitid>
+<unitdate>1989 - 1991</unitdate>
+<abstract>A series of recordings of Joyce Steele, the first South Australian woman Member of the House of Assembly. OH 368/1 is an informal interview recorded over five sessions in late 1990 and early 1991 by Meg Denton who had met Mrs Steele while researching the career of dance teacher Joanna Priest. Ms Denton agreed to help Mrs Steele record some of her reminiscences, and the interview ranges widely over her childhood and early work experiences in Western Australia (including anecdotes about an employer, woman orthopedic surgeon Dr Radcliffe-Taylor), family history and experiences in politics. OH 368/2 is a recording of the speech made by Lance Milne at Mrs Steele's eigthieth birthday party in 1989. Her son Christopher Steele hosts the proceedings at which Mrs Steele speaks briefly</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>cassette tapes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

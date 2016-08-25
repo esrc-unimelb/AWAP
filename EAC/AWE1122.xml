@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1122</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-08">2004-12-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1122b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>National Travellers' Aid Society of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Voluntary organisation</term>
+</function>
+<function>
+<term>Welfare organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The National Travellers Aid Society of Australia was also founded in 1944, with Cecilia Downing, a long serving member of the Victorian Society, as its first president. Its purpose was to provide a link between the various state-based Societies. These are/were non-profit, independent organisations, providing a range of services and assistance for travellers, including those with special requirements or in emergency situation.
+
+The first Travellers' Aid organisation was formed in England in 1885 initially under the auspices of the London Young Women's Christian Association. It aimed to assist girls arriving alone in London or other towns.The first Australian society was formed in Adelaide in 1887, again under the auspices of the YWCA (while this soon fell into abeyance a new society was formed in 1911). The Travellers Aid Society of Victoria was formed in 1916, the Travellers' Aid Benevolent Society of Queensland in 1928, the Travellers Aid Society of New South Wales in 1938 and the Travellers Aid Society of Western Australia in 1944.
+
+All of these Societies were initially dedicated to assisting women and girls who were travelling or migrating. It was not until the late 1960s that they expanded their work to include men.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1121b.htm">
+<relationEntry localType="Corporate Body">
+Travellers Aid Australia (1916 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1123b.htm">
+<relationEntry localType="Corporate Body">
+Travellers' Aid Society of New South Wales (1938 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0586b.htm">
+<relationEntry localType="Person">
+Downing, Cecilia (1858 - 1952)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1131b.htm">
+<relationEntry localType="Person">
+Sewell, Christina (1882 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754054">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'National Travellers' Aid Society of Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">National Travellers' Aid Society of Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1122b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003440.htm">
+<relationEntry localType="published">Report: Annual Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Travellers' Aid Society of Western Australia</name>
+<title render="italic">Annual Report</title>
+<imprint>
+<date>1944-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003439.htm">
+<relationEntry localType="published">Report: Annual report / the Travellers' Aid Society in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report / the Travellers' Aid Society in South Australia</title>
+<imprint>
+<date>1912-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003438.htm">
+<relationEntry localType="published">Report: Annual report and financial statement / Travellers' Aid Society of Queensland</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report and financial statement / Travellers' Aid Society of Queensland</title>
+<imprint>
+<date>1928-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001903.htm">
+<relationEntry localType="archival">Christian Sewell Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Christian Sewell Papers</unittitle>
+<unitid>ACC 1107A, 1129A, 1165A, 2904A, 3375A.</unitid>
+<unitdate>1902 - 1969</unitdate>
+<abstract>Teacher's certificate (1902); correspondence between Sewell family (represented by Gordon Blake, son of Christina Sewell) and Minister for Lands about land owned or leased by Frederick Sewell and his descendents (1965); minutes of the Special Committee of the National Travellers Aid Society of Australia (1951); newspaper cuttings about Travellers Aid Society (1945-1952) of which she was National President; note book kept by her during 1927 election campaign for Leedervill-North Perth (1927); reminiscences (1961-1963); photographs.</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001902.htm">
+<relationEntry localType="archival">Travellers' Aid Society of the ACT Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Travellers' Aid Society of the ACT Papers</unittitle>
+<unitid>MS 4790</unitid>
+<unitdate>1964 - 1971</unitdate>
+<abstract>The papers include the Constitution, reports, statements of receipts and payments, correspondence, an invitation, guest list and the Traveller's Aid Society prayer.</abstract>
+<physdesc>
+<extent>0.01 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

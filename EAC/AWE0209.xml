@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0209</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-12-07">2001-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-12">2016-04-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0209b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Symonds</part>
+<part localType="givenname">Elizabeth Ann</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Symonds, Ann</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-07-12">12 July 1939</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Murwillumbah, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+<occupation>
+<term>Campaigner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ann Symonds was a member of the New South Wales Legislative Council from 1982-1998.</abstract>
+<p>Ann Symonds trained as a teacher at Armidale and taught at Casino before being transferred to Sydney in 1960. She studied Drama (1972-74) and later Law (1984-1985 - deferred), both at the University of New South Wales.</p>
+<p>Between 1974-1977 Symonds was the Alderman at Waverley Municipal Council, and in 1977 became Waverley's first woman Deputy Mayor. She was appointed to the NSW Legislative Council in 1982, and worked in this role until her resignation in 1998. Elected for the Australian Labour Party, she has been a member since 1967 and has held numerous party positions including Branch President, State Electorate Council President and Federal Electorate Council executive member.</p>
+<p>Throughout her public and parliamentary career Symonds has worked on women's policy, with particular reports on prisons, housing and sexual violence, as well as on children's policy, peace and disarmament, inquiries into Drug Law and Policy in NSW, and preparation of the Labor Party's Social Justice Policy at the NSW and National level.<br />
+She is currently Patron, Mothers' and Children's Program, Corrective Services; the Chair, Board of Family Drug Support; and Chair, Board of Guthrie House (residential program for women and children in the Justice system).</p>
+<p>Ann Symonds is married with five children.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1121420">
+<relationEntry>
+Symonds, Ann (1939-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Symonds, Elizabeth Ann', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Symonds, Elizabeth Ann</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0209b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000452.htm">
+<relationEntry localType="published">Book: Women and prisons, an agenda for change: 10 March 1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Augles, Ann, Children of Prisoners Support Group, Symonds, Ann</name>
+<title render="italic">Women and prisons, an agenda for change: 10 March 1993</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Institute of Criminology</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000451.htm">
+<relationEntry localType="published">Report: Sexual violence : addressing the crime : Inquiry into the Incidence of
+Sexual Offences in New South Wales, Part 2</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Standing Committee on Social Issues, Legislative Council, Parliament of New South Wales</name>
+<title render="italic">Sexual violence : addressing the crime : Inquiry into the Incidence of
+Sexual Offences in New South Wales, Part 2</title>
+<imprint>
+<place>Sydney</place>
+<publisher>The Committee</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004444.htm">
+<relationEntry localType="published">Site Exhibition: Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Putting Skirts on the Sacred Benches: Women Candidates for the New South Wales Parliament</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/pssb/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000448.htm">
+<relationEntry localType="published">Resource: Biographies: Ann Symonds</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Women's History Month</name>
+<title render="italic">Biographies: Ann Symonds</title>
+<imprint>
+<publisher>National Women's Media Centre</publisher>
+<date>2000</date>
+</imprint>
+<extptr linktype="simple" href="http://www.nwmc.org.au/history2/biogs/symons.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

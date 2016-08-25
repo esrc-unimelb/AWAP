@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2256</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-01-12">2007-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-07">2015-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2256b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fisher</part>
+<part localType="givenname">Elizabeth M.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="preferred name"><part>Fisher, Betty</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-01-01">1925</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Yorkshire, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Sports administrator</term>
+</occupation>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Fisher (nee Dawson) was born 8th September 1925 in Yorkshire, England arriving in South Australia in 1927 on the "SS Benalla". A feminist and advocate for Aboriginal rights and conservation, Betty was International Women's Day president for eight years and the first female president of the Conservation Council of SA. She received a Flinders University medal for services to women, was a 1988 Bicentenary medallist and served on the SA State Schools Organisations State Council. She was a member of the National Fitness Council of Australia. Betty was also a key witness at the Hindmarsh Island royal commission where she produced notes and tape recordings from the 1960s which confirmed "secret women's business."</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0106b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women (1950 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2254b.htm">
+<relationEntry localType="Corporate Body">
+National Fitness Council of South Australia (1939 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>Betty Fisher was involved with the National Fitness Council of South Australia as the Secretary for the Women's Creative Arts &amp; Craft Groups.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0706b.htm">
+<relationEntry localType="Corporate Body">
+Women's Liberation Movement
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0708b.htm">
+<relationEntry localType="Corporate Body">
+Women's Information Switchboard
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-572747">
+<relationEntry>
+Fisher, E M (1925-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fisher, Elizabeth M.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fisher, Elizabeth M.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2256b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002065.htm">
+<relationEntry localType="archival">Records of Betty Fisher</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Records of Betty Fisher</unittitle>
+<unitid>PRG 1366</unitid>
+<unitdate>1919 - 2003</unitdate>
+<abstract>Records of Betty Fisher comprising papers relating to the life and career of Irene Bell; the International Women's Day Committee; the Australian Labor Party; the Women's Studies Certificate at TAFE; the Printing and Kindred Industries Union; the Women's Suffrage Centenary; the South Australian Association of State School Organisations; the Women's Liberation Movement; Raven Publishers; the Conservation Council of South Australia; the Department of Tourism, Recreation and Sport; the National Fitness Council of South Australia; the Town and Country Planning Association; the Union of Australian Women; the Vietnamese Women's Tour Group; and the Women's Information Switchboard Support Group; correspondence relating to the publication of "Women in bustles or people in history?"; personal papers of Betty Fisher; newspaper and magazine cuttings compiled by Betty on feminism and politics; an oil painting by Aboriginal artist Rosalie Andersen and film.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Handwritten; typescript; invitation; newsletters; newspaper cutting; leaflet; pamphlet; photocopy; ticket; sound cassette; sound tape reel; photoprint; fabric sample; oil painting cine film (safety)</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

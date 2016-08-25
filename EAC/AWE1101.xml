@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1101</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-10-22">2004-10-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1101b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gillan</part>
+<part localType="givenname">Joy Lindrum</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Joy Lindrum Gillan is a writer and member of The Society of Women Writers (Australia). Lindrum Gillan was President of New South Wales Branch of the Society, 1984-1986, and Federal President of the Society, 1986-1988.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1074b.htm">
+<relationEntry localType="Corporate Body">
+Society of Women Writers New South Wales Inc (1925 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1073b.htm">
+<relationEntry localType="Corporate Body">
+Society of Women Writers (Australia) (1980 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1988-12-31">1988</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-769095">
+<relationEntry>
+Gillan, Joy Lindrum
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gillan, Joy Lindrum', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gillan, Joy Lindrum</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1101b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001845.htm">
+<relationEntry localType="archival">Joy Lindrum Gillan Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Joy Lindrum Gillan Papers</unittitle>
+<unitid>MS 5877</unitid>
+<unitdate>1977 - 1990</unitdate>
+<abstract>Three folders of papers covering the periods 1977-1987, 1987-1989 and 1989-1990 respectively, during the period of Joy Lindrum Gillan's presidency of The Society of Women Writers Australia. The papers are related to a dispute between The Society of Women Writers Australia and the New South Wales Branch.</abstract>
+<physdesc>
+<extent>0.05 m, 3 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001839.htm">
+<relationEntry localType="archival">Joy Lindrum Gillan - sound recordings, 1984</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Joy Lindrum Gillan - sound recordings, 1984</unittitle>
+<unitid>MLMSS 6603: Locn No.: MLOH 297/1-8</unitid>
+<unitdate>1984</unitdate>
+<abstract>Recording of the Society of Women Writers (Australia), Fourth Biennial Conference, Perth, 1984.</abstract>
+<physdesc>
+<extent>8 cassette tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001838.htm">
+<relationEntry localType="archival">Joy Lindrum Gillan Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Joy Lindrum Gillan Papers</unittitle>
+<unitid>MLMSS 6603/1-2</unitid>
+<unitdate>1976 - 1992</unitdate>
+<abstract>The papers are Lindrum Gillan's records of the activities of, and her involvement in, the Society of Women Writers:
+1986-1988; Society of Women Writers (Australia), Federal Executive and Federal Council minutes, audited statements (Locn No.: MLMSS 6603/1)
+1980-1986; Society of Women Writers (Australia) New South Wales Branch, financial statements (Locn No.: MLMSS 6603/1)
+1985-1988; Society of Women Writers (Australia), Federal Council, financial statements (Locn No.: MLMSS 6603/1)
+1986; Society of Women Writers (Australia), conference, statements, receipts, agendas, menus, federal election N.S.W. members (Locn No.: MLMSS 6603/1)
+1976-1984; Society of Women Writers (Australia), constitution and incorporation as national body (Locn No.: MLMSS 6603/1)
+1981-1988; Society of Women Writers (Australia) New South Wales Branch, newsletter (Locn No.: MLMSS 6603/2)
+1980-1992; Society of Women Writers (Australia), 'The Woman Writer' (Locn No.: MLMSS 6603/2)
+1986-1989; Society of Women Writers (Australia), correspondence between N.S.W. Federal Executive and Queensland Federal Executive (Locn No.: MLMSS 6603/2)
+1988-1990; Society of Women Writers (Australia), Federal Executive (Qld), minutes and financial statements (Locn No.: MLMSS 6603/2)
+1990; Society of Women Writers (Australia), information concerning Seventh Biennial Conference, Melbourne (Locn No.: MLMSS 6603/2)
+1978-1985; Society of Women Writers (Australia) New South Wales Branch, annual reports (Locn No.: MLMSS 6603/2)</abstract>
+<physdesc>
+<extent>0.34 m, 2 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3754</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-13">2008-10-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3754b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Stead</part>
+<part localType="givenname">Christina Ellen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1902-07-17">17 July 1902</fromDate>
+<toDate standardDate="1983-03-31">31 March 1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Rockdale, Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, New South Wales</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Novelist</term>
+</occupation>
+<occupation>
+<term>Writer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>After a short teaching career, Christina Stead travelled to Paris for study, then to London. She returned to Australia in 1969 after many years abroad to take up a fellowship at the Australian National University. In 1974 she returned to live in Australia permanently.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4321b.htm">
+<relationEntry localType="Person">
+Cusack, Dymphna (1902 - 1981)
+</relationEntry>
+<descriptiveNote>
+<p>Stead and Cusack became life-long friends after meeting at Sydney University</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-630856">
+<relationEntry>
+Stead, Christina (19020717-19830331)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stead, Christina Ellen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stead, Christina Ellen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3754b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004179.htm">
+<relationEntry localType="published">Book: I'm Dying Laughing: The Humourist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">I'm Dying Laughing: The Humourist</title>
+<imprint>
+<place>London</place>
+<publisher>Virago</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004171.htm">
+<relationEntry localType="published">Book: The Beauties and Furies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">The Beauties and Furies</title>
+<imprint>
+<place>New York</place>
+<publisher>Appleton-Century</publisher>
+<date>1936</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004172.htm">
+<relationEntry localType="published">Book: Christina Stead: Selected Fiction and Nonfiction</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Christina Stead: Selected Fiction and Nonfiction</title>
+<imprint>
+<place>St Lucia, QLD</place>
+<publisher>Univeristy of Queensland Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004173.htm">
+<relationEntry localType="published">Book: Cotters' England</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Cotters' England</title>
+<imprint>
+<place>London</place>
+<publisher>Secker &amp; Warburg</publisher>
+<date>1967</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004174.htm">
+<relationEntry localType="published">Book: Dark Places of the Heart</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Dark Places of the Heart</title>
+<imprint>
+<place>New York</place>
+<publisher>Holt, Rinehart &amp; Winston</publisher>
+<date>1966</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004175.htm">
+<relationEntry localType="published">Edited Book: Dearest Munx: The Letters of Christina Stead and William J. Blake</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Margaret</name>
+<title render="italic">Dearest Munx: The Letters of Christina Stead and William J. Blake</title>
+<imprint>
+<place>Carlton, Vic</place>
+<publisher>The Miegunyah Press</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004176.htm">
+<relationEntry localType="published">Book: For Love Alone</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">For Love Alone</title>
+<imprint>
+<place>New York</place>
+<publisher>Harcourt, Brace &amp; Co</publisher>
+<date>1944</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004178.htm">
+<relationEntry localType="published">Book: House of All Nations: A Novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">House of All Nations: A Novel</title>
+<imprint>
+<place>London</place>
+<publisher>Peter Davies</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004187.htm">
+<relationEntry localType="published">Book: Seven Poor Men of Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Seven Poor Men of Sydney</title>
+<imprint>
+<place>London</place>
+<publisher>Peter Davies</publisher>
+<date>1934</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004180.htm">
+<relationEntry localType="published">Book: Letty Fox, Her Luck</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Letty Fox, Her Luck</title>
+<imprint>
+<place>New York</place>
+<publisher>Harcourt, Brace &amp; Co</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004181.htm">
+<relationEntry localType="published">Book: The Little Hotel: A Novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">The Little Hotel: A Novel</title>
+<imprint>
+<place>London</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1973</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004182.htm">
+<relationEntry localType="published">Book: A Little Tea, A Little Chat</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">A Little Tea, A Little Chat</title>
+<imprint>
+<place>New York</place>
+<publisher>Harcourt, Brace &amp; Co</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004183.htm">
+<relationEntry localType="published">Book: Miss Herbert (the Suburban Wife)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Miss Herbert (the Suburban Wife)</title>
+<imprint>
+<place>New York</place>
+<publisher>Random House</publisher>
+<date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004184.htm">
+<relationEntry localType="published">Book: Ocean of Story: The Uncollected Stories of Christina Stead</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Ocean of Story: The Uncollected Stories of Christina Stead</title>
+<imprint>
+<place>Ringwood, Vic</place>
+<publisher>Penguin</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004185.htm">
+<relationEntry localType="published">Book: The People with the Dogs</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">The People with the Dogs</title>
+<imprint>
+<place>Boston</place>
+<publisher>Little, Brown</publisher>
+<date>1952</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004186.htm">
+<relationEntry localType="published">Book: The Salzburg Tales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">The Salzburg Tales</title>
+<imprint>
+<place>London</place>
+<publisher>Peter Davies</publisher>
+<date>1934</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004177.htm">
+<relationEntry localType="published">Book: Great Stories of the South Sea Islands</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stead, Christina</name>
+<title render="italic">Great Stories of the South Sea Islands</title>
+<imprint>
+<place>London</place>
+<publisher>Muller</publisher>
+<date>1955</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002123.htm">
+<relationEntry localType="archival">Papers of Christina Stead</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Papers of Christina Stead</unittitle>
+<unitid>MS 8645</unitid>
+<unitdate>1965 - 1988</unitdate>
+<abstract>General correspondence, business correspondence, financial papers, manuscripts, newspaper cuttings.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00274.htm">
+<relationEntry localType="digitalObject">Author Christina Stead in her study, Newcastle University, NSW, circa 1974</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Author Christina Stead in her study, Newcastle University, NSW, circa 1974</unittitle>
+<unitdate>c. 1974</unitdate>
+<physdesc>1 photograph : black &amp; white ; image 33.4 x 22.4 cm.<geogname></geogname>
+</physdesc>
+<note label="rights">Item is held by the National Library of Australia. Refer to catalogue record for copyright restrictions.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

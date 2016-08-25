@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0649</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-12-18">2003-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0649b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Queen's Fund</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1887-01-01">1887</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Melbourne Town Hall
+Melbourne Vic 3000
+GPO Box 2412V
+Melbourne Vic 3001</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Queen's Fund was established as 'the chief permanent Jubilee Memorial of Victoria in commemoration of the completion of the Fiftieth year of the Queen's reign, raised by women, managed chiefly by women, for the good of women, and in honour of the long reign of a good woman, during which the general position of women has been in a hundred ways improved'. Elizabeth Loch, its founder and inaugural president stated that the Fund existed 'solely for the relief of women in distress'. The Fund still operates and celebrated its centenary in 1987. Meetings are held monthly at the Melbourne Town Hall. The 1987 Annual Report noted an increase in applications to the fund. This was attributed to larger numbers of separated and divorced women who received no maintenance to care their children.
+
+<span style="font-style:italic">PLEASE NOTE: THE AUSTRALIAN WOMEN'S REGISTER IS NOT AN AGENT FOR THE QUEEN'S FUND. YOU MAY CONTACT THEM BY MAIL AT:
+
+GPO Box 2412
+Melbourne VIC 3001 </span></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0054b.htm">
+<relationEntry localType="Person">
+Deakin, Elizabeth Martha Anne (Pattie) (1863 - 1934)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768084">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Queen's Fund', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Queen's Fund</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0649b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002331.htm">
+<relationEntry localType="published">Report: The Queen's Fund One Hundredth Annual Report 1987</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Queen's Fund One Hundredth Annual Report 1987</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Queen's Fund</publisher>
+<date>1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001059.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 10459</unitid>
+<unitdate>1913 - 1935</unitdate>
+<abstract>The Hall Institution Trust Minute Book</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001058.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1351</unitid>
+<unitdate>1892 - 1959</unitdate>
+<abstract>Distribution Sub-Committee Minute Books</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001057.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1352</unitid>
+<abstract>Countess of Hopetoun's Bazaar Cash book 1892</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001056.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1350</unitid>
+<unitdate>1891 - 1965</unitdate>
+<abstract>Annual Reports</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001055.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1348</unitid>
+<unitdate>1888 - 1959</unitdate>
+<abstract>Registers</abstract>
+<physdesc>
+<extent>4 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001054.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1353</unitid>
+<unitdate>1887 - 1964</unitdate>
+<abstract>General Committee minutes 1887-1964</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Minutes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001053.htm">
+<relationEntry localType="archival">The Queen's Fund</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Public Record Office Victoria</repository>
+<unittitle>The Queen's Fund</unittitle>
+<unitid>VPRS 1354</unitid>
+<unitdate>1887</unitdate>
+<abstract>Original documents and sundry papers</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

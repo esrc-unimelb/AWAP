@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0413</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-12">2002-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-24">2015-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0413b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Douglas</part>
+<part localType="givenname">Mary Stewart</part>
+<part localType="honorific title">OBE, OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Douglas, May</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-01-20">20 January 1904</fromDate>
+<toDate standardDate="1999-05-06">6 May 1999</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Victor Harbour, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>On 1 June 1953 May Douglas was appointed an Officer of the Order of the British Empire, in recognition for her service as Commissioner of Girl Guides in South Australia. She was also awarded the Medal of the Order of Australia on 26 January 1997 for service to veterans, particularly through the Women's Royal Australian Army Corps Association, and the Australia Remembers 1945-1995 Celebrations.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<event>Captain and Commissioner of the Girl Guides Association</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1943-12-31">1943</toDate>
+</dateRange>
+<event>Assistant Controller of the Australian Women's Army Service</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+<event>Controller of the Australian Army Medical Womens' Service</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1946-01-01">1946</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>District Commissioner of the Girl Guides</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1949-01-01">1949</fromDate>
+<toDate standardDate="1952-12-31">1952</toDate>
+</dateRange>
+<event>Deputy South Australian Commissioner of the Girl Guides</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1952-01-01">1952</fromDate>
+<toDate standardDate="1958-12-31">1958</toDate>
+</dateRange>
+<event>State Commissioner of the South Australian Girl Guides</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1953-06-01">1 June 1953</fromDate>
+<toDate standardDate="1953-06-01">1 June 1953</toDate>
+</dateRange>
+<event>Appointed an Officer of the British Empire (OBE)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1958-01-01">1958</fromDate>
+<toDate standardDate="1958-12-31">1958</toDate>
+</dateRange>
+<event>Life member of the South Australian Council of Girl Guides</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1961-04-23">23 April 1961</fromDate>
+<toDate standardDate="1966-04-30">April 1966</toDate>
+</dateRange>
+<event>Honorary Colonel of the Women's Royal Australian Army Corps</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1997-01-26">26 January 1997</fromDate>
+<toDate standardDate="1997-01-26">26 January 1997</toDate>
+</dateRange>
+<event>Awarded Medal of the Order of Australia (OAM)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0539b.htm">
+<relationEntry localType="Corporate Body">
+The Sybil Irving Memorial Fund Committee
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0762b.htm">
+<relationEntry localType="Corporate Body">
+Girl Guides Australia (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0533b.htm">
+<relationEntry localType="Cultural Artefact">
+The Sybil Irving Memorial, Victoria
+</relationEntry>
+<descriptiveNote>
+<p>unveiled Victorian memorial to Sybil Irving</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0149b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Army Service (AWAS) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-11-08">8 November 1941</fromDate>
+<toDate standardDate="1943-12-31">1943</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service number: SFX30364. Assistant Controller</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0415b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Medical Women's Service (AAMWS) (1942 - 1951)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1946-06-24">24 June 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SFX30364 Lieutenant-Colonel</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0388b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps (WRAAC) (1951 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1961-04-23">23 April 1961</fromDate>
+<toDate standardDate="1966-04-30">April 1966</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Honorary Colonel</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-773058">
+<relationEntry>
+Douglas, Mary Stewart (1904-1999)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Douglas, Mary Stewart (May)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Douglas, Mary Stewart (May)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0413b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002091.htm">
+<relationEntry localType="published">Book Section: Women in wartime - May Douglas, who played a prominent part in the Australian Women's Army Service raised in August, 1941, contributes some of her memories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Douglas, May</name>
+<title render="quoted">Women in wartime - May Douglas, who played a prominent part in the Australian Women's Army Service raised in August, 1941, contributes some of her memories</title>
+<imprint>
+<place>Netley, SA</place>
+<publisher>Wakefield Press</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Greater than their knowledge : a glimpse of South Australian woman 1836-1986</title>
+<name type="author">Taylor, Adelheid Elizabeth</name>
+<num type="pages">91-92</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001729.htm">
+<relationEntry localType="published">Resource Section: DOUGLAS, MARY STEWART</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">DOUGLAS, MARY STEWART</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=693236"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001860.htm">
+<relationEntry localType="published">Book: From blue to khaki: The enlisted voluntary aids and others who became members of the Australian Army Medical Women's Service and served from 19421-1951</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mount-Batten, Betty J</name>
+<title render="italic">From blue to khaki: The enlisted voluntary aids and others who became members of the Australian Army Medical Women's Service and served from 19421-1951</title>
+<imprint>
+<place>[Wollstonecraft, N.S.W.]</place>
+<publisher>Betty J Mount-Batten</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001815.htm">
+<relationEntry localType="published">Book: Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ollif, Lorna</name>
+<title render="italic">Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</title>
+<imprint>
+<place>Hornsby, NSW</place>
+<publisher>Ollif Publishing Company</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001656.htm">
+<relationEntry localType="published">Book: Notable lives : profiles of 21 South Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cockburn, Stewart</name>
+<title render="italic">Notable lives : profiles of 21 South Australians</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Ferguson Publications</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001891.htm">
+<relationEntry localType="published">Book: A Stroll down memory lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">WRAAC Association</name>
+<title render="italic">A Stroll down memory lane</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001890.htm">
+<relationEntry localType="published">Book: Soldiers of the Queen : women in the Australian Army</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bomford, Janette</name>
+<title render="italic">Soldiers of the Queen : women in the Australian Army</title>
+<imprint>
+<place>South Melbourne, Vic.</place>
+<publisher>Oxford University Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000251.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1962</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1962</title>
+<edition>17</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Colorgravure Publications</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000851.htm">
+<relationEntry localType="archival">Lieutenant-Colonel May Douglas</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Lieutenant-Colonel May Douglas</unittitle>
+<unitid>ART22217</unitid>
+<unitdate>1944</unitdate>
+<physdesc>
+<extent></extent>
+<physfacet>Painting</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000641.htm">
+<relationEntry localType="archival">Major Mary Douglas</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Major Mary Douglas</unittitle>
+<unitid>139237</unitid>
+<unitdate>05 July 1943</unitdate>
+<abstract>Melbourne, Vic. 1943-07-05. SFX30364 Major Mary Douglas (seated) formerly of the Australian Women's Army Service (AWAS) who has just received her appointment as Controller of the Australian Army Medical Women's Service (AAMWS) with the rank of Lieutenant Colonel.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000597.htm">
+<relationEntry localType="archival">[Biographical cuttings on Mary Stewart Douglas, O.B.E.]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Mary Stewart Douglas, O.B.E.]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000596.htm">
+<relationEntry localType="archival">Douglas, Mary Stewart</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Douglas, Mary Stewart</unittitle>
+<unitid>2002/05081482</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>DOUGLAS MARY STEWART : Service Number - SFX30364 : Date of birth - 20 Jan 1904 : Place of birth - VICTOR HARBOUR SA : Place of enlistment - WAYVILLE SA : Next of Kin - DOUGLAS F</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000852.htm">
+<relationEntry localType="archival">Members of the Girl Guides Association (South Australia) working in the depot</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Members of the Girl Guides Association (South Australia) working in the depot</unittitle>
+<unitid>P00951.001</unitid>
+<abstract>Adelaide, SA. Members of the Girl Guides Association (South Australia) working in the depot during their thrift campaign to raise funds for organisations such as the Red Cross. Left to right: back row: Lady Muriel Barclay Harvey (wife of the Governor of South Australia), Mrs Herbert Rymill (State Chief Commissioner), Rita Webb, Rosemary Liddell-Grainger (daughter of the Governor's wife ), Barbara Godson; front row: Fairley Grove, May Douglas, Mrs Sydney Ayres, Mrs Julian Ayres, Miss Elkin, Miss A. Morphett (secretary of the thrift drive), Mrs Lance Lewis (originator of the thrift drive), Mrs Hugh Davidson (in charge of the thrift depot and sales).</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000830.htm">
+<relationEntry localType="archival">Australian Army Medical Women's Service 1944-09-30 - 1944-10-04</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Australian Army Medical Women's Service 1944-09-30 - 1944-10-04</unittitle>
+<unitid>080687</unitid>
+<unitdate>30 September 1944 - 4 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-09-30 - 1944-10-04. Officers at the conference of Assistant and Deputy Assistant Controllers, Australian Army Medical Women's Service. Identified personnel are:- NFX76442 Captain L.W. Yates; VFX138505 Major R M. Davidson; NFX138446 Major J.M. Snelling; SFX30364 Lieutenant-Colonel M.S. Douglas; VF500148 Major A. Appleford, RRC, MM; QF119238 Major M.C. Roche; SFX27688 Captain M.M. Langsford; VFX117124 Major H.F. Meyer; TFX6117 Captain I.D. Cox; WFX38344 Captain S.C. Perry.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000829.htm">
+<relationEntry localType="archival">Australian Army Medical Women's Service conference of Assistant and Deputy Assistant Controllers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Australian Army Medical Women's Service conference of Assistant and Deputy Assistant Controllers</unittitle>
+<unitid>080686</unitid>
+<unitdate>30 September 1944 - 4 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-09-30 - 1944-10-04. Officers at the conference of Assistant and Deputy Assistant Controllers, Australian Army Medical Women's Service. Identified personnel are:- SFX27688 Captain M.M. Langsford; VF500148 Major A.R. Appleford, RRC, MM, SFX30364 Lieutenant-Colonel M.S. Douglas; NFX138446 Major J.M. Snelling; QF119238 Major M.C. Roche; VFX138505 Major R.M. Davidson; NFX76442 Captain L.W. Yates; WFX38344 Captain S.C. Perry; VFX117124 Major H.F. Meyer; TFX6117 Captain I.D. Cox.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000807.htm">
+<relationEntry localType="archival">A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<abstract>Mosman, Sydney. 2 April 1966. A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000766.htm">
+<relationEntry localType="archival">End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services]</unittitle>
+<unitid>AWM119</unitid>
+<unitdate>1945</unitdate>
+<abstract>End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services] QMG &amp; DGMS [Brig R T A McDonald, Col N M Loutit, Col R H Norman, Lt-Col C C Easterbrook, Lt-Col H L Maude, Lt-Col P A Parsons, Lt-Col L J Fitzpatrick, Lt-Col W B Leonard, Maj J E McKimm, Lt-Col G G Hack, Lt-Col C S Johnston, Capt J A Egan, Maj N A Dalton, Maj C S Waugh, Maj C W Gray, Sgt Vera Kiddell, Lt-Col H H Turnbull, Lt-Col E V Keogh, Lt-Col A Christie, Lt-Col C R B Blackburn, Maj K B Brown, Maj Lady Winifred I E MacKenzie, Maj M J Mackerras, Col (Matron-in-Chief) Annie M Sage, Capt (Matron) Beatrice J Paige, Capt Jean E Headberry, Capt Patricia D Chomley, Lt-Col Mary S Douglas, Maj Alice R Appleford, Capt Marjorie C Roche, Maj Joyce M Snelling]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00051.htm">
+<relationEntry localType="digitalObject">Lieutenant-Colonel May Douglas</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Lieutenant-Colonel May Douglas</unittitle>
+<unitid>ART22217</unitid>
+<unitdate>1944</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00052.htm">
+<relationEntry localType="digitalObject">Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<unitdate>2 April 1966</unitdate>
+<abstract>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia. Mosman, Sydney</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00021.htm">
+<relationEntry localType="digitalObject">Douglas, Irving and Sage</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Douglas, Irving and Sage</unittitle>
+<unitid>100671</unitid>
+<unitdate>23 December 1944</unitdate>
+<abstract>General Sir Thomas A. Blamey, Commander in Chief, Allied Land Forces, South West Pacific Area, standing on the steps at Victoria Barracks with women members from the services. Left to right: Lieutenant Colonel M. S. Douglas, Controller, Australian Army Medical Women's Service (AAMWS) Land HQ; Colonel Sybil H. Irving MBE, Controller, Australian Women's Army Service (AWAS), Land HQ, and Colonel A. M. Sage RRC, Matron in Chief, Australian Army Nursing Service (AANS). Melbourne, Vic.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

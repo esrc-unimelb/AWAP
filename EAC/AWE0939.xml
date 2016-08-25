@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0939</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-03">2004-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0939b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Van der Linden</part>
+<part localType="givenname">Catherina Adriana</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Catherina van der Linden was born in 1912 and grew up in Nigmegen, Holland where her father was a tailor. She married in 1940 soon after the outbreak of war. Her first child was born in 1943. Following the war her husband, who had been a Company Secretary, was unemployed and three children were born. Van der Linden reluctantly agreed to emigrate in 1955 after her father's death. The family travelled in the luxurious 'Johan Van Oltenbernavalt' and were shocked by the accommodation at both Bonegilla Migrant Reception Centre in Victoria and Woodside in the Adelaide Hills. Their longest stay was at the Glenelg hostel from whence Mrs van der Linden returned to Holland in 1958 with the children, vowing never to return. However she decided to reunite the family 18 months later and worked outside the home in clerical and nurses' aide positions.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743089">
+<relationEntry>
+Van der Linden, Catherina Adriana (1912-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Van der Linden, Catherina Adriana', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Van der Linden, Catherina Adriana</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0939b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001530.htm">
+<relationEntry localType="archival">Interview with Catherina Adriana van der Linden [sound recording] Interviewer: Karobi Mukherjee</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Catherina Adriana van der Linden [sound recording] Interviewer: Karobi Mukherjee</unittitle>
+<unitid>OH 18/2</unitid>
+<abstract>Lives of Older Women of Non-English Speaking Background and their Adaption to and Contribution to Life in South Australia
+
+Catherina van der Linden was born in 1912 and grew up in Nigmegen, Holland where her father was a tailor. She describes her schooling and then her long courtship and marriage in 1940 soon after the outbreak of war. Their first child was born in 1943. Mrs van der Linden briefly describes the stressful experiences of the war years and its aftermath during which her husband, who had been a Company Secretary, was unemployed and their other three children were born. She then explains how she reluctantly agreed to emigrate in 1955 after her father's death. They travelled in the luxurious 'Johan Van Oltenbernavalt' and were shocked by the accommodation at both Bonegilla Migrant Reception Centre in Victoria and Woodside in the Adelaide Hills. Their longest stay was at the Glenelg hostel from whence Mrs van der Linden returned to Holland in 1958 with the children, vowing never to return. However she decided to reunite the family 18 months later and describes the children's education and her determination to work outside the home in clerical and nurses' aide positions.
+
+Recorded on 16 and 23 March 1988. 2 hours (approx.)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

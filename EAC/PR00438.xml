@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00438</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00438b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Smith</part>
+<part localType="givenname">Wilhelmena </part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Alias"><part>Smith, Bill</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1886-01-01">1886</fromDate>
+<toDate standardDate="1975-06-24">24 June 1975</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Herberton, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Jockey</term>
+</occupation>
+<occupation>
+<term>Sportswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>'Bill' Smith was a successful North Queensland jockey in the early 1900s. Viewed as small in statue and eccentric in behaviour, it was not until his death in 1975 that it was discovered that 'Bill' Smith was actually a woman, thus making her Australia's first female jockey.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-755078">
+<relationEntry>
+Smith, Wilhelmena (1886-1975)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Smith, Wilhelmena ', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Smith, Wilhelmena </title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00438b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00437.htm">
+<relationEntry localType="published">Resource Section: Christian Wilhelmina (Bill) Smith (1886 – 1975)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="quoted">Christian Wilhelmina (Bill) Smith (1886 – 1975)</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>State of Queensland</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Women's contributions to Queensland: 1970 - 1979</title>
+<name type="author">Office for Women, Queensland Government</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.women.qld.gov.au/q150/1970/index.html#item-christian-smith"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00436.htm">
+<relationEntry localType="published">Resource Section: Wilhemina 'Bill' Smith</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Wilhemina 'Bill' Smith</title>
+<imprint>
+<place>Kingston, Australian Capital Territory, Australia</place>
+<publisher>Australian women's history forum</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian women's history forum incorporating Women's History Month</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenshistory.com.au/image.asp?iID=243"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00435.htm">
+<relationEntry localType="published">Resource Section: Jockey a Feminist Hero: Wilhemena deserves a proper tombstone</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gray, Steve</name>
+<title render="quoted">Jockey a Feminist Hero: Wilhemena deserves a proper tombstone</title>
+<imprint>
+<place>Kingston, Australian Capital Territory, Australia</place>
+<publisher>Australian women's history forum</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Women's History Forum incorporating Women's History MOnth</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenshistory.com.au/image.asp?iID=257"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

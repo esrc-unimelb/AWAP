@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1171</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-20">2005-05-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1171b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Barambah</part>
+<part localType="givenname">Maroochy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Isaacs, Yvette</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">c. 1950</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Cherbourg Aboriginal Reserve, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Opera singer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maroochy Barambah is a distinguished indigenous musician whose career since the 1970s has spanned the genres of jazz, rock, musical theatre and classical opera.</abstract>
+<p>Maroochy Barambah, formerly Yvette Isaacs, of Gubbi Gubbi descent, was born in c.1950s at Cherbourg reserve in Queensland. Her early years were spent in the dormitory system, designed to sever Aboriginal children from their cultural heritage. She participated in the Aboriginal Inland Mission choir at Cherbourg and, when fostered out to a family in Melbourne, she went to school there under the Harold Blair Aboriginal Children's project.</p>
+<p>In the 1970s she was awarded a Melba Conservatorium of Music scholarship, and subsequently formed her own jazz group. She became lead singer with indigenous rock band Quokka and participated in the Rock Against Racism concert in Hobart, Tasmania. She also took part in the television series <span style="font-style:italic">Women of the Sun</span> (1982). In the same year she changed her name as a statement of pride in her Aboriginality.</p>
+<p>In 1989 she performed in the Sydney Metropolitan Opera production, <span style="font-style:italic">Black River</span>, which won the Sounds Australian National Music Critics Award for the year and a film version has since been produced. In 1990 she played the lead role in the successful indigenous musical, <span style="font-style:italic">Bran Nue Dae</span>, and in 1991 was awarded the inaugural Aboriginal performing arts fellowship offered by the Aboriginal Arts Committee as she pursued a career as a classical opera singer. She also had the lead role in <span style="font-style:italic">Beach Dreaming</span>, an opera written not only for but about her, by Mark Isaacs.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-545569">
+<relationEntry>
+Barambah, Maroochy (1950-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Barambah, Maroochy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Barambah, Maroochy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1171b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003486.htm">
+<relationEntry localType="published">Book: Women of the sun</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maris, Hyllus and Sonia Borg</name>
+<title render="italic">Women of the sun</title>
+<imprint>
+<place>Ringwood, Victoria</place>
+<publisher>Penguin Books</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

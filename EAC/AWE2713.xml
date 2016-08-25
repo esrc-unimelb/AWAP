@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2713</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-06-28">2007-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2713b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Randell</part>
+<part localType="givenname">Ellen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Coach</term>
+</occupation>
+<occupation>
+<term>Sportswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Formerly an elite rower who represented Australia in 1983 and 1984, Ellen Randell has been coaching women's rowing since 1986.</abstract>
+<p>Ellen Randell first represented her country as a rowing coach in 1987, and continued to coach national crews almost every year until 2000. In 1989, after years of domination by the Eastern Block Nations, she coached the first women's four crew from the West to win a World Championship. Her performance won her the ACC's Young Coach of the Year (Female) award. In 1991 she began coaching at the UTS Rowing Club in Haberfield. From 1993 she coached in the Australian women's sculling program and achieved podium results at multiple international regattas. She coached Rebecca Joyce to win a World Championship title in the Lightweight Women's Single Scull in 1995, and became the first female rowing coach selected for the Australian Olympic Team, coaching crews for Atlanta (1996) and Sydney (2000). Randell's crews finished fourth in the Double Scull and eighth in the Quad Scull events in Atlanta; in Sydney, her Women's Double Scull placed sixth in the final.</p>
+<p>Ellen had her first daughter in 2000; a second was born in 2002. Coaching locally at a girls' school, Ellen continued to coach elite rowers voluntarily when she could find time outside of family and school commitments. She returned to full-time elite coaching in 2005.</p>
+<p>In 2006 Ellen was nominated for the Women in Sport Award by one of her athletes, Georgia Koutts. Describing her coach as 'always encouraging and positive', Koutts wrote that she and others 'think of Ellen not just as a coach, but as a friend'. She noted:</p>
+<p>'The rowing 'fraternity' has never really considered the difficulties facing women in trying to return to elite rowing coaching after having children, or ways in which it could be done. Ellen's ability as a coach provided an incentive for the governing body to encourage her return. Despite this, many members of the elite rowing community believed Ellen, and in fact women in general, could not possibly combine the commitment of elite rowing coaching with motherhood. By returning to elite coaching as successfully as she has, Ellen has not only proved many people wrong but has hopefully opened the minds up of others to see that it is possible.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0349b.htm">
+<relationEntry localType="Person">
+Randell, Shirley Kaye (1940 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-706084">
+<relationEntry>
+Randell, Ellen
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Randell, Ellen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Randell, Ellen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2713b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1030</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-07-23">2004-07-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb and Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1030b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Save Our Sons Movement ( South Australian Branch)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1965-01-01">1965</fromDate>
+<toDate standardDate="1972-12-31">1972</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Save Our Sons Movement was formed in 1965 to seek the reapeal of the National Service act and disbanded in 1975. In an effort to bring back servicemen stationed in Vietnam, the Save Our Sons movement made public protests against the conduct of the war in Vietnam, aided those who had been jailed after refusing to be conscripted, spoke on behalf of conscientious objectors at rallies, passed out leaflets, attended vigils and supported in court those who were charged with resisting conscription.
+The Save Our Sons movement was just one of the many groups opposed to Australia's involvement in the Vietnam war. Although there were male members, women held all office-holder positions.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766066">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Save Our Sons Movement ( South Australian Branch)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Save Our Sons Movement ( South Australian Branch)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1030b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001782.htm">
+<relationEntry localType="archival">Save Our Sons Movement ( South Australian Branch) records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Save Our Sons Movement ( South Australian Branch) records</unittitle>
+<unitid>SRG 566</unitid>
+<unitdate>1967 - 1972</unitdate>
+<abstract>Correspondence, financial records, press cuttings, Charter of the United Nations and Statute of the International, UNICEF and the Rights of the Child booklet, Court of Justice booklet, 'Vietnam: Myth and Reality' by Howard Levien, minutes book containing meetings from August 28th 1967 to January 25th 1971, 'Out Now - Abolish Conscription' newsletter (supplement to AICD newsletter January 1971, published by the Moratorium Campaign, Sydney), 'Vietnam Action' newsletter (published by the National Journal of Sydney Action Campaign, 3 issues), Ratification of International Covenants on Human Rights booklet.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Accounts, Correspondence, diaries, Minutes, Notebooks, Photocopies, Press cuttings, Printed material, Publications</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5600</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-07">2016-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Tania de Jong (with Nikki Henningham)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-07">2016-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5600b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">de Jong</part>
+<part localType="givenname">Tania</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Arnhem, Holland</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Opera singer</term>
+</occupation>
+<occupation>
+<term>Entrepreneur</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Tania de Jong has a Bachelor of Law (Honours) from the University of Melbourne and is a graduate of the Victorian College of the Arts in opera, music theatre and voice.
+She is a leading Australian soprano, social entrepreneur, innovation catalyst and international keynote speaker on leadership, creativity and innovation. She founded Creativity Australia and Creative Universe and works with disadvantaged communities through the 'With One Voice' choir social inclusion programs.
+
+De Jong was appointed a Member of the Order of Australia in June 2008 for service to the Arts as a performer and entrepreneur and through the establishment and development of music and arts enrichment programs for schools and communities.
+
+Through her work, de Jong has received numerous awards including Ernst and Young Australian Social Entrepreneur of the Year as Founder of The Song Room, A Churchill Fellowship and she was named Brainlink Woman of Achievement in 2009. She was a Finalist in the Telstra Business Women's Awards and was inducted into the AGSE Entrepreneurs Hall of Fame at Swinburne University in Melblourne, Australia.
+
+In 2015 de Jong released her first solo CD entitled Heaven on Earth. She has recently founded a co-working space called Dimension5 in Melbourne to drive social innovation and collaboration.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'de Jong, Tania', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">de Jong, Tania</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5600b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005856.htm">
+<relationEntry localType="published">Resource: How singing together changes the brain: Tania de Jong AM at TEDxMelbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">TEDx Talks</name>
+<title render="italic">How singing together changes the brain: Tania de Jong AM at TEDxMelbourne</title>
+<imprint>
+<publisher>TEDx Talks</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="https://www.youtube.com/watch?v=I_HOBr8H9EM"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

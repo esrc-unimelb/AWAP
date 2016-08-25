@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2210</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-12-07">2006-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-25">2015-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2210b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hipkiss</part>
+<part localType="givenname">Robyn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Religious worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Robyn grew up in South Australia, and became involved in a church at 18 years of age through the Billy Graham Crusade. She experienced great joy in her new found faith and was instrumental in introducing a children's programme that impacted on many young lives.
+
+In her late 20s Robyn married Terry Hipkiss. The pair were involved in ministry in a number of churches, finally settling in Canberra in 1976, where they pioneered a church known today as Ginninderra Christian Church.
+
+In 1987 Robyn was diagnosed with bowel cancer, necessitating major bowel surgery from which she made a good recovery. Her husband Terry had many battles with depression, eventually experiencing a breakdown, and left the ministry and the church for ten years. He was later diagnosed with prostate cancer, which spread to bone cancer. He returned to his faith before his death in June 1998.
+
+Robyn continues to minister to other women in stressful situations and to share the truths that have helped her to overcome her own difficulties. In 2006, she fulfilled a lifelong dream to tell the inspiring stories of some of the many women who have been a part of her life, by publishing <span style="font-style:italic">Australian Women of Grace</span>.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741085">
+<relationEntry>
+Hipkiss, Robyn
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hipkiss, Robyn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hipkiss, Robyn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2210b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003748.htm">
+<relationEntry localType="published">Book: Australian Women of Grace: stories of faith and courage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hipkiss, Robyn</name>
+<title render="italic">Australian Women of Grace: stories of faith and courage</title>
+<imprint>
+<place>ACT</place>
+<publisher>Melba</publisher>
+<date>2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

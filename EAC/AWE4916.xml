@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4916</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-06-26">2013-06-26</eventDateTime>
+<agentType>human</agentType>
+<agent>James Tierney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4916b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Morieson</part>
+<part localType="givenname">Belinda</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Belinda Morieson was Branch Secretary of the Australian Nursing Federation, Victoria Branch (ANF(Vic)) from 1989-2001. She oversaw the biggest membership growth in the history of the Branch.
+
+A more comprehensive entry for Morieson will appear later in 2013 when the <span style="font-style:italic">Encyclopedia of Australian Women and Leadership in the Twentieth Century</span> goes online.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4914b.htm">
+<relationEntry localType="Organisation">
+Australian Nursing Federation (Victorian Branch)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666038">
+<relationEntry>
+Morieson, Belinda
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Morieson, Belinda', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Morieson, Belinda</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4916b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005527.htm">
+<relationEntry localType="published">Site Exhibition: A 'Blueprint' for Union Organising: Multiplying the membership in the Australian Nursing Federation (Victorian Branch) 1989-2012</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tierney, James and Cregan, Christina</name>
+<title render="italic">A 'Blueprint' for Union Organising: Multiplying the membership in the Australian Nursing Federation (Victorian Branch) 1989-2012</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/anfv"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002728.htm">
+<relationEntry localType="archival">Australian Nursing Federation, Victorian Branch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Australian Nursing Federation, Victorian Branch</unittitle>
+<unitid>2006.0027</unitid>
+<unitdate>1903 - 2001</unitdate>
+<abstract>Contains records of the ANF Victorian Branch, predecessors and special interest groups, some of which relate to material in other collections. ANF Victorian Branch Records, 1927-2001; Occupational Health Nurses Special Interest Group 1958-1990; Maternal and Child Health Nurses Special Interest Group 1984-1998; Royal Victorian Trained Nurses Association Minutes and Business Correspondence 1914-1961; Royal Victorian College of Nursing student nursing association 1942-1951; UNA, Journal of the Royal Victorian Trained Nurses Association and successors 1903-1973; On the Record, Journal of the ANF Victorian Branch 1990-1996.</abstract>
+<physdesc>
+<extent>5 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00814.htm">
+<relationEntry localType="digitalObject">Reuniting nurses. Morieson's campaign poster c.1989</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Archives of the Australian Nursing Federation (Victorian Branch) Library</repository>
+<unittitle>Reuniting nurses. Morieson's campaign poster c.1989</unittitle>
+<unitdate>1989</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00844.htm">
+<relationEntry localType="digitalObject">Belinda Morieson, 2001</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Archives of the Australian Nursing Federation (Victorian Branch) Library</repository>
+<unittitle>Belinda Morieson, 2001</unittitle>
+<unitdate>2001</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

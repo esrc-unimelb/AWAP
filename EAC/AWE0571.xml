@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0571</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-29">2003-09-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0571b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Young</part>
+<part localType="givenname">Wilma Elizabeth Forster Oram</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Oram, Wilma</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1916-08-17">17 August 1916</fromDate>
+<toDate standardDate="1947-12-05">5 December 1947</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1916-08-17">17 August 1916</fromDate>
+<toDate standardDate="2001-05-28">28 May 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Glenorchy, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0569b.htm">
+<relationEntry localType="Cultural Artefact">
+Australian Ex-Prisoners of War Memorial
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-06-24">24 June 1941</fromDate>
+<toDate standardDate="1946-07-05">5 July 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: VX58783</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-06-24">24 June 1941</fromDate>
+<toDate standardDate="1946-07-05">5 July 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: VX58783</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-740067">
+<relationEntry>
+Young, Wilma Elizabeth Forster Oram (1916-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Young, Wilma Elizabeth Forster Oram', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Young, Wilma Elizabeth Forster Oram</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0571b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002100.htm">
+<relationEntry localType="published">Book: A Woman's war : the exceptional life of Wilma Oram Young, AM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Angell, Barbara</name>
+<title render="italic">A Woman's war : the exceptional life of Wilma Oram Young, AM</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New Holland Publishers (Australia) Pty Ltd</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002099.htm">
+<relationEntry localType="published">Resource Section: Betty Jeffrey OAM RN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davis John</name>
+<title render="quoted">Betty Jeffrey OAM RN</title>
+<imprint>
+<publisher>St Peter's Eastern Hill</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Views and opinions from <span style="font-style:italic">St Peter's Eastern Hill</span></title>
+<name type="author">St Peter's Eastern Hill</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.stpeters.org.au/views/sermons/davis/JD00jeffrey.shtml"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00130.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial Nurses</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial Nurses</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00129.htm">
+<relationEntry localType="digitalObject">Australian Ex-Prisoners of War Memorial</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Ex-Prisoners of War Memorial</unittitle>
+<abstract>Photograph supplied by Anne Heywood 2004-02-07</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

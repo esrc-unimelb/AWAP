@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4800</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-06">2012-08-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Criena Fitzgerald</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4800b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mumme</part>
+<part localType="givenname">Lillian Annie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1906-12-05">5 December 1906</fromDate>
+<toDate standardDate="1989-11-20">20 November 1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Boulder</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Fremantle</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<p>Daughter of Frank Aloysius Mumme and Annie Miller Fraser, Lillian Annie Mumme was born in Boulder on 5 December 1906. The family moved to Collie in Western Australia for Frank's work. Lillian completed her nursing training at the Kalgoorlie Government Hospital, and later worked in Busselton Hospital.</p>
+<p>In WWII she served with the Second Australian Imperial Force (2nd AIF) enlisting in Moora Western Australia, she then from 16 October 1942 served with the 2nd/4th Australian Army Nursing Service in Queensland as Lieutenant. She was discharged from service on the 11 February 1946.</p>
+<p>Lillian never married but continued to work as a nurse at various hospitals in Western Australia.</p>
+<p>She died on 20 November 1989 in Bicton Private Hospital in Fremantle at the age of 82, and was buried in Fremantle Cemetery, Western Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666029">
+<relationEntry>
+Mumme, Lillian Annie (19061205-19891120)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mumme, Lillian Annie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mumme, Lillian Annie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4800b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002580.htm">
+<relationEntry localType="archival">Second Australian Imperial Force Personnel Dossiers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
+<unittitle>Second Australian Imperial Force Personnel Dossiers</unittitle>
+<unitid>NAA: B883</unitid>
+<unitdate>1939 - 1948</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00545.htm">
+<relationEntry localType="digitalObject">Lilian Mumme and unknown in Kalgoorlie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Kay Mumme</repository>
+<unittitle>Lilian Mumme and unknown in Kalgoorlie</unittitle>
+<unitdate>c. 1920</unitdate>
+<note label="rights">Photograph courtesy of Kay Mumme. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00539.htm">
+<relationEntry localType="digitalObject">Nurse Mumme, pre-1940 in Kalgoorlie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Kay Mumme</repository>
+<unittitle>Nurse Mumme, pre-1940 in Kalgoorlie</unittitle>
+<note label="rights">Photograph courtesy of Kay Mumme. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

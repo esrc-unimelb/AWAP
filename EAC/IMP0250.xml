@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0250</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-08">2002-11-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0250b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Boye</part>
+<part localType="givenname">Ruby</part>
+<part localType="honorific title">BEM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-07-01">1 July 1891</fromDate>
+<toDate standardDate="1990-09-14">14 September 1990</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In recognition for her work as a coastwatcher during  World War II Ruby Boye was appointed to the Order of the British Empire (Civil) on 25 July 1944. She also received the 1939-1945 Pacific Star and War Medal and was made a Life Member of the WRANS Association. In 1985 the Navy named Boye House, one of the accommodation blocks in the Joint Defence Force Academy at Duntroon, in her honour.</abstract>
+<p>Olive and her husband Skov Boye were living on Vanikoro, an island in the Santa Cruz group about 500 miles east of Guadalcanal, when Japan commenced the war in the Pacific. Unlike other white settlers the Boyes decided to stay on the island instead of evacuating to Australia.</p>
+<p>Olive Boye decided to 'do her bit' and worked in the highly classified area of coastwatching. Coastwatchers were equipped with short-wave radios through which they maintained contact with headquarters. They reported either by voice or Morse code, all enemy troop and/or ship movements as well as organising native inhabitants to pass information to headquarters.<br />
+ <br />
+Under constant threat of capture, Olive Boye received an honorary commission in the Women's Royal Australian Naval Service (WRANS) which gave her enlisted status and protected her from the danger of being treated as a spy (if captured). </p>
+<p>The Hon 3rd Officer Ruby Olive Boye was appointed to the Order of the British Empire (Civil) on 25 July 1944 for coastwatching in the islands during the war.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0387b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Naval Service (WRANS) (1941 - 1984)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1946-09-30">30 September 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Olive Boye was given an honorary commission in the WRANS to give her enlisted status - thus protecting her from the danger of being treated as a spy in the event of her being captured.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741072">
+<relationEntry>
+Boye, Ruby (1891-1990)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Boye, Ruby (Olive)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Boye, Ruby (Olive)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0250b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001645.htm">
+<relationEntry localType="published">Resource Section: BOYE, RUBY OLIVE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">BOYE, RUBY OLIVE</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=N&amp;VeteranID=1187893"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001671.htm">
+<relationEntry localType="published">Book: Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fenton Huie, Shirley</name>
+<title render="italic">Ships belles : the story of the Women's Royal Australian Naval Service in war and peace 1941-1985</title>
+<imprint>
+<place>Balmain, N.S.W.</place>
+<publisher>Watermark Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000570.htm">
+<relationEntry localType="archival">Boye, Mrs RO (includes NID file 646/43/2)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Boye, Mrs RO (includes NID file 646/43/2)</unittitle>
+<unitid>B6161/1</unitid>
+<unitdate>1943 - 1984</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000569.htm">
+<relationEntry localType="archival">Boye OR (Mrs)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Boye OR (Mrs)</unittitle>
+<unitid>40A</unitid>
+<unitdate>1945</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000519.htm">
+<relationEntry localType="archival">Boye, Ruby Olive</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Boye, Ruby Olive</unittitle>
+<unitid>BOYE R O</unitid>
+<unitdate>1943 - 1946</unitdate>
+<abstract>Enlistment Record</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

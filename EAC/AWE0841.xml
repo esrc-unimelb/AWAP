@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0841</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-06">2004-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0841b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Howard</part>
+<part localType="givenname">Patience</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-01-01">1900</fromDate>
+<toDate standardDate="1994-12-31">1994?</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Patience Howard moved around a lot during her childhood. As a small child, she lived in Central South Australia at Bungaree. She was educated at Miss Dow's boarding school at Glenelg, 1912 at "The Hermitage" in Victoria, and from 1914 at Frensham's Girls' school in New South Wales. Later she attended Bedford College in London to study history. During the 1920s she went to an International Students' conference in Prague before returning to Adelaide in 1924. Howard became a teacher at Woodlands and then Girton Girls' School in Adelaide. Here she met Mabel Hardy and together they established the Stawell School at Mt Lofty. In 1928 she married Roy Howard. Following his death she and her children moved to Bungaree and then Kensington Park. A member of the Lyceum Club and the Labor Party she also spent time working with meals on wheels.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763079">
+<relationEntry>
+Howard, Patience (1900-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Howard, Patience', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Howard, Patience</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0841b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001409.htm">
+<relationEntry localType="archival">Interview with Patience Howard [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Patience Howard [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/15</unitid>
+<unitdate>c. 1986</unitdate>
+<abstract>Adelaide Lyceum Club Oral History 
+
+Patience Howard talks about her family home called Wachanappi, moving to Bungaree in the country, schooling at Miss Dow's boarding school at Glenelg, 1912 at "The Hermitage" in Victoria, and from 1914 at Frensham's girls' school in NSW, attending Bedford College in London to study history, 1920s attending an International Students' conference in Prague, returning to Adelaide in 1924, becoming a teacher at Woodlands, then Girton where she met Mabel Hardy and they set up Stawell School at Mt Lofty, marriage in 1928 to Roy Howard and his early death, moving her children to Bungaree and then buying a house at Kensington Park, joining the Labor Party, working for meals on wheels, joining the lyceum Club and trips to Europe.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

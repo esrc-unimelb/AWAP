@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0499</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-08-21">2003-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0499b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Council of Action for Equal Pay</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1937-07-01">July 1937</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales,  Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Council of Action for Equal Pay (CAEP) functioned as a single issue pressure group with affiliates from trade unions and women's organisations. Its primary aim was to agitate for the implementation of equal pay through the dissemination of information and to support individual organisations in their fight for equal pay. Its formation marked the first conscious movement for equal pay in Australia. Muriel Heagney, a strong advocate of 'the rate for the job' was influential in its establishment and was the driving force of the organisation as its honorary secretary-treasurer from 1939 until its demise.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0645b.htm">
+<relationEntry localType="Person">
+Powell, Eileen (1913 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0644b.htm">
+<relationEntry localType="Corporate Body">
+Australian Railways Union - Victorian Branch
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0599b.htm">
+<relationEntry localType="Person">
+Heagney, Muriel Agnes (1885 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765051">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Council of Action for Equal Pay', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Council of Action for Equal Pay</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0499b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001962.htm">
+<relationEntry localType="published">Thesis: Feminism and class: a study of two Sydney women's organisations during the Great Depression and Second World War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ranald, Patricia</name>
+<title render="quoted">Feminism and class: a study of two Sydney women's organisations during the Great Depression and Second World War</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>University of Adelaide</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001961.htm">
+<relationEntry localType="published">Thesis: Muriel Heagney and the Council of Action for Equal Pay 1937-1948</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Francis, Rosemary</name>
+<title render="quoted">Muriel Heagney and the Council of Action for Equal Pay 1937-1948</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The University of Melbourne</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001960.htm">
+<relationEntry localType="published">Book Section: Feminism and class: the United Associations of Women and the Council of Action for Equal Pay in the Depression</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ranald, Patricia</name>
+<title render="quoted">Feminism and class: the United Associations of Women and the Council of Action for Equal Pay in the Depression</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hale and Iremonger</publisher>
+<date>1982</date>
+</imprint>
+<bibseries>
+<title render="italic">Worth her salt: women at work in Australia</title>
+<name type="author">Bevege, Margaret, James, Margaret and Shute, Carmel,</name>
+<num type="pages">270-85</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001959.htm">
+<relationEntry localType="published">Journal Article: Gender, class and work: the Council of Action for Equal Pay Campaign in Australia during World War 11</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Johnson, Penny</name>
+<title render="quoted">Gender, class and work: the Council of Action for Equal Pay Campaign in Australia during World War 11</title>
+<imprint>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">Labour History</title>
+<num type="issue">May 1986</num>
+<num type="pages">132-46</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000929.htm">
+<relationEntry localType="archival">Heagney, Muriel A. (Muriel Agnes) papers [manuscript] 1885-1974</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Heagney, Muriel A. (Muriel Agnes) papers [manuscript] 1885-1974</unittitle>
+<unitid>MS 9106</unitid>
+<unitdate>1936 - 1968</unitdate>
+<abstract>The papers include a complete set of minute books and correspondence of the Council of Action for Equal Pay, 1937-1949. They include also autobiographical notes by Muriel Heagney, inwards and outwards correspondence 1936-1968, drafts and notes for the publication <span style="font-style:italic">Are women taking men's jobs?</span>(1935) and <span style="font-style:italic">Arbitration at the crossroads</span>, (1953), and for other proposed books, articles, papers and talks. Also papers relating to her role in the Australian Labor Party.
+Other papers include ACTU Bulletins 1954-1957 (4 issues); executive decisions made at various meetings, 1951-1958; assorted circulars and printed pamphlets; papers related to the Amnalgamated Clothing and Allied Trades Unions cost of living investigation, 1927 and Heagney's logbook of activities when Women's Organiser for the Amalgamated Engineering Union.</abstract>
+<physdesc>
+<extent>31 </extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

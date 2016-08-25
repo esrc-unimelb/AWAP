@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0321</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-02-27">2002-02-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0321b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">O'Connell</part>
+<part localType="givenname">Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1884-06-30">30 June 1884</fromDate>
+<toDate standardDate="1965-12-13">13 December 1965</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Beaufort, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>St Vincent's Hospital, East Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maude O'Connell worked as a teacher and completed nursing training before becoming involved in social work. She was elected a Governor of the Carlton Refuge in 1909, and was an active member of the Tobacco Workers' Union before founding "The Company of Our Lady of the Blessed Sacrament" (more commonly known as 'The Grey Sisters').</abstract>
+<p>The daughter of Patrick Martin and Rosina (née Hosking) O'Connell, Maude O'Connell worked as a teacher and completed her nursing training before becoming an active member of the Labor Party. She was the Catholic Church's delegate on many committees and councils dealing with industrial and social matters. O'Connell worked with the Charity Sisters working in the slums, and the Good Shepherd Sisters assisting girls who came before the courts. Also she tried to improve the conditions of women factory workers by working alongside them and becoming a union official.</p>
+<p>In 1930 O'Connell, now in her late forties, established a rest home at Daylesford, where she took mothers and children, especially from the slum areas of inner Melbourne for respite care. Later she set up schools for Mother Craft Training, Rest Homes for Mothers, and provided Home Help for needy families, and Parent Education classes.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0629b.htm">
+<relationEntry localType="Corporate Body">
+Catholic Women's League Victoria/ Wagga Wagga (1916 - )
+</relationEntry>
+<descriptiveNote>
+<p>Maude O'Connell was the first treasurer</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0498b.htm">
+<relationEntry localType="Corporate Body">
+Carlton Refuge (1854 - 1949)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>elected a Governor of the Carlton Refuge</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-712056">
+<relationEntry>
+O'Connell, Maude (1884-1965)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'O'Connell, Maude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">O'Connell, Maude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0321b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002266.htm">
+<relationEntry localType="published">Resource Section: O'Connell, Maude</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Elford, Ross G.</name>
+<title render="quoted">O'Connell, Maude</title>
+<imprint>
+<publisher>University of Melbourne</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Trade Union Archives</title>
+<name type="author">University of Melbourne</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.atua.org.au/biogs/ALE1191b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002267.htm">
+<relationEntry localType="published">Book: Horizon in retrospect, 1916-1986</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Horizon in retrospect, 1916-1986</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Catholic Women's League Committee</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000656.htm">
+<relationEntry localType="published">Resource Section: Company of Our Lady of the Blessed Sacrament: Family Care Sisters</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Vocations: Archdiocese of Melbourne</name>
+<title render="quoted">Company of Our Lady of the Blessed Sacrament: Family Care Sisters</title>
+<extptr linktype="simple" href="http://www.catholicvocation.org.au/FamilyCareSisters.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

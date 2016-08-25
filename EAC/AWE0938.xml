@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0938</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-03">2004-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0938b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part>'Feliska'</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-01-01">c. 1925</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Yvanpole, Russia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>'Feliska' was born in the Russian city of Yvanpole in 1925. She was a teenager during the second world war, old enough to remember witnessing the execution of local Jewish people after the German invasion . Of Polish descent, she escaped death but was transported to a German work camp where she was put to work in a factory for three years. She managed to escape by digging her way out of the rubble when the factory was bombed.
+
+After the war, she married and had two children before making the decision to leave Europe. Her family arrived in Australia in January 1950 as part of the wave of migration that helped to develop Australian society in the post war period.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762060">
+<relationEntry>
+'Feliska' (1925-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">''Feliska'', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">'Feliska'</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0938b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001528.htm">
+<relationEntry localType="archival">Interview with 'Feliska' [sound recording] Interviewer: Karobi Mukherjee</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with 'Feliska' [sound recording] Interviewer: Karobi Mukherjee</unittitle>
+<unitid>OH 18/1</unitid>
+<abstract>Lives of Older Women of Non-English Speaking Background and their Adaption to and Contribution to Life in South Australia
+
+'Feliska' was born in about 1925 of Polish descent in the Russian city of Yvanpole. She was sixteen when the Germans invaded and describes the horror of witnessing the execution of local Jewish people and then her terror at being transported to a German work camp where she was put to work in an Actil factory for three years. Feliska describes digging her way out of the rubble when the factory was bombed. Feliska's life was in confusion at the end of the war. After becoming pregnant she reluctantly married. A few years later the family, including two children, emigrated to Australia and Feliska describes the voyage and their arrival in January 1950. The family first lived in a tent and in later years Feliska and her husband were often at odds about their marriage, finances and accommodation. Feliska had three more children and did factory work to contribute to the household income. She returned to Russia on a visit in 1975.
+
+Recorded on 27 January and 1 June 1988
+
+2 hours 10 minutes</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

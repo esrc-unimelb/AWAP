@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0881</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-15">2004-04-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0881b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bradwell</part>
+<part localType="givenname">Elizabeth Merle</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Pyman, Betty</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-03-03">3 March 1914</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Bradwell, née Pyman, was born in Adelaide, South Australia. Betty was called up to the Australian Army Nursing Service in 1940. In April 1941 Betty sailed with the 2/10 Australian General Hospital for Malaysia. After the withdrawal of forces from Singapore in February 1942, Betty and some of her fellow nurses reached Australia unlike many of their companions. Betty's army career continued with postings to New Guinea, and in Australia.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-02-03">3 February 1941</fromDate>
+<toDate standardDate="1946-05-07">7 May 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SX11646</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766064">
+<relationEntry>
+Bradwell, Elizabeth Merle (1914-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bradwell, Elizabeth Merle (Betty)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bradwell, Elizabeth Merle (Betty)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0881b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002752.htm">
+<relationEntry localType="published">Resource Section: PYMAN, ELIZABETH MERLE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">PYMAN, ELIZABETH MERLE</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=675047"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001456.htm">
+<relationEntry localType="archival">Interview with Betty Bradwell [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Betty Bradwell [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/4</unitid>
+<unitdate>12 December 1986</unitdate>
+<abstract>History of Nursing in South Australia
+
+Betty Bradwell, nee Pyman, was born in Adelaide, South Australia. She spent her early years in Hawker and came to the Adelaide High School for secondary schooling. In 1932 she began training at the Hawker Hospital, and finished at the Royal Adelaide Hospital. After appointments as staff nurse and charge nurse at the RAH, she went to Western Australia for midwifery training. Betty was called up to the Australian Army Nursing Service in 1940. In April 1941 Betty sailed with the 2/10 Australian General Hospital for Malaysia. After the withdrawal of forces from Singapore in February 1942, Betty and some of her fellow nurses reached Australia, while many of their companions suffered ship-wreck, internment, and in some cases death. Betty's army career continued with postings to New Guinea, and in Australia. Betty married after the war and left nursing for ten years, then resumed work at the Port Adelaide Casualty Hospital until her retirement in 1974.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001457.htm">
+<relationEntry localType="archival">Recordings concerning the Port Adelaide Casualty Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Recordings concerning the Port Adelaide Casualty Hospital</unittitle>
+<unitid>PRG 1262/11</unitid>
+<unitdate>c. 1990</unitdate>
+<abstract>Two oral history interviews concerning the Port Adelaide Casualty Hospital created as research material for the published history. PRG 1262/11/1 is an interview with Betty Bradwell; PRG 1262/11/2 is an interview with Doris Pepper. Both are former matrons of the hospital.</abstract>
+<physdesc>
+<extent>3 cassettes</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

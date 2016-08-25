@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0656</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-15">2004-01-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0656b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Catholic Women's League Australia Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Australian Council of Catholic Women</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Braddon, Australian Capital Territory,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Favier House
+1 Ballumbir St
+Braddon, ACT 2612.
+Tel: (02) 6201 9825
+Fax: (02) 6230 6070
+Email: cwlanational@ozemail.com.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Catholic Women's League Australia (CWLA) was established in 1975. It evolved from the Australian Council of Catholic Women, which began in 1928. Its major objectives are to enable women to participate more effectively in working for and building Christianity by promoting the spiritual, cultural, intellectual and social development of women. It aims to foster ecumenism and inter-faith dialogue and provides a national forum for the voice of the Catholic Women's League Organisations in Australia.</abstract>
+<p>The member organisations comprise CWL South Australia Inc., CWL Western Australia Inc., CWL Tasmania Inc., CWL Victoria/ Wagga Wagga, Inc., CWL Queensland Inc., CWL NSW Inc., and CWL Canberra/Goulburn Inc.</p>
+<p>The CWLA is affiliated with the United Nations (UN) on a Roster Status. It is able to attend the UN meetings and conferences accredited to the UN as an observer. The CWLA conveys matters of social justice and issues relevant to women and the family to the Federal, State and Local levels of government.<br />
+It also works with the World Union of Catholic Women's Organisations, National Council of Women, Commission for Australian Catholic Women and the Office of the Status of Women.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0629b.htm">
+<relationEntry localType="Corporate Body">
+Catholic Women's League Victoria/ Wagga Wagga (1916 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-643732">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Catholic Women's League Australia Inc.', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Catholic Women's League Australia Inc.</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0656b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001184.htm">
+<relationEntry localType="archival">Catholic Women's League Australia Inc. records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Catholic Women's League Australia Inc.</repository>
+<unittitle>Catholic Women's League Australia Inc. records</unittitle>
+<unitdate>1975</unitdate>
+<abstract>Not yet available</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

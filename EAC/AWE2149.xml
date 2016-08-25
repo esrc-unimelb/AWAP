@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2149</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-06-18">2006-06-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2149b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part>Mara</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Daugavpils, Latvia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>'Mara' was born in Daugavpils, Latvia. Her parents lost contact with one another during the Second World War and her mother brought the family to South Australia in 1949. Mara and her sister were placed at the Goodwood Orphanage and their brother at the Brooklyn Park Orphanage for three and a half years while their mother worked as a nurse's aid and establshed a new home. Mara learnt to speak English at the orphanage. She  found many of the routines and regulations incomprehensible at first and her perspective as an 'outsider' provides different insights into the institution.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2181b.htm">
+<relationEntry localType="Exhibition">
+Being Seen And Heard: Migrant Women Organising In Australia, A Documentary History (2006 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2139b.htm">
+<relationEntry localType="Concept">
+Latvia Born Community of Australia
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-762061">
+<relationEntry>
+Mara (1941-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mara', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mara</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2149b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002003.htm">
+<relationEntry localType="archival">Interview with 'Mara' [sound recording] /Interviewer: Rosemary Willis</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with 'Mara' [sound recording] /Interviewer: Rosemary Willis</unittitle>
+<unitid>OH 201/14</unitid>
+<unitdate>1994</unitdate>
+<abstract>One of a series of 17 interviews commissioned by the Libraries Board of South Australia concerning the experiences of children, nuns and priests living and working at the St. Vincent de Paul's Orphanage, Goodwood from 1922 until the institution's closure in December 1975. The project was supervised by the Oral History Officer, J. D. Somerville Oral History Collection, Mortlock Library of South Australiana.
+
+The interview with 'Mara' lasts for one hour. 
+Full transcript with appendix and photographs available (34 pages)</abstract>
+<physdesc>
+<extent>1 cassette tape</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001999.htm">
+<relationEntry localType="archival">Goodwood Orphanage Oral History : [sound recording] Interviewers: Rosemary Willis &amp; Beth M. Robertson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Goodwood Orphanage Oral History : [sound recording] Interviewers: Rosemary Willis &amp; Beth M. Robertson</unittitle>
+<unitid>OH 201</unitid>
+<unitdate>1993 - 1994</unitdate>
+<abstract>A series of 17 interviews commissioned by the Libraries Board of South Australia concerning the experiences of children, nuns and priests living and working at the St. Vincent de Paul's Orphanage, Goodwood from 1922 until the institution's closure in December 1975. The project was supervised by the Oral History Officer, J. D. Somerville Oral History Collection, Mortlock Library of South Australiana.</abstract>
+<physdesc>
+<extent>26 cassette tapes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0042</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0042b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McEwen</part>
+<part localType="givenname">Annie Mills</part>
+<part localType="honorific title">Dame, DBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-01-01">1900</fromDate>
+<toDate standardDate="1967-02-10">10 February 1967</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Tongala, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Political activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Annie McEwen, a country woman and wife of the deputy prime minister, John McEwen, was active in the Country Party and devoted her life to working for the public good. She was appointed as a Dame Commander of the Order of the British Empire on 1 January 1966 for public services.</abstract>
+<p><br />
+Annie McEwen grew up in country Victoria, the daughter of John McLeod, a farmer in Tongala, Victoria. She was educated at Girton Church of England Girls' Grammar School in Bendigo, Victoria. She married John McEwen on 21 September 1921 at Ballavoca, Tongala. They had no children. McEwen was an experienced farmer and with her husband, developed the soldier settler property. They sold it and bought others to eventually hold 3000 acres (1200 ha), in the Stanhope region. They succeeded in circumstances where others had walked off their blocks.</p>
+<p>Annie McEwen was active in her local community and particularly in women's organisations such as the Country Women's Association and in the Country Party. She spoke at women's meetings and was a key organiser in the Country Party during the early stages of her husband's political career. She drove thousands of miles through Victoria to political meetings while her husband worked on his speeches in the back seat of his car. He was elected to the Federal Parliament in 1934 as member for Echuca. He later held the seats of Indi from 1937-1949 and Murray from 1949-1971, when he retired from politics. He became leader of the Country Party in 1958. </p>
+<p>When her husband, as Minister for Air from 1940, established the Women's Auxiliary Australian Airforce, Annie McEwen was one of the women who gained the use of a large Toorak home and named it WAAAF House. She was appointed as a Dame Commander of the Order of the British Empire on 1 January 1966, 'in recognition of many years of distinguished devotion to the public interest especially in country areas'.</p>
+<p>She died on 10 February 1967, so was not alive to see her husband assume the prime ministership of Australia for three weeks after the disappearance of Harold Holt in December 1967.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767067">
+<relationEntry>
+McEwen, Annie Mills (1900-1967)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McEwen, Annie Mills', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McEwen, Annie Mills</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0042b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001545.htm">
+<relationEntry localType="published">Resource Section: John McEwen/Anne McEwen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="quoted">John McEwen/Anne McEwen</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic"><span style="font-style:italic">Australia's</span> Prime Ministers</title>
+<name type="author">National Archives of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://primeministers.naa.gov.au/meetpm.asp?pmId=18&amp;pageName=wife"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000998.htm">
+<relationEntry localType="published">Newspaper Article: Wife of Deputy PM dies: life of service</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Wife of Deputy PM dies: life of service</title>
+<imprint>
+<date>1967</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001000.htm">
+<relationEntry localType="published">Book: McEwen's way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mc Ewen, John, Veitch, Don and Seale, John</name>
+<title render="italic">McEwen's way</title>
+<imprint>
+<place>Flemington, Vic</place>
+<publisher>David Syme College of National Economics, Public Administration and Business Ltd</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000999.htm">
+<relationEntry localType="published">Resource Section: McEwen, Sir John (1900-1980)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lloyd, C. J.</name>
+<title render="quoted">McEwen, Sir John (1900-1980)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A150245b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000375.htm">
+<relationEntry localType="archival">Papers of Sir John McEwen, [manuscript] 1943-1980</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Sir John McEwen, [manuscript] 1943-1980</unittitle>
+<unitid>MS 4654</unitid>
+<unitdate>1943 - 1980</unitdate>
+<abstract>Correspondence, diaries, speeches, notes for speeches, invitations, press statements, cuttings, itineraries, election material, photographs and other papers. Most of the papers date from 1958-1970. There are extensive papers relating to Federal elections, the Australian Country Party, the Electorate of Murray ( Victoria), the Department of Trade and Industry and McEwen's overseas trips.</abstract>
+<physdesc>
+<extent>25.2 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

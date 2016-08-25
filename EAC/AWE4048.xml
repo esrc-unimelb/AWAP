@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4048</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-09">2009-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4048b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Harrod</part>
+<part localType="givenname">Clara</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Campbell, Clara</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1918-12-31">1918</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Mitchell, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Pioneer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Clara Harrod and her sister Emma were among the first white women to settle in the Barrier Ranges district of New South Wales.</abstract>
+<p>Clara and Emma Harrod, along with their brothers William and Charles Stayte Junior, were the children of Charles Harrod and Elizabeth Stayte. Charles Senior was the eldest son of Sir William Harrod of Gloucestershire and Lady Ambage. The family migrated from England to Australia in 1852, arriving in Melbourne on the <span style="font-style:italic">Marco Polo</span> in September of that year. </p>
+<p>By 1859, the Harrods were living in Swan Hill. Despite his aristocratic heritage, Charles was consistently in financial strife. According to Clara's personal memoir, Charles offered Emma's hand in marriage to local publican Henry Raines in exchange for land. Raines, a partner in Cobb &amp; Co. who owned several tracts of land around the colony of Port Phillip, adopted Clara and paid for her education at Kyneton. </p>
+<p>In 1867, Clara and Emma set out on a 400 mile journey by horse to the Barrier Ranges in New South Wales, where Raines had settled on land at Mt Gipps Station. The inhospitable climate was made worse by an even less hospitable welcome from Raines when they did finally arrive, parched and exhausted. Already a heavy drinker, he became violent and abusive. Nonetheless, it was Clara Harrod who laid the foundation stone that year for Raines' hotel, the Small Thorns Hotel (later the Mt Gipps Hotel).</p>
+<p>Henry Raines died in 1873. In 1877, Emma fell pregnant to Duncan McIntyre. She gave birth to a son, Montaglie Stewart McIntyre, in April 1878, but the child lived less than a year. Emma was later remarried to T.G. Alcock and moved to Mitchell, Queensland, in 1884.</p>
+<p>Clara Harrod married James Stewart Campbell at the Small Thorns Hotel, Mt Gipps, on 11 May 1871 and lived with him at Langawirra Station. Her first daughter, Clara Victoria Elizabeth Campbell, was born in March 1873. A son, Eion, followed some years later. The family lived at several different stations before settling at their property, Claravale, in Queensland. James Campbell died in 1908. As widows, Clara and Emma lived together at Mitchell.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-722056">
+<relationEntry>
+Harrod, Clara (1918-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Harrod, Clara', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Harrod, Clara</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4048b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004363.htm">
+<relationEntry localType="published">Book: The Memoirs of Clara Ellen Campbell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Campbell, Clara Ellen</name>
+<title render="italic">The Memoirs of Clara Ellen Campbell</title>
+<edition>2</edition>
+<imprint>
+<place>Brisbane</place>
+<publisher>Eion Campbell</publisher>
+<date>1919</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004316.htm">
+<relationEntry localType="published">Book: Some Outstanding Women of Broken Hill and District</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Camilleri, Jenny</name>
+<title render="italic">Some Outstanding Women of Broken Hill and District</title>
+<imprint>
+<place>Broken Hill, NSW</place>
+<publisher>Jenny Camilleri (Broken Hill Historical Society/Broken Hill Council)</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002175.htm">
+<relationEntry localType="archival">Harrod family history and papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria</repository>
+<unittitle>Harrod family history and papers</unittitle>
+<unitid>MS 10441 (call no. MS MSB 210)</unitid>
+<unitdate>1871 - 1975</unitdate>
+<abstract>History of Charles Harrod and Harrod family, 1765-1975, by Arnold Brown. Charles Harrod settled on "Warren Farm", near Swan Hill, 1858; includes application for land in Swan Hill, 1871; survey details of "Warren Farm" by Chas. E. Albrecht, 1871; plan of "Umberumberka", N.S.W. (west of the Darling), where Henry Raines settled in 1866; history of Clara Victoria Anderson, 1872-1975.</abstract>
+<physdesc>
+<extent>0.05 m</extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

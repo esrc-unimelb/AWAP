@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3711</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-03">2008-10-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3711b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Litchfield</part>
+<part localType="givenname">Jessie Sinclair</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Phillips, Jessie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1883-02-18">18 February 1883</fromDate>
+<toDate standardDate="1956-03-12">12 March 1956</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Ashfield, Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Richmond, Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Moving around parts of the Northern Territory while her husband worked in the diamond mines, Jessie Litchfield raised her family and worked as a journalist. She published <span style="font-style:italic">Far North Memories</span> in 1930. After the death of her husband, she worked as editor of the <span style="font-style:italic">Northern Territory Times</span> and <span style="font-style:italic">Government Gazette</span>. In 1955 she became the first woman in the Territory to be appointed a justice of the peace.</abstract>
+<p>It is said that a letter Jessie Litchfield wrote in 1909, which somehow ended up in John Flynn's hands, was instrumental to his involvement in the Australian Inland Mission. Had he not seen it, might well have become 'Flynn of Korea' rather than 'Flynn of the Inland' once he had completed his training to become a Resbyterian minister.</p>
+<p>Litchfield's letter pleaded for the Pressbyterian Church to send a married, male Presbyterian missionary to the Northern Territory, so that he and his wife might start to 'civilise' it. Her greatest concern was the extent of informal and abusive interracial relationships that had been established between indigenous women and non-indigenous men, but she was also concerned about the impact of drink and drugs on public health. The place needed a missionary 'to teach the people right from wrong'.</p>
+<p>Flynn used the letter to encourage women he knew in Melbourne to support initiatives to help women in remote, inland regions. The initiatives were, of course, highly racialised.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4255b.htm">
+<relationEntry localType="Corporate Body">
+Australian Inland Mission (1912 - )
+</relationEntry>
+<descriptiveNote>
+<p>A letter from Jessie Litchfield that found its way into Rev Flynn's hands was influential to his decision to establish the Australian Inland Mission</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-613132">
+<relationEntry>
+Litchfield, Jessie (1883-1956)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Litchfield, Jessie Sinclair', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Litchfield, Jessie Sinclair</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3711b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004589.htm">
+<relationEntry localType="published">Book: Flynn's Outback Angels: Casting the Mantle - 1901 to World War II</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rudolph, Ivan</name>
+<title render="italic">Flynn's Outback Angels: Casting the Mantle - 1901 to World War II</title>
+<imprint>
+<place>Rockhampton</place>
+<publisher>Central Queensland University Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004113.htm">
+<relationEntry localType="published">Book: Far-North Memories: Being the account of ten years spent on the diamond-drills, and of things that happened in those days</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Litchfield, Jessie</name>
+<title render="italic">Far-North Memories: Being the account of ten years spent on the diamond-drills, and of things that happened in those days</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1930</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004112.htm">
+<relationEntry localType="published">Book: Jessie Litchfield: Grand Old Lady of the Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickinson, Janet</name>
+<title render="italic">Jessie Litchfield: Grand Old Lady of the Territory</title>
+<imprint>
+<place>Blackwater, QLD</place>
+<publisher>J. Dickinson</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100321.htm">
+<relationEntry localType="published">Resource Section: Litchfield, Jessie Sinclair (1883-1956)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Barbara</name>
+<title render="quoted">Litchfield, Jessie Sinclair (1883-1956)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100107b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

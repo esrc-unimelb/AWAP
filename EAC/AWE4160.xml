@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4160</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-14">2009-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4160b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part>Mother Emma</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Crawford, Emma</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1864-01-01">1864</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="previous name"><part>Sister Emma</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1905-12-31">1905</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1864-01-01">1864?</fromDate>
+<toDate standardDate="1939-03-09">9 March 1939</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Woolwich, Kent, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Religious sister</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Emma Crawford probably migrated to Brisbane in 1896 and almost immediately involved herself in the work of the Society of the Sacred Advent, a religious order committed to the care of Brisbane's underpriveleged women and children. She presided over the Society's establishment of Anglican schools (all public teaching in Queensland was legislated secular) and made them financially viable. After developing an industrial school for wayward girls in Brisbane, the community took charge of a school in Stanthorpe in 1909 which was later moved to Warwick and named St Catharine's. She also helped to establish boarding schools for girls in Townsville, Herberton, Charters Towers, Yeppoon and Brisbane.
+
+By the time Mother Emma  died, in 1939, the Society was active in three of Queensland's five Dioceses - this despite never having more that thirty professed sisters working during the course of her lifetime.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4159b.htm">
+<relationEntry localType="Corporate Body">
+Society of the Sacred Advent (1892 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-773053">
+<relationEntry>
+Mother Emma (1864-1939)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mother Emma', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mother Emma</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4160b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004535.htm">
+<relationEntry localType="published">Resource Section: Crawford, Emma (1864? - 1939)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gregory, Helen</name>
+<title render="quoted">Crawford, Emma (1864? - 1939)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080157b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002264.htm">
+<relationEntry localType="archival">Society of Sacred Advent Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Records and Archives Centre, Anglican Diocese of Brisbane</repository>
+<unittitle>Society of Sacred Advent Papers</unittitle>
+<unitid>SSFRS165-3</unitid>
+<unitdate>1892 - 1992</unitdate>
+<abstract>Contains the Following Items:
+
+A short history of the Society of the Sacred Advent 1892 - 1942
+The fellowship of the Sacred Advent n.d.
+'When I consider' by Sister Una Mary 1936.
+Diamond Jubilee Handbook 1892 - 1952.
+100 years of Ministry - A History of the Society of the Sacred Advent 1892 - 1992 (Book was from Evelyn Heath, Principal of St. Margaret's School 1982 - 1993).
+
+Orders of Service - Annual Schools' Service at St. John's Cathedral n.d.
+- Service for Laying of the Foundation Stone - Society of the Sacred Advent Sisters' House 10/06/1984.
+
+Society of the Sacred Advent Newsletter December 1992.</abstract>
+<physdesc>
+<extent>1 Box</extent>
+<physfacet>General Publications, Newsletters and Books</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

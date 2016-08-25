@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3685</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-09-29">2008-09-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3685b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Evans</part>
+<part localType="givenname">Henrietta Matilda Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Preferred"><part>Evans, Matilda</part>
+</nameEntry>
+<nameEntry localType="pen name"><part>Franc, Maud Jeanne</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1827-08-07">7 August 1827</fromDate>
+<toDate standardDate="1886-10-22">22 October 1886</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Peckham Park, Surrey, United Kingdom</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Adelaide, South Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Novelist</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Matilda Evans arrived in Adelaide with her family in 1851. Her first novel, <span style="font-style:italic">Marian, or the Light of Someone's Home</span> was completed in 1861 while Evans was working as a governess near Mt Barker. After the death of her husband, Ephraim Evans, she opened a school at Angaston and resumed writing novels. Her works, which always had religious and temperance themes,  included <span style="font-style:italic">Vermont Vale: or Home Pictures in Australia</span> (1866), <span style="font-style:italic">Emily's Choice: An Australian Tale</span> (1867), <span style="font-style:italic">Minnie's Mission: an Australian Temperance Tale</span> (1869) and <span style="font-style:italic">Golden Gifts</span> (1869). Evans opened Angaston House in North Adelaide in 1868. A collected edition of her fourteen novels was republished several times.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775080">
+<relationEntry>
+Evans, Matilda Jane (1827-1886)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Evans, Henrietta Matilda Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Evans, Henrietta Matilda Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3685b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004042.htm">
+<relationEntry localType="published">Book: Beatrice Melton's Discipline</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Beatrice Melton's Discipline</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1880</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100041.htm">
+<relationEntry localType="published">Resource Section: Evans, Matilda Jane (1827-1886)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Finnis, H. J.</name>
+<title render="quoted">Evans, Matilda Jane (1827-1886)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A040147b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004046.htm">
+<relationEntry localType="published">Book: Into the Light</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Into the Light</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1885</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004041.htm">
+<relationEntry localType="published">Book: Vermont Vale, or, Home Pictures in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Vermont Vale, or, Home Pictures in Australia</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1866</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004043.htm">
+<relationEntry localType="published">Book: Emily's Choice: An Australian Tale</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Emily's Choice: An Australian Tale</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1875</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004045.htm">
+<relationEntry localType="published">Book: Hall's Vineyard</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Hall's Vineyard</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1875</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004053.htm">
+<relationEntry localType="published">Book: South Australian Christmas Annual, 1881: Containing Tales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne, George E. Loyau et al</name>
+<title render="italic">South Australian Christmas Annual, 1881: Containing Tales</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Scrymgour &amp; Sons</publisher>
+<date>1881</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004047.htm">
+<relationEntry localType="published">Book: John's Wife</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">John's Wife</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1876</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004048.htm">
+<relationEntry localType="published">Book: Little Mercy, or, For Better, For Worse</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Little Mercy, or, For Better, For Worse</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1877</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004049.htm">
+<relationEntry localType="published">Book: Marian, or, The Light of Someone's Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Marian, or, The Light of Someone's Home</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1866</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004050.htm">
+<relationEntry localType="published">Book: Minnie's Mission: An Australian Temperance Tale</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Minnie's Mission: An Australian Temperance Tale</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1869</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004051.htm">
+<relationEntry localType="published">Book: No Longer a Child</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">No Longer a Child</title>
+<imprint>
+<place>London</place>
+<publisher>Sampson Low, Marston &amp; Co.</publisher>
+<date>1885</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004052.htm">
+<relationEntry localType="published">Book: Silken Cords and Iron Fetters: An Australian Tale</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Silken Cords and Iron Fetters: An Australian Tale</title>
+<imprint>
+<place>Gawler, SA</place>
+<publisher>Whaley, Austin &amp; Co.</publisher>
+<date>1870</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004044.htm">
+<relationEntry localType="published">Book: Golden Gifts: An Australian Tale</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Franc, Maud Jeanne</name>
+<title render="italic">Golden Gifts: An Australian Tale</title>
+<imprint>
+<place>Kapunda, SA</place>
+<publisher>Scandrett &amp; Elliott</publisher>
+<date>1869</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004040.htm">
+<relationEntry localType="published">Conference Proceedings: All Her Labours: Third Women and Labour Conference, Adelaide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Publications Collective, Women and Labour Conference</name>
+<title render="italic">All Her Labours: Third Women and Labour Conference, Adelaide</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hale &amp; Iremonger</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

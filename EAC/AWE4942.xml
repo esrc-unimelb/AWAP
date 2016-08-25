@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4942</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-10-28">2013-10-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4942b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Alexander</part>
+<part localType="givenname">Elizabeth</part>
+<part localType="honorific title">AM, FCPA, FCA, FAICD</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Accountant</term>
+</occupation>
+<occupation>
+<term>Company director</term>
+</occupation>
+<occupation>
+<term>University Chancellor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth Alexander became the 21st Chancellor of the University of Melbourne in April 2011, succeeding former Chancellor Alex Chernov. She has had a long standing connection with the University, having both studied (BCom, 1964) and taught here. She has also served on the University Council since 2004 and previously held the position of Deputy Chancellor.
+
+In 1981 Ms Alexander was named the Veuve Clicquot Australian businesswoman of the year, when she 'cracked' the glass ceiling upon admission as a partner of Price Waterhouse in 1977. She was the first woman in Australia to be made a partner of one of the big eight accounting firms.
+
+Ms Alexander is a non-Executive Director of DEXUS Property Group and Medibank and an Advisor to international law firm, Ashurst. She is also a Fellow of the Institute of Chartered Accountants, a life member of CPA Australia and a Fellow of the Institute of Directors in Australia.
+
+Ms Alexander is the immediate past National President of the Australian Institute of Company Directors, and is a former National President of CPA Australia. It was during her Presidency of CPA Australia that the drive for legal backing to accounting standards in Australia was achieved.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666034">
+<relationEntry>
+Alexander, Elizabeth
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Alexander, Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Alexander, Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4942b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005588.htm">
+<relationEntry localType="published">Article: A lifetime of meditative walking has borne abundant strategic fruit</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lamont, Leonie</name>
+<title render="quoted">A lifetime of meditative walking has borne abundant strategic fruit</title>
+<imprint>
+<publisher>Fairfax Media</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/business/a-lifetime-of-meditative-walking-has-borne-abundant-strategic-fruit-20111111-1nbsn.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

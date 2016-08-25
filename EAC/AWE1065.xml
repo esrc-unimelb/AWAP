@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1065</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-20">2004-09-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1065b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Watson</part>
+<part localType="givenname">Roslyn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1954-01-01">1954</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Dancer</term>
+</occupation>
+<occupation>
+<term>Choreographer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Roslyn Watson is an Aboriginal Australian ballet dancer and choreographer of international renown. Born in Brisbane of Biri descent, she has danced in a number of Australian companies since beginning her career in the early 1970s. She has danced internationally, and with international companies, including the prestigious Dance Theatre of Harlem.</abstract>
+<p>Roslyn Watson was born in 1954 in Brisbane, of Biri descent. She commenced classical ballet training at the age of twelve in Brisbane. In 1969, she was awarded an Abstudy grant and entered the Australian Ballet School, Melbourne, where she studied under Kathleen Gorham. After graduating in 1972, she joined the Dance Theatre of New South Wales (later the Sydney Dance Company) and, having moved to New York, the following year she danced with the prestigious, all-black Dance Theatre of Harlem. </p>
+<p>Returning to Brisbane in 1975, Roslyn danced with the Queensland Ballet for three years before joining the Australian Dance Theatre (ADT) in Adelaide. She subsequently toured Southeast Asia and Europe with the ADT, and performed with the company at the Edinburgh Festival in 1980. Leaving the ADT in late 1981, she took up a tutoring position at the Aboriginal Islander Dance Theatre in Sydney. She went to Paris in 1982, and after mastering the language, she formed her own dance group, Company Brolga, which performed <span style="font-style:italic">Images of Our Dreaming</span>, which Roslyn herself had choreographed. </p>
+<p>She returned to Brisbane in 1987 and has appeared in a variety of shows and has worked as a choreographer. In 1991, she established the Murri Dance Theatre in Brisbane, and in 1993 she worked on the production of an Aboriginal and Torres Strait Islander ballet, titled <span style="font-style:italic">Green Butterfly </span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1066b.htm">
+<relationEntry localType="Person">
+Watson, Maureen (1930 - )
+</relationEntry>
+<descriptiveNote>
+<p>Aunt</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-724057">
+<relationEntry>
+Watson, Roslyn (1954-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Watson, Roslyn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Watson, Roslyn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1065b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001014.htm">
+<relationEntry localType="published">Book: Murawina : Australian women of high achievement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Roberta Sykes ; photography by Sandy Edwards</name>
+<title render="italic">Murawina : Australian women of high achievement</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

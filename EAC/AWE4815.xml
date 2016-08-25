@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4815</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-13">2012-08-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Nalda Searles</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4815b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McLean</part>
+<part localType="givenname">Pantjiti Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1930-01-01">c. 1930</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kaltukutjarra, Docker River, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<p>Pantjiti Mary McLean is a Ngaatjatjarra woman from the Western Desert region who grew up leading a traditional life. In the 1950s she left the desert, walking to the Warburton Ranges with her husband and son, and then on to Cosmo Newbury in the Eastern Goldfields. When her son was taken by the government and placed in the Mount Margaret Mission, she followed and worked in the area as a stock woman mustering sheep. During this time a daughter was born and was also taken from her.</p>
+<p>In c.1970 she moved to the Kalgoorlie Native Reserve, and then c.1980 to the Ninga Mia Community in Kalgoorlie, where she lived as a respected elder until 2008. She then moved into Kunkurangkalpa Aged Care.</p>
+<p>During the 1980s Mary produced craftworks and traditional paintings, but a breakthrough came when she participated in the Warta Kutju (Wama Wanti) Street Art Project and met fibre artist Nalda Searles who became her friend and collaborator in 1992. Mary preferred painting and developed a unique figurative style of her own that captured her memories and stories. A sell-out exhibition of her work in Fremantle in 1993 launched her career. Commissions came her way and her work was exhibited around Australia.</p>
+<p>Mary has won many art awards, including the prestigious Telstra Indigenous Award in 1995. In 2001 she was awarded an Honorary Doctor of Letters by Curtin University. Her work is represented in all major public and many private collections around Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-535796">
+<relationEntry>
+Mclean, Pantjiti Mary (1930-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McLean, Pantjiti Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McLean, Pantjiti Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4815b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005030.htm">
+<relationEntry localType="published">Catalogue: Pantjiti Mary McLean. A Big Story: Paintings and Drawings</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mclean, Pantjiti Mary</name>
+<title render="italic">Pantjiti Mary McLean. A Big Story: Paintings and Drawings</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>National Aboriginal Cultural Institute Tandanya</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00668.htm">
+<relationEntry localType="digitalObject">Mary Pantiji McLean and Nalda Searles - friendship and responsibilities</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Criena Fitzgerald</repository>
+<unittitle>Mary Pantiji McLean and Nalda Searles - friendship and responsibilities</unittitle>
+<note label="rights">Interviewed by Criena Fitzgerald. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00553.htm">
+<relationEntry localType="digitalObject">Pantjiti Mary McLean (sat down) and Nalda Searles</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Nalda Searles</repository>
+<unittitle>Pantjiti Mary McLean (sat down) and Nalda Searles</unittitle>
+<unitdate>c. 1990</unitdate>
+<note label="rights">Photograph courtesy of Nalda Searles. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00563.htm">
+<relationEntry localType="digitalObject">Pantiji Mary McLean at Nalda Searles home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Nalda Searles</repository>
+<unittitle>Pantiji Mary McLean at Nalda Searles home</unittitle>
+<unitdate>2002</unitdate>
+<note label="rights">Photograph courtesy of Nalda Searles. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00562.htm">
+<relationEntry localType="digitalObject">Pantiji Mary McLean</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Nalda Searles</repository>
+<unittitle>Pantiji Mary McLean</unittitle>
+<unitdate>c. 1990</unitdate>
+<note label="rights">Photograph courtesy of Nalda Searles. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0799</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-03-24">2004-03-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0799b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Methodist Peace Memorial Homes for Children</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Livingstone Home</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1891-01-01">1891</fromDate>
+<toDate standardDate="1905-12-31">1905</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="also known as"><part>Orana The Peace Memorial Homes for Children</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1989-12-31">1989</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="also known as"><part>Orana Family Services</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Carlton, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>6 Papworth Place
+Meadow Heights Vic 3048
+Telephone: 03 9302 2700
+Fax:             03 9302 1023
+Email:          info@oranafamilyservices.org.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Welfare organisation</term>
+</function>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Originally known as Livingstone House in Carlton, then as Livingstone Home in Cheltenham in 1891, the Methodist Homes for Children provided temporary care for abused or neglected children while waiting for them to go to homes in the country. The Committee, which comprised mainly women, wanted to ensure that the children were cared for in a home like atmosphere rather than that of an institution. As demand for such accommodation increased, children remained at the Homes until they completed their education. On their move to Burwood in 1953,The Homes were subsequently known as Orana, The Peace Memorial Homes for Children and from 1989 Orana Family Services. In 1989, at the request of the State government, the organisation moved to its present location in Meadow Heights.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754067">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Methodist Peace Memorial Homes for Children', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Methodist Peace Memorial Homes for Children</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0799b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002649.htm">
+<relationEntry localType="published">Book: Furnishings of love: a record of fifty years in the service of children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Just, Jennifer</name>
+<title render="italic">Furnishings of love: a record of fifty years in the service of children</title>
+<imprint>
+<place>Melbourne, Vic</place>
+<publisher>Methodist Homes for Children</publisher>
+<date>1938</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002648.htm">
+<relationEntry localType="published">Book: All God's children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Renate and Swain, Shurlee</name>
+<title render="italic">All God's children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
+<imprint>
+<place>Kambah, ACT</place>
+<publisher>Acorn Press</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001326.htm">
+<relationEntry localType="archival">Methodist Peace Memorial Homes for Children records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Uniting Church in Australia Archives</repository>
+<unittitle>Methodist Peace Memorial Homes for Children records</unittitle>
+<unitid>Orana 3127</unitid>
+<unitdate>1953 - 1989</unitdate>
+<abstract>Includes 'Orana' building correspondence; annual report 1975; a copy of <span style="font-style:italic">Orana Methodist Peace Memorial Homes for Children: a primer of residential child care</span>; various publications on child care and on 'Orana'; Government Acts.</abstract>
+<physdesc>
+<extent>2 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

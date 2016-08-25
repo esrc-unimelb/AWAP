@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0696</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-02">2004-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0696b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sheehan</part>
+<part localType="givenname">Maria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Drescher, Luisa</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Italy</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Women's rights activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Maria Luisa Sheehan, nee Drescher, was born in Italy. Her mother was widowed two years later. In 1945, when the region was occupied by Yugoslavia, the family moved to Trieste. Luisa's mother married an English officer and in 1952 the family joined him in Khartoum. From there they emigrated to South Australia in 1955 where two of Luisa's uncles had already settled. Luisa found work immediately and within two years married a fellow employee at Philips Electrical Industries. She left the workforce for 21 years while raising her family. In 1978 she returned to paid work as one of the six original staff members of the Women's Information Switchboard. Luisa worked there as an information officer until her retirement in 1993.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0708b.htm">
+<relationEntry localType="Corporate Body">
+Women's Information Switchboard
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766075">
+<relationEntry>
+Sheehan, Maria (1933-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sheehan, Maria (Luisa)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sheehan, Maria (Luisa)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0696b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001170.htm">
+<relationEntry localType="archival">Interview with Luisa Sheehan [sound recording] Interviewer: Helen Chryssides</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Luisa Sheehan [sound recording] Interviewer: Helen Chryssides</unittitle>
+<unitid>OH 250/20</unitid>
+<abstract>Maria Luisa Sheehan, nee Drescher, was born in Italy. Her mother was widowed two years later. In 1945, when the region was occupied by Yugoslavia, the family moved to Trieste. Luisa's mother married an English officer and in 1952 the family joined him in Khartoum. From there they emigrated to South Australia in 1955 where two of Luisa's uncles had already settled. Luisa found work immediately and within two years married a fellow employee at Philips Electrical Industries. She left the workforce for 21 years while raising her family. In 1978 she returned to paid work as one of the six original staff members of the Women's Information Switchboard. Luisa worked there as an information officer until her retirement in 1993. She discusses a range of the Switchboard activities and her responsibilities, including her role in relation to the Italian community.
+
+Recorded on 4 August 1994, 1 hour 52 minutes.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0671</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0671b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ey</part>
+<part localType="givenname">Anna Victoria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Oster, Anna Victoria</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1839-07-08">8 July 1839</fromDate>
+<toDate standardDate="1861-12-31">1861</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1839-07-08">8 July 1839</fromDate>
+<toDate standardDate="1917-12-31">1917</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Metz, Germany</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Anna Victoria Ey (née Oster) was born in Metz, Germany. The daughter of a Lutheran Pastor, she migrated to Australia in 1847. She married a paster Johannes M R Ey in 1861 and bore 13 children of which 7 survived. She lived in and around Lobethal, located 33 km from Adelaide, for the rest of her life.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-586967">
+<relationEntry>
+Ey, Anna Victoria (1839-1917)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ey, Anna Victoria', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ey, Anna Victoria</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0671b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002435.htm">
+<relationEntry localType="published">Book: Memoirs of Anna Ey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ey, Anna Victoria, 1839-1917</name>
+<title render="italic">Memoirs of Anna Ey</title>
+<imprint>
+<place>[Menjamya, New Guinea]</place>
+<date>1957</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002434.htm">
+<relationEntry localType="published">Book: Early Lutheran congregations in South Australia : memoirs of a pastor's wife, Anna Victoria Ey, widow of Pastor J.M.R. Ey, covering 1847-1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ey, Anna Victoria, 1839-1917</name>
+<title render="italic">Early Lutheran congregations in South Australia : memoirs of a pastor's wife, Anna Victoria Ey, widow of Pastor J.M.R. Ey, covering 1847-1914</title>
+<imprint>
+<place>Payneham, SA</place>
+<publisher>A.P.H. Freund</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001138.htm">
+<relationEntry localType="archival">Ruckblick in die Vergangeheit fur meine lieben kinder aufgezeichnet</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Ruckblick in die Vergangeheit fur meine lieben kinder aufgezeichnet</unittitle>
+<unitid>D 4956(L)</unitid>
+<abstract>Microfilm copy of 'Ruckblick in die Vergangenheit fur meine lieben kinder aufgezeichnet' - 'Memories written for my children.' The memoirs cover the period ca.1839-1911.</abstract>
+<physdesc>
+<extent>0.05 m, 1 </extent>
+<physfacet>Microfilm</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001137.htm">
+<relationEntry localType="archival">Memoirs of Anna Ey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Memoirs of Anna Ey</unittitle>
+<unitid>D 3846(L)</unitid>
+<abstract>Memoirs of Anna Ey, wife of Rev. R. Ey (Lutheran pastor of Lobethal) covering the period 1839-1914, describing her early life in Germany, the voyage to Adelaide on board the 'Geller' in 1847, life at Lobethal and the pastoral and teaching work of Rev. Ey. Original in German and an English translation by Laura Heidrich and Dora Freund. Original German manuscript D 4956(L) on microfilm.</abstract>
+<physdesc>
+<extent>0.07 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001136.htm">
+<relationEntry localType="archival">Diaries of Anna Victoria Ey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Diaries of Anna Victoria Ey</unittitle>
+<unitid>Refer to Archivist</unitid>
+<unitdate>1839 - 1907</unitdate>
+<abstract>Diary talks of early life in Germany including persecution of Lutherans. Also talks of first impressions of South Australia with details of daily life and religious upbringing. Discusses daily parish life and politics. Mentions Hermannsburg Mission in South Australia.
+Collection consists of a published memoir: D.M &amp; A.P.H. Freund, Early Lutheran Congregations in South Australia: Memoirs of a Pastor's Wife - Anna Ey. Lutheran Publishing House, Adelaide South Australia, 1986; a notebook with two typed translations and some miscellaneous papers.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

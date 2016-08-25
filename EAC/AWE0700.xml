@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0700</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-02">2004-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0700b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sebastian</part>
+<part localType="givenname">Andi</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1952-01-01">1952</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>Andi Sebastian has a diverse work background including having established the Women's Information Service, been General Manager of the AIDS Council of South Australia, Manager of the Disability Complaints Service and Equity and Diversity Consultant at the University of Adelaide.
+
+She now runs an independent business specialising in the management of diverse workgroups and interpersonal complaints in the workplace. She has two degrees from Flinders University, a Masters degree in Primary Health Care and a Bachelor of Arts (Hons).
+
+She can be contacted via her business email address: andi.sebastian@d-q.biz</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0708b.htm">
+<relationEntry localType="Corporate Body">
+Women's Information Switchboard
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-525562">
+<relationEntry>
+Sebastian, Andi (1952-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sebastian, Andi', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sebastian, Andi</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0700b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001175.htm">
+<relationEntry localType="archival">Interview with Andi Sebastian [sound recording] Interviewer: Barbara Baird</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Andi Sebastian [sound recording] Interviewer: Barbara Baird</unittitle>
+<unitid>OH 250/25</unitid>
+<abstract>Andi Sebastian was born in Bordertown, South Australia. She majored in English and Drama at university. In 1977 Andi joined the Women's Unit of the Premier's Department and established the Women's Information Switchboard. She became involved in sex industry politics when she helped the Scarlet Alliance to make a submission to a Select Committee of Enquiry into Prostitution and became their media spokesperson. Andi discusses the defeat of the Millhouse reform bill in the early 1980s; her renewed involvement in the mid 1980s with the establishment of the Prostitutes' Association; and the drafting and withdrawal of the Pickles decriminalisation bill. Andi describes changes in the sex industy during the 1980s; sex workers' health programs of the late 1980s; and the organisation of a national conference in 1988. In 1990 Andi was appointed General Manager of the AIDS Council of South Australia, a position she held for three and a half years.
+
+Recorded on 19 and 26 August 1994, 5 hours 26 minutes.</abstract>
+<physdesc>
+<extent>6 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

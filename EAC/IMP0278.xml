@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0278</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-20">2002-11-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0278b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jones</part>
+<part localType="givenname">Marilyn Fay</part>
+<part localType="honorific title">OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-02-17">17 February 1940</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Newcastle, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Dancer</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marilyn Jones has been described as 'the greatest classical dancer Australia has produced'. She studied at the London Royal Ballet School and danced with the Royal Ballet from 1957-1958 before joining the Australian Ballet on its formation in 1962. In 1963 she married fellow principal dancer Garth Welch and they had two sons, Stanton and Damien, who also became dancers. She danced with the Australian Ballet until 1978, when she took up the position of artistic director of the Company from 1979 until 1982. In 1991 she founded the Australian Institute of Classical Dance and became its artistic director. Other appointments have included director of the National Theatre Youth Ballet from 1996-1998 and director of the National Theatre Ballet School, Melbourne, from 1995-1998. She was appointed Officer of the Order of the British Empire on 1 January 1972 for her services to Australian ballet.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767061">
+<relationEntry>
+Jones, Marilyn Fay (1940-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jones, Marilyn Fay', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jones, Marilyn Fay</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0278b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001591.htm">
+<relationEntry localType="published">Book: Marilyn Jones, a brilliance all of her own</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Laughlin, Patricia Jean</name>
+<title render="italic">Marilyn Jones, a brilliance all of her own</title>
+<imprint>
+<place>South Yarra, Victoria</place>
+<publisher>Quartet Books Australia</publisher>
+<date>1978</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001592.htm">
+<relationEntry localType="published">Book: From gaolbird to lyrebird: a life in Australian ballet.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kitcher, Barry</name>
+<title render="italic">From gaolbird to lyrebird: a life in Australian ballet.</title>
+<imprint>
+<place>South Yarra, Victoria</place>
+<publisher>Front Page</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000209.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2001</title>
+<edition>37</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Information Australia Group Pty Ltd</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000544.htm">
+<relationEntry localType="archival">Portrait of Marilyn Jones, Kim Walker and Janet Vernon</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, Pictorial Collection</repository>
+<unittitle>Portrait of Marilyn Jones, Kim Walker and Janet Vernon</unittitle>
+<unitid>PIC/4324 LOC Drawer PIC/4824</unitid>
+<unitdate>1976 - 1998</unitdate>
+<abstract>1 photograph: col.: 30.5 x 40.5 cm on mount 40.5 x 50.5 cm. Part of the Don McMurdo performing arts collection.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000542.htm">
+<relationEntry localType="archival">Interview with Marilyn Jones [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Marilyn Jones [sound recording]</unittitle>
+<unitid>ORAL TRC 2629</unitid>
+<unitdate>1990</unitdate>
+<abstract>8 tape reels (ca. 240 min):analog, 7 1/2 ips, full track, mono. ; 7 in. Jones speaks of her current work in formulating an Australian dance syllabus; teaching dance; her childhood and family; her ballet training in Australia; training at the Royal Ballet School in London; touring with the Sadlers' Wells company; returning to Australia to dance with the Borovanxky Company; performing with the de Cuevas company in France; Garth Welch; Raymondo Larrain; joining and performing with the Australian Ballet Company; fellow dancers; her children; Peggy van Praagh; parts she has performed; appointment in 1978 as Artistic Director of the Australian Ballet; the Dancers Company; dancers strike in 1981.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000110.htm">
+<relationEntry localType="archival">Great Australian women of the 20th century</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Great Australian women of the 20th century</unittitle>
+<unitid>Nmt 2843</unitid>
+<abstract>Contains biographies of 500 Australian women; an historical timeline covering 120 years; curriculum worksheets for teachers.
+
+1 computer laser optical disc ; 4 3/4 in. CD-ROM. System requirements: Windows PC only, 486/66 processor with 8 MB of RAM, Windows 3.1 or Windows 95, double speed CDROM drive, 256 colour SVGA video card.</abstract>
+<physdesc>
+<extent>1 CD-ROM</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

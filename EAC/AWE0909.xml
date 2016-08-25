@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0909</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-20">2004-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0909b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Chambers</part>
+<part localType="givenname">Doris</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>White, Doris</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Doris Chambers grew up on Noonameera which was an isolated cattle station and stores arrived via camel teams every six months. She moved with her family to Wannaminta which was owned by the Morden Pastoral Company and covered a million and a quarter acres. Chambers boarded at Woodlands school for three years from 1927. She married Jim Chambers in 1943 whose family dated back to 1836 when James Chambers jumped ship from the Coromandel. Her mother Myrtle White, who was born in 1888 in a tent on Acacia station, wrote several books about the outback and her friends included Dame Mary Gilmore and Miles Franklin. Doris and Jim stayed on at Wannaminta for 25 years, Jim having won the property in a ballot of land leases. Doris was responsible for publishing and sorting all the unpublished writings of her mother.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766093">
+<relationEntry>
+Chambers, Doris
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Chambers, Doris', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Chambers, Doris</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0909b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001493.htm">
+<relationEntry localType="archival">Interview with Doris Chambers [sound recording] Interviewer: Roxy Byrne</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Doris Chambers [sound recording] Interviewer: Roxy Byrne</unittitle>
+<unitid>SRG 438/29/35</unitid>
+<unitdate>26 October 1987</unitdate>
+<abstract>Adelaide Lyceum Club Oral History 
+
+Doris Chambers talks about her parents. Her mother Myrtle was born in 1888 in a tent on Acacia station. She went to school at Gawler. She married Con White who was the overseer on Wilcannia station. The lived at Noonameera which was an isolated cattle station and stores arrived via camel teams every six months. Doris grew up on the station and became a good horse rider and had many pets. The moved to Winnaminta which was owned by the Morden Pastoral Company and covered a million and a quarter acres. Doris boarded at Woodlands school for three years from 1927. She married Jim Chambers in 1943 whose family dated back to 1836 when James Chambers jumped ship from the Coromandel. Her mother Myrtle wrote several books about the outback and her friends included Dame Mary Gilmore and Miles Franklin. Doris and Jim stayed on at Wannaminta for 25 years, Jim having won the property in a ballot of land leases. Doris was responsible for publishing and sorting all the unpublished writings of her mother.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

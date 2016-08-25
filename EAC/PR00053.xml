@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00053</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Kathleen Bambridge</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00053b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Tuesday Afternoon Group of Women's Liberation</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Tuesday Afternoon Group</part>
+</nameEntry>
+<nameEntry localType=""><part>TAG</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Political organisation</term>
+</function>
+<function>
+<term>Social action organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Tuesday afternoon group was formed in 1972 for older women interested in feminist issues. Over the years the group has included s Molly Brannigan, Eulalie Tapp, Alison Gent, Ruth Sullen, Constance Frazer and Barbara Polkinghorne. They were active in raising the issue of housing for older women. They also supported many women's issues in third world countries fighting against social injustice. They have been active in the International Women's Day Marches.
+
+</abstract>
+<p>The Tuesday Afternoon Group of Women's Liberation (TAG) started in 1972 It was primarily for women living in domestic situations but is open to all women. Its main purpose was for older feminists and the issues they faced. The women lobbied for older women's housing and shelters. The women went away on weekend camps together. The Group has been represented in all the International Women's Day Marches in Adelaide since 1972. In 1988 they sponsored older feminists, Louise Fanos and Lynett Aried to perform at the Fringe Theatre Club, 'Older Women Ready or Not'. TAG meetings are held in the Women's Advisory Service each Tuesday where women can enjoy the company and conversation. The group supports and fights against social injustice. The women have included Molly Brannigan, Eulalie Tapp, Alison Gent, Ruth Sullen and Barbara Polkinghorne.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00085b.htm">
+<relationEntry localType="Person">
+Frazer, Connie (1925 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00043b.htm">
+<relationEntry localType="Corporate Body">
+The Women's Advisory Office, South Australian Government (1976 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00102b.htm">
+<relationEntry localType="Corporate Body">
+Adelaide Women's Liberation Movement (1969 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477473">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tuesday Afternoon Group of Women's Liberation', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tuesday Afternoon Group of Women's Liberation</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00053b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00054.htm">
+<relationEntry localType="published">Newsletter: Liberation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Liberation</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Liberation</publisher>
+<date>1970</date>
+</imprint>
+<bibseries>
+<title render="italic">Adelaide Women's Liberation Newsletter</title>
+<num type="volume">314</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00052.htm">
+<relationEntry localType="archival">Tuesday Afternoon Group</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Tuesday Afternoon Group</unittitle>
+<unitdate>1972 - </unitdate>
+<abstract>Tuesday Afternoon Group are a group of older women who joined the second wave of feminism in the 1970s whose issues were outside the main stream of feminist concerns of that time. These women were politically active both on older women's needs such as housing, but also international political issues facing women in the third world. Molly Brannigan had attended the Decade of Women Conference in Mexico in 1975 and had gained a greater understanding of the needs of all women world wide. The women met at the Women's Advisory Service to discuss issues each Tueday Afternoon.</abstract>
+<physdesc>
+<extent>2 </extent>
+<physfacet>photos, display board</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001096.htm">
+<relationEntry localType="archival">International Women's Day Committee Research Project : Summary  Record [sound recording] Interviewers: Celia Frank and Kirstin Marks</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>International Women's Day Committee Research Project : Summary  Record [sound recording] Interviewers: Celia Frank and Kirstin Marks</unittitle>
+<unitid>OH 210</unitid>
+<unitdate>1993 - 1994</unitdate>
+<abstract>A series of 17 interviews with women associated with the South Australian International Women's Day Committee, founded in 1938. The interviews are biographical in structure and also include information about a range of other organisations, including the Union of Australian Women, Communist Party of Australia, Women's International League for Peace and Freedom, Women's Liberation Movement and Women's Electoral Lobby. The interviews were conducted in conjunction with a project to organise the Committee's archives and prepare a new history for publication. The two research officers, who were also the interviewers, were employed initially with funding from the Commonwealth Jobskills program and then with support from the Women's Suffrage Centenary Committee and the Department of the Arts.
+Individual details are as follows:
+OH 210/1  Hutchin, Linda, (1913- ). 
+OH 210/2  Howe, Valerie, (1923- ). 
+OH 210/3  Poulton, Mavis, (1933- ).
+OH 210/4  Forte, Margaret, (1917-2001), 
+OH 210/5  Hall, Bev, (1943-). 
+OH 210/6  Fisher, E. M. (Elizabeth M.), (1925-). 
+OH 210/7  Edmonds, Flo, (1919-).  
+OH 210/8  Miller, Beryl, (1926-). 
+OH 210/9  Robertson, Mavis, (1932-). 
+OH 210/10 Bell, Irene, (1906-1995). 
+OH 210/11 Cook, Maureen, (1920-).  
+OH 210/12 Brannigan, Molly, (1924-). 
+OH 210/13 Tapp, Eulalie, (1917- ).  
+OH 210/14 Lean, Marie, (1931-) 
+OH 210/15 Picone, Cathy, (1949-). 
+OH 210/16 Blackburn, Jean, (1919-2001).
+OH 210/17 Alexiou, Kay, (1922-).</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

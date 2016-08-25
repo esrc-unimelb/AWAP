@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0674</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-29">2004-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0674b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jericho</part>
+<part localType="givenname">Helen Thelka</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Vogelsang, Helen</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1896-08-20">20 August 1896</fromDate>
+<toDate standardDate="1920-12-31">1920</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-08-20">20 August 1896</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kapperamanna, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Helen Jericho (née Vogelsang) was born 20 August 1896 at Kapperamanna, an outpost of Bethesda Mission near the Birdsville Track. Her father was a lay missionary, and one of the founders of Bethesda Mission. She left the Mission after her father's death in 1916, and married in 1920</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-570842">
+<relationEntry>
+Jericho, Helen (1896-1983)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jericho, Helen Thelka', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jericho, Helen Thelka</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0674b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002438.htm">
+<relationEntry localType="published">Book: Down memory lane : memoirs of Helen Jericho</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jericho, Helen, 1896-1983</name>
+<title render="italic">Down memory lane : memoirs of Helen Jericho</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Lutheran Publishing House</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001144.htm">
+<relationEntry localType="archival">Helen Thelka Jericho : Summary Record</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Helen Thelka Jericho : Summary Record</unittitle>
+<unitid>PRG 355</unitid>
+<abstract>Papers of Mrs Helen Thelka Jericho mainly relating to her family and Bethesda Mission. (Helen Jericho's father Hermann Heinrich Volgesang was one of the founders of Bethesda Mission on Lake Killapannina.) Papers comprise correspondence; journal of a trip to Kopperamanna; prayers written in the Dijeri dialect; history of the Bethesda Mission; photographs of the Vogelsang family, the Bethesda Mission and Dijeri aborigines; transcripts; and printed items.</abstract>
+<physdesc>
+<extent>0.15 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001143.htm">
+<relationEntry localType="archival">Memoirs of Helen Jericho</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Lutheran Church of Australia, The Lutheran Archives</repository>
+<unittitle>Memoirs of Helen Jericho</unittitle>
+<unitid>Refer to Archivist</unitid>
+<unitdate>20 August 1896 - 1920</unitdate>
+<abstract>She talks about daily mission life, school and includes excerpt from family letters.  She also includes information about and interactions with various Dieri people.  The collection comprises 2 copies of a privately printed memoir:  'Down Memory Lane:Memoirs of Helen Jericho (nee Vogelsang)' [no publishing details]. The first is typed whereas the second is printed and includes photographs.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

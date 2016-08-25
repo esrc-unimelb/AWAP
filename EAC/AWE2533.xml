@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2533</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-03-14">2007-03-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2533b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sams</part>
+<part localType="givenname">Jess</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Ulladulla, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Fishing champion</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1938 Jess Sams won a nationwide fishing contest for heaviest catch with a 330lb striped marlin.</abstract>
+<p>Daughter of Dan and Mary Ann Millard, pioneers of the Ulladulla region, Jess Sams moved to Sydney as a young woman to work as a seamstress and milliner. She married Captain Archie Sams in 1926, and was an active member of the Ulladulla Ambulance Service, the Country Women's Association and the Hospital ladies' ancillary.</p>
+<p>In 1938 she took part in a nationwide fishing contest as part of Australia's 150th celebrations, sailing in a 30 foot double-ended carvel fishing launch with two brothers, Michael and Salvatore Puglisi. Over 580 anglers entered the competition to win a series of valuable trophies. Sams and the Puglisi brothers were aiming for the £500 trophy for the heaviest catch. On 27 February 1938 found herself hanging on with all of her might to a stout split cane rod, eventually pulling in an enormous striped marlin.</p>
+<p>Back at the Ulladulla wharf consternation ensued as it was discovered that there was no provision in the rules for women anglers to win the competition's major trophy. Officials in Sydney soon backed down after angry phone calls from the townspeople. Working on the telephone exchange, Sams' niece overheard discussions implying that the fish would be disqualified as it had not been weighed on the official scales. Sams and her husband responded by driving straight to Jervis Bay, arriving at 4am for a weigh-in. The fish turned the scales at 330 lbs - standing today as the Australian 130lb line class women's record for a striped marlin.</p>
+<p>A supporter of Game Fishing, Sams' donated her trophy to the Australian Fishing Museum. Today the annual Game Fishing Tournament is held at Ulladulla and named in Sams' honour.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-698091">
+<relationEntry>
+Sams, Jess
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sams, Jess', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sams, Jess</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2533b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00241.htm">
+<relationEntry localType="digitalObject">Jess Sams with her prize catch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Jess Sams with her prize catch</unittitle>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

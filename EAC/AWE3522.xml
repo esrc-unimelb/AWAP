@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3522</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-09-08">2008-09-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3522b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Irving</part>
+<part localType="givenname">Freda Howy</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-01-01">1903</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Editor</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Freda Irving began her career in journalism in Melbourne in 1925, working with the <span style="font-style:italic">Sun News Pictorial</span> in various guises until about 1949 when she joined the <span style="font-style:italic">Argus.</span> She also edited <span style="font-style:italic">Woman's Day</span> and the <span style="font-style:italic">Australian Women's Weekly</span> for short periods of time. In 1978-79, she was president of the Melbourne Press Club.
+
+During the war she joined the Australian Women's Army Service as a private but before long she beecame Amenities Officer with the rank of captain for the three women's services ­ Army, Air Force and Navy.
+
+
+She was awarded an MBE for services to Journalism in 1981.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+<event>President of the Melbourne Press Club</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1981-01-01">1981</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<event>MBE for services to journalism</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3520b.htm">
+<relationEntry localType="Corporate Body">
+The Australian Women's Weekly (1933 - )
+</relationEntry>
+<descriptiveNote>
+<p>Freda Irving was a one time editor of the Australian Women's Weekly.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-753077">
+<relationEntry>
+Irving, Freda Howy (1903-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Irving, Freda Howy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Irving, Freda Howy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3522b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000512.htm">
+<relationEntry localType="archival">Irving, Freda Mary Howy: Service Number - VF398095 : Date of birth - 16 Sep 1903 : Place of birth - MELBOURNE VIC : Place of enlistment - MELBOURNE VIC : Next of Kin - IRVING SYBIL</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Irving, Freda Mary Howy: Service Number - VF398095 : Date of birth - 16 Sep 1903 : Place of birth - MELBOURNE VIC : Place of enlistment - MELBOURNE VIC : Next of Kin - IRVING SYBIL</unittitle>
+<unitid>B884/0</unitid>
+<unitdate>1941 - 1972</unitdate>
+<physdesc>
+<extent>15 papers</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002113.htm">
+<relationEntry localType="archival">Papers of Freda Irving</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Papers of Freda Irving</unittitle>
+<unitid>MS 12758</unitid>
+<unitdate>1932 - 1984</unitdate>
+<abstract>Includes correspondence, draft articles for <span style="font-style:italic">Women's Day</span> and <span style="font-style:italic">Australian Women's Weekly</span> of which Freda Irving was Editor, photographs, souvenirs and published items. Also includes further papers of Sybil Irving, Freda's sister and first Colonel in Chief of the Australian Women's Army Service. These papers include correspondence, photographs, memorabilia of army service days, records of service and salary, as well as published material relating to military life.</abstract>
+<physdesc>
+<extent>1.1 m</extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

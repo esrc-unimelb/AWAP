@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0010</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0010b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Blaxland</part>
+<part localType="givenname">Helen Frances</part>
+<part localType="honorific title">Dame, DBE, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-06-21">21 June 1907</fromDate>
+<toDate standardDate="1989-12-17">17 December 1989</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Neutral Bay, Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Camden, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Helen Blaxland spent much of her life working for charitable institutions, particularly the Australian Red Cross Society, for which she was appointed Officer of the Order of the British Empire in 1967. Her other interests included flower arrangement, on which she published two books. She was appointed as a Dame Commander of the Order of the British Empire on 14 June 1975 for service to the community in recognition of her contribution to the National Trust (New South Wales) and the Parramatta Properties Committee.</abstract>
+<p>Helen Blaxland was the daughter of the late Brigadier General Sir R M McCheyne Anderson. She was educated at Bedales in England and later at Frensham in Mittagong, New South Wales. She married Gregory Blaxland on 10 November 1927, and had one daughter, Antonia, who became a photographer.</p>
+<p>She worked in several charitable organisations, including the Australian Red Cross Society. She was appointed OBE in 1967 for her contribution to the Society and awarded the Order of the Red Cross Society in the same year. She was foundation chairman of the Women's Committee of the National Trust (New South Wales), the Lindesay Committee and the Parramatta Properties Committee, which was concerned with the restoration of Experiment Farm Cottage and Old Government House, Paramatta.</p>
+<p>She published two books on flower arrangement, entitled <span style="font-style:italic">Flower pieces</span> (1946) and <span style="font-style:italic">Collected Flower pieces: on the arrangement of flowers</span> (1949), for which her daughter Antonia took the photos.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763074">
+<relationEntry>
+Blaxland, Helen Frances (1907-1989)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Blaxland, Helen Frances', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Blaxland, Helen Frances</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0010b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001060.htm">
+<relationEntry localType="published">Book Section: Blaxland, Dame Helen Frances, DBE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Blaxland, Dame Helen Frances, DBE</title>
+<edition>25th</edition>
+<imprint>
+<date>1988</date>
+</imprint>
+<bibseries>
+<title render="italic">Who's who in Australia 1988</title>
+<name type="author">Keith A Cadman</name>
+<num type="pages">123</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001059.htm">
+<relationEntry localType="published">Book: Collected flower pieces: on the arrangement of flowers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blaxland, Helen</name>
+<title render="italic">Collected flower pieces: on the arrangement of flowers</title>
+<imprint>
+<place>Stydney, NSW</place>
+<publisher>Ure Smith</publisher>
+<date>1949</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001058.htm">
+<relationEntry localType="published">Book: Flower pieces</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blaxland, Helen</name>
+<title render="italic">Flower pieces</title>
+<imprint>
+<place>Sydney, NSW</place>
+<publisher>Ure Smith</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

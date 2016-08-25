@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0849</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-07">2004-04-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0849b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Riggs</part>
+<part localType="givenname">Clara Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-11-05">5 November 1911</fromDate>
+<toDate standardDate="2001-12-31">2001?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Riggs was born in 1911 and went to school at the Methodist Ladies College (now Annesley College) and the Presbyterian Girls' College (now Seymour College). She became a nurse at the Royal Adelaide Hospital in 1930. In 1936 she was nursing in Scotland so was there for the coronation of Edward VIII. Riggs became ill in Scotland and went to a sanatorium in Switzerland and then returned to Adelaide. She joined the 2/4th Australian General Hospital and went to the Middle East where her first tour of duty was to nurse soldiers from Tobruk. Riggs then went to Jerusalem and Colombo before returning to Australia. Upon her return to Adelaide, Riggs cared for her aunt Emily Verco and completed a course in infant welfare. She accepted a job at the Adelaide City Council Health Department. Following her retirement at 60 she started working as a relief nurse at the Christian Rest Home and travelled to Europe and China, India and Bangkok. A member of the Lyceum Club, Betty Riggs participated in all the activities.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-05-27">27 May 1941</fromDate>
+<toDate standardDate="1947-05-05">5 May 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SX13698</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-769057">
+<relationEntry>
+Riggs, Clara Elizabeth (1911-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Riggs, Clara Elizabeth (Betty)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Riggs, Clara Elizabeth (Betty)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0849b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002738.htm">
+<relationEntry localType="published">Resource Section: RIGGS, CLARA ELIZABETH</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">RIGGS, CLARA ELIZABETH</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=677056"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001421.htm">
+<relationEntry localType="archival">Interview with Betty Riggs [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Betty Riggs [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/22</unitid>
+<unitdate>4 June 1990</unitdate>
+<abstract>Adelaide Lyceum Club Oral History 
+
+Betty Riggs was born in 1911 and went to school at the Methodist Ladies College and the PGC. She became a nurse at the Royal Adelaide Hospital in 1930. In 1936 she was nursing in Scotland so was there for the coronation of Edward VIII. Became ill in Scotland and went to a sanitorium in Switzerland and then returned to Adelaide. Joined the 2nd 4th AG and went to the Middle East where her first tour of duty was to nurse soldiers from Tobruk. Then went to Jerusalem and Colombo. Returned to Australia and continued nursing even though her health had suffered. Returned to Adelaide to care for her aunt Emily Verco and did a course in infant welfare. Accepted a job at the Adelaide City Council Health Department. Aunt died when she was 100. Retired at 60 and began travelling. Started working as a relief nurse at the Christian Rest Home and travelled to Europe and China, India and Bangkok. Participated in all the activities of the Lyceum Club.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001422.htm">
+<relationEntry localType="archival">Seymour College Junior School's 'Voices of the Past' Entries, 1988 [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Seymour College Junior School's 'Voices of the Past' Entries, 1988 [sound recording]</unittitle>
+<unitid>OH 43/1, OH 43/2, OH 43/3, OH 43/6</unitid>
+<unitdate>June 1988</unitdate>
+<abstract>A collection of eight interviews conducted by pairs of Year 5 students at Seymour College Junior School as part of their school work during 1988. The interviews were entered in 'Voices of the Past: An Oral History Award for Schools' which was organised for the first time in 1988 by the Oral History Association of Australia (South Australian Branch). The interviews concern old scholars' recollections of Presbyterian Girls' College (now Seymour College) during their school days.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

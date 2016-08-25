@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0222</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-30">2002-10-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0222b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Baker</part>
+<part localType="givenname">Alice</part>
+<part localType="honorific title">CBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Shaw, Alice</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1855-01-01">1855</fromDate>
+<toDate standardDate="1935-03-20">20 March 1935</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Raymond Terrace, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Yarra, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>With her husband, Thomas Baker, and her sister, Eleanor Shaw, Alice Baker co-financed a major biochemistry laboratory at the Alfred Hospital in Melbourne, now known as the Baker Institute.</abstract>
+<p>Alice Baker was the daughter of Emma (née Combe) and William Edward Shaw, Postmaster at Raymond Terrace, New South Wales. In 1877 she married Thomas Baker at St Paul's Church of England, Maryborough, Queensland. By 1881, the couple had moved to Melbourne. Thomas Baker was born in 1854 in Somerset, England, the son of Ann (née Beaton) and Charles Baker. Charles, a blacksmith, migrated to Adelaide with his family in 1865. Thomas worked with his father for a time before becoming a pharmaceutical chemist in Maryborough. He later went into business importing and producing photographic materials with J.J. Rouse, assisted by Alice, who developed photographs and took customer orders. Baker's firm eventually amalgamated with the London Kodak company to form Kodak (Australasia). During WWI, he was associated with munitions production and reputedly spent a large amount of money searching for oil in Australia and New Zealand.</p>
+<p>The Bakers had no children. They were known for their philanthropic activity, though they often made donations anonymously. They supported the Red Cross, the Big Brotherhood, Toc H and the Limbless Soldiers, but their greatest benefaction was to the Alfred Hospital. An initial donation in 1913 went toward cancer research. In 1922, Thomas Baker financed a biochemistry department at the hospital. Following the opening of the new building in 1926, the Bakers pledged ongoing support for the laboratory for five years and provided their first grant, a lump sum of £20,500 (perhaps $1 million today). The laboratory was named 'The Thomas Baker, Alice Baker and Eleanor Shaw Medical Research Institute' after the Bakers and Alice's sister. Following Thomas Baker's death in 1928, Alice and Eleanor, along with J.J. Rouse and family, continued to support the Baker Institute. The wills of Thomas, Alice and Eleanor included provision to set up a trust that would support research at the Institute as well as providing aid to other charities. By 1974 the Baker Institute had received nearly $4 million from the trust.</p>
+<p>Alice Baker supported her husband's philanthropy and was also an active supporter of the Women's Hospital and the Talbot Colony. She was prominent in the National Council of Women and represented Australia at the Toronto meeting of the International Council of Women. While Thomas Baker received no public honours, Alice was appointed C.B.E. in 1933, two years before her death at South Yarra.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1919-01-01">1919</fromDate>
+<toDate standardDate="1920-12-31">1920</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767069">
+<relationEntry>
+Baker, Alice (1855-19350320)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baker, Alice', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baker, Alice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0222b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004213.htm">
+<relationEntry localType="published">Thesis: In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lemon, Barbara</name>
+<title render="quoted">In Her Gift: Activism and Altruism in Australian Women's Philanthropy, 1880-2005</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>School of Historical Studies, University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004361.htm">
+<relationEntry localType="published">Site Exhibition: In Her Gift: Women Philanthropists in Australian History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">In Her Gift: Women Philanthropists in Australian History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wiph/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001441.htm">
+<relationEntry localType="published">Resource Section: Baker, Thomas (1854-1928)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">de Serville, P. H.</name>
+<title render="quoted">Baker, Thomas (1854-1928)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="pages">.</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A070156b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001440.htm">
+<relationEntry localType="published">Book: The Thomas Baker, Alice Baker and Eleanor Shaw Medical Research Institute</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lowe, Thomas E</name>
+<title render="italic">The Thomas Baker, Alice Baker and Eleanor Shaw Medical Research Institute</title>
+<imprint>
+<place>Melbourne, Victoria</place>
+<publisher>The Trustees of the Institute</publisher>
+<date>1974</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

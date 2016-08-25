@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1108</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-11-03">2004-11-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1108b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The ANZAC Fellowship of Women</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1957-12-31">1957?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The ANZAC Fellowship of Women was founded in 1921 by Dr Mary Booth, with the object of fostering the commemorative character of ANZAC day as an inspiration to future generations. Booth remained president of the group until 1956. In 1930 a London branch was also established. From 1931-41, and again from 1950, the ANZAC Festival Committee was established to emphasise the value of the Arts in helpding to foster the ANZAC tradition. The group also established the Empire Service Club for Boy Settlers in 1923, which organsied welcome parties for 'Dreadnought' boys and represented the first welfare work instituted for them.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0100b.htm">
+<relationEntry localType="Person">
+Booth, Mary (1869 - 1956)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-468893">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The ANZAC Fellowship of Women', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The ANZAC Fellowship of Women</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1108b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001874.htm">
+<relationEntry localType="archival">Mary Booth Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Mary Booth Papers</unittitle>
+<unitid>ML MSS 2109</unitid>
+<unitdate>1905 - 1957</unitdate>
+<abstract>Correspondence and other papers relating to the ANZAC Fellowship of Women, including the London branch, 1923-1949; Centre for Soldiers' Wives and Mothers Committee minutes, 1916-1919, together with correspondence and printed material; Memorial College of Household Arts and Sciences, Kirribilli, minutes, 1935-1939, appeals and other correspondence, 1935-1938; The Lecture Club, minutes 1905-1913; misc. personal correspodence and correspondence and other papers re various organisations (inlcuding the ANZAC Fellowship of Women, the Empire Service Club for Boy Settlers, the Women's Standing Committee on Housing, the Centre for Soldiers' Wives and Mothers Committee, the Memorial College of Household Arts and Sciences and the Women's Migration Council of New South Wales).</abstract>
+<physdesc>
+<extent>5 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR01460.htm">
+<relationEntry localType="archival">Mary Booth - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Mary Booth - Records</unittitle>
+<abstract>Anzac Fellowship of Women papers and R.R. Garran papers.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/BSAR01459.htm">
+<relationEntry localType="archival">Mary Booth Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Mary Booth Papers</unittitle>
+<unitid>ML MSS 1329</unitid>
+<unitdate>1899 - 1957</unitdate>
+<abstract>Booth papers 1899-1957 including correspondence and related records 1899-1957 (these inlcude records relating to Booth's early professional career and her involvement in the Anthropometric Committee of the Australasian Association for the Advancement of Science); records relating to the Centre for Soldiers, Wives and Mothers (Letterbook) 1917-17; documents concerned with the Anzac Fellowship of Women 1921-57; newspaper cuttings 1933-1937 (mainly re ANZAC Festival). See also publishing file from Angus and Robertson Archives 1922 [ML MSS 314/12 pp581-3].</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

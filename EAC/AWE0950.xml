@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0950</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-11">2004-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0950b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gell</part>
+<part localType="givenname">Heather</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1988-12-31">1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Glenelg, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Heather Gell was a pioneer of eurhythmics and a dance teacher. After obtaining the Diploma of the Kindergarten Training College, Adelaide, in 1918, she studied at the London School of Dalcroze Eurythmics for two years. Gell returned to Adelaide to set up her own studio in 1923. She became a specialist in Eurhythmics and taught at the Kindergarten Training College. In 1930 Gell returned to London to study for the Licentiate degree at the Royal Academy of Music. On her return she was appointed to the Elder Conservatorium.
+
+In 1934 Gell directed the Girl Guides' farewell to Lady Zara Hore-Ruthven and in 1936 the 'Heritage' pageant for the State's Centenary celebrations. She returned to London in 1937 before settling in Sydney where she established the School of Music and Movement. From 1938 she began presenting "Music Through Movement", a weekly radio broadcast for the Australian Broadcasting Corporation, which lasted 27 years. Gell stayed in Sydney until her retirement, establishing the Dalcroze Society of Australia and the Dalcroze Teachers' Union.
+
+Heather Gell was appointed a Member of the Order of the British Empire services to music on 31 December 1977. She returned to Adelaide in 1982 and died in 1988. In her Will, she left a bequest to be used to establish, assist, and promote Dalcroze Eurhythmics in Australia. The Heather Gell Dalcroze Foundation is the result.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0949b.htm">
+<relationEntry localType="Person">
+Cox, Lesley Mary (1918 - 2003)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-475157">
+<relationEntry>
+Gell, Heather (-1988)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gell, Heather', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gell, Heather</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0950b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002836.htm">
+<relationEntry localType="published">Book: Music through movement : broadcasts to schools 1941</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gell, Heather</name>
+<title render="italic">Music through movement : broadcasts to schools 1941</title>
+<imprint>
+<place>[Sydney]</place>
+<publisher>Australian Broadcasting Commission</publisher>
+<date>1941</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002835.htm">
+<relationEntry localType="published">Book: Music, movement, and the young child</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gell, Heather</name>
+<title render="italic">Music, movement, and the young child</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Australasian Pub. Co.</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002834.htm">
+<relationEntry localType="published">Book: Recollections : a tribute to Heather Gell by those who remember ... : Dalcroze eurhythmics, broadcasts in music through movement for children, the great pageants and spectacles, her early children's television</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Lesley M; Holmes, Patricia L ; Pope, Joan, 1935-  (collated by) and  Follett, David (illustrated by)</name>
+<title render="italic">Recollections : a tribute to Heather Gell by those who remember ... : Dalcroze eurhythmics, broadcasts in music through movement for children, the great pageants and spectacles, her early children's television</title>
+<imprint>
+<place>Eden Hills, S. A.</place>
+<publisher>Lesley Cox Productions</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002833.htm">
+<relationEntry localType="published">Edited Book: Heather Gell's thoughts on Dalcroze eurhythmics and music through movement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pope, Joan, 1935-</name>
+<title render="italic">Heather Gell's thoughts on Dalcroze eurhythmics and music through movement</title>
+<imprint>
+<place>Nedlands, W.A.</place>
+<publisher>CIRCME, University of Western Australia in association with the Heather Gell Dalcroze Foundation</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002832.htm">
+<relationEntry localType="published">Book: Heather Gell's lessons in music through movement for four to six year olds</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pope, Joan, 1935-  (selected and annotated by )</name>
+<title render="italic">Heather Gell's lessons in music through movement for four to six year olds</title>
+<imprint>
+<place>Nedlands, W.A.</place>
+<publisher>CIRCME, University of Western Australia in assoc. with the Heather Gell Dalcroze Foundation</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002837.htm">
+<relationEntry localType="published">Theatre program: The Blue Bird, an adaption of the play by Maurice Maeterlinck, by the students of Miss Heather Gell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Blue Bird, an adaption of the play by Maurice Maeterlinck, by the students of Miss Heather Gell</title>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002829.htm">
+<relationEntry localType="published">Book: The eurythmics of Emile Jaques-Dalcroze : music, movement, drama : its origins and its purpose, 1865-1996</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dalcroze Society of South Australia and Cox, Lesley M</name>
+<title render="italic">The eurythmics of Emile Jaques-Dalcroze : music, movement, drama : its origins and its purpose, 1865-1996</title>
+<imprint>
+<place>[Eden Hills, S. A.]</place>
+<publisher>Lesley M. Cox</publisher>
+<date>[1996]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001568.htm">
+<relationEntry localType="archival">Interview with Heather Gell and ABC Radio school broadcast</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Heather Gell and ABC Radio school broadcast</unittitle>
+<unitid>PRG 633/43</unitid>
+<abstract>Second part: approximately 15 minutes. Interview by unnamed female interviewer (in the background) with Heather Gell, in which she recounts her early years as a presenter of Music Through Movement on ABC Radio for school children over the period 1938-1958. She mentions that radio was an ideal form for listening by children, allowing them to be imaginative and responsive. The ABC was extremely cooperative with providing "live" music from its musicians, and she was free to do whatever she needed for programming. Teaching was always live to air, with the expectation that children in their class room would respond to or imitate instruments through movement. She had her own television programme on Channel 9, Playroom, which ran from 1958-1967. She enjoyed her years living and working in Sydney and was glad to be back at the time of this interview. Each Christmas she presented a dramatic production similar to the English pantomimes (The Blue Bird, The Pied Piper of Hamelin, The Enchanted Tree) using her eurhythmics students, in aid of charity , eg "Bundles for Britain" or the Kindergarten Union. These were very popular and J.C. Williamson theatre organisation was an important part of the promotion of these productions. She believes that the ABC Radio broadcasts were important to country children who had less exposure to music and drama than children in the cities. As an elderly person she took Meals on Wheels and was happy to learn some of the people who delivered her meals had enjoyed her ABC Radio school broadcasts when they were young. Before the ABC made her programme a national broadcast Miss Gell did two terms on Adelaide radio. The first part of the recording, approximately 18 minutes, is a whole segment from her Music through Movement programme, in which the presenter asks the children listening on radio to respond to music played by a violin and piano at different tempos, and teaches a series of movements while the music played is Grieg's "Dance of the Gnomes".</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001567.htm">
+<relationEntry localType="archival">Heather Gell : SUMMARY RECORD</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Heather Gell : SUMMARY RECORD</unittitle>
+<unitid>PRG 633</unitid>
+<unitdate>1886 - 1998</unitdate>
+<abstract>Papers of Heather Gell, pioneer of eurhythmics and dance teacher, comprising lesson notes, scripts, music scores, including original scores for 'Heritage', correspondence, papers relating to the Dalcroze method and the 1936 production of 'Heritage', photographs, programmes, scrapbooks, certificates and sound cassettes. Also included are some papers relating to the 1991 exhibition of 'Heritage' designs and photographs, an album relating to Miss Enid Campbell's Albion Street Infant School eurhythmics class, Paddington NSW, Heather Gell's theatre productrions, an interview with her recorded by the ABC and including a copy of an ABC Music Through Movement radio broadcast for schools programme, and papers relating to her father Harry Dickson Gell. Originals of photographs in RESERVE collection with copies available for reference.</abstract>
+<physdesc>
+<extent>2.2 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001569.htm">
+<relationEntry localType="archival">[Biographical cuttings on Heather Gell]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Heather Gell]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

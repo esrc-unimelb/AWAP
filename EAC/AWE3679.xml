@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3679</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-09-29">2008-09-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3679b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dark</part>
+<part localType="givenname">Eleanor</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>O'Reilly, Eleanor</part>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>O'Reilly, Pixie</part>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>O'Rane, Patricia</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-08-26">26 August 1901</fromDate>
+<toDate standardDate="1985-09-30">September 1985</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Burwood, Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Novelist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Eleanor Dark wrote for the <span style="font-style:italic">Australian Women's Mirror</span> and the <span style="font-style:italic">Bulletin</span> under the pseudonym of 'P.O'R': Pixie O'Reilly or Patricia O'Rane. Under her married name, she published <span style="font-style:italic">Slow Dawning</span> (1932), <span style="font-style:italic">Prelude to Christopher</span> (1934), <span style="font-style:italic">Return to Coolami</span> (1936), <span style="font-style:italic">Sun Across the Sky</span> (1937), <span style="font-style:italic">Waterway</span> (1938), <span style="font-style:italic">The Timeless Land</span> (1941), <span style="font-style:italic">The Little Company</span> (1945), <span style="font-style:italic">Storm of Time</span> (1948) and <span style="font-style:italic">No Barrier</span> (1953).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-472530">
+<relationEntry>
+Dark, Eleanor (1901-1985)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dark, Eleanor', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dark, Eleanor</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3679b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004748.htm">
+<relationEntry localType="published">Resource Section: Dark, Eleanor (1901 - 1985)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wyndham, Marivic</name>
+<title render="quoted">Dark, Eleanor (1901 - 1985)</title>
+<imprint>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<name type="author">Australian National University</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A170295b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004031.htm">
+<relationEntry localType="published">Book: Waterway</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Waterway</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1938</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004030.htm">
+<relationEntry localType="published">Book: The Timeless Land</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">The Timeless Land</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004029.htm">
+<relationEntry localType="published">Book: Sun Across the Sky</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Sun Across the Sky</title>
+<imprint>
+<place>New York</place>
+<publisher>Macmillan</publisher>
+<date>1937</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004028.htm">
+<relationEntry localType="published">Book: Storm of Time</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Storm of Time</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004027.htm">
+<relationEntry localType="published">Book: Slow Dawning</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Slow Dawning</title>
+<imprint>
+<place>London</place>
+<publisher>J. Long</publisher>
+<date>1932</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004026.htm">
+<relationEntry localType="published">Book: Return to Coolami</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Return to Coolami</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1935</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004025.htm">
+<relationEntry localType="published">Book: Prelude to Christopher</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Prelude to Christopher</title>
+<edition>2</edition>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1936</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004024.htm">
+<relationEntry localType="published">Book: The Little Company</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">The Little Company</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Collins</publisher>
+<date>1945</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004023.htm">
+<relationEntry localType="published">Book: Lantana Lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">Lantana Lane</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004022.htm">
+<relationEntry localType="published">Book: No Barrier</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dark, Eleanor</name>
+<title render="italic">No Barrier</title>
+<imprint>
+<place>London</place>
+<publisher>Collins</publisher>
+<date>1953</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004021.htm">
+<relationEntry localType="published">Journal Article: Eleanor Dark: Retrospective</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Modjeska, Drusilla</name>
+<title render="quoted">Eleanor Dark: Retrospective</title>
+<imprint>
+<place>Sydney</place>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">Refractory Girl</title>
+<num type="issue">29</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

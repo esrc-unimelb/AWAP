@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0164</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-17">2002-10-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0164b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Johnston</part>
+<part localType="givenname">Jessie Mary</part>
+<part localType="honorific title">Lady, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Clark, Jessie</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1889-08-29">29 August 1889</fromDate>
+<toDate standardDate="1923-12-03">3 December 1923</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1889-08-29">29 August 1889</fromDate>
+<toDate standardDate="1984-12-31">1984</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>St Kilda, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jessie Mary Johnston, the daughter of Brigadier-General Walter John and Mary Euphemia (née Johnston) Clark, was born at St Kilda in 1889. Educated privately in Tasmania during World War I she became a member of the Red Cross Society (Tasmania). On 3 December 1923 Jessie Clark married her maternal cousin Dr William Johnston (later Sir) and they had two sons. From 1939-1952 Jessie Johnston was a member of the Red Cross Centenary Council, and from 1940-1942 a member of the Executive Committee of the Australian Imperial Forces Women's Association. When Johnston was appointed Young Women's Christian Association (YWCA) Commissioner for War Services, she resigned from the presidency of the Alexandra Club but remained a member of the Committee. In 1951 Johnston became President of the YWCA of Australia, a post she held until 1957. On 1 January 1958 she was appointed an Officer of the Order of the British Empire for service to the community. Lady Jessie Johnston died in 1984, aged 94.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1918-12-31">1918</toDate>
+</dateRange>
+<event>Member of the Red Cross Society (Tasmania)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1923-12-03">3 December 1923</fromDate>
+<toDate standardDate="1923-12-03">3 December 1923</toDate>
+</dateRange>
+<event>Married Dr William Johnston (later Sir)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+<event>President of the Alexandra Club (Melbourne)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1952-12-31">1952</toDate>
+</dateRange>
+<event>Member of the Red Cross Centenary Council</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1940-01-01">1940</fromDate>
+<toDate standardDate="1942-12-31">1942</toDate>
+</dateRange>
+<event>Member of the Executive Committee for the AIF Women's Association</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+<event>YWCA Commissioner for War Services</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1951-01-01">1951</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+<event>President of YWCA Australia</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1958-01-01">1 January 1958</fromDate>
+<toDate standardDate="1958-01-01">1 January 1958</toDate>
+</dateRange>
+<event>Appointed Officer of the Order of the British Empire</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0263b.htm">
+<relationEntry localType="Corporate Body">
+AIF Women's Association (1940 - 1946)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940</fromDate>
+<toDate standardDate="1942-12-31">1942</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0210b.htm">
+<relationEntry localType="Corporate Body">
+The Alexandra Club (1903 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+<descriptiveNote>
+<p>President</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763050">
+<relationEntry>
+Johnston, Jessie Mary (1889-1984)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Johnston, Jessie Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Johnston, Jessie Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0164b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001362.htm">
+<relationEntry localType="published">Book: The Alexandra Club : A Narrative 1903-1983</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Starke, Monica</name>
+<title render="italic">The Alexandra Club : A Narrative 1903-1983</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Alexandra Club</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000251.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1962</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1962</title>
+<edition>17</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Colorgravure Publications</publisher>
+<date>1962</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

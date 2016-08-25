@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00388</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00388b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Muir</part>
+<part localType="givenname">Sylvia Jessie Mimmi</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-08-24">24 August 1915</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Longreach, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Army Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>During World War II, Sylvia Muir, along with fellow Queensland Joyce Tweddell, became a prisoner of war (POW) when she was captured, together with many other nurses, by the Japanese after the fall of Singapore in February 1942. She was interned in Sumatra for three and a half years before her recovery from the camp at the cessation of the war.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00381b.htm">
+<relationEntry localType="Person">
+Tweddell, Joyce  (1916 - 1995)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775066">
+<relationEntry>
+Muir, Sylvia Jessie Mimmi (1915-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Muir, Sylvia Jessie Mimmi', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Muir, Sylvia Jessie Mimmi</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00388b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00386.htm">
+<relationEntry localType="published">Resource Section: Muir, Sylvia: Service Record </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs, Australian Government   </name>
+<title render="quoted">Muir, Sylvia: Service Record </title>
+<imprint>
+<place>Canberra, Australian Capital Territory</place>
+<publisher>Australian Government</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll </title>
+<name type="author">Department of Veterans' Affairs, Australian Government  </name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=21958"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00382.htm">
+<relationEntry localType="published">Resource Section: Sister Sylvia Muir and Joyce Tweddell (1941)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="quoted">Sister Sylvia Muir and Joyce Tweddell (1941)</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>State of Queensland</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Our Women Our State: a pictorial history of women's contributions to Queensland, 1859 - 2009</title>
+<name type="author">Ofice for Women</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.women.qld.gov.au/q150/1940/index.html#item-sylvia-muir-joyce-tweddell"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00373.htm">
+<relationEntry localType="published">Book: Heroic Australian women in war: astonishing tales of bravery from Gallipoli to Kokoda </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">Heroic Australian women in war: astonishing tales of bravery from Gallipoli to Kokoda </title>
+<imprint>
+<place>Pymble NewSouth Wales</place>
+<publisher>Harper Collins</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00384.htm">
+<relationEntry localType="archival">QFX22816, Lieutenant Sylvia Muir, Australian Army Nursing Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>QFX22816, Lieutenant Sylvia Muir, Australian Army Nursing Service</unittitle>
+<unitid>P00886.001</unitid>
+<unitdate>c. 1941 - c. 1946</unitdate>
+<abstract>Black and white photograph</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00383.htm">
+<relationEntry localType="archival">Biographical cuttings on Sylvia Muir, former nursing sister, Japanese POW</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Sylvia Muir, former nursing sister, Japanese POW</unittitle>
+<unitid>BIOG</unitid>
+<unitdate>c. 1942 - c. 1946</unitdate>
+<abstract>Book</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Newspaper clippings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00372.htm">
+<relationEntry localType="archival">Group portrait in the hospital grounds of original Australian Army Nursing Service (AANS) Staff</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Group portrait in the hospital grounds of original Australian Army Nursing Service (AANS) Staff</unittitle>
+<unitid>P01295.002</unitid>
+<unitdate>1941 - </unitdate>
+<abstract>Malacca, Malaya. 1941-12. Group portrait in the hospital grounds of original Australian Army Nursing Service (AANS) Staff and three physiotherapists who sailed from Sydney 1941-01 to Staff 2/10th Australian General Hospital (AGH)
+This photograph may have been taken to include with the hospital's Christmas card. 
+ Back Row: Left To Right: Staff Nurse Ksth MCMILLAN, Marjorie SCHUMAN, Sister MORIARTY, Staff Nurse DROVER, Veronica DWYER, Carol DENNIS, Irene SINGLETON, Mary MARDEN, Sister MCMAHON, Miss ZOUCH (Physiotherapist), Staff Nurses Betty PUMP, SCHEITZ, Sisters DAVIS, P. MITTELHEUSER, Staff Nurses Katherine BLAKE, Florence TROTTER, Sister Jessie DOYLE, Staff Nurses C. OXLEY, Cecilia DELFORCE, Joyce TWEDDELL. 
+Third Row: Left to Right: Staff Nurses Thelma BELL, Veronica TAYLOR, Sisters Veronica TAPPRELL, Nesta JAMES, Colonel J. GLYN WHITE, Matron Olive PASCHKE, Staff Nurses CRICK, COSGROVE, LITTLE, Robinea FREEMAN.
+Second Row: Left to Right: Sfaff Nurses CLOUGH, Vi HAIG, Sister Dorothy ELMES, Lorna OLIFF, NOYES, Sisters Janet GUNTHER, Aileen IRVING, Staff Nurse Ellenor (Nell) CALNAN, Lorna DUTHIE, Sisters Iva GRIGG, Dorothy RALSTON, Jessie BLANCH, Staff Nurse Monica ADAMS.
+Front Row: Left to Right: Physiotherapists Miss GIBSON, HOWGATE (HOWGARTH?), Staff Nurse JACOBS. (Donor T. MCEACHERN) </abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00377.htm">
+<relationEntry localType="archival">Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs)</unittitle>
+<unitid>P01701.003  </unitid>
+<unitdate>18 October 1945 - </unitdate>
+<abstract>Fremantle, WA. 18 October 1945. Group portrait of Australian Army Nursing Service (AANS) nurses, who were former prisoners of war (POWs), aboard the hospital ship Manunda on its arrival. Most of the nurses were staff members of the 2/10th and 2/13th Australian General Hospital (2/10AGH and 2/13AGH) and the 2/4th Casualty Clearing Station (2/4CCS) who have returned from Malaya. Known to be in the photograph are: Christien 'Chris' Oxley, Jean 'Jennie' Greer, Beryl 'Woodie' Woodbridge, Florence 'Trot' Trotter, Eileen 'Shortie' Short, Jessie Blanch, Valerie Smith, Violet McElnea, Betty 'Jeff' Jeffrey, Nesta James, Pat Blake, Janet P. 'Pat' Gunther, Jess Doyle, Cecilia E. M. 'Del' Delforce, Iole Harper, Sylvia Muir, Joyce 'Tweedie' Tweddell, V. Haig, Wilma Oram, Jean Ashton, Jessie Simons, Ada C. 'Mickey' Syer and Veronica R. Clancy. The woman in the centre wearing the dress uniform and hat is Colonel Annie M. Sage, Matron-in-Chief of the AANS. The woman in the foreground, standing behind the two seated nurses on the right, is Captain E. Mavis Hannah (later Allgrove) and the tall woman third from the right holding flowers is Vivian Bullwinkel. A number of the nurses are holding bouquets of flowers that have been sent by their families. Many of these nurses became prisoners of war (POWs) when they were captured by the Japanese after the fall of Singapore in February 1942 and survived captivity. Bullwinkel survived the massacre of 21 nurses on Radji Beach, Banka Island on 16 February 1942. (Donor: E.M. Allgrove)</abstract>
+<physdesc>
+<extent>1 </extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00387.htm">
+<relationEntry localType="archival">Muir, Sylvia Jessie Mimmi: Service Number - QX22816 </relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Muir, Sylvia Jessie Mimmi: Service Number - QX22816 </unittitle>
+<unitid>Series Number: B883; Control symbol: QX22816</unitid>
+<unitdate>1940 - 1947</unitdate>
+<abstract>Mobilization Attestation Form </abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

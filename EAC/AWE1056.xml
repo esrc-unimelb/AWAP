@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1056</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-09-09">2004-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1056b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>National Council of Jewish Women, New South Wales Section</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Council of Jewish Women</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1923-01-01">1923</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>NCJW NSW Section Inc:
+PO Box 57, Woollahra, NSW 1350
+Tel. (02) 9363 0257 Fax (02) 9362 4092
+admin@ncjwnsw.org</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Religious organisation</term>
+</function>
+<function>
+<term>Lobby group</term>
+</function>
+<function>
+<term>Philanthropic organisation</term>
+</function>
+<function>
+<term>Membership organisation</term>
+</function>
+<function>
+<term>Women's rights organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The National Council of Jewish Women, New South Wales Division was established in 1923. Originally called the Council of Jewish Women, in 1927 a national body (The National Council of Jewish Women of Australia) was formed and a separate New South Division of this organisation established. 
+
+Fanny Reading, the first president, immediately set about implementing service programs for the local Jewish community. An immigrant welfare committee was established, which was the first to provide any assistance for Jewish immigration in Sydney. Funds were raised for the relief of Polish Jewry. Other work included teaching Sunday Schools, visiting people in hospital, and assisting with other fundraising projects, both Jewish and non-Jewish, as well as social events particularly for Juniors. The Council in Sydney was particularly involved in supporting the Zionist cause and then with support for Israel. By the 1960s, it had several groups operating across Sydney and one in Newcastle.
+
+Over its long history, the Council has been involved in an enormous array of issues, as well as charitable, educational and social activities. The Council continues today as a non-profit, voluntary, organisation for Jewish women, acting for their advancement and for social justice generally.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0555b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of New South Wales (1896 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="hierarchical-parent" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1052b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Jewish Women of Australia (1923 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1923-01-01">1923</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-764064">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'National Council of Jewish Women, New South Wales Section', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">National Council of Jewish Women, New South Wales Section</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1056b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003220.htm">
+<relationEntry localType="published">Journal Article: Perspectives from the Australian Jewish community</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rutland, Suzanne</name>
+<title render="quoted">Perspectives from the Australian Jewish community</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Lilith: A Feminist History Journal</title>
+<num type="issue">11</num>
+<num type="pages">87-101</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003216.htm">
+<relationEntry localType="published">Book: Making a Difference: A History of the National Council of Jewish Women of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Newton, Marlo Leigh</name>
+<title render="italic">Making a Difference: A History of the National Council of Jewish Women of Australia</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Hybrid Publishers</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003215.htm">
+<relationEntry localType="published">Newsletter: The Council bulletin / National Council of Jewish Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Council bulletin / National Council of Jewish Women</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Council</publisher>
+<date>1926-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003214.htm">
+<relationEntry localType="published">Conference Proceedings: First Jewish Women's Conference, May 21st to 27th, 1929</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">First Jewish Women's Conference, May 21st to 27th, 1929</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Council of Jewish Women of New South Wales</publisher>
+<date>1929</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001810.htm">
+<relationEntry localType="archival">Interview with Queenie Symonds (1896-)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Queenie Symonds (1896-)</unittitle>
+<unitid>ORAL TRC 2301 Int. 198</unitid>
+<abstract>Interviewer : Brenda Factor. 2 March 1987. 2 cassettes (ca. 75 min.). Transcript available.
+Recorded by the NSW Bicentennial Oral History Project, funded by a bicentennial grant to the NSW Council on the Ageing and the Oral History Association of Australia (NSW).
+orn in Eden, NSW, Symonds speaks of her family background ; parents' background ; lifestyle in Eden ; Jewsish customs ; the family moving to Sydney when she was 11 ; childhood memories ; family life, home and living conditions ; family shops in Eden and Sydney ; courtship and marriage ; her brothers and sisters ; her daughter travelling to Palestine after World War II ; her schooling ; family maids ; her husband's background ; kosher foods ; employment in shoe shop ; social life before marriage ; picnics and recreation ; trip overseas with husband ; husband's employment ; memories of World War I ; her children ; forming the first Council of Jewish women ; council activities, its purpose ; Jewish immigrants.</abstract>
+<physdesc>
+<extent>2 audio cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1154</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-03-23">2005-03-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1154b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mills</part>
+<part localType="givenname">Carol Moya</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1942-09-15">15 September 1942</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Penhurst, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Librarian</term>
+</occupation>
+<occupation>
+<term>Historian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Carol Mills was appointed librarian at the newly-formed Canberra College of Advanced Education in 1969. Her publications include a bibliography of Northern Territory literature and numerous articles on early Australian writers, book illustrators and book history. She worked subsequently as librarian of the Charles Sturt University at Wagga, and the University of the South Pacific in Suva, where she published articles on library management and literacy in the South Pacific.</abstract>
+<list><item>Born Penshurst, New South Wales on 15 September 1942 to Bob and Jean Mills (Nee Bennett).</item>
+<item>Moved to Cronulla in 1947 where she attended the local State primary school.</item>
+<item>Completed her secondary education at Kogarah Girls High and studied for two years at Sydney University.</item>
+<item>Worked at the Fisher Library, University of Sydney from 1963-65.</item>
+<item>Travelled and worked for three years as a librarian in Europe and England.</item>
+<item>Returning to Australia in 1969 she became second librarian appointed to the newly-formed Canberra College of Advanced Education until 1984.</item>
+<item>From 1975-83 she completed a four-volume bibliography of literature emanating from the Northern Territory.</item>
+<item>Gained a Bachelor of Arts degree at the Australian National University in 1977 and a Masters Degree in Librarianship from the University of London.</item>
+<item>Throughout the 1980s she published a series of articles in the <span style="font-style:italic">Lu Rees Archives</span> on early Australian writers and book illustrators.</item>
+<item>As Librarian at the William Merrylees Library, Charles Sturt University at Wagga, from 1984-2000 she published a number of articles on Australian book history.</item>
+<item>From 1993-95 she was seconded to the library of the University of the South Pacific in Suva, publishing a number of articles on library management and literacy in the South Pacific region.</item>
+<item>She retired to Canberra in 2000 and deposited her papers in the National Library. She has made provision for a generous bequest to that library on her death.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-575612">
+<relationEntry>
+Mills, Carol M (1942-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mills, Carol Moya', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mills, Carol Moya</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1154b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001950.htm">
+<relationEntry localType="archival">Papers of Carol Mills</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Papers of Carol Mills</unittitle>
+<unitid>MS 9761.</unitid>
+<unitdate>1960 - 2003</unitdate>
+<abstract>Correspondence, cards, family papers, diaries, notebooks, personal documents and mementoes, papers on Mills's terms as Librarian at the Charles Sturt University and the University of the South Pacific, papers on conferences and libraries, papers on bibliographic activities, scrap albums, printed material and two videos.</abstract>
+<physdesc>
+<extent>2.38 m, 17 </extent>
+<physfacet>Papers, Video, Printed material, Scrap Albums</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001949.htm">
+<relationEntry localType="archival">Interview with Carol Mills</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Interview with Carol Mills</unittitle>
+<unitid>ORAL TRC 50011.</unitid>
+<unitdate>2003</unitdate>
+<abstract>Interview Conducted by Ann-Mari Jordans.  Recorded on July 24, 2003; July 28-July 29, 2003 at Hackett, Canberra, A.C.T.
+Carol Mills recalls her initial Library studies whilst being employed at the Fisher Library, Sydney University (1963-1966); her years of experience as Senior Librarian managing a number of University Libraries in Australia; her return to London to study for a Masters of Arts in Librarianship (ca 1977); managing the Library of the University of Darwin for 3 months after Cyclone Tracy hit in 1975; her 4 volume bibliography of literature emanating from the Northern Territory (1975-1983). She speaks about her historical writings &amp; articles on Australian book history; her secondment to the Library of the University of the South Pacific, Suva, Fiji (1993-1995), publishing a number of articles on library management &amp; literacy in the South Pacific region; her return to managing the Charles Sturt University Library until her retirement in 2000.</abstract>
+<physdesc>
+<extent>3 digital audio tapes</extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

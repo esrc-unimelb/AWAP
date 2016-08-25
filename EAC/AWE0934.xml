@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0934</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-22">2004-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0934b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Harvey</part>
+<part localType="givenname">Beatrice</part>
+<part localType="honorific title">Sister</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Religious worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sister Betty Harvey grew up in Broken Hill. She came to work with the Port Adelaide Central Methodist Mission in 1938 when she herself was in her thirties.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-722067">
+<relationEntry>
+Harvey, Beatrice
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Harvey, Beatrice (Betty)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Harvey, Beatrice (Betty)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0934b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002781.htm">
+<relationEntry localType="published">Book: This side of Heaven : a history of Methodism in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hunt, Arnold D. (Arnold Dudley), 1921-</name>
+<title render="italic">This side of Heaven : a history of Methodism in South Australia</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Lutheran Publishing House</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001523.htm">
+<relationEntry localType="archival">Interview with Betty Harvey [sound recording] Interviewer: Susan Marsden and Peter Nixon</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Betty Harvey [sound recording] Interviewer: Susan Marsden and Peter Nixon</unittitle>
+<unitid>OH 24/21</unitid>
+<unitdate>30 August 1977</unitdate>
+<abstract>The interview forms part of the Port History Project. 
+
+The Port History Project, funded by the Community Youth Support Scheme for 18 months during 1977 and 1978, involved about 40 young unemployed people researching and presenting aspects of the history of the Port Adelaide region. The aim of the project was to help them gain job skills and self-confidence. Activities included the preparation of exhibitions, articles and booklets as well as the interviews contained in this collection. The project was based at the Port Adelaide Central Mission and the Project Officer was Susan Marsden who usually acted as the primary interviewer. Several other historians were also associated with the project as interviewers. Where interviewees were recorded on different occasions by different interviewees the recordings have been described separately.  
+Others interviewed include many long time and more recent residents of the Port Adelaide Region and those associated the Mission.  For a list of those interviewed do a number search of the Mortlock Library of South Australiana catalogue for OH 24.  
+
+
+Sister Beatrice ('Betty') Harvey grew up in Broken Hill and came to work with the Port Adelaide Central Methodist Mission in 1938 when she herself was in her thirties. She describes the church buildings associated with the Mission and speaks of the Mission's assistance to the unemployed during the Depression. She describes her own hard work as a home and school visitor in that era and some of the sad cases she encountered. She recalls Reverend and Mrs McCutcheon who were in charge of the Mission and recounts how the Reverend founded the Wesley House Homes for the Aged. The interview concludes with Sister Betty describing the series of jobs she took interstate during the late 1920s which led her to her life as a missionary. She finishes by outlining a typical week's work at the Mission in years past.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0764</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-25">2004-02-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0764b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Finlay</part>
+<part localType="givenname">Judith</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Murray, Judy</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-07-07">7 July 1921</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Judy Finlay has been treasurer of the Australian Women's Land Army Association New South Wales since 1996.</abstract>
+<p>At the outbreak of World War II, Judy Finlay was working at M &amp; J Frocks, a frock and suit manufacturer, as a junior finisher and machinist. She joined the Women's Australian National Service (WANS) soon after it was established in 1940, and completed First Aid and Air Raid Precautions courses, while continuing to work in Sydney. Her first placement with the WANS was at the Scarborough Children's Home. Here she worked four hour evening shifts twice a week helping staff take care of the children's needs. After a couple of months she transferred to the WANS Land Army Section and was sent to the farming districts of Leeton and Wamoon. Her main task was to help farmers with the vegetable and fruit picking. Next she completed a six month course on a training farm for agricultural and dairying work. She was then posted to Barker College, Hornsby. Here the two Land Army girls shared the tasks of looking after the cows, fowls and a vegetable garden. Finlay stayed at the College until December 1945, when she returned to Sydney and her position at M &amp; J Frocks. </p>
+<p>Following her marriage to Alex Finlay she continued working, eventually becoming forewoman with the responsibility of overlooking the retail division. While her two children were young, Finlay took in home sewing. She established a small retail outlet in which she sold the clothes that she produced. Later she began running a grocery/mixed business. </p>
+<p>In 1946 Finlay joined the newly established Australian Women's Land Army Association N.S.W. She has held the position of treasurer for the Association since 1996. In October 2002, Judy Finlay represented the Australian Women's Land Army Association on the Australian Women in War Project working party.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0402b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Land Army Association NSW (1946 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0393b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Land Army (AWLA) (1942 - 1945)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-694052">
+<relationEntry>
+Finlay, Judith (1921-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Finlay, Judith (Judy)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Finlay, Judith (Judy)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0764b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00113.htm">
+<relationEntry localType="digitalObject">Unity &amp; Service flag</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Unity &amp; Service flag</unittitle>
+<abstract>photograph supplied by Judy Finlay</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2176</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2006-09-18">2006-09-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2176b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Wicks</part>
+<part localType="givenname">Tory Marcella</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Wicks, Pretoria</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-05-13">13 May, 1900</fromDate>
+<toDate standardDate="1977-02-08">8 February, 1977</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Waverley, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Darlinghurst, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Hockey player</term>
+</occupation>
+<occupation>
+<term>Sports administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Tory Wicks was a hockey player, coach and administrator whose commitment to the sport extended over fifty years and did not diminish upon her retirement. A fit and reliable player on and off the field (she played full back) she once declared, 'I know of no better passport around the world than a hockey stick'.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
+<toDate standardDate="1935-12-31">1935</toDate>
+</dateRange>
+<event>Member of the  New South Wales Women's Hockey team</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1935-12-31">1935</toDate>
+</dateRange>
+<event>Member of the All Australia Women's Hockey Team</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1930-01-01">1930</fromDate>
+<toDate standardDate="1930-12-31">1930</toDate>
+</dateRange>
+<event>Captained the Australian team on their first international tour</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1935-01-01">1935</fromDate>
+<toDate standardDate="1956-12-31">1956</toDate>
+</dateRange>
+<event>Active in Hockey administration</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1953-12-31">1953</toDate>
+</dateRange>
+<event>Elected secretary of the International Federation of Women's Hockey Associations</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+<event>Inducted into the Sport Australia Hall of Fame</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714097">
+<relationEntry>
+Wicks, Tory Marcella (1900-1977)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wicks, Tory Marcella', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wicks, Tory Marcella</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2176b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003706.htm">
+<relationEntry localType="published">Book: A history of the New South Wales Women's Hockey Association, 1908-1983</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hodges, Lena</name>
+<title render="italic">A history of the New South Wales Women's Hockey Association, 1908-1983</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New South Wales Women's Hockey Association</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003705.htm">
+<relationEntry localType="published">Resource Section: Wicks, Tory Marcella (1900 - 1977)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stell, Marion</name>
+<title render="quoted">Wicks, Tory Marcella (1900 - 1977)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A160647b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

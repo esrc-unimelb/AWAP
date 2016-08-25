@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0549</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-17">2003-09-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0549b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Governesses' Institute and Melbourne Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="former name"><part>Melbourne Female Home</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1857-01-01">1857</fromDate>
+<toDate standardDate="1863-12-31">1863</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1857-01-01">1857</fromDate>
+<toDate standardDate="1936-12-31">1936</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria,  Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Melbourne, Victoria,  Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Governesses' Institute and Melbourne Home opened in Melbourne in 1863 with the aim of accommodating governesses, shop women, needlewomen and servants and to provide a central employment registry in a self-supporting institution. Its forerunner, the Melbourne Female Home, which opened in September 1857 in temporary premises in Collingwood, provided shelter only for newly arrived single female immigrants who were without friends in the colony. The Governesses' Institute occupied a number of premises over the course of its existence in Little Lonsdale St. Melbourne,  "Wynamo" in St Kilda and "Lovell House" in Caulfield. The governing body comprised a central committeee, with nine local or suburban committees. A matron was employed to supervise the Home and its occupants. Strict rules applied; women were only admitted if they  arrived on a week day, could pay a week's board in advance and were without children. In 1863 Mrs Laura Jane a'Beckett was elected secretary of the management committee of six men and twenty-six women. It closed in 1936.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1134b.htm">
+<relationEntry localType="Person">
+Clarke, Janet Marion (1851 - 1909)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-733052">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Governesses' Institute and Melbourne Home', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Governesses' Institute and Melbourne Home</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0549b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002051.htm">
+<relationEntry localType="published">Thesis: A l;ady in every sense of the word: a study of the governess in Australian colonial society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jones, Gwenda D. M.</name>
+<title render="quoted">A l;ady in every sense of the word: a study of the governess in Australian colonial society</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The University of Melbourne</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002050.htm">
+<relationEntry localType="published">Book: The governesses: letters from the colonies 1862-1882</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Clarke, Patricia</name>
+<title render="italic">The governesses: letters from the colonies 1862-1882</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Hutchinson</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000963.htm">
+<relationEntry localType="archival">Governesses' Institute and Melbourne Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Victoria, Australian Manuscripts Collection</repository>
+<unittitle>Governesses' Institute and Melbourne Home</unittitle>
+<unitid>MS 12124</unitid>
+<unitdate>1856 - 1936</unitdate>
+<abstract>Records relating to the establishment and running of the Home, which provided accommodation and an employment agancy for governesses, needlewomen, shop women and servants. Minutes 1856-94; correspondence 1862-1936; annual reports 1890, 1891, 1896; some financial papers; newspaper cuttings.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

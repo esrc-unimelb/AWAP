@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2709</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-06-06">2007-06-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2709b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Adelaide Hockey Club</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="previous name"><part>Aroha Hockey Club</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1981-01-01">1981</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Sporting organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Adelaide Hockey Club was formed in late 1981, after ten years of sharing of playing fields and change rooms became formalised by the amalgamation of the Sturt (men's) Aroha (women's) and Sturt (men's) clubs . It is one of the largest and most successful hockey Clubs in South Australia with over 300 members playing both the Junior and Senior competition.</abstract>
+<p>Formed at a meeting on May 3rd 1906 , the Aroha Women's Hockey Club was created as an offshoot of the Goodwood Baptist Church young ladies bible class, open to young women in the church over 16 years of age. The name Aroha means love and friendship in Tahitian. Aroha had not at first intended to play any matches, but as the club mastered the rudiments of the game, it was felt that the level of interest would increase if matches were played. The opening match was played against the local Methodist Club, and the first annual report of 1907 records the pleasure team members felt in inflicting a defeat of 9 goals to nil.</p>
+<p>The club joined the South Australian Women's Hockey Association in 1909. The club had an enviable record in its 74 seasons existance, playing in 51 A grade finals between 1909 and 1980, winning 26 of these.</p>
+<p>Aroha set many precedents. It was the first club to throw away the old school tunic and play in a divided skirt. Aroha led the way in fielding junior teams. In its first season, the junior team won one game 20 goals to nil. Of the club's many State and Australian representatives, the most honoured was Evelyn ("Taz") Tazewell, who captained SA for 16 years from 1920 and was All-Australian 19 times.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2177b.htm">
+<relationEntry localType="Person">
+Tazewell, Evelyn Ruth (1893 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2274b.htm">
+<relationEntry localType="Concept">
+Hockey (c. 1900 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-707095">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Adelaide Hockey Club', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Adelaide Hockey Club</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2709b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002029.htm">
+<relationEntry localType="archival">Adelaide Hockey Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Adelaide Hockey Club</unittitle>
+<unitid>SRG 289</unitid>
+<unitdate>1906 - 1980</unitdate>
+<abstract>Records of the Adelaide Hockey Club, formerly Aroha Hockey Club, comprising minutes, membership lists, match results, rules, programmes, correspondence, historical notes, photographs and newspaper cuttings.
+Series list available at the Mortlock Library Reference Desk</abstract>
+<physdesc>
+<extent>1 m</extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002027.htm">
+<relationEntry localType="archival">Aroha Hockey Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Aroha Hockey Club</unittitle>
+<unitid>B 61822</unitid>
+<unitdate>1923</unitdate>
+<abstract>Members of the Aroha Women's Hockey Club; names not known.</abstract>
+<physdesc>
+<extent>1 </extent>
+<physfacet>Photograph</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00322.htm">
+<relationEntry localType="digitalObject">Members of the Adelaide Hockey Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Members of the Adelaide Hockey Club</unittitle>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

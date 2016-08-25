@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3740</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-08">2008-10-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3740b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Palmer</part>
+<part localType="givenname">Janet Gertrude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Higgins, Nettie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1885-08-18">18 August 1885</fromDate>
+<toDate standardDate="1964-10-19">19 October 1964</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bendigo, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+<occupation>
+<term>Editor</term>
+</occupation>
+<occupation>
+<term>Critic</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Nettie Palmer became involved in the suffrage movement and the socialist movement while she was completing her tertiary studies in London. It was there that she met her husband, Vance Palmer, and by 1917 the couple had returned to Australia with their first daughter, Aileen. A second daughter, Helen, was born that year. The family lived at Emerald, Victoria. Both Vance and Nettie were opponents of censorship and conscription, and Nettie had a regular column in the <span style="font-style:italic">Argus</span>. She also wrote for the <span style="font-style:italic">Illustrated Tasmanian Mail</span> and the <span style="font-style:italic">Bulletin</span> Red Page. Her essay on <span style="font-style:italic">Modern Australian Literature 1900-1923</span> was published in 1924. Nettie Palmer became editor of the anti-fascist journal for women, <span style="font-style:italic">Women Today</span>, and edited memoirs, published short stories and poetry anthologies, made translations, and lectured to young writers.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1910-01-01">c. 1910</fromDate>
+<toDate standardDate="1930-12-31">c. 1930</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0443b.htm">
+<relationEntry localType="Person">
+Palmer, Helen Gwynneth (1917 - 1979)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0492b.htm">
+<relationEntry localType="Person">
+Moss, Alice Frances Mabel (May) (1868 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-573431">
+<relationEntry>
+Palmer, Nettie (1885-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Palmer, Janet Gertrude (Nettie)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Palmer, Janet Gertrude (Nettie)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3740b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100417.htm">
+<relationEntry localType="published">Resource Section: Palmer, Janet Gertrude (Nettie) (1885-1964)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Duffy, C. J.</name>
+<title render="quoted">Palmer, Janet Gertrude (Nettie) (1885-1964)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110134b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004152.htm">
+<relationEntry localType="published">Book: Talking It Over</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">Talking It Over</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1932</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004151.htm">
+<relationEntry localType="published">Book: The South Wind</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">The South Wind</title>
+<imprint>
+<place>London</place>
+<publisher>John G. Wilson</publisher>
+<date>1914</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004150.htm">
+<relationEntry localType="published">Book: Shadowy Paths</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">Shadowy Paths</title>
+<imprint>
+<place>London</place>
+<publisher>Euston Press</publisher>
+<date>1915</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004149.htm">
+<relationEntry localType="published">Lecture: Modern Australian Literature (1900-1923)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">Modern Australian Literature (1900-1923)</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Lothian Publishing Co</publisher>
+<date>1924</date>
+</imprint>
+<bibseries>
+<title render="italic">Lothian Prize Essay</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004147.htm">
+<relationEntry localType="published">Book: Henry Handel Richardson: A Study</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">Henry Handel Richardson: A Study</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1950</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004146.htm">
+<relationEntry localType="published">Book: Fourteen Years: Extracts from a Private Journal, 1925-1939</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">Fourteen Years: Extracts from a Private Journal, 1925-1939</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Meanjin Press</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004145.htm">
+<relationEntry localType="published">Booklet: Australians in Spain: Our Pioneers Against Fascism</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie and Len Fox</name>
+<title render="italic">Australians in Spain: Our Pioneers Against Fascism</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Current Book Distributors</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004144.htm">
+<relationEntry localType="published">Edited Book: An Australian Story-Book</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Palmer, Nettie</name>
+<title render="italic">An Australian Story-Book</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1930</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004148.htm">
+<relationEntry localType="published">Edited Book: Letters of Vance and Nettie Palmer, 1915-1963</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith, Vivian</name>
+<title render="italic">Letters of Vance and Nettie Palmer, 1915-1963</title>
+<imprint>
+<place>Canberra</place>
+<publisher>National Library of Australia</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000117.htm">
+<relationEntry localType="archival">Papers of Eleanor Dark</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Eleanor Dark</unittitle>
+<unitid>MS 4998</unitid>
+<unitdate>1923 - 1974</unitdate>
+<abstract>The collection consists of newspaper clippings (1936-1954) mainly reviews of Eleanor Dark's                   novels, and letters (1923-1974) from a number of the prominent Australian literary figures of the period. The correspondents include Manning Clark, Kate Baker, Jean Devaney, Flora Eldershaw, Mary Gilmore, Vance and Nettie Palmer, Miles Franklin, Eric Lowe, Marjorie Barnard, Ethel Turner, Xavier Herbert, Frank Dalby Davison, Brian Fitzpatrick, Alec Chisholm, Kylie Tennant, Meta Mackan, Ruth Park, Ethel Curlewis, C.B. Christesen.</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002168.htm">
+<relationEntry localType="archival">Miles Franklin - Papers, 1841-1954</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Miles Franklin - Papers, 1841-1954</unittitle>
+<unitid>MLMSS 364</unitid>
+<unitdate>1841 - 1954</unitdate>
+<abstract>The collection comprises personal and literary papers of Miles Franklin. Personal papers include diaries and notebooks and an extensive collection of correspondence. Literary papers include manuscripts and publishing papers of Miles Franklin, as well as literary papers of Mary Fullerton. The collection also includes family papers of the Franklin and Lampe families and papers received from the estates of Alice Henry and Mary Fullerton. 
+
+It is a very large collection of 116 vols, 14 boxes, 3 folders. Some of the collection has been preserved on microfilm.
+
+The following 74 manuscript volumes/boxes have been copied onto preservation microfilm and will be issued in place of the originals: MLMSS 364/2-42, 44-55, 59-60, 62-67, 76-77, 80-81, 83-84, 86-88, 92, 113X-115. For further details of reel numbers, please consult staff at the Mitchell Library Information Desk. 
+
+The following 49 original volumes/boxes are unfilmed and may be issued: MLMSS 364/43, 56-58, 61, 68-75, 78-79, 82, 85, 89-91, 93-112, 116-124.
+
+There is a detailed index at MLMss 364/1
+
+There is also an on-line finding guide accessible at :
+http://findaid.library.uwa.edu.au/cgi-bin/nph-dweb/dynaweb/findaid/franklin1/@Generic__BookView;cs=default;ts=default</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Textual Records and Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

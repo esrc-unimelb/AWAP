@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2241</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-01-01">2007-01-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2241b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Netball Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>All Australia Women's Basket Ball Association</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1927-01-01">1927</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>All Australia Netball Association</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1927-01-01">1927</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>infonet@netball.asn.au</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Sporting organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>A national body for netball in Australia was founded at a meeting on August 26-27, 1927 when the All Australia Women's Basket Ball Association was formed in conjunction with an interstate basketball carnival. Foundation Members of the association included:
+
+<list><item>The City Girls' Amateur Sports Association in New South Wales</item>
+<item>The Adelaide Women's Basket Ball Association in South Australia</item>
+<item>The Melbourne Girls' Basket Ball Association in Victoria</item>
+<item>The Australian Ladies' Basket Ball Association in Queensland</item>
+<item>The Basket Ball Association of Perth in Western Australia</item>
+</list>
+
+Tasmania affiliated soon after, competing in carnivals since 1933. The Australian Capital Territory and the Northern Territory became full members in 1975 and 1977 respectively.
+
+In 1970, in accordance with the change of the game's name to 'netball', the association became known as the All Australia Netball Association. In 1993, the name changed again to Netball Australia.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="hierarchical-parent" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2273b.htm">
+<relationEntry localType="Concept">
+Netball (c. 1900 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4887b.htm">
+<relationEntry localType="Organisation">
+Netball ACT (1975 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2244b.htm">
+<relationEntry localType="Person">
+Clark, Anne Evelyn (1903 - 1983)
+</relationEntry>
+<descriptiveNote>
+<p>Anne Clark assumed the presidency of the All Australia Women's Basket Ball Association (subsequently named the Australia Australia Netball Association and then, Netball Australia) in 1955, 1960, 1966, 1972, 1978.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2238b.htm">
+<relationEntry localType="Person">
+Gill, Eunice Elizabeth Perrott (1918 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>Eunice Gill was a member of the All Australia netball team and had a long standing involvement with the association as a coach and administrator</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2228b.htm">
+<relationEntry localType="Person">
+Varley, Gwendoline (1896 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>Gwendoline Varley was the founding chair of the All Australia Women's Basketball Association</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2292b.htm">
+<relationEntry localType="Concept">
+The 1956 Australian Netball Team (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2290b.htm">
+<relationEntry localType="Person">
+Kimble, Ronda (1946 - )
+</relationEntry>
+<descriptiveNote>
+<p>Ronda Kimble worked for Netball Australia, most recently as an archivist.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2249b.htm">
+<relationEntry localType="Person">
+Wilson, Vicki (1965 - )
+</relationEntry>
+<descriptiveNote>
+<p>Vicki Wilson was captain of the All Australian Netball Team for four years, and represented Australia for fiteen years.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2269b.htm">
+<relationEntry localType="Person">
+McConchie, Lorna (1914 - 2001)
+</relationEntry>
+<descriptiveNote>
+<p>Lorna McConochie coached and managed the All Australia Netball team in 1956 and 1963 and had a longstanding association with Netball Australia in an official and unofficial capacity.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714061">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Netball Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Netball Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2241b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002058.htm">
+<relationEntry localType="archival">Netball Australia - Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Netball Australia - Papers</unittitle>
+<unitdate>1927 - </unitdate>
+<abstract>Includes the papers of the All Australia Women's Basketball Association and the All Australia Netball Association (previous names).</abstract>
+<physdesc>
+<extent>102 Various Items</extent>
+<physfacet>manuscript</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0135</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-10-10">2001-10-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0135b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Brooks</part>
+<part localType="givenname">Geraldine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Ashfield, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sydney born journalist, Brooks worked as a Middle-East correspondent during the 1980s and early 1990s.</abstract>
+<p>Brooks worked for the <span style="font-style:italic">Sydney Morning Herald</span> before joining the Journal's Australasian bureau in the mid-1980s and then transferring to the the Middle-East.<br />
+She spent several years as a Middle-East correspondent for the <span style="font-style:italic">Wall Street Journal.</span> Brooks reported on the Iran-Iraq war, the Palestinian uprising and the Gulf War. From 1993 to 1994 she was the United Nation's correspondent covering the peacekeeping operations in Somalia.<br />
+Her first book <span style="font-style:italic">Nine Parts of Desire: the Hidden World of Islamic Women</span> was published in 1995. In 1999, Brooks was the recipient of the Kibble Literary Award for Women Writers for her second publication <span style="font-style:italic">Foreign Correspondence.</span> Her third publication, <span style="font-style:italic">Years of Wonders: A Novel of the Plague, </span> was released in 2001.</p>
+<p>Brooks is married to American journalist Tony Horwitz and they have a son, Nathaniel.</p>
+<p>Source: <span style="font-style:italic">Perkins, Corrie. (2001) <span style="font-style:italic">Sunday Age</span> Agenda/Features 7/10/01 p. 3</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-487773">
+<relationEntry>
+Brooks, Geraldine (1955-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Brooks, Geraldine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Brooks, Geraldine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0135b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000269.htm">
+<relationEntry localType="published">Book: Years of Wonders: A Novel of the Plague</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brooks, Geraldine</name>
+<title render="italic">Years of Wonders: A Novel of the Plague</title>
+<imprint>
+<place>London</place>
+<publisher>Fourth Estate</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000268.htm">
+<relationEntry localType="published">Book: Foreign Correspondence</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brooks, Geraldine</name>
+<title render="italic">Foreign Correspondence</title>
+<edition>1st</edition>
+<imprint>
+<place>New York</place>
+<publisher>Anchor Books/Doubleday</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000267.htm">
+<relationEntry localType="published">Book: Nine Parts of Desire: The Hidden World of Islamic Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brooks, Geraldine</name>
+<title render="italic">Nine Parts of Desire: The Hidden World of Islamic Women</title>
+<edition>1st</edition>
+<imprint>
+<place>Sydney</place>
+<publisher>Anchor</publisher>
+<date>c1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000266.htm">
+<relationEntry localType="published">Resource: From Bland Street to Bosnia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Waldren, Murray</name>
+<title render="italic">From Bland Street to Bosnia</title>
+<extptr linktype="simple" href="http://members.ozemail.com.au/~waldrenm/bland.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000265.htm">
+<relationEntry localType="published">Resource: Geraldine Brooks</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Geraldine Brooks</title>
+<extptr linktype="simple" href="http://www.randomhouse.com/boldtype/0398/brooks"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000264.htm">
+<relationEntry localType="published">Newspaper Article: The chronicler of chaos</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Perkins, Corrie</name>
+<title render="quoted">The chronicler of chaos</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sunday Age</title>
+<num type="issue">Agenda/Features</num>
+<num type="pages">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000209.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2001</title>
+<edition>37</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Information Australia Group Pty Ltd</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

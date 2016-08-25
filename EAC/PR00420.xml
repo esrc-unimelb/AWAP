@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00420</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00420b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Robinson</part>
+<part localType="givenname">Nellie Elizabeth</part>
+<part localType="honorific title">Order of the British Empire – OBE (C)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1992-09-19">19 September 1992   </toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Toowoomba, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Toowoomba, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Mayor</term>
+</occupation>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Radio presenter</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Nellie Robinson was elected as Alderman to the Toowoomba Council in 1961. In 1967 she was elected mayor of Toowoomba, thus becoming Queensland's first female mayor. Nellie served the state for 14 years. The Queen's New Year Honours list in 1979 made her an officer of the Order of the British Empire for "distinguished service to local government".
+
+</abstract>
+<p>Nellie Robinson was educated at North State School, Glennie Memorial School and St. Hilda's at Southport. In the 1930s she commenced a 3 year course at the Royal Academy of Dramatic Art in London. Without completing the course Nellie returned to Toowoomba at the outbreak of World War II. She taught briefly at Fairholme, and then became a driver with the Women's Voluntary Auxiliary for the remainder of the war. Next she joined radio station 4GR for a short time, before moving to 2LM Lismore where she established her own women's session on air.</p>
+<p>Nellie then joined her father's grocery business which she carried on after his death in 1949, only selling it in 1967 when she was elected mayor of Toowoomba. She was President of the committee which raised funds to build the Senior Citizens' clubrooms in Victoria Street &amp; was dedicated to the development of East Creek Park. A Park on the southern side of Toowoomba is named in her honour. Miss Robinson had a particular interest in dramatic art and cultural activities and was a trustee of the Toowoomba Regional Art Gallery and was actively involved in the Toowoomba Repertory Company. Nell Robinson retired in 1981 because of ill-health.</p>
+<p>She passed away on 19th September 1992 &amp; is buried at the Drayton and Toowoomba Cemetery. The Robinson Collection within the Toowoomba City Library is so named because of a generous twenty thousand dollar bequest from Miss Robinson.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767057">
+<relationEntry>
+Robinson, Nellie Elizabeth (1915-1992)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Robinson, Nellie Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Robinson, Nellie Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00420b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00419.htm">
+<relationEntry localType="published">Resource Section: Nellie Robinson</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Toowoomba Regional Council   </name>
+<title render="quoted">Nellie Robinson</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>State of Queensland</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Our Women Our State: a pictorial history of women's contributions to Queensland, 1859 – 2009</title>
+<name type="author">Office for Women, Queensland Government</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.women.qld.gov.au/q150/1960/index.html#item-nellie-robinson"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

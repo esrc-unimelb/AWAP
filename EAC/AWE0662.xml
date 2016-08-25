@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0662</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-20">2004-01-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-20">2016-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0662b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Moffatt</part>
+<part localType="givenname">Marjorie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-05-29">29 May 1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Senior Lecturer and Convener of the Classics Program at the Australian National University (ANU), Dr Ann Moffatt was one of the first women wardens of a mixed hall of residence when acting warden of Bruce Hall at the ANU in 1973.
+
+Moffatt attended Unley High School in Adelaide and University High School, Melbourne, before graduating with a Bachelor of Arts (Hons) from the University of Melbourne. She obtained her Master of Arts from the Australian National University and her Doctor of Philosophy from the University of London.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1965-01-01">1965</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+<event>Vice-principal of the Women's College at the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+<event>Lecturer in classics at the Australian National University</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+<event>Acting warden of Bruce Hall at the Australian National University</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+<event>Senior lecturer in classics at the Australian National University</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0213b.htm">
+<relationEntry localType="Corporate Body">
+Graduate Women Victoria Inc. (1922 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1967-01-01">1967</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741080">
+<relationEntry>
+Moffatt, Marjorie (1941-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Moffatt, Marjorie (Ann)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Moffatt, Marjorie (Ann)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0662b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002403.htm">
+<relationEntry localType="published">Book: Australian publications in Byzantine and related fields to 1990 : a list</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moffatt, Ann (compiled by)</name>
+<title render="italic">Australian publications in Byzantine and related fields to 1990 : a list</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Association for Byzantine Studies</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002406.htm">
+<relationEntry localType="published">Edited Book: Maistor : classical, Byzantine, and Renaissance studies for Robert Browning</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moffatt, Ann</name>
+<title render="italic">Maistor : classical, Byzantine, and Renaissance studies for Robert Browning</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Association For Byzantine Studies</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002405.htm">
+<relationEntry localType="published">Conference Proceedings: Byzantine papers : proceedings of the First Australian Byzantine Studies Conference, Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jeffreys, Elizabeth;  Jeffreys, Michael;  Moffatt, Ann and  Australian Association for Byzantine Studies</name>
+<title render="italic">Byzantine papers : proceedings of the First Australian Byzantine Studies Conference, Canberra</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Humanities Research Centre, Australian National University</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002404.htm">
+<relationEntry localType="published">Book: Byzantine humanism : the first phase, notes and remarks on education and culture in Byzantium from its origins to the 10th century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lemerle, Paul, 1903-; Lindsay Helen and Moffatt, Ann (translated by)</name>
+<title render="italic">Byzantine humanism : the first phase, notes and remarks on education and culture in Byzantium from its origins to the 10th century</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Association for Byzantine Studies</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000147.htm">
+<relationEntry localType="published">Edited Book: Who's Who of Australian Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lofthouse, Andrea</name>
+<title render="italic">Who's Who of Australian Women</title>
+<imprint>
+<place>North Ryde (NSW)</place>
+<publisher>Methuen Australia</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

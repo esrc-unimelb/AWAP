@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4392</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-30">2009-11-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4392b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>SingleMum.com.au: For Australian Single Mothers</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2009-02-01">February 2009</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Social support organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>SingleMum.com.au was created in February 2009 by Barbara Bryan, an Australian single mother of two small children. Upon searching the internet for information specific to Australian single mothers, she discovered that although there were several general parent and single father's support web sites, there were no Australian single mother web sites with a forum. Barbara Bryan realised that there were probably many other single mothers also seeking the same resources, and so she decided to create SingleMum.com.au as an on-line resource to support other single mothers.
+
+The SingleMum.com.au website gathers together information, news and resources specifically for Australian single mothers. In addition to being an information service, it provides an online meeting place for single mothers to share information and support each other in the single mother forums. The website has grown and evolved according to the suggestions and requests of its ever-increasing network of single mothers. To date, the SingleMum.com.au website offers breaking single mother news - such as Family Court, custody and child support issues - a dedicated single mother forum and chat room, single parenting articles, a support links page, access to single mother studies and surveys, a single mother book index, and much more.
+
+SingleMum.com.au constantly strives to improve and expand to provide Australian single mothers with the information, friendship and support they need at one of the most challenging and fulfilling times of their lives.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0507b.htm">
+<relationEntry localType="Corporate Body">
+National Council for the Single Mother and her Child (Australia) (1973 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1479398">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'SingleMum.com.au: For Australian Single Mothers', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">SingleMum.com.au: For Australian Single Mothers</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4392b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004653.htm">
+<relationEntry localType="published">Resource: SingleMum.com.au: for Australian Single Mothers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">SingleMum</name>
+<title render="italic">SingleMum.com.au: for Australian Single Mothers</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.SingleMum.com.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

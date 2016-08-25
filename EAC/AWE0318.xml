@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0318</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-02-27">2002-02-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0318b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Maloney</part>
+<part localType="givenname">Betty Florence</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-12-14">14 December 1925</fromDate>
+<toDate standardDate="2001-07-27">27 July 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Colac, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+<occupation>
+<term>Illustrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>An illustrator of many books on Australian plants, Betty Maloney and her sister, Jean Walker, studied art at Melbourne Technical College (now RMIT).
+
+After teaching art at the National Fitness Council, Melbourne Church of England Grammar School and St Catherine's School in Melbourne, she travelled to Europe.
+With her sister she wrote <span style="font-style:italic">Designing Australian Bush Garens</span> and <span style="font-style:italic">Australian Bush Gardens</span> in 1966 and 1967.
+
+The 86 watercolour illustrations used for the publication <span style="font-style:italic">Proteaceae of the Sydney Region</span> with Alec Blombery are in the Archives of the New South Wales State Library.
+
+Also she illustrated books on mah-jong and thimbles - she maintained a collection of Victorian thimbles, was a co-founder, with her husband, of the Sydney Wagner Society and was involved with volunteer conservation groups, including the Society for Growing Australian Plants.
+
+In the early 1990s her own garden at French's Forest was approved by the National Trust as a Trust garden and she was presented with a terracotta plaque.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-714070">
+<relationEntry>
+Maloney, Betty Florence (1925-2001)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Maloney, Betty Florence', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Maloney, Betty Florence</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0318b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000640.htm">
+<relationEntry localType="published">Book: The Mah jong player's companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thompson, Patricia A and Maloney, Betty</name>
+<title render="italic">The Mah jong player's companion</title>
+<imprint>
+<place>East Roseville</place>
+<publisher>Kangaroo Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000633.htm">
+<relationEntry localType="published">Book: More about bush gardens</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maloney, B. Walker, J. and Mullins B (edited by)</name>
+<title render="italic">More about bush gardens</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Horwitz</publisher>
+<date>1967</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000634.htm">
+<relationEntry localType="published">Book: The game of mah jong illustrated</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thompson, Patricia A and Maloney Betty</name>
+<title render="italic">The game of mah jong illustrated</title>
+<imprint>
+<place>Kenthurst [NSW]</place>
+<publisher>Kangaroo Press</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000635.htm">
+<relationEntry localType="published">Book: Designing Australian bush gardens</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maloney, Betty and Walker, Jean</name>
+<title render="italic">Designing Australian bush gardens</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Mulavon</publisher>
+<date>c1966</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000636.htm">
+<relationEntry localType="published">Book: Improve your mah jong: more about the game of mah jong</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thompson, Patricia A and Maloney, Betty</name>
+<title render="italic">Improve your mah jong: more about the game of mah jong</title>
+<imprint>
+<place>Kenthurst NSW</place>
+<publisher>Kangaroo Press</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000637.htm">
+<relationEntry localType="published">Book: Guide to Kosciusko</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, Alec M and Maloney, Betty</name>
+<title render="italic">Guide to Kosciusko</title>
+<imprint>
+<place>Kenthurst NSW</place>
+<publisher>Kangaroo Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000639.htm">
+<relationEntry localType="published">Book: Kakadu to Broome</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maloney, Betty and Blombery, Alec</name>
+<title render="italic">Kakadu to Broome</title>
+<imprint>
+<place>Pymble NSW</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000641.htm">
+<relationEntry localType="published">Book: Thimbles of Australia : including thimbles of the world with an Australian connection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gowan, Susan Jean and Maloney, Betty (illustrations by)</name>
+<title render="italic">Thimbles of Australia : including thimbles of the world with an Australian connection</title>
+<imprint>
+<place>East Roseville NSW</place>
+<publisher>Kangaroo Press</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000642.htm">
+<relationEntry localType="published">Book: Growing Australian orchids</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, Alec and Maloney, Betty (illustrations by)</name>
+<title render="italic">Growing Australian orchids</title>
+<imprint>
+<place>East Roseville [NSW]</place>
+<publisher>Kangaroo Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000643.htm">
+<relationEntry localType="published">Book: Growing native plants for balconies, courtyards &amp; townhouses</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, Alec and Maloney, Betty</name>
+<title render="italic">Growing native plants for balconies, courtyards &amp; townhouses</title>
+<imprint>
+<place>East Roseville, NSW</place>
+<publisher>Kangaroo Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000644.htm">
+<relationEntry localType="published">Book: Wildflowers and native plants of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moody, Mary; Broadribb, Kevin (protographs by) and Maloney, Betty (illustrations by)</name>
+<title render="italic">Wildflowers and native plants of Australia</title>
+<imprint>
+<place>South Melbourne</place>
+<publisher>Macmillan</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000645.htm">
+<relationEntry localType="published">Book: Proteaceae of the Sydney region</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, Alec and Maloney, Betty</name>
+<title render="italic">Proteaceae of the Sydney region</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000646.htm">
+<relationEntry localType="published">Book: Native plants</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullins, Barbara and Maloney, Betty (illustrated by)</name>
+<title render="italic">Native plants</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hodder and Stoughton</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000647.htm">
+<relationEntry localType="published">Book: Islands</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullins, Barbara; Maloney, Betty (illustrated by) and Baglin, Douglass (photographs by)</name>
+<title render="italic">Islands</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Hodder and Stoughton</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000638.htm">
+<relationEntry localType="published">Book: Propagating Australian plants</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, Alec M and Maloney, Betty</name>
+<title render="italic">Propagating Australian plants</title>
+<imprint>
+<place>Kenthurst NSW</place>
+<publisher>Kangaroo Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002241.htm">
+<relationEntry localType="published">Journal Article: Valete</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Correy, Allan</name>
+<title render="quoted">Valete</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Garden History</title>
+<num type="volume">13</num>
+<num type="issue">3</num>
+<num type="pages">21</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000631.htm">
+<relationEntry localType="published">Article: Maloney, Betty (1925 - 2001)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Blombery, A M</name>
+<title render="quoted">Maloney, Betty (1925 - 2001)</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anbg.gov.au/biography/maloney-betty.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000632.htm">
+<relationEntry localType="published">Newspaper Article: Betty Florence Maloney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Latreille, Anne</name>
+<title render="quoted">Betty Florence Maloney</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="issue">Life &amp; Times</num>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000281.htm">
+<relationEntry localType="archival">At Work and Play - images of rural life in NSW 1880-1940</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>At Work and Play - images of rural life in NSW 1880-1940</unittitle>
+<unitid>BCP 07004</unitid>
+<abstract>Mr and Mrs Selwyn Brown and their two daughters and Mrs Selwyn's mother after an aeroplane joy flight. Betty and Jean (later Maloney &amp; Walker) co-authors of "Designing Australian Bush Gardens" - Colac, VIC
+Betty Brown, Florence Brown, Jean Brown, Edith McKean, Selwyn Brown.</abstract>
+<physdesc>
+<extent>1 picture</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000280.htm">
+<relationEntry localType="archival">Collection of posters promoting events and exhibitions of the State Library of NSW</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Collection of posters promoting events and exhibitions of the State Library of NSW</unittitle>
+<unitid>POSTERS 867/1-16</unitid>
+<unitdate>1988 - 1991</unitdate>
+<abstract>Posters - 16 posters, col.
+1988; Open day [shows the State Library symbol on the Macquarie Wing facade] (Locn No.: POSTERS 867/1)
+[1988]; This Saturday the State Library will be mind boggling. (Locn No.: POSTERS 867/2)
+1988; Banksia Grevillea and their family : proteaceae of the Sydney region, ESSO Australia's bicentennial gift to the State Library, the complete collection of 86 watercolour paintings by Betty Maloney. (Locn No.: POSTERS 867/3)
+1988; The coming of the Strangers : the first 30 years 1788 - 1822. (Locn No.: POSTERS 867/4)
+[1989]; The Tahitians thought Captain Bligh was a god. (He did perform a miracle, sailing 18 starving men 3618 miles in a 23 foot boat.) (Locn No.: POSTERS 867/5)
+1989; People print &amp; paper : National Library of Australia travelling exhibition / Lionel Lindsay. (Locn No.: POSTERS 867/6)
+1990; Kids' stuff : favourite Australian children's books from the last 100 years. (Locn No.: POSTERS 867/7)
+1990; Our painted past : paintings from the Dixson Galleries collection, March - July 1990. (Locn No.: POSTERS 867/8)
+1990; Expand your mind : the State Library of New South Wales Open Day Macquarie St Sydney, 20th Ocober, 11 am - 5 pm, free. (Locn No.: POSTERS 867/9)
+1990; Woven History : story carpets from middle east. (Locn No.: POSTERS 867/10)
+1990; Open Day, State Library of New South Wales : Your Window of Opportunity. (Locn No.: POSTERS 867/11)
+1990; Young Japan exhibition : John Reddie Black's Young Japan as portraited in wood block prints. (Locn No.: POSTERS 867/12)
+1991; Hand On : a major exhibition of contemporary Australian masterpieces in wood / design and artwork: Michael Gill. (Locn No.: POSTERS 867/13)
+1991; The James Hardie wildlife art prize / Clifton Pugh. (Locn No.: POSTERS 867/14)
+1991; Face to face with Switzerland : two exhibitions celebrating Switzerland's 700th birthday, State Library of New South Wales, 12 September - 8 December 1991. (Locn No.: POSTERS 867/15)
+1991; Sydney exposures : the photographic studio of Sam Hood 1925 - 1950, exhibition of State Library of NSW, 27 December 1991 - 26 April 1992. (Locn No.: POSTERS 867/16)</abstract>
+<physdesc>
+<extent>16 posters</extent>
+<physfacet>Pictures</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000279.htm">
+<relationEntry localType="archival">Betty Maloney preliminary sketches of the family proteaceae of the Sydney region</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Betty Maloney preliminary sketches of the family proteaceae of the Sydney region</unittitle>
+<unitid>PXD 624 (v.1)</unitid>
+<unitdate>1976 - 1980</unitdate>
+<abstract>Drawings - 88 pencil drawings - 36.5 x 31 cm.-42 x 32 cm. + working notes
+These sketches are the preliminary drawings for the watercolours reproduced in: Proteaceae of the Sydney region / Alec Blombery &amp; Betty Maloney. Sydney : Angus &amp; Robertson, 1981. Limited edition. Location number: X583.9320994/1 Mitchell Library
+For the original watercolour drawings of the above, see: The Esso proteaceae collection, Location number: Pic. Acc. 6584 Mitchell Library</abstract>
+<physdesc>
+<extent>88 pencil drawings</extent>
+<physfacet>Pictures</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000278.htm">
+<relationEntry localType="archival">Preliminary sketches of the fruits and seeds of the family proteaceae of the Sydney region</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Preliminary sketches of the fruits and seeds of the family proteaceae of the Sydney region</unittitle>
+<unitid>PXD 624 (v.2)</unitid>
+<unitdate>1990 - 1991</unitdate>
+<abstract>Drawings - 92 pencil drawings on 6 sheets - folded to 30 x 42 cm.
+These sketches are the preliminary drawings for the watercolours reproduced in: The Proteaceae of the Sydney region / Alec M. Blombery &amp; Betty Maloney. Kenthurst, N.S.W. : Kangaroo Press, 1992. Location number: 583.932/4 Mitchell Library</abstract>
+<physdesc>
+<extent>92 pencil drawings</extent>
+<physfacet>Pictures</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000277.htm">
+<relationEntry localType="archival">Preliminary sketches and orginal drawings of the family proteaceae of the Sydney region</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Preliminary sketches and orginal drawings of the family proteaceae of the Sydney region</unittitle>
+<unitid>PXD 624 (v.1-3)</unitid>
+<unitdate>1976 - 1991</unitdate>
+<abstract>Drawings - 88 pencil drawings - 36.5 x 31 cm.-42 x 32 cm. - Volume 1
+Drawings - 92 pencil drawings on 6 sheets - folded to 30 x 42 cm. - Volume 2
+Drawings - 94 watercolors - 17.5 x 15.5 cm.-30.5 23 cm. - Volume 3
+The preliminary sketches and watercolors are reproduced in:
+Proteaceae of the Sydney region / Alec Blombery &amp; Betty Maloney. Sydney : Angus &amp; Robertson, 1981. Limited edition. Location number: X583.9320994/1 Mitchell Library 
+The Proteaceae of the Sydney region / Alec M. Blombery &amp; Betty Maloney. Kenthurst, N.S.W. : Kangaroo Press, 1992. Location number: 583.932/4 Mitchell Library</abstract>
+<physdesc>
+<extent>3 volumes</extent>
+<physfacet>Pictures</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000276.htm">
+<relationEntry localType="archival">Original drawings of the fruits and seeds of the family proteaceae in the Sydney region</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Original drawings of the fruits and seeds of the family proteaceae in the Sydney region</unittitle>
+<unitid>PXD 624 (v.3)</unitid>
+<unitdate>1990 - 1991</unitdate>
+<abstract>Drawings - 94 watercolors - 17.5 x 15.5 cm.-30.5 x 23 cm. 
+Original drawings reproduced in: The Proteaceae of the Sydney region / Alex M. Blombery &amp; Betty Maloney. Kenthurst, NSW : Kangaroo Press, 1992. Location number: 583.932/4 Mitchell Library</abstract>
+<physdesc>
+<extent>94 watercolors</extent>
+<physfacet>Pictures</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

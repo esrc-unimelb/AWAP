@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5401</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Patricia Clarke</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5401b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McKnight</part>
+<part localType="givenname">Alma Alberta</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Hargreave, Alma</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1886-07-01">July 1886</fromDate>
+<toDate standardDate="1967-12-31">1967</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Jerry's Plains near Singleton, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Sydney, News South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Army Nurse</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Alma McKnight served overseas with the Australian Army Nursing Service in Egypt from 1917 to 1919. Before enlisting she had nursed briefly at Duntroon Military College Hospital Canberra after training at Dubbo Hospital.</abstract>
+<p>Alma McKnight was born in 1886 at Jerry's Plains near Singleton NSW, a daughter of Thomas and Marion McKnight. She attended Warkworth Public School near Jerry's Plains and trained as a nurse at Dubbo District Hospital. She was employed as a temporary nurse in May-June 1917 at Duntroon Military Hospital. Like some other nurses she probably chose to gain experience in a military hospital in Australia while waiting to enlist.</p>
+<p>Alma Alberta McKnight enlisted in Sydney on 15 June 1917. She was then nearly 31, her religion was Church of England and she named her sister Mrs Clara Redman of Jerry's Plains as her next of kin. She spent her war service in Egypt although he route to the Middle East was more roundabout than most. She embarked in Melbourne on the Runic on 13 September 1917and travelled to Durban in South Africa where she waited nearly a month for a ship to Egypt via Bombay. By late 1917 nurses were in short supply in Egypt to nurse casualties light horse casualties following the battles at Beersheba, Gaza and Jerusalem.</p>
+<p>In January 1918 she was posted to 44th British Stationary Hospital at Kantara south of Suez, a main supply depot and hospital centre for British, Australian and New Zealand troops. In June she was sent to the 31st British General Hospital at Abbassia where she remained nursing until well after the war ended, apart from a spell in hospital as a patient in August 1918.</p>
+<p>On 20 July 1919 she was repatriated to Australia on HMT Morvada on duty and was discharged in Sydney in September. Her final rank was staff nurse; she was awarded the British War Medal and the Victory Medal.</p>
+<p>In 1928 she at Randwick she married Frank H. Hargreave. She is listed on the Honour Roll of Warkworth Public School, the Singleton Citizens' Memorial and the ACT Memorial. She died in Sydney in 1967.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666026">
+<relationEntry>
+McKnight, Alma Alberta (18860701-19671231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McKnight, Alma Alberta', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McKnight, Alma Alberta</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5401b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005708.htm">
+<relationEntry localType="published">Book: Sisters of the Valley: First World War Nurses from Newcastle and the Hunter Region</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bramble, Christine</name>
+<title render="italic">Sisters of the Valley: First World War Nurses from Newcastle and the Hunter Region</title>
+<imprint>
+<place>Newcastle</place>
+<publisher>Royal Newcastle Hospital Graduate Nurses’ Association Inc.</publisher>
+<date>2011</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005702.htm">
+<relationEntry localType="published">Site Exhibition: Canberra Women in World War I: Community at Home, Nurses Abroad</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Clarke, Patricia and Francis, Niki</name>
+<title render="italic">Canberra Women in World War I: Community at Home, Nurses Abroad</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2015</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cww1"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005681.htm">
+<relationEntry localType="published">Book: History of the RMC Hospital, 5 Camp Hospital and 21 Dental Unit</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howarth, Ross</name>
+<title render="italic">History of the RMC Hospital, 5 Camp Hospital and 21 Dental Unit</title>
+<imprint>
+<place>A.C.T,</place>
+<publisher>Royal Military College</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005633.htm">
+<relationEntry localType="published">Book: More than Bombs and Bandages: Australian Army Nurses at work in World War I</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harris, Kirsty</name>
+<title render="italic">More than Bombs and Bandages: Australian Army Nurses at work in World War I</title>
+<imprint>
+<place>Newport NSW</place>
+<publisher>Big Sky Publishing</publisher>
+<date>2011</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005253.htm">
+<relationEntry localType="published">Book Section: Official History of the Australian Army Medical Services 1914-18. Vol. III: Problems and Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Butler, A.G.</name>
+<title render="quoted">Official History of the Australian Army Medical Services 1914-18. Vol. III: Problems and Services</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian War Memorial</publisher>
+<date>1943</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002809.htm">
+<relationEntry localType="archival">McKnight Alma Alberta : SERN S/NURSE : POB Singleton NSW</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
+<unittitle>McKnight Alma Alberta : SERN S/NURSE : POB Singleton NSW</unittitle>
+<unitid>NAA: B2455, MCKNIGHT A A; 1951671</unitid>
+<unitdate>1914 - 1920</unitdate>
+<abstract>Service Record File</abstract>
+<physdesc>
+<extent>1 File</extent>
+<physfacet>Paper Documents and Digital Copy</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00916.htm">
+<relationEntry localType="digitalObject">Sister Alma McKnight (right)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial, J05657 - <citation xlink:type="simple" xlink:href="https://www.awm.gov.au/collection/J05657/">https://www.awm.gov.au/collection/J05657/</citation></repository>
+<unittitle>Sister Alma McKnight (right)</unittitle>
+<unitdate>1918</unitdate>
+<abstract>Sister Alma McKnight (right) with Sister Brindley and Lt Jordon at 31st British General Hospital, Abbassia, Cairo in 1918.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

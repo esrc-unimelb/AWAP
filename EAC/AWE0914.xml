@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0914</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-20">2004-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0914b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Wesley-Smith</part>
+<part localType="givenname">Sheila</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Martin, Sheila</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Sheila Wesley Smith was born in Western Australia and the family moved to Belair when she was five. She enjoyed riding and music. Wesley Smith went to the Kindergarten Training College in Palmer Place, North Adelaide and opened a kindergarten at Blackwood. She and her students were involved in the pageant for the South Australian centenary in 1936 and Wesley Smith was the Spirit of SA. She became the Director of the Franklin Street free kindergarten and then taught at the PGC in the junior school. She married Harry Wesley Smith and in 1939 left for England. World War II broke out so they returned to Australia in 1942. Her husband joined the Australian Imperial Forces (AIF) and Wesley Smith raised their four sons. Wesley Smith joined the Kindergarten of the Air and worked on programs for five years in the 1960s. She was involved with community work with handicapped children and people in nursing homes.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756068">
+<relationEntry>
+Wesley-Smith, Sheila
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wesley-Smith, Sheila', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wesley-Smith, Sheila</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0914b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001499.htm">
+<relationEntry localType="archival">Interview with Sheila Wesley-Smith [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Sheila Wesley-Smith [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/41</unitid>
+<unitdate>29 May 1992</unitdate>
+<abstract>Adelaide Lyceum Club Oral History 
+
+Sheila Martin was born in Western Australia and the family moved to Belair when she was five. She enjoyed riding and music. Sheila went to the Kindergarten Training College in Palmer Place North Adelaide and opened a kindergarten at Blackwood. Sheila and her students were involved in the pageant for the South Australian centenary in 1936 and Sheila was the Spirit of SA. She became the Director of the Franklin Street free kindergarten and then taught at the PGC in the junior school. She married Harry Wesley Smith and in 1939 left for England. World War II broke out so they returned to Australia in 1942. Harry joined the AIF and Sheila raised four sons. Music was important to the family. Sheila joined the Kindergarten of the Air and worked on programs for five years in the 1960s. She was involved with community work with handicapped children and people in nursing homes.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00535</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-21">2009-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Janet Butler</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-24">2015-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00535b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Freeman</part>
+<part localType="givenname">May B</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-08-18">18 August 1900</fromDate>
+<toDate standardDate="1988-09-18">18 September 1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Geelong, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Geelong, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Sunday school teacher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>May Freeman was born into a privileged Geelong, Vicoria, family. Her great and lifelong contribution to her local community was as a committed volunteer leader and member of community organisations. May was a Sunday School teacher, and was involved in the Guides and Brownies from their earliest days in 1925 until her death.  She was a committee member of the Girls Unity Club, which provided education, recreation and support for Geelong's working girls, and was a member of Rotary, the YWCA, the Red Cross, the Victoria League, The Royal Commonwealth Society Women's Group and the Trefoil Guild.</abstract>
+<p>May Freeman attended The Hermitage (Geelong Church of England Grammar School). Her diaries, from 1917 to 1983, document the full attendant lifestyle of social calls, sports, and involvement at church.  Upon leaving school at the end of 1918, she commenced work in an office, typing and preparing trial balances. She was a member of a number of recreational groups: her school's Old Girls Association, and Reading Circle, as well as, in later years a Film Society. For six and a half decades, her diaries reflected her commitment to a large number of community organisations, primarily, but not exclusively, centred on the Girl Guides, the Presbyterian Church and the YWCA. She made a trip to England in 1936, to attend events hosted by the English patrons of the Guides. May never married, and died in September 1988, aged 88.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00524b.htm">
+<relationEntry localType="Corporate Body">
+Geelong Girls' Unity Club (1924 - 1965)
+</relationEntry>
+<descriptiveNote>
+<p>May Freeman was a founding member of the Geelong Girl's Unity Club</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0762b.htm">
+<relationEntry localType="Corporate Body">
+Girl Guides Australia (1926 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0968b.htm">
+<relationEntry localType="Corporate Body">
+Young Women's Christian Association Victoria (Y.W.C.A. Victoria), World Young Women's Christian Association (World Y.W.C.A .1855 –) (1999 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462360">
+<relationEntry>
+Freeman, May B (1900-1988)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Freeman, May B', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Freeman, May B</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00535b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00531.htm">
+<relationEntry localType="published">Newspaper: Geelong Advertiser 19-21 September 1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Geelong Advertiser 19-21 September 1988</title>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00714.htm">
+<relationEntry localType="published">CD ROM:  Federation Index, Victoria 1889-1901: Index to Births, Deaths and Marriages in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McBeth Genealogical Services/ Coherent Software Australia/The Crown in the State of Victoria</name>
+<title render="italic"> Federation Index, Victoria 1889-1901: Index to Births, Deaths and Marriages in Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Registry of Births, Deaths &amp; Marriages, Victoria</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00530.htm">
+<relationEntry localType="published">Microform: Geelong Eastern Cemetery, Funeral Service Deceased Listings</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Geelong Cemeteries Trust</name>
+<title render="italic">Geelong Eastern Cemetery, Funeral Service Deceased Listings</title>
+<imprint>
+<place>East Geelong, Victoria</place>
+<publisher>Geelong Cemeteries Trust</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00528.htm">
+<relationEntry localType="archival">Freeman, May - Collection</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Freeman, May - Collection</unittitle>
+<unitid>GRS 1617</unitid>
+<unitdate>1917 - 1983</unitdate>
+<abstract>Diaries, Photograph Album, Lecture Notes, Cuttings Book</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001707.htm">
+<relationEntry localType="archival">Girl Guides Association of Victoria. Aberdeen Street, Geelong, Vic. Branch</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Girl Guides Association of Victoria. Aberdeen Street, Geelong, Vic. Branch</unittitle>
+<unitid>GRS 1440</unitid>
+<unitdate>1925 - 1970</unitdate>
+<abstract>Artefacts &amp; folder, receipt, training &amp; cash books etc</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001706.htm">
+<relationEntry localType="archival">Geelong Kindergarten Girl Guides Company</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Geelong Kindergarten Girl Guides Company</unittitle>
+<unitid>GRS 630</unitid>
+<unitdate>1930 - 1938</unitdate>
+<abstract>Log book, accounts, Court of Honour, minutes</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00527.htm">
+<relationEntry localType="archival">Geelong Girls Unity Club </relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Geelong Heritage Centre, Geelong City Council</repository>
+<unittitle>Geelong Girls Unity Club </unittitle>
+<unitid>GRS 509-511</unitid>
+<unitdate>1921 - 1982</unitdate>
+<abstract>Annual Reports/Correspondence &amp; Newscuttiings/Minutes &amp; Constitution</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

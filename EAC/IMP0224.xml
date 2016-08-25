@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0224</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-30">2002-10-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0224b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Scott-Young</part>
+<part localType="givenname">Margery</part>
+<part localType="honorific title">CBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-05-25">25 May 1912</fromDate>
+<toDate standardDate="1997-11-04">4 November 1997</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>North Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Lane Cove, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Surgeon</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margery Scott-Young conducted a successful practice in surgery in Sydney for twenty-five years, preceded by ten years in general practice. Graduating Bachelor of Medicine, Bachelor of Surgery and Master of Surgery from Sydney University in 1936, her first appointment was as resident medical officer at Sydney Hospital in 1936, moving to Rachel Forster Hospital in 1937 to take up the position as medical superintendent. She then assumed the position of resident medical officer at the Royal Hospital for Women, Sydney, from 1939-1940. Using her professional skills, she served during World War II in the Australian Army Medical Corps from 1942-1946. After her war service she returned to the Rachel Forster Hospital, initially as honorary assistant surgeon from 1946-1958 and from 1958-1972 as honorary consultant surgeon. Her other commitments included becoming a life governor of the Australian Postgraduate Federation of Medicine in 1977, president of the Australian Federation of Medical Women from 1986-1989, honorary librarian of the Australian Medical Association (AMA) New South Wales branch from 1972-1977 and vice-president of the Medical Benevolent Association of New South Wales from 1980-1983. She published a story of her life entitled <span style="font-style:italic">Family Bugles</span> in 1991. She was appointed Commander of the Order of the British Empire in 1977 for Services to Medicine.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-576187">
+<relationEntry>
+Scott-Young, Margery (1912-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Scott-Young, Margery', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Scott-Young, Margery</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0224b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005676.htm">
+<relationEntry localType="published">Newspaper Article: Obituaries: Surgeon's invincible spirit</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Anderson, Ken</name>
+<title render="quoted">Obituaries: Surgeon's invincible spirit</title>
+<bibseries>
+<title render="italic">Daily Telegraph</title>
+<num type="pages">98</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001443.htm">
+<relationEntry localType="published">Book: History of the Medical Benevolent Association of NSW</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Scott-Young, Margery</name>
+<title render="italic">History of the Medical Benevolent Association of NSW</title>
+<imprint>
+<place>St Leonards, New South Wales</place>
+<publisher>The Association</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001442.htm">
+<relationEntry localType="published">Book: Family bugles, 1954-1991</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Scott-Young, Margery</name>
+<title render="italic">Family bugles, 1954-1991</title>
+<imprint>
+<place>Marrickville, New South Wales</place>
+<publisher>Southwood Press</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001373.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1998</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Neto, Maryanne (researcher)</name>
+<title render="italic">Who's Who in Australia 1998</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Information Australia Group Pty Ltd</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001512.htm">
+<relationEntry localType="published">Edited Book: Medical directory of Australia 1980</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Errol G. Knox</name>
+<title render="italic">Medical directory of Australia 1980</title>
+<imprint>
+<place>Glebe, New South Wales</place>
+<publisher>Australasian Medical Publishing Co.</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

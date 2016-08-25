@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4804</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-07">2012-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Criena Fitzgerald</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4804b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Benstead</part>
+<part localType="givenname">Lulu</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Benstead, Lucille</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-02-05">5 February 1891</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Alice Springs</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Opera singer</term>
+</occupation>
+<occupation>
+<term>Performer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lulu Benstead began her singing career in Coolgardie and performed from 1907 until 1911 throughout the goldfields and New South Wales. She retired in 1934.</abstract>
+<p>Lulu Benstead was born in Alice Springs the daughter of goldfields pioneer Bill (William) Benstead and Triphenia Benstead. She studied with Mrs Jack Wilson in Coolgardie and performed regularly in the goldfields. Indeed, the <span style="font-style:italic">Western Mail</span> newspaper described Coolgardie as the '...musical centre of the goldfields'. She also toured Australia, performing in Sydney and in country areas with the Lulu Benstead Company.</p>
+<p>The Coolgardie Lulu Benstead Continental Musical Education Fund Committee was set up in 1907 to raise money for Lulu's further musical education. In 1911 Lulu travelled to Paris and Berlin with the assistance of money raised from benefit concerts in Western Australia and donations from her Western Australian supporters. A report of one benefit concert in 1909 described her performance thus: '...a brilliant display of her beautiful soprano voice, and added another laurel to her luxuriant wreath of success'.<br />
+A successful entertainer, Lulu performed in the USA, Canada and England singing vaudeville, comedy, comic opera, burlesque and revue. She retired from the stage in 1934, married Englishman Mr Stelling and lived in England.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666020">
+<relationEntry>
+Benstead, Lulu (18910205-19831231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Benstead, Lulu', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Benstead, Lulu</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4804b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005020.htm">
+<relationEntry localType="published">Newspaper Article: Miss Lulu Benstead</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Miss Lulu Benstead</title>
+<imprint>
+<place>Perth, WA : 1885 - 1954</place>
+<date>1925</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">19</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005019.htm">
+<relationEntry localType="published">Newspaper Article: Miss Lulu Benstead</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Miss Lulu Benstead</title>
+<imprint>
+<place>Perth, WA : 1902 - 1954</place>
+<date>1909</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Times</title>
+<num type="pages">22</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005018.htm">
+<relationEntry localType="published">Newspaper Article: Lulu Benstead</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lulu Benstead</title>
+<imprint>
+<place>Perth, WA : 1902 - 1954</place>
+<date>1909</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Times</title>
+<num type="pages">7</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005017.htm">
+<relationEntry localType="published">Newspaper Article: Lulu Benstead</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lulu Benstead</title>
+<imprint>
+<place>Perth, WA : 1902 - 1954</place>
+<date>1908</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Times</title>
+<num type="pages">7</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004995.htm">
+<relationEntry localType="published">Book: Daughters of Midas. Pioneer Women of the Eastern Goldfields</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">King, Norma</name>
+<title render="italic">Daughters of Midas. Pioneer Women of the Eastern Goldfields</title>
+<imprint>
+<place>Victoria Park [W.A.]</place>
+<publisher>Business and Professional Women's Club of Kalgoorlie-Boulder &amp;​ Hesperian Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00551.htm">
+<relationEntry localType="digitalObject">Lulu Benstead</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Outback Family History</repository>
+<unittitle>Lulu Benstead</unittitle>
+<abstract>Lulu Benstead stood on the right</abstract>
+<note label="rights">Photograph courtesy of Outback Family History. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

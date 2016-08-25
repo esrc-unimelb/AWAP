@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0169</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-11-07">2001-11-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0169b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Edmond</part>
+<part localType="givenname">Wendy Marjorie</part>
+<part localType="honorific title">The Honourable</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1946-04-27">27 April 1946</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Bundaberg, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Wendy Edmond was Queensland Minister for Heath and Minister Assisting the Premier on Women's Policy. She was elected MLA (ALP) for the electorate of Mount Coot-tha on 2 December 1989.</abstract>
+<p>Born: 27 April 1946.<br />
+After being educated at West Bundaberg, McIlwraith, Gin Gin State Schools and Bundaberg State High School, she attended the Queensland Radium Institute and graduated in 1967 with a Diploma of Radiography. In 1971 she obtained a Diploma of Nuclear Medicine Technology in Canada.<br />
+Edmond worked as a therapy radiographer in Brisbane 1964-1967, in Copenhagen 1968, and New York 1969-1970 before taking up a position as a nuclear medicine technologist in Montreal 1970-1971, Adelaide 1972, Edinburgh 1973-1974, and at the Royal Brisbane Hospital 1984-1986 and the Holy Spirit Hospital in Brisbane 1986-89.<br />
+She ia a former secretary of the Australian and New Zealand Society of Nuclear Medicine, a member of the Education Committee of the Society of Nuclear Medicine, a committee member of Citizens Against Route Twenty (CART), and a committee member of the Paddington Residents Group.<br />
+Since entering parliament her service includes: Parliamentary Representative University of Queensland Senate 1993 - 31 December 1995; Member, Library Advisory Committee November 1992 - June 1995; Member, Parliamentary Criminal Justice Committee March 1990 - August 1992; Chairperson, Estimates Committee C 1994 and 1995; Minister for Employement and Training and Minister Assisting the Premier on Public Service Matters 31 July 1995 - 19 February 1996;  Deputy Chairman Estimates Committee G 1996 and 1997; Shadow Minister for Health 27 February 1996 - 26 June 1998; Minister for Health since 29 June 1998 and Minister Assisting the Premier on Women's Policy since 22 February 2001.  <br />
+Married with three children Edmond's interest include: theatre, environment, crafts, art, reading, tennis and cooking. </p>
+<p>Sources: <span style="font-style:italic">http://www.parliament.qld.gov.au/Parlib/Members/women/chapters/edmond.htm> accessed 7/11/01; <br />
+http://www.parliament.qld.gov.au/Parlib/handbook/edmond.htm accessed 7/11/01</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-738051">
+<relationEntry>
+Edmond, Wendy Marjorie (1946-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Edmond, Wendy Marjorie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Edmond, Wendy Marjorie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0169b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000338.htm">
+<relationEntry localType="published">Resource Section: Women Members of the Legislative Assembly frome 1929</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Queensland Parliamentary Library</name>
+<title render="quoted">Women Members of the Legislative Assembly frome 1929</title>
+<extptr linktype="simple" href="http://www.parliament.qld.gov.au/Parlib/Members/women/IndexWomen.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000337.htm">
+<relationEntry localType="published">Resource Section: Edmond, Hon. Wendy Marjorie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Queensland Parliamentary Library</name>
+<title render="quoted">Edmond, Hon. Wendy Marjorie</title>
+<extptr linktype="simple" href="http://www.parliament.qld.gov.au/Parlib/handbook/edmond.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

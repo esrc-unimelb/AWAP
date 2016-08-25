@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0406</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-03">2002-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0406b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Deasey</part>
+<part localType="givenname">Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-05-26">26 May 1909</fromDate>
+<toDate standardDate="1968-09-06">6 September 1968</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Collingwood, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Prahran, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kathleen Deasey was appointed assistant-controller Australian Women's Army Service (AWAS), Southern Command in November 1941. Prior to joining the AWAS, Deasey was lady superintendent at Melbourne's Ladies College, Melbourne. Following World War II, Deasey worked with the Department of Immigration, after which she studied at the Sorbonne, Paris. Later Deasey returned to teaching and was a senior tutor in education at the University of Melbourne and then became Principal of St Ann's College, University of Adelaide.</abstract>
+<p>The second of six children to Anglican clergyman, Rev. Denis Murrell and Maude Williamson (née Watt) Deasey, Kathleen was educated at Geelong Church of England Girls' Grammar School. She obtained a BA (1931), MA (1933) and DipEd (1935) from the University of Melbourne, and a BA (1937) and MA (1946) from Newham College, Cambridge. She taught at Frensham, Mittagong, NSW and became lady superintendent at Methodist Ladies College (Melbourne). </p>
+<p>In November 1941 Deasey was appointed assistant-controller, Southern Command and was promoted to Major on 28 January 1942. Initially she established the service's structure in Victoria and then supervised the enlistment and training of recruits. In May 1943 she was transferred to First Army Headquarters, Toowoomba, Queensland as assistant-controller and later to the Australian Army Chaplains' Department, Land Headquarters, Melbourne.</p>
+<p>In 1944 the Chaplains' Department published, <span style="font-style:italic">Readings and Prayers for Members of the Army Women's Services,</span> a booklet that Deasey compiled. After the war she represented the Australian Women's Army Service at the Victory march in London (1946) and then returned to Australia and drafted a history of the Service.  </p>
+<p>After being discharged from the army Deasey worked with the Department of Immigration, spent time studying at the Sorbonne, Paris, followed by administering an agency sponsorship scheme for the World Council of Churches. From 1960 to 1961 she was a senior tutor in education at the University of Melbourne and then became Principal of St Ann's College, University of Adelaide, until 1966. Returning to Melbourne in 1967, she joined the staff of Larnook Domestic Arts Teachers' College, Armadale.</p>
+<p>Kathleen Deasey, who never married, died on 6 September 1968 and was buried in Boroondara cemetery, Kew.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0149b.htm">
+<relationEntry localType="Corporate Body">
+Australian Women's Army Service (AWAS) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-10-09">9 October 1941</fromDate>
+<toDate standardDate="1947-01-24">24 January 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service number: V345001. Assistant controller</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743066">
+<relationEntry>
+Deasey, Maude (1909-1968)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Deasey, Maude (Kathleen)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Deasey, Maude (Kathleen)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0406b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001728.htm">
+<relationEntry localType="published">Resource Section: DEASEY, MAUDE KATHLEEN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">DEASEY, MAUDE KATHLEEN</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=604369"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001655.htm">
+<relationEntry localType="published">Resource Section: Deasey, Maude Kathleen</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacIntyre, Eileen (1909-1968)</name>
+<title render="quoted">Deasey, Maude Kathleen</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A130671b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000851.htm">
+<relationEntry localType="published">Book: A History of the Lyceum Club Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gillison, Joan M</name>
+<title render="italic">A History of the Lyceum Club Melbourne</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Lyceum Club</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000588.htm">
+<relationEntry localType="archival">Deasey, M K Maj - appointment as LC between AA Ch D and Australian Army women's services</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Deasey, M K Maj - appointment as LC between AA Ch D and Australian Army women's services</unittitle>
+<unitid>MP742/1/0</unitid>
+<unitdate>1943</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000850.htm">
+<relationEntry localType="archival">Portrait of Major Kathleen Deasey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Portrait of Major Kathleen Deasey</unittitle>
+<unitid>012527</unitid>
+<abstract>Melbourne, Victoria. c. 1941. Portrait of Major Kathleen Deasey who in 1941-11 was appointed Assistant Controller in Victoria of the Australian Womens' Army Service.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000590.htm">
+<relationEntry localType="archival">[Biographical cuttings on M. Kathleen Deasey, college principal]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on M. Kathleen Deasey, college principal]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000589.htm">
+<relationEntry localType="archival">Deasey, Maude Kathleen</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Deasey, Maude Kathleen</unittitle>
+<unitid>2002/05074483</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>DEASEY MAUDE KATHLEEN : Service Number - V345001 : Date of birth - 26 May 1909 : Place of birth - MELBOURNE : Place of enlistment - MELBOURNE VIC : Next of Kin - DEASEY D</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000849.htm">
+<relationEntry localType="archival">Major M. K. Deasey, Australian Women's Army Service (AWAS)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Major M. K. Deasey, Australian Women's Army Service (AWAS)</unittitle>
+<unitid>140147</unitid>
+<unitdate>20 December 1943</unitdate>
+<abstract>Melbourne, Vic. 1943-12-20. VF345001 Major M. K. Deasey, Australian Women's Army Service (AWAS), the new liaison officer between the chaplain general's department and the women's services chatting with other servicewomen at headquarters.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000848.htm">
+<relationEntry localType="archival">Major Deasey sewing on a victory contingent colour patch for Private Partridge VC</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Major Deasey sewing on a victory contingent colour patch for Private Partridge VC</unittitle>
+<unitid>130174</unitid>
+<unitdate>June 1946</unitdate>
+<abstract>Atlantic Ocean. 1946-06. Major Deasey sewing on a victory contingent colour patch for Private Partridge VC, on board HMAS <span style="font-style:italic">Shropshire,</span> en route to London.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000847.htm">
+<relationEntry localType="archival">General Sir Thomas Blamey inspects Units of the Australian Women's Army Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>General Sir Thomas Blamey inspects Units of the Australian Women's Army Service</unittitle>
+<unitid>012603</unitid>
+<unitdate>16 June 1942</unitdate>
+<abstract>General Sir Thomas Blamey inspects units of the Australian Women's Army Service at their headquarters. With him is Major Kathleen Deasey, commandant of the Victorian area. Major Deasey is a well-known educationist, a graduate of both Melbourne and Cambridge universities. She has three brothers serving in the Australian army. (negative by Cranstone).</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000756.htm">
+<relationEntry localType="archival">Honours and Awards - Recommendations for New Year Honours List 1946</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Honours and Awards - Recommendations for New Year Honours List 1946</unittitle>
+<unitid>AWM119</unitid>
+<unitdate>1945 - 1946</unitdate>
+<abstract>Honours and Awards - Recommendations for New Year Honours List 1946 [Col C H Simpson; Col E Gorman; Col A W Wardell; Col A E McCausland; Col N M Loutit; Col F R Burton; Col (Matron-in-Chief) Annie M Sage; Lt-Col A H Hellstrom; Lt-Col J M McGowan; Lt-Col R B Madgwick; Lt-Col P A Parsons; Lt-Col W J M Sedgley; Maj C B Laffan; Maj Joan L Christie; Maj Maude K Deasey; Maj H M Lewis; Maj Lady Winifred I E MacKenzie; Maj Mabel J Mackerras; Maj G W J Marshall; Maj Joyce M Snelling; Maj T G Woore; Honorary Maj Eleanor Manning; Capt V L Leggett; Capt A A Guy; Capt W H Hackfath; Capt Margaret L Leishman; Capt Beverley C Barrenger; Maj R Z Huppatz; Maj Margaret J Oddie; Capt Beatrice I Hayes; Capt Mina I Macmillan; Capt Thelma L Umpherston; Pte Eileen H Esdale; Sgt C D Mitchell; Cpl E J Martin]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00135.htm">
+<relationEntry localType="digitalObject">Major Kathleen Deasey</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Major Kathleen Deasey</unittitle>
+<unitid>012527</unitid>
+<unitdate>c. 1941</unitdate>
+<abstract>Portrait of Major Kathleen Deasey who in 1941-11 was appointed Assistant Controller in Victoria of the Australian Womens' Army Service. Melbourne</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

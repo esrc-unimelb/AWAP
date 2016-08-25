@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0247</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-07">2002-11-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0247b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Appleford</part>
+<part localType="givenname">Alys</part>
+<part localType="honorific title">MM, RRC</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>King, Alice Ross</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-08-05">5 August 1891</fromDate>
+<toDate standardDate="1968-08-17">17 August 1968</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Ballarat, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Cronulla, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Nursing administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>During World War I Alice Ross-King (as she was then known) was a Sister in the Australian Army Nursing Service. Mentioned twice in despatches, she was awarded the Military Medal on 28 September 1917 and the Royal Red Cross Medal on the 4 June 1918. She married Lieutenant-Colonel Sydney T Appleford of the Australian Army Medical Corps on 21 August 1919. They had four children. She assisted her husband in establishing a first-aid military unit and during the 1930s became involved with the Red Cross Voluntary Aid Detachments. Appleford enlisted in the Australian Army Medical Women's Service during World War II. She was promoted to the rank of Major in September 1942 and awarded the Florence Nightingale medal by the International Red Cross in 1949.
+
+Alice Appleford died on 17 August 1968 at Cronulla, Sydney and is buried in Fawkner Cemetery, Melbourne.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0210b.htm">
+<relationEntry localType="Corporate Body">
+The Alexandra Club (1903 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0419b.htm">
+<relationEntry localType="Person">
+Cawood, Dorothy Gwendolen (1884 - 1962)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1917-07-22">22 July 1917</fromDate>
+<toDate standardDate="1917-07-22">22 July 1917</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Dorothy Cawood, Clare Deacon and Alice Ross-King (later Appleford) were all awarded  a Military Medal for evacuating patients from burning buildings while the the 2nd Australian Casualty Clearing Station at Armentieres was being bombed.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0415b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Medical Women's Service (AAMWS) (1942 - 1951)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-11-19">19 November 1941</fromDate>
+<toDate standardDate="1947-04-09">9 April 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: V500148</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768061">
+<relationEntry>
+Appleford, Alys (1891-1968)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Appleford, Alys (Alice) Ross', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Appleford, Alys (Alice) Ross</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0247b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001739.htm">
+<relationEntry localType="published">Resource Section: Ross-King, Alice (1891-1968)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Finnie, Lorna M</name>
+<title render="quoted">Ross-King, Alice (1891-1968)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">11</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110467b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001883.htm">
+<relationEntry localType="published">Resource Section: APPLEFORD, ALICE ROSS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">APPLEFORD, ALICE ROSS</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=611355"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001924.htm">
+<relationEntry localType="published">Book: Nightingales in the mud : the digger sisters of the Great War 1914 - 1918</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barker, Marianne</name>
+<title render="italic">Nightingales in the mud : the digger sisters of the Great War 1914 - 1918</title>
+<imprint>
+<place>North Sydney</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001923.htm">
+<relationEntry localType="published">Book: Just wanted to be there : Australian Service Nurses 1899-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reid, Richard</name>
+<title render="italic">Just wanted to be there : Australian Service Nurses 1899-1999</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth Department of Veterans' Affairs</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001672.htm">
+<relationEntry localType="published">Book: The Diggers : makers of the Australian military tradition</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coulthard-Clark, Chris</name>
+<title render="italic">The Diggers : makers of the Australian military tradition</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001436.htm">
+<relationEntry localType="published">Book: Twentieth-Century Women of Courage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Escott, Beryl E</name>
+<title render="italic">Twentieth-Century Women of Courage</title>
+<imprint>
+<place>Gloucestershire (UK)</place>
+<publisher>Sutton Publishing</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000886.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1944</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1944</title>
+<edition>12</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1944</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000506.htm">
+<relationEntry localType="archival">Army Medical &amp; Dental Corps. Nurses and Specialists</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Army Medical &amp; Dental Corps. Nurses and Specialists</unittitle>
+<unitid>MP508/1 (item number =3296250 - Control Symbol = 21/728/550)</unitid>
+<unitdate>1942</unitdate>
+<abstract>[Applications for a Commission in the AAMC Voluntary Aid Detachments (VAD)] - A R Appleford
+
+This series contains files relating to the wartime administration of the military forces of Australia including administration, compensation, defence and fixed defences, medical and dental corps. There are three identifiable groups of records within MP508/1. The general or War correspondence series, correspondence dealing with the AIF [Australian Imperial Forces] and correspondence dealing with 'Civil Staff' matters. These groups have been distinguished by the allocation of secondary number groupings within the multiple number series. These three groups of records have been registered as three separate Commonwealth Record Series (CRS) B1539, B1543 and B1547 but the records have not been physically converted. All records should be requested from MP508/1.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000507.htm">
+<relationEntry localType="archival">Appleford, Alice Ross</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Appleford, Alice Ross</unittitle>
+<unitid>V500148</unitid>
+<unitdate>1939 - 1948</unitdate>
+<abstract>Service Number - V500148 : Date of birth - 05 Aug 1891 : Place of birth - BALLARAT VIC : Place of enlistment - V A D HEADQUARTERS VIC : Next of Kin - APPLEFORD S</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000831.htm">
+<relationEntry localType="archival">VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service, Victorian Lines of Communication Area</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service, Victorian Lines of Communication Area</unittitle>
+<unitid>080772</unitid>
+<unitdate>5 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-10-05. VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service, Victorian Lines of Communication Area.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000925.htm">
+<relationEntry localType="archival">Ross-King, Alice (Sister) 1891-1968, MM</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Ross-King, Alice (Sister) 1891-1968, MM</unittitle>
+<unitid>PR02082</unitid>
+<abstract>Papers of Sister Alice Ross-King who served with the Australian Army Nursing Service during the First World War. The collection consists of her three diaries, a typed transcript of the diaries, a Florence Nightingale certificate and three Red Cross citations. The diaries cover the years 1915-1919 when she worked in Egypt (1st Australian General Hospital), Rouen (1st Australian General Hospital), St Omar (10th Stationary Hospital) and Armentieres (2nd Casualty Clearing Station). In one entry Alice Ross-King recounts events for which she earned a Military Medal while working at the 2nd Casualty Clearing Station.
+1. Three diaries, covering Janaury 1915-February 1919, written by Alice Ross-King during service as a nurse with the Australian Army Nursing Service during First World War, and post-War voyage home to Australia. 
+2. Typed transcript of diaries (90 pages). 
+3. Certificate for award of Florence Nightingale Medal (1949). 
+4. Three citations from various Red Cross offices for the Florence Nightingale Medal.</abstract>
+<physdesc>
+<extent>0.01 m, 5 folios</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001102.htm">
+<relationEntry localType="archival">Army Medical &amp; Dental Corps. Nurses and Specialists [Applications for a Commission in the A.A.M.C. Voluntary Aid Detachments (V.A.D.)] - A R Appleford</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Army Medical &amp; Dental Corps. Nurses and Specialists [Applications for a Commission in the A.A.M.C. Voluntary Aid Detachments (V.A.D.)] - A R Appleford</unittitle>
+<unitid>MP508/1</unitid>
+<unitdate>September 1942</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000829.htm">
+<relationEntry localType="archival">Australian Army Medical Women's Service conference of Assistant and Deputy Assistant Controllers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Australian Army Medical Women's Service conference of Assistant and Deputy Assistant Controllers</unittitle>
+<unitid>080686</unitid>
+<unitdate>30 September 1944 - 4 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-09-30 - 1944-10-04. Officers at the conference of Assistant and Deputy Assistant Controllers, Australian Army Medical Women's Service. Identified personnel are:- SFX27688 Captain M.M. Langsford; VF500148 Major A.R. Appleford, RRC, MM, SFX30364 Lieutenant-Colonel M.S. Douglas; NFX138446 Major J.M. Snelling; QF119238 Major M.C. Roche; VFX138505 Major R.M. Davidson; NFX76442 Captain L.W. Yates; WFX38344 Captain S.C. Perry; VFX117124 Major H.F. Meyer; TFX6117 Captain I.D. Cox.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000508.htm">
+<relationEntry localType="archival">King, Alice Ross</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>King, Alice Ross</unittitle>
+<unitid>B2455/1</unitid>
+<unitdate>1914 - 1920</unitdate>
+<abstract>Service Number - Sister : Note This record consists of an empty envelope only. The contents have been amalgamated with this person's World War II service documents. The World War II service number is ALICE ROSS-KING (WWI). Contact Archives Staff for assistance in requesting the amalgamated record</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000766.htm">
+<relationEntry localType="archival">End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services]</unittitle>
+<unitid>AWM119</unitid>
+<unitdate>1945</unitdate>
+<abstract>End of War Awards - submissions by [Quartermaster-General and Director-General of Medical Services] QMG &amp; DGMS [Brig R T A McDonald, Col N M Loutit, Col R H Norman, Lt-Col C C Easterbrook, Lt-Col H L Maude, Lt-Col P A Parsons, Lt-Col L J Fitzpatrick, Lt-Col W B Leonard, Maj J E McKimm, Lt-Col G G Hack, Lt-Col C S Johnston, Capt J A Egan, Maj N A Dalton, Maj C S Waugh, Maj C W Gray, Sgt Vera Kiddell, Lt-Col H H Turnbull, Lt-Col E V Keogh, Lt-Col A Christie, Lt-Col C R B Blackburn, Maj K B Brown, Maj Lady Winifred I E MacKenzie, Maj M J Mackerras, Col (Matron-in-Chief) Annie M Sage, Capt (Matron) Beatrice J Paige, Capt Jean E Headberry, Capt Patricia D Chomley, Lt-Col Mary S Douglas, Maj Alice R Appleford, Capt Marjorie C Roche, Maj Joyce M Snelling]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000826.htm">
+<relationEntry localType="archival">VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service</unittitle>
+<unitid>069124</unitid>
+<unitdate>6 September 1944</unitdate>
+<abstract>Camp Pell, Vic. 1944-09-06. VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service inspecting the kits of members who are on draft to northern areas. Assisting Major Appleford is VF65581 Lieutenant S.F. Dammon officer in charge of the draft for the 2/9th Australian General Hospital.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000828.htm">
+<relationEntry localType="archival">VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller</unittitle>
+<unitid>069125</unitid>
+<unitdate>6 September 1944</unitdate>
+<abstract>Camp Pell, Vic. 1944-09-06. VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller conducting a kit inspection of members of the Australian Army Medical Women's Service on draft for northern areas, assisted by Captain H.B. McKenzie, Staff Captain "Q" Victorian Lines of Communications area. Identified personnel are:- Corporal L. Lawson; Private N. Schreiber.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000830.htm">
+<relationEntry localType="archival">Australian Army Medical Women's Service 1944-09-30 - 1944-10-04</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Australian Army Medical Women's Service 1944-09-30 - 1944-10-04</unittitle>
+<unitid>080687</unitid>
+<unitdate>30 September 1944 - 4 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-09-30 - 1944-10-04. Officers at the conference of Assistant and Deputy Assistant Controllers, Australian Army Medical Women's Service. Identified personnel are:- NFX76442 Captain L.W. Yates; VFX138505 Major R M. Davidson; NFX138446 Major J.M. Snelling; SFX30364 Lieutenant-Colonel M.S. Douglas; VF500148 Major A. Appleford, RRC, MM; QF119238 Major M.C. Roche; SFX27688 Captain M.M. Langsford; VFX117124 Major H.F. Meyer; TFX6117 Captain I.D. Cox; WFX38344 Captain S.C. Perry.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000832.htm">
+<relationEntry localType="archival">VF500148 Major A.R. Appleford, RRC, MM, with Captain P. Williamson, Australian Army Medical Women's Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>VF500148 Major A.R. Appleford, RRC, MM, with Captain P. Williamson, Australian Army Medical Women's Service</unittitle>
+<unitid>080896</unitid>
+<unitdate>6 October 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-10-06. VF500148 Major A.R. Appleford, RRC, MM, with Captain P. Williamson, Australian Army Medical Women's Service, after inspecting personnel participating in the second victory loan march through the city.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000833.htm">
+<relationEntry localType="archival">The leaders of the Australian Red Cross Voluntary Aid Detachment (VAD)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>The leaders of the Australian Red Cross Voluntary Aid Detachment (VAD)</unittitle>
+<unitid>136909</unitid>
+<unitdate>28 September 1942</unitdate>
+<abstract>Melbourne, Vic. 1942-09-28. The leaders of the Australian Red Cross Voluntary Aid Detachment (VAD) VF500148 Major A. R. Appleford (nee Ross-King) RRC MM; Assistant Controller Australian Army Medical Womens Service (AAMWS) and Captain D. Townsend; Lieutenant M. Williamson give "eyes right" as they pass the saluting base during the servicewomen's march through the city streets.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000834.htm">
+<relationEntry localType="archival">V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford</unittitle>
+<unitid>138233</unitid>
+<unitdate>22 March 1943</unitdate>
+<abstract>Melbourne, Vic. 1943-03-22. V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford, member of the Red Cross, MM, Assistant Controller of the Australian Army Medical Women's Service (AAMWS), Victorian Lines of Communication Area, examining kit and records of members of the Australian Army Medical Women's Service (AAMWS) posted to operational areas.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000835.htm">
+<relationEntry localType="archival">V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford</unittitle>
+<unitid>138235</unitid>
+<unitdate>22 March 1943</unitdate>
+<abstract>Melbourne, Vic. 1943-03-22. V81999 Captain W. J. J. McGee, assisted by VF500148 Major A. R. Appleford, member of the Red Cross, MM; Assistant Controller of the Australian Army Medical Women's Service (AAMWS), Victorian Land and Communication Area, examining kit and records of members of the Australian Army Medical Women's Service (AAMWS) posted to operational areas.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000827.htm">
+<relationEntry localType="archival">Members of the Australian Army Medical Women's Service at the 115th Heidelberg Military Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Members of the Australian Army Medical Women's Service at the 115th Heidelberg Military Hospital</unittitle>
+<unitid>066316</unitid>
+<unitdate>24 May 1944</unitdate>
+<abstract>Melbourne, Vic. 1944-05-24. Her excellency, Lady Zara Gowrie, wife of the Governor General of Australia inspecting members of the Australian Army Medical Women's Service at the 115th Heidelberg Military Hospital, prior to her return to England. Identified personnel are, left to right:- VFX64621 Captain M.S. Williamson; VF500148 Major A.R. Appleford, RRC., MM.; VFX65349 Lieutenant D.M. Mackrell; Lady Gowrie; Private L.I. Trewin; Private M.C. Carroll; Private L. Wakefield; Private V. Boocock, back row; Private McNuff; Private Brain, Private R.M. Spencer; Private B.M. Baker, Private V.M. Phillips, Private H. Lindsay.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00049.htm">
+<relationEntry localType="digitalObject">Major A.R. Appleford, RRC, MM</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Major A.R. Appleford, RRC, MM</unittitle>
+<unitid>080772</unitid>
+<unitdate>5 October 1944</unitdate>
+<abstract>VF500148 Major A.R. Appleford, RRC, MM, Assistant Controller, Australian Army Medical Women's Service, Victorian Lines of Communication Area.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00048.htm">
+<relationEntry localType="digitalObject">The leaders of the Australian Red Cross Voluntary Aid Detachment</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>The leaders of the Australian Red Cross Voluntary Aid Detachment</unittitle>
+<unitid>136909</unitid>
+<unitdate>28 September 1942</unitdate>
+<abstract>The leaders of the Australian Red Cross Voluntary Aid Detachment (VAD) VF500148 Major A. R. Appleford (nee Ross-King) RRC MM; Assistant Controller Australian Army Medical Womens Service (AAMWS) and Captain D. Townsend; Lieutenant M. Williamson give "eyes right" as they pass the saluting base during the servicewomen's march through the city streets.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

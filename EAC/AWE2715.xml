@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2715</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-06-28">2007-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2715b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dybka</part>
+<part localType="givenname">Anne</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Hutchings, Anne</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1922-01-01">c. 1922</fromDate>
+<toDate standardDate="2007-12-31">2007</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Portsmouth</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Anne Dybka was an internationally renowned glass engraver. A fellow of London's Guild of Glass Engravers, she engraved crystal for Orrefors, Baccaret and Lalique.</abstract>
+<p>The daughter of a submariner and Royal Navy commander, Anne Dybka studied painting and drawing with Martin Bloch in London and graphic arts at the London Polytechnic. She was married at the age of 19 to Peter Thompson and had four children. The family moved to Australia in 1956, where Dybka took up studies at the National Gallery Art School and with George Bell in Melbourne. She worked for Guy Boyd, Old Chelsea Glassware, and later Crown Crystal Glass in Sydney.</p>
+<p>Her second marriage was to Rudolf Dybka, an Austrian ceramic artist with whom she ran a studio in Parramatta in the 1970s. In Sydney she worked on large mosaic murals. Her life-size sculpture of a miniature schnauzer sits in Atherden Street, The Rocks. Dybka was awarded an Australia Council Emeritus Fellowship Award in 1995. Over the course of her career she held solo exhibitions in Melbourne, Canberra, Sydney and Adelaide. Her work is held by the National Gallery of Australia, Canberra; National Gallery of Victoria; Parliament House, Canberra; Powerhouse Museum, Sydney; Queensland Art Gallery, Brisbane; Wagga Wagga Regional Art Gallery, NSW; and the Glasmuseum, Ebeltoft, Denmark.</p>
+<p>A nature lover and advocate for environmental groups, Dybka spent the last 25 years of her life with her partner Eddy Mills, a London engraver. She was awarded the Order of Australia Medal (OAM) in 2003. Dybka is survived by her four children, six grandchildren and four great-grandchildren.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-696071">
+<relationEntry>
+Dybka, Anne (1922-2007)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dybka, Anne', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dybka, Anne</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2715b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

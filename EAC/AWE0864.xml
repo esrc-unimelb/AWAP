@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0864</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0864b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lockwood</part>
+<part localType="givenname">Betty Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Britain</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Nursing administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Lockwood was born in Britain and came to South Australia with her family in 1951. In 1968 she was appointed matron of the Gumeracha Hospital in Gumeracha South Australia, and within her term of service there she spent six months in Vietnam with a surgical team. Betty took an appointment as Director of Nursing and later Chief Executive Officer of the Ashford Community Hospital. She was also a part-time Commissioner in the SA Health Commission. Betty retired from Ashford in 1988.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765068">
+<relationEntry>
+Lockwood, Betty Margaret (1941-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lockwood, Betty Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lockwood, Betty Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0864b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001437.htm">
+<relationEntry localType="archival">Interview with Betty Margaret Lockwood [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Betty Margaret Lockwood [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/19</unitid>
+<unitdate>13 October 1988</unitdate>
+<abstract>History of Nursing in South Australia  
+
+Betty Lockwood was born in Britain and came to South Australia with her family in 1951. She attended school in Mannum and then nursed for two years at the Mannum Hospital. She completed her training in 1963 at the Royal Adelaide Hospital. Subsequent nursing experience included midwifery training and operating room nursing. In 1968 she was appointed matron of the Gumeracha Hospital and within her term of service there she spent six months in Vietnam with a surgical team. After four years as Director of Nursing at the Backwood Community Hospital and one year as a charge nurse of the Flinders Medical Centre Betty took an appointment as Director of Nursing and later Chief Executive Officer of the Ashford Community Hospital. While at Ashford Betty studied for the Graduate Diploma in Health Administration. She was also a part-time Commissioner in the SA Health Commission. Betty retired from Ashford in 1988.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0922</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-20">2004-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0922b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Jarrett</part>
+<part localType="givenname">Myra</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Myra Jarrett lived in Adelaide all her life. Her two sons both have Chairs at Adelaide University. Jarrett joined the Lyceum club in 1966, had two terms as leader of the Travel Circle and was Convenor of Circles for 3 years. In 1977 the Australian Association of Lyceum clubs moved to Adelaide and Jarrett became Secretary. In 1979 the tri-ennial conference was held in Adelaide. Jarrett was on the executive from 1989 to 1994 during which time the Club moved from the IOOF building to 54 Currie St. In 1990 the Australian Association of Lyceum Clubs secretariat returned to Adelaide and a Congress was held at Annesley College in 1991. In 1992 the 25th International Congress took place in Melbourne and Adelaide acted as a pre-Congress host to 50 overseas members. The Club's 50th birthday was celebrated in 1992.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Executive Committee Member from 1989 to 1994. She served two terms as leader of the Travel Circle and was Convenor of Circles for 3 years. Secretary of the Australian Association of Lyceum clubs in 1977.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763092">
+<relationEntry>
+Jarrett, Myra
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jarrett, Myra', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jarrett, Myra</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0922b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001507.htm">
+<relationEntry localType="archival">Interview with Myra Jarrett [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Myra Jarrett [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/51</unitid>
+<unitdate>20 July 1995</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Myra Jarrett lived in Adelaide all her life. Her two sons both have Chairs at Adelaide University. Myra joined the Lyceum club in 1966, had two terms as leader of the Travel Circle and was Convenor of Circles for 3 years. In 1977 the Australian Association of Lyceum clubs moved to Adelaide and Myra became Secretary. In 1979 the tri-ennial conference was held in Adelaide. Myra was on the excutive from 1989 to 1994 during which time the Club moved from the IOOF building to 54 Currie St. In 1990 the Australian Association of Lyceum Clubs secretariat returned to Adelaide and a Congress was held at Annesley College in 1991. In 1992 the 25th International Congress took place in Melbourne and Adelaide acted as a pre-Congress host to 50 overseas members. The Club's 50th birthday was celebrated in 1992.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

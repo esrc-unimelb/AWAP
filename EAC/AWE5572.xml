@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5572</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-02-22">2016-02-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Silbert</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5572b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Pike</part>
+<part localType="givenname">Veronica</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-12-08">8 December 1900</fromDate>
+<toDate standardDate="1986-10-02">2 October 1986</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Gosford, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Public servant</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In May 1940, when Veronica Pike was admitted as a solicitor, there were very few woman solicitors in New South Wales. A pioneering woman lawyer, Pike was active in the International Federation of Women Lawyers and the Women Lawyers' Association of New South Wales, of which she was a founding member.</abstract>
+<p>Veronica Pike was born on 8 December 1900 in Sydney. Pike's sister discouraged her from going to university because she would 'only be a schoolteacher', so she joined the New South Wales public service as a shorthand writer and typist. In 1927 she resigned and enrolled in the New South Wales State Conservatorium of Music.</p>
+<p>After her brother, Vincent, was admitted as a solicitor in 1929, Pike became his articled clerk. She interrupted her Solicitors' Admission Board studies in 1935 to travel. Upon her return, Vincent was obliged to leave his practice for medical reasons. Although still unqualified, Veronica conducted the practice under the supervision of the prothonotary. She was admitted as a solicitor on 24 May 1940 and entered into a partnership with her brother. Unusually for a female solicitor, she undertook conveyancing, building and tenancy cases.</p>
+<p>Pike helped found the Women Lawyers' Association of New South Wales. She was president in 1960 and became an honorary life member in 1986. In 1952 she attended the convention of the International Federation of Women Lawyers in Istanbul, Turkey, and was elected vice-president. She attended another convention in New Mexico, USA in 1979. Pike was also a delegate to a women's law conference in Iran in 1974. Pike enjoyed gardening and playing golf, as a member of the Australian Golf Club. A Catholic, she served on the council of the St Thomas More Society in the early 1970s. She died on 2 October 1986 at Gosford.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5568b.htm">
+<relationEntry localType="Corporate Body">
+Women Lawyers Association of New South Wales (1952 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pike, Veronica', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pike, Veronica</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5572b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005841.htm">
+<relationEntry localType="published">Resource Section: Pike, Veronica (1900-1986)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Flynn, Rosslyn</name>
+<title render="quoted">Pike, Veronica (1900-1986)</title>
+<imprint>
+<publisher>National Centre of Biography, Australian National University</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<name type="author">Australian National University</name>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/pike-veronica-15462/text26678"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

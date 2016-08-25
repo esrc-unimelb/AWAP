@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4797</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-06">2012-08-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Dorothy Erickson</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4797b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cooke</part>
+<part localType="givenname">Frederica</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Cooke, Freddie</part>
+</nameEntry>
+<nameEntry localType=""><part>Cooke, Rica</part>
+</nameEntry>
+<nameEntry localType=""><part>Wheeler, Frederica Georgina</part>
+</nameEntry>
+<nameEntry localType=""><part>Glasson, Frederica</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-01-29">29 January 1897</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sandhurst, Victoria</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Midwife</term>
+</occupation>
+</occupations>
+<biogHist>
+<p>Frederica Georgina Wheeler was born on 29th January 1897 to Phoebe Clarke (nee Morgan) a boarding house keeper and Frederick George Wheeler, a commercial traveller, storekeeper and miner. She attended school in Echuca in Victoria and at the age of 18, on 12 October 1888, she married widower Robert Cooke aged 40 in Melbourne. She had two stepdaughters, Jean and Bella and three children of her own, Clive, Phoebe (Tottie) and Frances (Fanny).</p>
+<p>Robert died of bronchitis and pneumonia in 1904 leaving her a young widow with no particular skills to support herself. She trained as a midwife, because as her granddaughter wrote,<br />
+'Faced with the need to support her family she decided against shopkeeping. Domestic service was beneath her dignity.'</p>
+<p>In 1904, leaving her youngest daughter Frances in Victoria, she moved to Boulder in Western Australia to take up her profession. One of her first patients was her daughter Tottie. ' Nurse Cooke attended the birth of over a thousand babies and never lost a mother or a full term child'. She briefly conducted a small private hospital, but most patients preferred to be delivered at home, so she continued to give women that service.</p>
+<p>In March 1917 she married again to a farmer James Glasson but found life on the farm too primitive, so returned to practise midwifery in Boulder and to care for her grandchildren.</p>
+<p>She died in 1955.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1665960">
+<relationEntry>
+Cooke, Frederica (18970129-19551231)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cooke, Frederica', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cooke, Frederica</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4797b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005007.htm">
+<relationEntry localType="published">Book: The Misfortunes of Phoebe</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Erickson, Rica</name>
+<title render="italic">The Misfortunes of Phoebe</title>
+<imprint>
+<place>Carlisle, W.A.</place>
+<publisher>Hesperian Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005039.htm">
+<relationEntry localType="published">Site Exhibition: Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Criena Fitzgerald and National Foundation for Australian Women</name>
+<title render="italic">Karlkurla Gold: A History of the Women of Kalgoorlie-Boulder</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/wikb/wikb-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00538.htm">
+<relationEntry localType="digitalObject">Frederica Cooke, aged 20</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Dorothy Erickson</repository>
+<unittitle>Frederica Cooke, aged 20</unittitle>
+<unitdate>1917</unitdate>
+<note label="rights">Photograph courtesy of Dorothy Erickson. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00532.htm">
+<relationEntry localType="digitalObject">Art and Industry Excellence Certificate awarded to Frederica Cooke</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Dorothy Erickson</repository>
+<unittitle>Art and Industry Excellence Certificate awarded to Frederica Cooke</unittitle>
+<unitdate>1925</unitdate>
+<note label="rights">Photograph courtesy of Dorothy Erickson. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

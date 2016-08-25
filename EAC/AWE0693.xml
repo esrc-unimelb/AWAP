@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0693</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-02">2004-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-04">2015-09-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0693b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Penniment</part>
+<part localType="givenname">Diana Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Thomas, Diana</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+<toDate standardDate="1956-12-31">1956</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Rural women's leader</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Diana Penniment, née Thomas, was born in Adelaide, South Australia. She attended Methodist Ladies College for her secondary education. Her family could not support further studies, so she worked in a bank until her marriage in 1956, when she moved with her husband into a two room cottage on his father's property at Wirrega, near Bordertown. They had four children as the children grew up Diana became involved in public affairs, from school activities and craft groups to helping form a local branch of the Women's Agricultural Bureau (WAB). Diana rose to State President of WAB in 1986. Highlights of her term included organising two international conferences. Diana also sat on the South Australian Rural Advisory Council. In 1991 she decided to focus on local issues and stood for the Tatiara District Council.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0712b.htm">
+<relationEntry localType="Corporate Body">
+Women's Agricultural Bureau of SA Inc.
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743080">
+<relationEntry>
+Penniment, Diana Elizabeth (1936-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Penniment, Diana Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Penniment, Diana Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0693b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001167.htm">
+<relationEntry localType="archival">Interview with Diana Penniment [sound recording] Interviewer: Adair Dunsford</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Diana Penniment [sound recording] Interviewer: Adair Dunsford</unittitle>
+<unitid>OH 250/17</unitid>
+<abstract>Diana Elizabeth Penniment, nee Thomas, was born in Adelaide, South Australia. She attended Methodist Ladies College for her secondary education. Her family could not support further studies, so she worked in a bank until her marriage in 1956, when she moved with her husband into a two room cottage on his father's property at Wirrega, near Bordertown. Diana had four children and she describes her growing involvement in public affairs, from school activities and craft groups to helping form a local branch of the Women's Agricultural Bureau. Diana rose to State President of WAB in 1986. Highlights of her term included organising two international conferences. Diana also explains her long term participation on the South Australian Rural Advisory Council. In 1991 she decided to focus on local issues and stood for the Tatiara District Council. She emphasises the importance of contributing skills and enthusiasm for the betterment of one's community.
+
+Recorded on 27 June 1994, 2 hours.</abstract>
+<physdesc>
+<extent>2 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

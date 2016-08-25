@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00181</recordId>
+<maintenanceStatus>new</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00181b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Major</part>
+<part localType="givenname">Tania</part>
+<part localType="honorific title">Young Australian of the Year 2007</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Kowanyama, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Criminologist</term>
+</occupation>
+<occupation>
+<term>Indigenous youth advocate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Tania Major first came to prominence in 2004 as the youngest person elected to the Aboriginal and Torres Strait Islander Commission. In 2007 she was named Young Australian of the Year. She spoke to opinion makers, the public and government about sexual violence and rape in the Aboriginal community, asking Prime Minister John Howard to help lift the "blanket of shame" that was preventing such assaults being reported.
+
+</abstract>
+<p>The Cairns-based indigenous youth advocate, Tania Major, used her profile to draw attention to domestic violence in  Aboriginal communities. Her forthright way of addressing the problems focused national attention on them.</p>
+<p>She broke the ice of public discussion about a number of issues concerning the welfare of young Indigenous people when she was featured on national television programs such as <span style="font-style:italic">Four Corners</span> and <span style="font-style:italic">60 Minutes</span>. She made some people feel very uncomfortable, and was happy to do so. She spoke directly and very publicly to the prime minister and other opinion leaders about the appalling secrets of domestic violence in her community in the belief that the best way to represent her people was to tell the truth.</p>
+<p>"I'm proud to be an Aboriginal Australian and to have been recognised and acknowledged for the work I'm involved in," Ms Major said.</p>
+<p>In 2009, Tania Major is the only person within her particular community to complete a university degree; indeed, she is the only one to have successfully completed Year 12. Tania has become a role model not only for Indigenous youth, but also for all young Australian's.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765066">
+<relationEntry>
+Major, Tania (1982-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Major, Tania', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Major, Tania</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00181b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00179.htm">
+<relationEntry localType="published">Resource Section: Young Australian, Tania Major</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hill-Douglas, Olivia</name>
+<title render="quoted">Young Australian, Tania Major</title>
+<imprint>
+<place>Melbourne</place>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.theage.com.au/news/national/young-australian-tania-major/2007/01/25/1169594432321.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

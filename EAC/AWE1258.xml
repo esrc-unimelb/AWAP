@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1258</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-07-27">2005-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1258b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Corbett</part>
+<part localType="givenname">Helen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Carnavon, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal administrator</term>
+</occupation>
+<occupation>
+<term>Aboriginal rights activist</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Helen Corbett, of Yinggarda and Bibbulman descent, was educated in Carnarvon, Perth and Sydney. She was Director of Studies at Tranby Aboriginal Cooperative College in Sydney. She also worked as executive officer in the Western Australian Aboriginal Legal Service, the largest of its kind in Australia, operating 13 branches and providing legal services to over 48,000 Aboriginal people in that state.
+
+In 1983 Corbett co-founded the Committee to Defend Black Rights (CDBR), and became its national chairperson. The Committee was at the forefront of a national and international campaign which forced the federal government to establish the Royal Commission into Aboriginal Deaths in Custody. Helen has represented the Committee at national and international meetings, and has travelled widely to advocate indigenous interests. She is also vice-president of the Unrepresented Nations and Peoples Organisation and has received a number of awards and scholarships in recognition of her work.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-742050">
+<relationEntry>
+Corbett, Helen (1953-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Corbett, Helen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Corbett, Helen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1258b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003571.htm">
+<relationEntry localType="published">Conference Paper: Helen Corbett addresses the UN: a presentation by Helen Corbett, National Chairperson of the Committee to Defend Black Rights</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Corbett, Helen</name>
+<title render="quoted">Helen Corbett addresses the UN: a presentation by Helen Corbett, National Chairperson of the Committee to Defend Black Rights</title>
+<imprint>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">United Nations Working Group of Indigenous Peoples Conference, Geneva, August 1989</title>
+<num type="volume">27</num>
+<num type="pages">3</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003572.htm">
+<relationEntry localType="published">Book: Voices from the Land</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Yunupingu, Mandawuy</name>
+<title render="italic">Voices from the Land</title>
+<imprint>
+<place>Sydney</place>
+<publisher>ABC Books</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002455.htm">
+<relationEntry localType="archival">Moodeitj Yorgas (Solid Women)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
+<unittitle>Moodeitj Yorgas (Solid Women)</unittitle>
+<unitid>629203</unitid>
+<unitdate>1989</unitdate>
+<abstract>Documentary Film. A documentary from 1989 about strong, successful Aboriginal women in Western Australia. Includes interviews with Sally Morgan, Lois Olney, Helen Corbett and Helen Dorondorf; stills of Aboriginal people and the land; stories in two Aboriginal languages about life after the coming of the white man. Aboriginal music and dance are presented between the interviews. -- General note: The interviews take the form of continuous portraits with voice-overs that are 'out of sync' with the image, as the director's intention was for the voices to speak for all Aboriginal women.
+
+There is also documentation associated with the production of the film listed in the catalogue.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Video Tape</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

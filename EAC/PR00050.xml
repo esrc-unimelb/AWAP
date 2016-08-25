@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00050</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-18">2009-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Kathleen Bambridge</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-06-29">2015-06-29</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00050b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Port Adelaide Girls Technical High School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Port Adelaide Girls Department</part>
+</nameEntry>
+<nameEntry localType="previous names"><part>The Central School</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-01-01">1925</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Port Adelaide , South Australia, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Educational institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Port Adelaide Girls Technical High School was established from the Port Adelaide Primary School and the Central School for Girls in 1940. In 1962 the school was moved to the a new building opened by Lady Bastyan, the wife of the governor.
+
+</abstract>
+<p>The Port Adelaide Girls Department was part of the Port Adelaide Primary School (1925), while the primary school it self was opened in 1862. The School was known as the Central School. The Port Adelaide Girls Technical High School was established in 1940. The School operated on two sites. In 1962 a new building brought the two sites into one. Lady Bastyan opened the Port Adelaide Girls Technical High School, which was the first time the spouse of the Govenor had opened a school. Principals included Marg Beagley and Carolyne Ryan.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477490">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Port Adelaide Girls Technical High School', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Port Adelaide Girls Technical High School</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00050b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005631.htm">
+<relationEntry localType="published">Magazine: Port Adelaide Girls Technical School magazine</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Port Adelaide Girls Technical School magazine</title>
+<imprint>
+<place>Port Adelaide, South Australia</place>
+<publisher>Port Adelaide Girls Technical School</publisher>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00051.htm">
+<relationEntry localType="archival">Port Adelaide Girls Technical School</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Port Adelaide Girls Technical School</unittitle>
+<abstract>The Port Adelaide Girls Technical School was part of the Port Adelaide Primary School. The primary school was opened in 1862 and the Girls Department was established in 1925. This was also known as the Central School. In 1940 the School was renamed Port Adelaide Girls Technical High School and operated on two sites. In 1962 the new building was opened by Lady Bastyan. This was the first time that the spouse of the Govenor opened a school. The school provided single sex schooling in a mainly working class environment.
+
+The collection has a scrapbook with a list of teachers names and some photographs. The principals included Marg Beagley and Carolyne Ryan. There are some school magazines, education programs and history of the school.</abstract>
+<physdesc>
+<extent>0.819999992847443 m, 15 folders, booklet, scrapbook</extent>
+<physfacet>Booklets, scrapbook, photographs, pamphets</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00095.htm">
+<relationEntry localType="archival">Adelaide Women's Liberation Movement Archive</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Adelaide Women's Liberation Movement Archive</unittitle>
+<unitdate>1984 - 1 March 2009</unitdate>
+<abstract>The Adelaide Women's Liberation Movement Archive was established in 1984 by a concerned group of women who wanted to preserve the history of what was called the second wave of feminism. With the aid of the Community Employment Program and the feminist community memorabilla was collected along with the papers of a variety of groups and individuals. The material was collected from late 1969 through to 2008.</abstract>
+<physdesc>
+<extent>30 m, 4000 </extent>
+<physfacet>Posters, minutes correspondence, flyers, badges, banners, photographs, slides, video and audio tapes, film, daybooks, scrapbooks, financial</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1188</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-25">2005-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1188b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Rankine</part>
+<part localType="givenname">Dorothy Leila</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1932-01-01">1932</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Point McLeay?, South Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal administrator</term>
+</occupation>
+<occupation>
+<term>Aboriginal community worker</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+<occupation>
+<term>Musician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dorothy Leila Rankine, of Ngarrindjeri and Kaurna descent, grew up at Raukkan (Point McLeay) on Lake Alexandrina in South Australia. Her lifelong involvement with music and singing began with her family and the local Salvation Army church. She later became a soldier of the Salvation Army. After completing only primary education she moved to Adelaide in 1965, where she joined the Aboriginal Women's Council and later the Port Adelaide Aboriginal Friendship Club.
+
+In 1972 Rankine became a founding member of the Adelaide Aboriginal Orchestra, which later developed into the Centre for Aboriginal Studies in Music (CASM), of which she was chairperson until her retirement in 1986. She acted as counsellor, liaising with the local Aboriginal community and organising annual camps and concerts. She edited and contributed poems to the journal Tjungaringanyi; was elected chairperson of the urban committee; and was an active singer, trombonist and speaker. She appeared in the films <span style="font-style:italic">Sister, If You Only Knew</span> (1975) and <span style="font-style:italic">Wrong Side of the Road</span> (1980).
+
+Dorothy Leila Rankine served on the boards of the Aboriginal Community College, the Aboriginal Community Centre, and the Aboriginal Sobriety Group. She was a member of the Australia Council, the Aboriginal Artists Agency in Sydney, and the Aborigines Advancement League of South Australia, and was a life board member of Warriappendi Alternative School. She contributed to Aboriginal education curriculum materials for South Australian schools, told Ngarrindjeri stories on ABC television, and was one of the founders of Camp Coorong, a Ngarrindjeri cultural centre.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-723095">
+<relationEntry>
+Rankine, Leila (1932-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rankine, Dorothy Leila', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rankine, Dorothy Leila</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1188b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001955.htm">
+<relationEntry localType="archival">Sister, if you only knew</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>AIATSIS Film Archive</repository>
+<unittitle>Sister, if you only knew</unittitle>
+<unitid>LF0174</unitid>
+<unitdate>1975</unitdate>
+<abstract>Interviews with four South Australians, Gladys Elphick, Ruby Hammond, Mary Williams and Leila Rankine on status and problems of Aboriginal women; Produced by Suzanne Baker; directed by Janet Isaac; edited by Kate Grenville</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Video</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00487</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00487b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Boyle</part>
+<part localType="givenname">Desley</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1948-03-29">29 March 1948</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Newcastle, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Politician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Desley Boyle is an Australian Labor Party politician representing the electoral district of Cairns in the Queensland Legislative Assembly. She was first elected in the 1998 State Election and is currently (2009) the Minister for Local Government and Aboriginal and Torres Strait Islander Partnerships. Desley was formerly Minister for Tourism, Regional Development and Industry, Minister for Child Safety, as well as Minister for Environment, Local Government, Planning and Women. </abstract>
+<p>Desley's Boyles professional background is as a senior psychologist in her own practice, Desley Boyle and Associates. She holds Masters Degrees in Business Administration and Psychology. Desley has a long history of involvement in the Cairns community: from 1988 to 1994 she was on the Cairns City Council, serving for two years as Deputy Mayor.</p>
+<p>Desley has been actively involved with the following organisations:</p>
+<list><item>President, FNQ Employment; </item>
+<item>Chairperson, FNQ Family Resource Service; </item>
+<item>Spokesperson, FNQ Friends of the ABC;</item>
+<item>Board Member, Lifeline FNQ; </item>
+<item>Chairperson, Peninsula and Torres Strait Regional Health Authority; </item>
+<item>Chairperson, Northern Australia Development Council; </item>
+<item>Board Member, Cairns Port Authority.</item>
+<item>Northern Australia Development Council and Lifeline FNQ;</item>
+<item>Australian Institute of Management;</item>
+<item>Cairns Chamber of Commerce;</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754051">
+<relationEntry>
+Boyle, Desley (1948-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Boyle, Desley', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Boyle, Desley</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00487b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00485.htm">
+<relationEntry localType="published">Resource Section: Desley Boyle - State Member for Cairns</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Desley Boyle - State Member for Cairns</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Queensland Labor Party</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Queensland Labor</title>
+<name type="author">Queensland Labor Party</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.qld.alp.org.au/01_cms/details.asp?ID=363"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

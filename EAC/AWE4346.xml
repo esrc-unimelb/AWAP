@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4346</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-24">2009-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4346b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gale</part>
+<part localType="givenname">Kathleen Windeyer</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="nickname"><part>Gale, Winnie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">1890</fromDate>
+<toDate standardDate="1976-08-09">9 August 1976</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Lismore, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Teacher</term>
+</occupation>
+<occupation>
+<term>Headmistress</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kathleen (Winnie) Windeyer Gale established the Audley Girls' School in Killara in the late 1920s.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1909-01-01">1909</fromDate>
+<toDate standardDate="1909-12-31">1909</toDate>
+</dateRange>
+<event>Matriculated Sydney Church of England Grammar School for Girls</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1913-12-31">1913</toDate>
+</dateRange>
+<event>Graduated with a Bachelor of Arts from the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1926-01-01">1926</fromDate>
+<toDate standardDate="1926-12-31">1926</toDate>
+</dateRange>
+<event>Studied at Cambridge Training College for Women</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1928-01-01">c. 1928</fromDate>
+<toDate standardDate="1928-12-31">c. 1928</toDate>
+</dateRange>
+<event>: Opened the Audley Girls' School, Killara, a day and boarding school for girls</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1946-01-01">1946</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+<event>The Audley School closed</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1947-01-01">1947</fromDate>
+<toDate standardDate="1947-12-31">1947</toDate>
+</dateRange>
+<event>Appointed Principal of the Boarding School at Roseville Girls' College, Roseville</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1476836">
+<relationEntry>
+Gale, Kathleen Windeyer (1890-19760809)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gale, Kathleen Windeyer', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gale, Kathleen Windeyer</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4346b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004601.htm">
+<relationEntry localType="published">Book: Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bygott, Ursula and Cable, K. J.</name>
+<title render="italic">Pioneer Women Graduates of the University of Sydney 1881-1921, University of Sydney, Sydney</title>
+<imprint>
+<place>Sydney</place>
+<publisher>University of Sydney</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002359.htm">
+<relationEntry localType="archival">Personal archives of Gale, Kathleen Windeyer [18??-1976]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Personal archives of Gale, Kathleen Windeyer [18??-1976]</unittitle>
+<unitid>P091</unitid>
+<abstract>Contents of the collection include: correspondence and memorabilia (1909-1932); papers relating to the family of Kathleen Windeyer Gale (1831-1934); student notes from the University of Sydney and Cambridge (1910-1926); printed material (1882-1966); and Audley School papers and related printed material (1929 to 1946).</abstract>
+<physdesc>
+<extent>0.7 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

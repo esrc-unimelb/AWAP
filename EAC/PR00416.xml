@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00416</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-22">2009-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00416b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mittelheuser</part>
+<part localType="givenname">Dr Margaret</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Stockbroker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>In 1964 Margaret Mittelheuser secured a place in Australia's financial history when she earned a partnership in the stockbroking firm, Ralph W King &amp; Yuill, becoming Australia's first female stockbroker. Margaret's contribution to finance and the stockbroking industry has been recognised by the award of Membership of the Order of Australia (AM) and with Honorary Doctorates from the University of Queensland and Griffith University. A prestigious prize in her name is awarded every year to the top graduating MBA student at the University of Queensland. Her successful career continued over 50 years and raised many millions of dollars for government and private organisations and she advised many clients on their investments. She retired in 2005 but still likes to maintain a close eye on the market.
+
+Margaret and her sister Katherine have been long time benefactors of the Queensland Art Gallery and the sisters have been honoured by the John Oxley Library, part of the State Library of Queensland, through the naming of the Margaret and Katherine Mittelheuser Reading Lounge.
+
+</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-753073">
+<relationEntry>
+Mittelheuser, Dr Margaret
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mittelheuser, Dr Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mittelheuser, Dr Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00416b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00413.htm">
+<relationEntry localType="published">Resource Section: Dr Margaret Mittelheuser AM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Office for Women, Queensland Government</name>
+<title render="quoted">Dr Margaret Mittelheuser AM</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>State of Queensland</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Our Women Our State: a pictorial history of women's contributions to Queensland, 1859 – 2009</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.women.qld.gov.au/q150/1960/index.html#item-margaret-mittelheuser"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00415.htm">
+<relationEntry localType="published">Resource Section: Keeping in Contact - The Famous Figure</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">University of Queensland</name>
+<title render="quoted">Keeping in Contact - The Famous Figure</title>
+<imprint>
+<place>St Lucia, Queensland</place>
+<publisher>University of Queensland</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Graduate Contact - Winter 2006</title>
+<name type="author">University of Queensland</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.alumni.uq.edu.au/docs/GraduateContactWinter06Pt2.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

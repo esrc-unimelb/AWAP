@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0126</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-09-24">2002-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0126b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Leeson</part>
+<part localType="givenname">Ida Emily</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1885-01-01">1885</fromDate>
+<toDate standardDate="1964-12-31">1964</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Leichhardt, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Librarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ida Emily Leeson (1885-1964) was born at Leichhardt, Sydney, the daughter of Thomas Leeson, a carpenter from Canada, and his Australian born wife Mary Ann, née Emberson. 
+
+Leeson was educated at Leichhardt Public School and Sydney Girl's High School. She graduated with a Batchelor of Arts from the University of Sydney in 1906. In August that year she was appointed library assistant at the Public Library of New South Wales, and in 1909 was transferred to the Mitchell Library. In 1932 she was appointed second Mitchell Librarian. 
+
+In April 1944 Lieutenant Colonel A.A. Conlan secured Ida Leeson's secondment as a research officer in the Directorate of Research, where she was ranked captain, and later major in the Australian Military Forces. She was a member of A.A. Conlan's 'think-tank' which included John Kerr. Leeson did not return to the Mitchell Library, officially resigning in 1946. Toward the end of the war she was appointed librarian-archivist for the School of Civil Affairs, later known as the Australian School of Pacific Administration. In 1949 she went to Noumea to establish the library for the South Pacific Commission, returning to Australia the following year, where she continued to work for the commission in Sydney until 1956.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766099">
+<relationEntry>
+Leeson, Ida Emily (1885-1964)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Leeson, Ida Emily', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Leeson, Ida Emily</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0126b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003949.htm">
+<relationEntry localType="published">Book: Ida Leeson: a life: not a blue-stocking lady</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Martin, Sylvia</name>
+<title render="italic">Ida Leeson: a life: not a blue-stocking lady</title>
+<imprint>
+<place>Crows Nest, NSW</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100318.htm">
+<relationEntry localType="published">Resource Section: Leeson, Ida Emily (1885-1964)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Berzins, Baiba</name>
+<title render="quoted">Leeson, Ida Emily (1885-1964)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A100055b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000433.htm">
+<relationEntry localType="archival">Ros Bowden - interviews with people who knew Ida Leeson, former Mitchell Librarian, 1985</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Ros Bowden - interviews with people who knew Ida Leeson, former Mitchell Librarian, 1985</unittitle>
+<unitid>Z MLOH 23</unitid>
+<unitdate>1985</unitdate>
+<abstract>Collection comprises - 5 cassettes - 4hrs 30mins. Interviews with:
+Arnot, Jean Fleming, 1903-1995
+Conlon, T.J. (Telford James), 1941-
+Conlon, Wilma
+Dix, A. T. (Alexander Thomas), 1927-
+Gollan, Daphne
+Kerr, John, Sir, 1914-1991
+Phelan, Nancy, 1913-</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Sound recording</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

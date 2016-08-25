@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5389</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-06-03">2015-06-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Conway with Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5389b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Conway</part>
+<part localType="givenname">Helen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Schell, Helen</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Public servant</term>
+</occupation>
+<occupation>
+<term>Chief Executive Officer </term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+<occupation>
+<term>Businesswoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Helen Conway is a lawyer with over 30 years' experience in business and, more recently, in the public sector. She spent ten years in private legal practice, including seven years as a partner in a major law firm in Sydney, and then moved into the corporate sector where she worked as a lawyer, company secretary and senior executive in the insurance, transport, energy, retail and construction industries for eighteen years. At the same time, she undertook various directorships in the health, transport and superannuation sectors.</abstract>
+<p>In March 2015, Conway completed her term as CEO of the Australian Government's Workplace Gender Equality Agency. During her term, she stewarded the seamless implementation of new legislation governing the Agency and led the development of the Agency's strategic vision and long-term change agenda for driving improved gender equality outcomes in Australian workplaces. This included delivering world-leading unique standardised benchmark gender data, conducting bold change campaigns and developing innovative educational resources. She re-branded the Agency, positioning it as a light-touch regulator and transforming it into a collaborative, innovative and business-focussed regulator. She took personal responsibility for raising the profile of the Agency, undertaking a broad range of speaking and media engagements and secured bilateral political support for both the Agency and ongoing gender reporting to the Agency.</p>
+<p>Conway has a long track record of undertaking a broad range of voluntary activities including those in support of women. She was a member of the New South Wales Equal Opportunity Tribunal for ten years, including three years as its Senior Judicial Member. She is an expert in workplace gender equality.</p>
+<p>In 2005, Conway was awarded the Australian Corporate Lawyer of the Year by the Australian Corporate Lawyers Association and in 2008 led the team which was awarded the In-house Legal Team of the Year. In 2015, she was inducted into the National Australia Bank/ Women's Agenda Hall of Fame.</p>
+<p>Conway is currently (2015) a director of ReachOut Australia, Australia's leading online mental health service for youth, and a member of the Australian Advisory Board of AON, Australia's leading provider of broking and consulting services relating to risk, insurance, human capital and financial planning. She is also an Honorary Fellow of the Australian Institute of Business and Economics at the University of Queensland.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1665972">
+<relationEntry>
+Conway, Helen (1953-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Conway, Helen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Conway, Helen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5389b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005630.htm">
+<relationEntry localType="published">Article: Law's disappointing gender report card</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mezrani, Leanne</name>
+<title render="quoted">Law's disappointing gender report card</title>
+<imprint>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Lawyers Weekly</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.lawyersweekly.com.au/news/15901-Law-s-disappointing-gender-report-card"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005629.htm">
+<relationEntry localType="published">Article: How Helen Conway took on the establishment and left a valuable pay equity legacy</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gray, Joanne</name>
+<title render="quoted">How Helen Conway took on the establishment and left a valuable pay equity legacy</title>
+<imprint>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Financial Review</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.afr.com/brand/boss/how-helen-conway-took-on-the-establishment-and-left-a-valuable-pay-equity-legacy-20150506-1m07qw"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4295</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-03">2009-09-03</eventDateTime>
+<agentType>human</agentType>
+<agent>isobelle Barrett Meyering and Kathy Switzer</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4295b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ravenswood School for Girls</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-01-01">1901</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Ravenswood School for Girls
+PO Box 59 
+Gordon NSW 2072 
+Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Educational institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Ravenswood School for Girls was founded by Mabel Maude Fidler in 1901. Classes took place in a schoolroom erected on the block adjacent to her home, 'Ravenswood', in Gordon, Sydney. While it was a non-sectarian private day school for girls, boys were enrolled in 1901 but the older ones departed by July the same year. They continued to be enrolled until 1913 in the Infants area and again during the war years but only in Kindergarten.
+
+Fidler sold the school to the Methodist Church in 1924, by which point it had 180 pupils. The school became a Uniting Church school in 1977.
+
+Ravenswood continues to operate today and has an enrolment of 1 130. It has always remained and grown on the original site at Gordon and is a member of the Alliance of Girls' Schools (Australasia).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0101b.htm">
+<relationEntry localType="Person">
+Browne, Grace Johnston (1900 - 1988)
+</relationEntry>
+<descriptiveNote>
+<p>Attended ravenswoog School</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4296b.htm">
+<relationEntry localType="Person">
+Fidler, Mabel Maude (1871 - 1960)
+</relationEntry>
+<descriptiveNote>
+<p>Mabel Fidler was the founding headmistress of Ravenswood School for Girls</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-590987">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ravenswood School for Girls', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ravenswood School for Girls</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4295b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004604.htm">
+<relationEntry localType="published">Resource: Ravenswood School for Girls, 'Our Heritage'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ravenswood School</name>
+<title render="italic">Ravenswood School for Girls, 'Our Heritage'</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.ravenswood.nsw.edu.au/Our-Heritage/Ravenswood-Our-Heritage.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004603.htm">
+<relationEntry localType="published">Book: Ravenswood: educating girls 1901-2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Binns, Marjorie</name>
+<title render="italic">Ravenswood: educating girls 1901-2001</title>
+<imprint>
+<place>Wahronnga, N.S.W</place>
+<publisher>Helicon Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002322.htm">
+<relationEntry localType="archival">Ravenswood Archives</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Ravenswood School for Girls</repository>
+<unittitle>Ravenswood Archives</unittitle>
+<unitid>Contact the archivist</unitid>
+<unitdate>1901 - </unitdate>
+<abstract>The Ravenswood Archives commenced 'officially' in 1988. Lorna Puflett, previously senior librarian until 1985 had accumulated a great deal of material of archival interest and she commenced her new position as the Ravenswood archivist in 1988. The collection contains: paper records dating back to the foundation of the school in 1901; over 9 000 photographs from 1904 onwards; a complete collection of school magazines/year books from 1925; samples of old school uniforms; including hats, ties, badges and sports gear, prize certificates, trophies, examples of pupils work. Ravenswood Archives also runs an Oral History Programme and a 'Women of Ravenswood' collection. Several school class groups visit the Archives annually to learn about the history of the school and for research.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Paper, photographs, fabric/material, digital</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

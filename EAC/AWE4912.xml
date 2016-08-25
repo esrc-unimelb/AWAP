@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4912</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-16">2013-05-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Graeme Sisson, WA Police Historical Society</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4912b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Scott</part>
+<part localType="givenname">Ethel Violet</part>
+<part localType="honorific title">QPM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-08-15">15 August 1911</fromDate>
+<toDate standardDate="1983-01-14">14 January 1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Collie, Western Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Augusta, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Policewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Ethel Scott was the first female police officer in Australia to attain the rank of Inspector. A prominent figure in policing in Western Australia, she was awarded the Queen's Police Medal for distinguished service in 1970.</abstract>
+<p>Ethel Violet Scott was born at Collie, Western Australia, 15 August 1911. She was a Registered Nurse at the time of appointment as a Constable in the WA Police in 1939.</p>
+<p>In 1947 as the number of women police in WA increased it was deemed that they become a separate section and a Sergeant was required to be in charge.</p>
+<p>Ethel Scott was promoted to Sergeant 3rd Class and in 1967 as that Section expanded she attained the rank of Inspector 3rd Class, the first such Commission for any female officer in Australia, and in 1971 was promoted to Superintendent. Again this was an Australian first for any female officer. That same year Ethel Scott was awarded the Queens Police Medal, before retirement on August 15, having served her entire career in the Perth Metropolitan area.</p>
+<p>During this time she was a prominent figure in policing in Western Australia; one of her duties prior to promotion to Sergeant was teaching first aid to recruits at the Police School, now known as the Police Academy. On 14 January 1983, Ethel Scott died while residing in Augusta in the south west of Western Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1665971">
+<relationEntry>
+Scott, Ethel Violet (19110815-19830114)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Scott, Ethel Violet', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Scott, Ethel Violet</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4912b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4743</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-03">2011-02-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan and Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4743b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Rutnam</part>
+<part localType="givenname">Romaine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Rutnam, Verna Romaine</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1947-01-01">1947</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sri Lanka</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Public servant</term>
+</occupation>
+<occupation>
+<term>Trade unionist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Romaine Rutnam was born in Sri Lanka (then Ceylon) in 1947. She immigrated to Australia in 1969, where she has made a significant contribution to Australian public and community life.
+
+Romaine Rutnam enjoyed a career in the public service that extended across three decades and three states and territories, in Sydney, Canberra, Wollongong and Melbourne. She has also been active in the trade union movement on behalf of her public sector colleagues. She contributed to the formation of the Wollongong Workers' Research Centre.
+
+Since establishing a small charitable foundation, The Romaine Rutnam Serendipity Endowment within The Perpetual Foundation Endowment Fund, in 2002, Romaine has been able to assist a variety of organisations. These include Australia21, the Community Environment Network, National Aboriginal and Islander Skills Association (NAISDA)and, most recently, the International Women's Development Agency and the Central Coast Conservatorium - the latter to establish a scholarship for music tuition for an Aboriginal student.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0009b.htm">
+<relationEntry localType="Corporate Body">
+National Foundation for Australian Women (1989 - )
+</relationEntry>
+<descriptiveNote>
+<p>Romaine Rutnam was an early member of the NFAW. She has been a sponsor of Women's History Month.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1514317">
+<relationEntry>
+Rutnam, Romaine (1947-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rutnam, Romaine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rutnam, Romaine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4743b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004875.htm">
+<relationEntry localType="published">Edited Book: Celebrations: Sinhalese and other Sri Lankan women in Canberra: testimonies and memories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Karunarathna, Badra Kamal and Thishanka Karunarathna</name>
+<title render="italic">Celebrations: Sinhalese and other Sri Lankan women in Canberra: testimonies and memories</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Badra Kamal Karunarathna</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004874.htm">
+<relationEntry localType="published">Edited Book: Significant women of the Central Coast 2007: women who have made a difference</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hardy, Margaret</name>
+<title render="italic">Significant women of the Central Coast 2007: women who have made a difference</title>
+<imprint>
+<place>Gosford (NSW)</place>
+<publisher>Multi Arts Confederation and Friends of Caroline Bay Inc</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002550.htm">
+<relationEntry localType="archival">Romaine Rutnam website</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Women's Register</repository>
+<unittitle>Romaine Rutnam website</unittitle>
+<unitdate>July 2006 - February 2010</unitdate>
+<abstract>Personal website of Romaine Rutnam, archived by the Australian Women's Archive Project through the Australian Women's Register in January 2011.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Speeches, Sound files, Digital</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00527.htm">
+<relationEntry localType="digitalObject">Romaine Rutnam</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Romaine Rutnam</unittitle>
+<note label="rights">Image courtesy of Romaine Rutnam. All rights reserved.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

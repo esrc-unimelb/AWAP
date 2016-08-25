@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4356</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-30">2009-09-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-02">2016-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4356b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">O'Reilly</part>
+<part localType="givenname">Susannah Hennessy</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="preferred name"><part>O'Reilly, Susie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1881-01-25">25 January 1881</fromDate>
+<toDate standardDate="1960-06-18">18 June 1960</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Pymble, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+<occupation>
+<term>Obstetrician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Susie O'Reilly was a popular family doctor and renowned as an obstetrician. She was co-founder of the New South Wales Association of Registered Medical Women in 1921 and became life governor of the Rachel Forster Hospital for Women and Children in 1959.</abstract>
+<p>Susie O'Reilly graduated from the University of Sydney with a Bachelor of Science in 1903 and followed up with a Bachelor of Medicine and Master of Surgery in 1905. Her application for a residential post at Sydney Hospital, made in January of that year, was rejected on the basis that there was no suitable accommodation for a female resident medical officer, a decision that caused much controversy in the local press.</p>
+<p>Between 1905-07 she worked as the resident medical officer at Royal Adelaide Hospital, the Queen Victoria Hospital in Melbourne and the Royal Hospital for Women, Paddington, Sydney. She joined her father's medical practice in Pymble, Sydney in 1908.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1921-12-31">1921</toDate>
+</dateRange>
+<event>Co-founder of the New South Wales Association of Registered Medical Women.</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1926-01-01">1926</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Consulting physician, Rachel Forster Hospital for Women and Children</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1948-01-01">1948</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Retired.</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1959-12-31">1959</toDate>
+</dateRange>
+<event>Appointed life governor of the Rachel Forster Hospital for Women and Children.</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0049b.htm">
+<relationEntry localType="Corporate Body">
+Queen Victoria Hospital (1896 - 1977)
+</relationEntry>
+<descriptiveNote>
+<p>O'Reilly was a resident at the Queen Victoria Hospital</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1829b.htm">
+<relationEntry localType="Person">
+Gullett, Lucy Edith (1876 - 1949)
+</relationEntry>
+<descriptiveNote>
+<p>Gullett and O'Reilly were co-founders of the New South Wales Association of Registered Medical Women</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1469180">
+<relationEntry>
+O'Reilly, Susannah Hennessy (18810125-19600618)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'O'Reilly, Susannah Hennessy', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">O'Reilly, Susannah Hennessy</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4356b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004644.htm">
+<relationEntry localType="published">Journal Article: Breaching the bastions. Susannah O'Reilly - pioneer Australian female doctor</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Grose, Kelvin</name>
+<title render="quoted">Breaching the bastions. Susannah O'Reilly - pioneer Australian female doctor</title>
+<imprint>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Medical Journal of Australia</title>
+<num type="issue">169</num>
+<num type="pages">648-650</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100414.htm">
+<relationEntry localType="published">Resource Section: O'Reilly, Susannah Hennessy (Susie) (1881-1961)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mitchell, Ann M., and Steven, Margaret</name>
+<title render="quoted">O'Reilly, Susannah Hennessy (Susie) (1881-1961)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110105b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002101.htm">
+<relationEntry localType="archival">Papers of Dowell O'Reilly</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Papers of Dowell O'Reilly</unittitle>
+<unitid>MLMSS 231</unitid>
+<unitdate>1877 - 1944</unitdate>
+<abstract>Correspondence and cuttings, includes poems by Alexina Wildman, late 1880s (vols. 12-13)</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

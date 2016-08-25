@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4440</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-02-02">2010-02-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4440b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hope</part>
+<part localType="givenname">Laura Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Fowler, Laura Margaret</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1868-05-03">3 May 1868</fromDate>
+<toDate standardDate="1952-09-14">14 September 1952</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mitcham, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>North Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+<occupation>
+<term>Missionary</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Laura Hope was the first woman to graduate in medicine at the University of Adelaide in 1891. She and her husband, Dr Charles Henry Standish Hope, whom she married in 1893, spent most of their medical careers, as self-supporting missionaries in Bengal. They worked at the Australian Baptist Mission at Pubna and at the New Zealand Baptist Mission Hospital, Chandpur, India. They also spent time at the Bengal Baptist Mission at Kalimpong. They retired to Adelaide in 1934.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1468629">
+<relationEntry>
+Hope, Laura Margaret (18680503-19520914)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hope, Laura Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hope, Laura Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4440b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100839.htm">
+<relationEntry localType="published">Resource Section: Hope, Laura Margaret (1868-1952)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jones, Helen</name>
+<title render="quoted">Hope, Laura Margaret (1868-1952)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A140557b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004705.htm">
+<relationEntry localType="published">Book: This mad folly: the history of Australia's pioneer women doctors.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hutton, Neve M. (Marjorie)</name>
+<title render="italic">This mad folly: the history of Australia's pioneer women doctors.</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Library of Australian History</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002404.htm">
+<relationEntry localType="archival">Fowler family : summary record</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Fowler family : summary record</unittitle>
+<unitid>PRG 34</unitid>
+<unitdate>1854 - 1983</unitdate>
+<abstract>Papers of David Fowler, James Fowler, George Swan Fowler, James Richard Fowler, Dr Laura Margaret Hope (nee Fowler), and George Swan Murray Fowler, and comprising letters, legal documents, letterbooks, plans and specifications, photographs, biographical notes and other papers. A later donation comprises papers relating to Dr Laura M Hope and her husband Dr Charles H.S. Hope (series 52-72), her brother James Richard Fowler (a letter, book register and private cash book and ledger, series 73-76), and his grandson David Murray Fowler, comprising letters and telegrams sent to his family while he was serving in the R.A.A.F. in World War II, certificates of discharge, R.A.A.F. instruction notebooks, newspaper cuttings and air pilot's map of south east England (series 77-82). Additional photographs added to series 27, with 11 of these added to the South Australiana Database, and family trees of the Fowler, Millar, Wright, Murray and Rogers families to series 43</abstract>
+<physdesc>
+<extent>4 m</extent>
+<physfacet>manuscript, Typescript, Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

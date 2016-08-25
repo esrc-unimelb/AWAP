@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4157</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-13">2009-05-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4157b.htm</entityId>
+<entityId localType="legal number">ABN 11 069 533 482</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Anglican Deaconess Institution Sydney Limited</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="previous name"><part>The Church of England Deaconess Institution Sydney</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1891-01-01">1891</fromDate>
+<toDate standardDate="1916-12-31">1916</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="previous name"><part>Deaconess House</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1916-01-01">1916</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>Mary Andrews College</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1891-08-17">17 August 1891</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Registered Office
+Suite 702, Level 7, 
+121 Walker St, 
+NORTH SYDNEY NSW 2060
+
+Tel 1300 736 630 
+Fax 1300 736 770 
+Email  mpinchback@adisl.org.a</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>Established in Sydney by Reverand Mervyn Archdale and his wife Martha (who was familiar with the Kaiserwerth deaconess movement in Germany), the Church of England Deaconess Institution began training women 'towards evangelization and furtherance of women's work in the church' in 1891.
+
+Now called the Anglican Deaconess Institution Sydney Limited, the vision of the institution remains much as it was at the time of its first intake, that is: 'Under the leadership of Jesus Christ, to be the nation's most effective Christian organisation for equipping women to spread the gospel and for reaching out to those in need.'</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4156b.htm">
+<relationEntry localType="Concept">
+Deaconess Orders
+</relationEntry>
+<descriptiveNote>
+<p>The Anglican Deaconess Institution Sydney Limited is an Australian deaconess order</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-509662">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Anglican Deaconess Institution Sydney Limited', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Anglican Deaconess Institution Sydney Limited</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4157b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004531.htm">
+<relationEntry localType="published">Book: Caught for Life: The Story of the Anglican Deaconess Order in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tress, Nora</name>
+<title render="italic">Caught for Life: The Story of the Anglican Deaconess Order in Australia</title>
+<imprint>
+<place>Arulen, NSW</place>
+<publisher>Nora Tress</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0979</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-28">2004-05-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-03-28">2014-03-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0979b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Cootamundra Domestic Training Home for Aboriginal Girls</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-01-01">1911</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Cootamundra, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Cootamundra, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Training institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Cootamundra Home began as the Cootamundra hospital, in operation from 1897 to 1910, and reopened in 1911 as the Cootamudra Domestic Training Home for Aboriginal Girls. It was maintained by the Aborigines Welfare Board until 1968. This was the place where Aboriginal girls were placed after forcible removal from their parents under the Aborigines Protection Act of 1909. The idea was to segregate 'part-Aboriginal' children from their families and assimilate them into the mainstream community. The girls were not allowed to remain in any contact with their families, and were later sent to work as domestic servants. The building that housed the Home was later taken over by the Aboriginal Evangelical Fellowship as a Christian vocational, cultural and agricultural training centre called Bimbadeen College.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0977b.htm">
+<relationEntry localType="Person">
+Clayton, Iris (1945 - 2009)
+</relationEntry>
+<descriptiveNote>
+<p>Trainee</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-726097">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cootamundra Domestic Training Home for Aboriginal Girls', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cootamundra Domestic Training Home for Aboriginal Girls</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0979b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002951.htm">
+<relationEntry localType="published">Journal Article: Cootamundra Girls Home: Four Eras of Occupation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kabaila, Peter Rimgaudas</name>
+<title render="quoted">Cootamundra Girls Home: Four Eras of Occupation</title>
+<imprint>
+<date>1995</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Aboriginal Studies</title>
+<num type="issue">1</num>
+<num type="pages">30-39</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001635.htm">
+<relationEntry localType="archival">Cootamundra : the Aboriginal Girls Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Cootamundra : the Aboriginal Girls Home</unittitle>
+<unitid>MS 3321:MS 3322</unitid>
+<abstract>Institutionalisation of Aboriginal children at Cootamundra Girls Home, and its affects on their lives; history of Cootamundra Girls Home; removal of children from families; interviews with Aboriginal women and former staff of Cootamundra; daily life; punishments; girls trained to be domestic servants, and their experiences; Aboriginal protection and welfare policies in New South Wales 
+100 leaves; ill., ports, maps</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001634.htm">
+<relationEntry localType="archival">Oral history of Cootamundra Girls Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Oral history of Cootamundra Girls Home</unittitle>
+<unitid>KABAILA_P02</unitid>
+<abstract>Interviews conducted as part of research project on Cootamundra Girls Home 
+Field tape number(s): PK1-PK9; Field tape description(s): 9 x cassettes; Field tape speed(s) 4.75; Mono 
+Kabaila, Peter deposited on 19 September 1994</abstract>
+<physdesc>
+<extent>9 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001633.htm">
+<relationEntry localType="archival">Cootamundra Girls Home and Former Residents</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Cootamundra Girls Home and Former Residents</unittitle>
+<unitid>KABAILA.P3.BW (N5882)</unitid>
+<abstract>Kabaila, Peter R. (coll.) deposited 1994</abstract>
+<physdesc>
+<extent>20 </extent>
+<physfacet>Copynegatives</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001631.htm">
+<relationEntry localType="archival">Cootamundra Girls Home and former residents</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Cootamundra Girls Home and former residents</unittitle>
+<unitid>KABAILA.P3.BW (N5882)</unitid>
+<abstract>A collection of photographs taken at Cootamundra Girls Home. Collection includes historical images of group portraits, education and recreation activities along with more contemporary scenes showing demolition work on the old home as well as photo portraits of former residents and staff.
+Photographs taken between c1920 and 1994 at Cootamundra, NSW. 
+20 copynegatives: b&amp;w; 35mm 
+Peter Kabaila; deposited 18 October 1994</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001630.htm">
+<relationEntry localType="archival">Cootamundra Girls Home and former residents</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</repository>
+<unittitle>Cootamundra Girls Home and former residents</unittitle>
+<unitid>KABAILA.P2.CS (115058-115117)</unitid>
+<abstract>A collection of photographs taken at the site of the old Cootamundra Girls Home. Collection includes internal and external views of buildings as used by current occupants (Bimbadeen College) as well as derelict sections and artefacts dating from the 1940's. Photo portraits of some former residents are also included.
+84 slides: b&amp;w; 35mm
+Peter Kabaila; deposited 29 September 1994</abstract>
+<physdesc>
+<extent>84 </extent>
+<physfacet>Slides</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

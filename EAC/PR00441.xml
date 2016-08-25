@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00441</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-07">2009-10-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00441b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">McAleer</part>
+<part localType="givenname">Margaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1930-02-16">16 February 1930</fromDate>
+<toDate standardDate="1999-03-30">30 March 1999</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Perth, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>From 1974 to 1993 Margaret McAleer served in the Parliament of Western Australia. She was the first non-Labor member of the Legislative Council, and served as Whip from 1980 to 1993.
+
+</abstract>
+<p>Margaret McAleer was born in 1930 to medical practitioner James McAleer and his wife Kathleen. Margaret was educated at Stella Maris College in Geraldton, Western Australia, then at Loreto Convent in Claremont, Perth. She completed a Bachelor of Arts with Honours (History) at the University of Melbourne, and during this time became a member of the Liberal Party of Australia. She travelled to Europe in 1951, then returned to Perth and studied at the University of Western Australia.</p>
+<p>During the mid-1950s, McAleer became a director of the Woopenatty Pastoral Company, and through the 1960s was actively involved in farming with her brother at Arrino near Three Springs, about 300 kilometers north of Perth, Western Australia. She served for seven years on the Three Springs Shire Council, and was also a member of the Pastoralists and Graziers' Association, Farmers' Union, Country Women's Association, Business and Professional Women's Association and Karrakatta Club.</p>
+<p>In May 1974 Margaret McAleer became the first female non-Labor politician to sit in the Legislative Council, after an unsuccessful attempt to enter the Senate in 1970. McAleer's extensive farming experience ensured that the needs of her rural constituency were always high on her Parliamentary agenda. She was re-elected for the Upper West Province in 1980 and 1986 and then for the Agricultural Region in 1989. From 1980 to 1983 she held the position of Government Whip, and was Opposition Whip from 1983 to 1993. In 1990 McAleer served as Assistant Shadow Minister for Women's Interests, and was also member of a Commonwealth Parliamentary Association delegation to Zimbabwe.She retired from politics when her term expired in May 1993.</p>
+<p>In 1985, McAleer married Angus Cameron, who died in 1988. Margaret McAleer died in 1999 after a long illness.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1477485">
+<relationEntry>
+McAleer, Margaret (19300216-19990330)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McAleer, Margaret', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McAleer, Margaret</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00441b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00735.htm">
+<relationEntry localType="published">Edited Book: Biographical Register of Members of the Parliament of Western Australia, Vol. 2, 1930-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Bolton, Geoffrey </name>
+<title render="italic">Biographical Register of Members of the Parliament of Western Australia, Vol. 2, 1930-1990</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Western Australian Parliamentary History Project</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00734.htm">
+<relationEntry localType="published">Book Section: Making a Difference: Women in the West Australian Parliament 1921-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Black, David and Phillips, Harry </name>
+<title render="quoted">Making a Difference: Women in the West Australian Parliament 1921-1999</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Parliament of Western Australia</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/PR00442.htm">
+<relationEntry localType="archival">Interview with Margaret McAleer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Interview with Margaret McAleer</unittitle>
+<unitid>OH2581/8 </unitid>
+<unitdate>c. 1930 - c. 1993</unitdate>
+<abstract>During the interview Ms McAleer talked of her early life and influences. She also discussed in detail her political career, including campaigning; her work in Parliament and on parliamentary committees; the role of Whip ; political issues and politicians; and the role of women in Parliament.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>10 sound cassettes; Transcript - 164 pages</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

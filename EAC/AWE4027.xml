@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4027</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-01-28">2009-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4027b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cooper</part>
+<part localType="givenname">Lilian Violet</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1861-08-11">11 August 1861</fromDate>
+<toDate standardDate="1947-08-18">18 August 1947</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Clapham, England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Kangaroo Point, Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Surgeon</term>
+</occupation>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Described as 'a tall, angular, brusque, energetic woman, prone to bad language'. Lilian Cooper completed her medical training, despite opposition from her parents, at the London School of Medicine for Women in 1890. She travelled to Australia in 1891, settling in Brisbane, Queensland, where she became the first female doctor registered in Queensland. Some years later, she travelled back to Europe, via the United States. She received a doctorate of medicine from the University of Durham in June 1912. 
+
+Cooper settled again in Brisbane after the the end of the Great War and established a large and successful practice. In 1926 she bought a house called Old St Mary's in Main Street, Kangaroo Point, Brisbane and settled there in semi-retirement, becoming a foundation fellow of the Royal Australasian College of Surgeons in 1928. She retired in 1941 and died in her home on 18 August 1947.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/PR00318b.htm">
+<relationEntry localType="Person">
+Bedford, Mary Josephine  (1861 - 1955)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763058">
+<relationEntry>
+Cooper, Lilian Violet (1861-1947)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cooper, Lilian Violet', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cooper, Lilian Violet</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4027b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100162.htm">
+<relationEntry localType="published">Resource Section: Cooper, Lilian Violet (1861-1947)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Leggett, C. A. C.</name>
+<title render="quoted">Cooper, Lilian Violet (1861-1947)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080116b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00317.htm">
+<relationEntry localType="published">Resource Section: Lilian Violet Cooper</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cazalar, Lorraine </name>
+<title render="quoted">Lilian Violet Cooper</title>
+<imprint>
+<publisher>Griffith University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Memories</title>
+<name type="author">Griffith University</name>
+</bibseries>
+<extptr linktype="simple" href="http://eresearch.griffith.edu.au/brisbanememories/index.php/Lilian_Violet_Cooper"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00315.htm">
+<relationEntry localType="published">Resource Section: Lilian Cooper and Josephine Bedford: Lifelong companions who travelled against the tide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Library of Queensland</name>
+<title render="quoted">Lilian Cooper and Josephine Bedford: Lifelong companions who travelled against the tide</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>State Library of Queensland</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Travelling for love</title>
+<name type="author">State Library of Queensland</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.slq.qld.gov.au/whats-on/exhibit/online/travelling/cooper_bedford"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00314.htm">
+<relationEntry localType="published">Book Section: Cooper, Lilian Violet (1861-1947) and Bedford, Mary Josephine (1861-1955)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moore, C. R.</name>
+<title render="quoted">Cooper, Lilian Violet (1861-1947) and Bedford, Mary Josephine (1861-1955)</title>
+<imprint>
+<place>London</place>
+<publisher>Routledge</publisher>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Who's Who in Gay and Lesbian History from Antiquity from World War II</title>
+<name type="author">R. Aldrich and G. Wotherspoon (eds) </name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004359.htm">
+<relationEntry localType="published">Resource Section: Lilian Violet Cooper: 1861 -1947 Queensland's First Female Medical Practitioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cazalar, Lorraine</name>
+<title render="quoted">Lilian Violet Cooper: 1861 -1947 Queensland's First Female Medical Practitioner</title>
+<imprint>
+<publisher>Griffith University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Memories</title>
+<name type="author">Griffith University Centre for Public Culture and Ideas and Brisbane City Council Library Service</name>
+</bibseries>
+<extptr linktype="simple" href="http://eresearch.griffith.edu.au/brisbanememories/index.php/Lilian_Violet_Cooper"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00316.htm">
+<relationEntry localType="published">Resource Section: Lesbians in 1900s Brisbane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Carole Ferrier</name>
+<title render="quoted">Lesbians in 1900s Brisbane</title>
+<imprint>
+<place>St Lucia</place>
+<publisher>University of Queensland</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Centenary of Queensland Women's Suffrage</title>
+<name type="author">Centre for Research on Women, Gender, Culture and Social Change</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.emsah.uq.edu.au/awsr/Act_Centenary/lesbianbrisbane.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00272.htm">
+<relationEntry localType="digitalObject">Portrait of Doctor Lilian Violet Cooper, 1861-1947</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Portrait of Doctor Lilian Violet Cooper, 1861-1947</unittitle>
+<note label="rights">Item is held by John Oxley Library, State Library of Queensland. Refer to catalogue record for copyright restrictions.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

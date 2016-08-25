@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3123</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-07-02">2008-07-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3123b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Holmes</part>
+<part localType="givenname">Pat</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Stuart, Pat</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-03-17">17 March 1915</fromDate>
+<toDate standardDate="1992-10-25">25 October 1992</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Photographer</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Photo journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Pat Holmes is thought to be the first full-time female photographer on an Australian newspaper.</abstract>
+<p>Holmes was educated at Frensham, later the Winifred West School, where she was encouraged by West to pursue a career in photography. There, in the late 1920s, she met photographer Harold Cazneaux, who was compiling a pictorial record of the school environment (<span style="font-style:italic">The Frensham Book</span>). When Holmes left school in 1931, she approached Cazneaux to teach her photography, and she worked in his Roseville studio for two years.</p>
+<p>In 1937, Holmes became a member of the first Australian Women's Cricket team to tour England. A keen sportswoman, she scored 176 runs in the three tests played. She remained in England until 1939, working in a London printing studio. On her return to Australia, Holmes continued working on her own commissions at home. She searched for employment in Sydney photographic studios for a year before finding work with Monte Luke in Castlereagh Street. In 1943 she was offered a job by Associated Press, and joined the staff of <span style="font-style:italic">The Sun</span> as a press photographer. She left the paper in 1948, shortly before she married.</p>
+<p>Holmes died in Sydney in 1992, survived by three children and six grandchildren.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3762b.htm">
+<relationEntry localType="Person">
+West, Winifred May (1881 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763078">
+<relationEntry>
+Holmes, Pat (1915-1992)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Holmes, Pat', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Holmes, Pat</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3123b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003963.htm">
+<relationEntry localType="published">Book: Australian Women Photographers 1840 - 1960</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hall, Barbara and Jenni Mather</name>
+<title render="italic">Australian Women Photographers 1840 - 1960</title>
+<imprint>
+<place>Richmond, Victoria</place>
+<publisher>Greenhouse Publications</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001063.htm">
+<relationEntry localType="published">Edited Book: Heritage : the national women's art book, 500 works by 500 Australian women artists from colonial times to 1955</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kerr, Joan</name>
+<title render="italic">Heritage : the national women's art book, 500 works by 500 Australian women artists from colonial times to 1955</title>
+<imprint>
+<place>Roseville East, NSW</place>
+<publisher>Craftsman House</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00253.htm">
+<relationEntry localType="digitalObject">New Year's Eve, Kings Cross, 1946</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>New Year's Eve, Kings Cross, 1946</unittitle>
+<abstract>Reprodcution of a photo taken by Pat Holmes, as seen in Kerr, Joan, <span style="font-style:italic">Heritage: The Australian National Women's Art Book </span></abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

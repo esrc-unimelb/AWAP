@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0917</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-20">2004-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-07">2015-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0917b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bright</part>
+<part localType="givenname">Elizabeth Holden</part>
+<part localType="honorific title">Lady</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Flaxman, Elizabeth</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Camberwell, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lady Elizabeth Bright, the daughter of Herbert Boyd and Annie (née Holden) Flaxman graduated from Melbourne University in medicine in 1937. She became a resident at the Queen Victoria Hospital for women and children. She moved to the Adelaide Children's Hospital in 1939, met Charles Bright and was married in 1940. During the War Bright worked as a locum and did the medical examinations for the Women's Australian National Service (WANS) recruits. She wrote "The Diary of a woman Doctor" for the <span style="font-style:italic">Advertiser</span>. She became the honorary medical officer for the Kindergarten Union of South Australia and was on the Social Welfare Committee of the Red Cross. Bright travelled extensively with her husband, Sir Charles Bright. She became patron of the South Australian branch of the Women Writer's Association from 1982 to 1991 and in 1983 published a book written by her late husband called <span style="font-style:italic">The confidential clerk</span> about Charles Flaxman and George Fife Angas.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763087">
+<relationEntry>
+Bright, Elizabeth Holden (1914-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bright, Elizabeth Holden', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bright, Elizabeth Holden</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0917b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002775.htm">
+<relationEntry localType="published">Book: The confidential clerk : a study of Charles Flaxman in South Australia and his relationship with George Fife Angas</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bright, Charles, Sir, 1912-1983</name>
+<title render="italic">The confidential clerk : a study of Charles Flaxman in South Australia and his relationship with George Fife Angas</title>
+<imprint>
+<place>[Adelaide]</place>
+<publisher>Elizabeth H. Bright</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001502.htm">
+<relationEntry localType="archival">Interview with Lady Elizabeth Bright [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Lady Elizabeth Bright [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/45</unitid>
+<unitdate>22 September 1992</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Lady Elizabeth Bright was born in Melbourne and graduated from Melbourne University in medicine in 1937. She became a resident at the Queen Victoria Hospital for women and children. She moved to the Adelaide Children's Hospital in 1939, met Charles Bright and was married in 1940. During the War Elizabeth worked as a locum and did the medical examinations for the WANS recruits. She wrote "The Diary of a woman Doctor" for the Advertiser. She became the honorary medical officer for the Kindergarten Union of SA and was on the Social Welfare Committee of the Red Cross. Elizabeth travelled extensively with her husband who was a lawyer. She became patron of the SA branch of the Women Writer's Association from 1982 to 1991 and in 1983 published a book written by her late husband called 'The confidential clerk' about Charles Flaxman and George Fife Angas.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

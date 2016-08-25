@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4340</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-22">2009-09-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Vanessa Goodwin (with Rosemary Francis)</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4340b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Goodwin</part>
+<part localType="givenname">Vanessa</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1969-04-22">22 April 1969</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Hobart, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Politician</term>
+</occupation>
+<occupation>
+<term>Criminologist</term>
+</occupation>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Attorney-General</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Vanessa Goodwin is the Tasmanian Attorney-General and Minister for Justice, Minister for Corrections, Minister for the Arts and Leader of the Government in the Legislative Council. She was elected to the Legislative Council as the Member for Pembroke in August 2009 and was the Shadow Attorney-General and Shadow Minister for Corrections from September 2009 until the State Election in March 2014, after which she was appointed to her current roles.</abstract>
+<p>Vanessa Goodwin was born in Hobart in 1969, the only child of Edyth and Grant Goodwin. She attended St Michael's Collegiate School and then completed an Arts/Law degree at the University of Tasmania, followed by the Legal Practice Course. She spent two years as a Judges Associate to then Chief Justice of the Supreme Court of Tasmania, the Honourable Sir Guy Green AC KBE CVO, before being admitted as a legal practitioner in 1995.</p>
+<p>After working briefly for the Tasmanian Branch of the Australian Hotels Association, Goodwin worked full-time in the family boarding kennel and cattery business while her mother was undergoing treatment for cancer. In January 1996 she was employed as the research assistant to then Governor, Sir Guy Green and continued in that role until September 1996 when she commenced her Master of Philosophy (Criminology) at the University of Cambridge.</p>
+<p>After successfully completing her Masters in Criminology, Goodwin returned to Tasmania and commenced working within the Department of Police and Emergency Management (DPEM), where she remained until her election to Parliament in 2009. During this period, Goodwin completed her PhD, Residential Burglary and Repeat Victimisation in Tasmania, through the University of Tasmania. As part of her research, she conducted interviews with 60 imprisoned burglars, with the findings from her interviews attracting national media interest.</p>
+<p>Goodwin played a key role in the development and implementation of the U-Turn program in Tasmania. This program targeted young people aged 15-20 who were at risk of, or involved in, motor vehicle theft. The core of the program was a 10-week automotive training course, with case management to address risk factors and a focus on literacy and numeracy support. The program was delivered by Mission Australia, under contract to DPEM, and based on a best practice model developed by the National Motor Vehicle Theft Reduction Council.</p>
+<p>In addition to her work managing crime prevention projects and developing policy advice at DPEM, Goodwin conducted post-doctoral research on intergenerational crime through the Tasmanian Institute of Law Enforcement Studies. The criminal histories of six extended families over at least three generations were examined to determine the extent to which crime was concentrated in these families and to explore the linkages with other problem behaviours, including child abuse and neglect. Goodwin collaborated with the Australian Institute of Criminology to explore the role of gender in the intergenerational transfer of criminality within the families.</p>
+<p>Goodwin has a strong interest in sentencing and prison reform. She is pursuing legislative reforms in relation to sex offender sentencing, family violence, alternative sentencing options and to update Tasmania's dangerous criminal provisions. She has also committed to the establishment of a Tasmanian Custodial Inspectorate.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1472470">
+<relationEntry>
+Goodwin, Vanessa (19690422-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Goodwin, Vanessa', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Goodwin, Vanessa</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4340b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

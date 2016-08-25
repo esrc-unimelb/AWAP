@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5434</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-10-06">2015-10-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Mcdonnell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5434b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Macdonnell</part>
+<part localType="givenname">Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>North Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Public servant</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Macdonnell is a lawyer with extensive experience in public sector administration. She grew up in North Queensland and is a graduate of the James Cook University and of the Queensland University of Technology (QUT).
+
+Macdonnell's public sector career commenced as a graduate clerk with the Department of Defence in 1975 and thereafter she advanced to senior managerial positions in internal audit, corporate services, disability services and aged care programs in the then Departments of Social Security; Community Services; Community Services and Health. She was the first woman appointed to many of those positions.
+
+Macdonell was admitted to practise as a barrister in 1987 and was the recipient of the James Archibald Douglas prize for the outstanding reader of her Bar Practice Course. Having accepted an offer of employment with Henderson Trout, she was admitted as a solicitor in 1989. In 1990, she became the first head of the Queensland Office of State Revenue and served in that role for five years. She subsequently served as a General Manger of Victoria Legal Aid before returning to Queensland in 1998 as Director-General of the Department of Justice and Attorney-General.
+
+In 2000, Mcdonnell was named the Outstanding Alumni for Law by QUT. At the end of 2000,she returned to Victoria as a partner with Clayton Utz before joining the Victorian Bar in 2003 where she continued to practise public law. In 2010, Mcdonnell was appointed the Principal Member of the Social Security Appeals Tribunal (SSAT) and served in that role until the SSAT amalgamated with the Administrative Appeals Tribunal on 1 July 2015.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1665963">
+<relationEntry>
+Macdonnell, Jane
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Macdonnell, Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Macdonnell, Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5434b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005752.htm">
+<relationEntry localType="published">Book Section: Jane Mcdonnell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cohen, Kay</name>
+<title render="quoted">Jane Mcdonnell</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Supreme Court of Queensland Library</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">A Woman's Place: 100 Years of Queensland Women Lawyers</title>
+<name type="author">Susan Purdon and Aladin Rahemtula</name>
+<num type="pages">pp 341 - 346</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

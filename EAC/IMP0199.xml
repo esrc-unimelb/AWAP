@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0199</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-22">2002-10-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-19">2015-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0199b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Torney</part>
+<part localType="givenname">Vera Alexandra</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Berry, Vera</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1916-07-27">27 July 1916</fromDate>
+<toDate standardDate="2006-06-19">19 June 2006</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>St Arnaud, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>On 12 February 1942 the <span style="font-style:italic">Empire Star</span> sailed from Singapore harbour. The ship which normally had an allocation of space for 20 passengers was carrying over 2100 people. While on route to Batavia, the ship came under enemy fire and received three direct hits. During one of the raids, two of the Australian nursing staff on board, Sister Vera A Torney and Margaret Anderson came on deck to attend to the wounded. They protected their patients by covering them with their bodies. Staff Nurse Vera Torney was appointed a Member of the Order of the British Empire (Military) on 22 September 1942 for her work with the Australian Army Nursing Service. Staff Nurse Margaret Anderson received the George Medal.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1945-09-11">11 September 1945</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: VX63846</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0436b.htm">
+<relationEntry localType="Person">
+Anderson, Margaret Irene (1915 - 2009)
+</relationEntry>
+<descriptiveNote>
+<p>Staff nurse in the Australian Army Nursing Service who was awarded a decoration for Bravery when the ship <span style="font-style:italic">Empire Star</span> was attacked by enemy aircraft</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756077">
+<relationEntry>
+Torney, Vera Alexandra (1916-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Torney, Vera Alexandra', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Torney, Vera Alexandra</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0199b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002482.htm">
+<relationEntry localType="published">Resource Section: Berry, Vera Alexandra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Deptament of Veterans' Affairs</name>
+<title render="quoted">Berry, Vera Alexandra</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=470771"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001923.htm">
+<relationEntry localType="published">Book: Just wanted to be there : Australian Service Nurses 1899-1999</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reid, Richard</name>
+<title render="italic">Just wanted to be there : Australian Service Nurses 1899-1999</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth Department of Veterans' Affairs</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001436.htm">
+<relationEntry localType="published">Book: Twentieth-Century Women of Courage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Escott, Beryl E</name>
+<title render="italic">Twentieth-Century Women of Courage</title>
+<imprint>
+<place>Gloucestershire (UK)</place>
+<publisher>Sutton Publishing</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000892.htm">
+<relationEntry localType="published">Book: Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bassett, Jan</name>
+<title render="italic">Guns and brooches : Australian Army Nursing from the Boer War to the Gulf War</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000229.htm">
+<relationEntry localType="published">Book: Australian women at war</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adam-Smith, Patsy</name>
+<title render="italic">Australian women at war</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Nelson</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000701.htm">
+<relationEntry localType="archival">Army Medical &amp; Dental Corps. Nurses and Specialists [Applications for Australian Army Nursing Service (A.A.N.S.)] - V A Torney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Army Medical &amp; Dental Corps. Nurses and Specialists [Applications for Australian Army Nursing Service (A.A.N.S.)] - V A Torney</unittitle>
+<unitid>MP508/1</unitid>
+<unitdate>September 1944</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000653.htm">
+<relationEntry localType="archival">Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</unittitle>
+<unitid>5192464</unitid>
+<unitdate>1942</unitdate>
+<abstract>George Medal (Staff Nurse M.Anderson, Staff Nurse V. Torney). Award to Torney changed to MBE.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000510.htm">
+<relationEntry localType="archival">Army Medical &amp; Dental Corps. Nurses and Specialists</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Melbourne  Office</repository>
+<unittitle>Army Medical &amp; Dental Corps. Nurses and Specialists</unittitle>
+<unitid>MP508/1 - Control Symbol 21/723/531</unitid>
+<unitdate>1940</unitdate>
+<abstract>[Applications for Australian Army Nursing Service (A.A.N.S.)] - V A Torney</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000509.htm">
+<relationEntry localType="archival">Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Honours and Awards - Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</unittitle>
+<unitid>Control Symbol 1</unitid>
+<unitdate>1942</unitdate>
+<abstract>Recommendations for Immediate award Staff Nurse Margaret Anderson and Staff Nurse Vera Torney</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00027.htm">
+<relationEntry localType="digitalObject">Sister Vera Torney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Sister Vera Torney</unittitle>
+<unitid>ART22212</unitid>
+<unitdate>1943</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>PR00789</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-25">2009-11-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Lisa MacKinney</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/PR00789b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Stannage</part>
+<part localType="givenname">Miriam Helen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-01-01">1939</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Northam, Western Australia , Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Artist</term>
+</occupation>
+<occupation>
+<term>Photographer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Miriam Stannage was born in Northam, Western Australia, in 1939, and is a painter, photographer and printmaker. She travelled to Europe and the USA in the early 1960s, returning to Perth influenced by 'new developments in geographical abstraction.' Stannage studied with William Boissevain from 1963–4, then with Henry Froudist from 1965–8, as well as at Claremont Technical College, Perth. Extensive travels in the Australian bush are evident in her work, which also often uses text in order enhance her particular form of social commentary. Stannage's first solo exhibition was in 1969 at the Old Fire Station Gallery, Perth, and she has since exhibited in major galleries across Australia. Her work is held in the National Gallery of Australia, Canberra.  
+</abstract>
+
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-538592">
+<relationEntry>
+Stannage, Miriam (1939-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stannage, Miriam Helen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stannage, Miriam Helen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/PR00789b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00795.htm">
+<relationEntry localType="published">Journal Article: On Seeing: The Art of Miriam Stannage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Snell, Ted </name>
+<title render="quoted">On Seeing: The Art of Miriam Stannage</title>
+<imprint>
+<place>Fremantle, Western Australia</place>
+<publisher>Praxis Incorporated</publisher>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">Praxis M</title>
+<num type="volume">23</num>
+<num type="pages">pp. 10-15.</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00794.htm">
+<relationEntry localType="published">Journal Article: Locating Miriam Stannage: An Interview by Gordon Bull</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bull, Gordon</name>
+<title render="quoted">Locating Miriam Stannage: An Interview by Gordon Bull</title>
+<imprint>
+<place>Fremantle, Western Australia</place>
+<publisher>Praxis Incorporated</publisher>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">Praxis M</title>
+<num type="volume">23</num>
+<num type="pages">pp. 4-9.</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00790.htm">
+<relationEntry localType="published">Journal Article: Miriam Stannage: Perception, 1968-1989 perceptive perceptions perceived</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hutchings, Patrick</name>
+<title render="quoted">Miriam Stannage: Perception, 1968-1989 perceptive perceptions perceived</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>Department of English, University of Western Australia</publisher>
+<date>1989</date>
+</imprint>
+<bibseries>
+<title render="italic">Westerly: A Quarterly Review</title>
+<num type="pages">45-51</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00792.htm">
+<relationEntry localType="published">Book: New McCulloch's Encyclopedia of Australian Art</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCulloch, Alan; McCulloch, Susan; McCulloch, Emily Childs</name>
+<title render="italic">New McCulloch's Encyclopedia of Australian Art</title>
+<imprint>
+<place>Fitzroy, Victoria</place>
+<publisher>Aus Art Editions in association with The Miegunyah Press</publisher>
+<date>2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/PR00791.htm">
+<relationEntry localType="published">Book: The Painted Image: Twenty Western Australian Painters</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Snell, Ted [ed.]</name>
+<title render="italic">The Painted Image: Twenty Western Australian Painters</title>
+<imprint>
+<place>Bentley, Western Australia</place>
+<publisher>Visual Culture Research Unit, Curtin University of Technology</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

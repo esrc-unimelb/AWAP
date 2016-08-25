@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0412</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-12-12">2002-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0412b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Verinder</part>
+<part localType="givenname">Dulcie Elizabeth</part>
+<part localType="honorific title">Colonel, NM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Colonel Dulcie Verinder's appointment was "Head of Corps", rather than Director. She graduated from the first WRAAC Officer Cadet Course in December 1952, and served in various capacities with the  WRAAC,  including five years as Chief Instructor at the WRAAC School. 
+
+In 1976 Dulcie Verinder was promoted to Colonel. At that time she was the only female officer to have been promoted to Colonel for appointment outside her Corps. 
+
+Colonel Dulcie Elizabeth Verinder was Head of the Women's Royal Australian Army Corps from 1979 until 1981. On 14 July 1977 she was awarded the National Medal.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0388b.htm">
+<relationEntry localType="Corporate Body">
+Women's Royal Australian Army Corps (WRAAC) (1951 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Head of Corps</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743076">
+<relationEntry>
+Verinder, Dulcie Elizabeth
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Verinder, Dulcie Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Verinder, Dulcie Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0412b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001815.htm">
+<relationEntry localType="published">Book: Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ollif, Lorna</name>
+<title render="italic">Colonel Best and her soldiers: The Story of the 33 years of the Women's Royal Australian Army Corps</title>
+<imprint>
+<place>Hornsby, NSW</place>
+<publisher>Ollif Publishing Company</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001891.htm">
+<relationEntry localType="published">Book: A Stroll down memory lane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">WRAAC Association</name>
+<title render="italic">A Stroll down memory lane</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000595.htm">
+<relationEntry localType="archival">[Biographical cuttings on Dulcie Verinder, Colonel, Womens Royal Australian Army Corps.]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Dulcie Verinder, Colonel, Womens Royal Australian Army Corps.]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000807.htm">
+<relationEntry localType="archival">A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<abstract>Mosman, Sydney. 2 April 1966. A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000707.htm">
+<relationEntry localType="archival">Queens Birthday 1971</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Queens Birthday 1971</unittitle>
+<unitid>AWM119</unitid>
+<unitdate>1970 - 1971</unitdate>
+<abstract>Queens Birthday 1971 [Brig P L Tancred; Col D F W Engel; Lt-Col S L Devlin; Lt-Col J F Patrick; Maj J Copeman; Maj E K Hales; Maj F McAskill; Maj S J Gardner; Capt W Kelly; Capt D J Lobb; WOI A J Bowie; WOII J Creamer; WOII W D Kennedy; WOII A E Weaven; WOII C A Henwood; Sgt R Donaldson; S/Sgt R J Green; Sgt J A Wallace; Sgt A Awibabara; Sgt M Martin; Sgt J T Neilson; Sgt R J Tasker; Cpl P H Wilson; Capt N C James; WOII W D Kennedy; WOI L Wildman; Cpl B Wain; Maj D E Verinder; WOII L R Symons; S/Sgt A A Skinner; Capt L R Smith; Lt-Col R B Rogers]</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00052.htm">
+<relationEntry localType="digitalObject">Women's Royal Australian Army Corps (WRAAC) officers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Women's Royal Australian Army Corps (WRAAC) officers</unittitle>
+<unitid>SMT/66/0042/EC</unitid>
+<unitdate>2 April 1966</unitdate>
+<abstract>A pre-dinner chat for Women's Royal Australian Army Corps (WRAAC) officers, left to right: Major Lucy Crane of Eastern Command, Sydney; Colonel Dawn Jackson, Director of WRAAC; Honorary Colonel May Douglas, WRAAC Honorary Colonel, and Major Dulcie Verender, Chief Instructor of the WRAAC. They were among fifty officers at a dining out night at the WRAAC Officer School, Mosman, in honour of Colonel Douglas, who retires this week. Guests at the dinner represented all States of Australia. Mosman, Sydney</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

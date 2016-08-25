@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4159</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-14">2009-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4159b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Society of the Sacred Advent</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1892-01-01">1892</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Location</placeRole>
+<placeEntry>Community House, 34 Lapraik Street, Albion, QLD, 4010, Australia 
+Tel: +64 (0)7 3262 5511 
+Fax: +64 (0)7 3862 3296 
+
+sistersofssa_bne@bigpond.com</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Religious organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Society of the Sacred Advent is an Anglican religious order founded in 1892 by Caroline Grace Millicent Short (later to be known as Mother Caroline). She migrated from England to do the job at the request of the Reverend Stone-Wigg, Vicar of St John's Pro-Cathedral in Brisbane, Queensland, who saw the need for an Anglican religious order for women in Brisbane. In its early days, the Society of the Sacred Advent focused on ministering to the needs of women and children. It establised several schools and children's homes throughout Queensland in order to advance its mission
+
+The Society still has two girls' schools located in Brisbane; St Margaret's and St Aidan's. Although the Sisters are no longer involved in the day-to-day running of the schools, two Sisters remain active on each of the School Councils.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4160b.htm">
+<relationEntry localType="Person">
+Mother Emma (1864? - 1939)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-529219">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Society of the Sacred Advent', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Society of the Sacred Advent</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4159b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004534.htm">
+<relationEntry localType="published">Book: A Short history of the Society of the Sacred Advent, 1892-1942 : with a foreword by the Archbishop of Brisbane</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Society of the Sacred Advent</name>
+<title render="italic">A Short history of the Society of the Sacred Advent, 1892-1942 : with a foreword by the Archbishop of Brisbane</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Brisbane : Roberts &amp; Russell</publisher>
+<date>1942</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004535.htm">
+<relationEntry localType="published">Resource Section: Crawford, Emma (1864? - 1939)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gregory, Helen</name>
+<title render="quoted">Crawford, Emma (1864? - 1939)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A080157b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002264.htm">
+<relationEntry localType="archival">Society of Sacred Advent Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Records and Archives Centre, Anglican Diocese of Brisbane</repository>
+<unittitle>Society of Sacred Advent Papers</unittitle>
+<unitid>SSFRS165-3</unitid>
+<unitdate>1892 - 1992</unitdate>
+<abstract>Contains the Following Items:
+
+A short history of the Society of the Sacred Advent 1892 - 1942
+The fellowship of the Sacred Advent n.d.
+'When I consider' by Sister Una Mary 1936.
+Diamond Jubilee Handbook 1892 - 1952.
+100 years of Ministry - A History of the Society of the Sacred Advent 1892 - 1992 (Book was from Evelyn Heath, Principal of St. Margaret's School 1982 - 1993).
+
+Orders of Service - Annual Schools' Service at St. John's Cathedral n.d.
+- Service for Laying of the Foundation Stone - Society of the Sacred Advent Sisters' House 10/06/1984.
+
+Society of the Sacred Advent Newsletter December 1992.</abstract>
+<physdesc>
+<extent>1 Box</extent>
+<physfacet>General Publications, Newsletters and Books</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

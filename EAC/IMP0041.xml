@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0041</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0041b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Mann</part>
+<part localType="givenname">Ida Caroline</part>
+<part localType="honorific title">Professor Dame, DBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>Gye, Caroline</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Gye, Ida</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1893-02-06">6 February 1893</fromDate>
+<toDate standardDate="1983-11-30">November 1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>West Hamstead, London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Ophthalmologist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dame Ida Mann was a distinguished English ophthalmologist whose long-term association with Australia began when she moved to Perth, Western Australia, after World War II. She diagnosed a trachoma epidemic amongst Indigenous people in the Kimberleys and traveled extensively in Western Australia in order to examine and treat Indigenous people with trachoma. Mann became convinced that better housing and sanitation, rather than administration of antibiotics, would improve this health crisis. She was appointed as Dame Commander of the Order of the British Empire on 14 June 1980 for services to the welfare of Aboriginal people.</abstract>
+<p>Ida Mann was educated at the London School of Medicine for Women and St Mary's Hospital. She qualified Member of the Royal College of Surgeons (MRCS), Licentiate of the Royal College of Physicians (LRCP) and Bachelor of Medicine and Bachelor of Surgery (MB BS) in 1920 and Doctor of Science (DSc) in 1924. She was admitted as a Fellow of the Royal College of Surgeons (FRCS) in 1927. In London Mann worked at the Elizabeth Garrett-Anderson Hospital for Women, the Central London Eye Hospital, and the Royal London Ophthalmic Hospital. She flew to Melbourne in 1939 to present a paper to the Ophthalmological Society of Australia. Mann became Reader in Ophthalmology at the University of Oxford in 1941. She was Titular Professor there from January 1945 until 30 September 1947. Mann was also a Fellow of St Hugh's College, Oxford.</p>
+<p>Mann resigned from Oxford and emigrated to Australia in 1949 with her husband, Professor William Gye (whom she married in December 1944). Prof Gye died in 1952. Mann then began a four year investigation into the nature and extent of trachoma amongst Indigenous people in the Kimberleys. These studies also took her to Papua New Guinea and the Pacific islands.</p>
+<p>Mann published extensively in the area of eye anatomy and eye disease, publishing many scientific articles and several books. She also wrote on her travels and findings relating to trachoma, published under her married name or pseudonym, Caroline Gye. These were <span style="font-style:italic">China 13</span> and <span style="font-style:italic">The cockney and the crocodile</span>.</p>
+<p>Mann received an honorary Doctor of Science from Murdoch University (Perth, Western Australia) in 1983. She died later the same year at the age of ninety.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-619985">
+<relationEntry>
+Mann, Ida (18930206-19831119)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mann, Ida Caroline', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mann, Ida Caroline</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0041b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000768.htm">
+<relationEntry localType="published">Book: China 13</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gye, Caroline (pseudonym for Ida Mann)</name>
+<title render="italic">China 13</title>
+<imprint>
+<place>London</place>
+<publisher>Faber</publisher>
+<date>1964</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000769.htm">
+<relationEntry localType="published">Book: The cockney and the crocodile (large print edition)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gye, Caroline (pseudonym for Ida Mann)</name>
+<title render="italic">The cockney and the crocodile (large print edition)</title>
+<imprint>
+<place>Leicester</place>
+<publisher>Ulverscroft Large Print Bks</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000757.htm">
+<relationEntry localType="published">Book: Culture, race, climate, and eye disease; an introduction to the study of geographical ophthalmology.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida</name>
+<title render="italic">Culture, race, climate, and eye disease; an introduction to the study of geographical ophthalmology.</title>
+<imprint>
+<place>Springfield, Ill., USA</place>
+<publisher>Charles Thomas</publisher>
+<date>1961</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000759.htm">
+<relationEntry localType="published">Book: The Chase : an autobiography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida</name>
+<title render="italic">The Chase : an autobiography</title>
+<imprint>
+<place>Fremantle, W.A.</place>
+<publisher>Fremantle Arts Centre Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000760.htm">
+<relationEntry localType="published">Book: The development of the human eye</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida</name>
+<title render="italic">The development of the human eye</title>
+<imprint>
+<place>London</place>
+<publisher>British Medical Association</publisher>
+<date>1964</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000761.htm">
+<relationEntry localType="published">Book: Developmental abnormalities of the eye</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida</name>
+<title render="italic">Developmental abnormalities of the eye</title>
+<edition>2</edition>
+<imprint>
+<place>London</place>
+<publisher>British Medical Association</publisher>
+<date>1957</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000762.htm">
+<relationEntry localType="published">Book: The science of seeing</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida and Pirie, Antoinette</name>
+<title render="italic">The science of seeing</title>
+<imprint>
+<place>Harmondsworth, England</place>
+<publisher>Penguin</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000764.htm">
+<relationEntry localType="published">Report: Ophthalmic survey of the South-West portion of Western Australia: final report of the surveys undertaken for the Public Heath Department of Western Australia.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida</name>
+<title render="italic">Ophthalmic survey of the South-West portion of Western Australia: final report of the surveys undertaken for the Public Heath Department of Western Australia.</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government Printer</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000767.htm">
+<relationEntry localType="published">Newspaper Article: Ida Mann - tribute to the late Professor, obituary of famed opthalmologist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Ida Mann - tribute to the late Professor, obituary of famed opthalmologist</title>
+<imprint>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">West-sight</title>
+<num type="issue">April</num>
+<num type="pages">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000766.htm">
+<relationEntry localType="published">Journal Article: Memorial to Ida Mann: obituary</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bron A. J.</name>
+<title render="quoted">Memorial to Ida Mann: obituary</title>
+<imprint>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">Archives of ophthalmology</title>
+<num type="volume">102</num>
+<num type="pages">1713-1715</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000770.htm">
+<relationEntry localType="published">Newspaper Article: Informative Article from Cosmo Newberry (Visit by Dr Ida Mann; case of trachoma found.)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lupton, H.</name>
+<title render="quoted">Informative Article from Cosmo Newberry (Visit by Dr Ida Mann; case of trachoma found.)</title>
+<imprint>
+<date>1955</date>
+</imprint>
+<bibseries>
+<title render="italic">United Aborigines' Messenger</title>
+<num type="pages">11</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000765.htm">
+<relationEntry localType="published">Report: Ophthalmic survey of the Territories of Papua and New Guinea, 1955</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mann, Ida and  and Loschdorfer, J.</name>
+<title render="italic">Ophthalmic survey of the Territories of Papua and New Guinea, 1955</title>
+<imprint>
+<place>Port Moresby</place>
+<publisher>Territory of Papua and New Guinea</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000771.htm">
+<relationEntry localType="published">Resource: List of 'Firsts and Founders' on the Victorian Honour Roll of Women 2001</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Centenary of Federation Victoria</name>
+<title render="italic">List of 'Firsts and Founders' on the Victorian Honour Roll of Women 2001</title>
+<imprint>
+<publisher>Centenary of Federation Victoria</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.women.vic.gov.au/CA256EAE0012F311/Womens%20Policy/Women+as+leadersVictorian+Honour+Roll"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000772.htm">
+<relationEntry localType="published">Conference Paper: Declare the past, diagnose the present, foretell the future -  health for all by 2000</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kamien, Max</name>
+<title render="quoted">Declare the past, diagnose the present, foretell the future -  health for all by 2000</title>
+<imprint>
+<publisher>National Rural Health Alliance</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">Rural and Remote Australia: Health for All by the Year 2000 - NRHA 4th Conference Papers</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.ruralhealth.org.au/pdf/declare1.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000773.htm">
+<relationEntry localType="published">Resource: Women at Oxford</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">University of Oxford</name>
+<title render="italic">Women at Oxford</title>
+<imprint>
+<publisher>University of Oxford</publisher>
+<date>2002</date>
+</imprint>
+<extptr linktype="simple" href="http://www.ox.ac.uk/aboutoxford/women.shtml"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000774.htm">
+<relationEntry localType="published">Resource: Embryologie de l'oeil et de ses annexes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National trade union of the Ophthalmologists of France</name>
+<title render="italic">Embryologie de l'oeil et de ses annexes</title>
+<imprint>
+<publisher>National trade union of the Ophthalmologists of France</publisher>
+<date>2002</date>
+</imprint>
+<extptr linktype="simple" href="http://www.snof.org/maladies/embryohist.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001575.htm">
+<relationEntry localType="published">Book: Reflections : profiles of 150 women who helped make Western Australia's history; Project of the Womens Committee for the 150th Anniversary Celebrations of Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Popham, Daphne; Stokes, K.A.; Lewis, Julie</name>
+<title render="italic">Reflections : profiles of 150 women who helped make Western Australia's history; Project of the Womens Committee for the 150th Anniversary Celebrations of Western Australia</title>
+<imprint>
+<place>Perth, Melbourne [etc.]:</place>
+<publisher>Carrolls</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000758.htm">
+<relationEntry localType="published">Thesis: DISEASE, HEALTH AND HEALING: aspects of indigenous health in Western Australia and Queensland, 1900-1940</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Briscoe, Gordon</name>
+<title render="quoted">DISEASE, HEALTH AND HEALING: aspects of indigenous health in Western Australia and Queensland, 1900-1940</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>1996</date>
+</imprint>
+<extptr linktype="simple" href="http://histrsss.anu.edu.au/briscoe/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000294.htm">
+<relationEntry localType="archival">Papers of Ida Mann</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Papers of Ida Mann</unittitle>
+<unitid>ACC 3673A</unitid>
+<unitdate>1893 - 1983</unitdate>
+<abstract>Papers: Diaries 1953-1983; Letters, manuscripts and articles about and by Ida Mann. Manuscripts
+1930-; Poetry; Photographs.</abstract>
+<physdesc>
+<extent>1.12 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000293.htm">
+<relationEntry localType="archival">Papers of Ida Mann</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Ida Mann</unittitle>
+<unitid>MS 2023</unitid>
+<unitdate>1967</unitdate>
+<abstract>One manuscript and 3 typescript copies of Prof. Mann's book: Culture, race, climate and eye
+disease.</abstract>
+<physdesc>
+<extent>0.3 m</extent>
+<physfacet>Drafts of books</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

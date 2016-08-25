@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4088</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-03-03">2009-03-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4088b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bates</part>
+<part localType="givenname">Fiona</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Wilcannia, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal artist</term>
+</occupation>
+<occupation>
+<term>Tour operator</term>
+</occupation>
+<occupation>
+<term>Welfare worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Barkandji people, Fiona Bates is an artist, tour guide, and member of the Broken Hill Aboriginal Justice Group.</abstract>
+<p>Fiona Bates is the second daughter of Muriel Riley and lives at Broken Hill, New South Wales. As a child she lived for some time with her uncle, accomplished artist Badger Bates. Accompanying him on field trips, she learned about the Aboriginal way of living, Aboriginal stories, and how to express the meaning of those stories through art. Fiona's own style of art encompasses sketching with lead pencil, watercolours, pastels, charcoals, acrylic paints and ochre, as well as lino cuts.</p>
+<p>In 2008, Fiona won first prize in the open section of the Far Western Emerging Aboriginal and Torres Strait Islander Art Prize for her sketch of a canoe tree that was carved by her own great-grandmother.</p>
+<p>Fiona has three children. She is a member of the Broken Hill Aboriginal Justice Group and works as a tour guide, informed by a detailed knowledge of the Aboriginal art found in and around the Broken Hill region and created by members of up to seven different tribes in far western New South Wales.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4087b.htm">
+<relationEntry localType="Person">
+Riley, Muriel
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-716094">
+<relationEntry>
+Bates, Fiona
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bates, Fiona', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bates, Fiona</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4088b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004564.htm">
+<relationEntry localType="published">Site Exhibition: Unbroken Spirit: Women in Broken Hill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Unbroken Spirit: Women in Broken Hill</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/bh/bh-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002209.htm">
+<relationEntry localType="archival">Interview with Fiona Bates</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Private Hands (contact Australian Women's Archive Project)</repository>
+<unittitle>Interview with Fiona Bates</unittitle>
+<unitdate>6 February 2009</unitdate>
+<abstract>Interview conducted in Broken Hill as part of the AWAP Broken Hill exhibition. To be lodged with the Outback Archives, Broken Hill City Library.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00499.htm">
+<relationEntry localType="digitalObject">Extracts of Interview with Fiona Bates</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Extracts of Interview with Fiona Bates</unittitle>
+<unitdate>6 February 2009</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00490.htm">
+<relationEntry localType="digitalObject">Fiona Bates</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Fiona Bates</unittitle>
+<unitdate>2009</unitdate>
+<abstract>Fiona Bates in Broken Hill</abstract>
+<note label="rights">Barbara Lemon</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00457.htm">
+<relationEntry localType="digitalObject">Muriel Riley and Fiona Bates</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Muriel Riley and Fiona Bates</unittitle>
+<unitdate>February 2009</unitdate>
+<abstract>Muriel and Fiona in front of Muriel's sketch of her grandmother.</abstract>
+<note label="rights">Barbara Lemon</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

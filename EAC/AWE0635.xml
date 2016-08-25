@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0635</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-12-02">2003-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0635b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Greig</part>
+<part localType="givenname">Janet Lindsay</part>
+<part localType="honorific title">MBBS</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1874-08-08">8 August 1874</fromDate>
+<toDate standardDate="1950-10-18">18 October 1950</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Broughty Ferry, Scotland</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Medical practitioner</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The daughter of merchant Robert Lindsay and Jane Stocks (née Macfarlane) Jenny Greig graduated in medicine from the University of Melbourne in 1895. She devoted her life to the service of women, especially in the field of medicine. One of the founders of the Queen Victoria Hospital when Greig retired in 1948 she had been an active member of the honorary medical staff for over 50 years. When the hospital added a new pathology block in 1937 it was named after her. Greig is recognized as the first woman anaesthetist in Victoria: she was honorary anaesthetist at the Women's Hospital in Melbourne from 1900 to 1917, honorary assistant anaesthetist at the Melbourne Hospital in 1903 and was admitted as a member of the Royal Australasian College of Physicians in 1940. Greig died will visiting London in 1950.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0049b.htm">
+<relationEntry localType="Corporate Body">
+Queen Victoria Hospital (1896 - 1977)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<descriptiveNote>
+<p>When Dr Greig retired in 1948 she had been an active member of the honorary medical staff for 52 years</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0550b.htm">
+<relationEntry localType="Corporate Body">
+The Catalysts' Society (1910 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+<toDate standardDate="1950-12-31">1950</toDate>
+</dateRange>
+<descriptiveNote>
+<p>One of the original 19 members of 'The Catalysts'</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0054b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Melbourne) (1912 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1950-12-31">1950</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Foundation member</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754063">
+<relationEntry>
+Greig, Janet Lindsay (1874-1950)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Greig, Janet Lindsay (Jenny)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Greig, Janet Lindsay (Jenny)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0635b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002914.htm">
+<relationEntry localType="published">Resource Section: Greig, Jane Stocks (1877-1939) and Janet Lindsay (1974-1950), medical practitioners, Clara Puella (1877-1957), tutor, Grata Flos Matilda (1880-1958) barrister and solicitor, and Stella Fida (1889-1913), law graduate.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Campbell, Ruth and Hack, J Barton</name>
+<title render="quoted">Greig, Jane Stocks (1877-1939) and Janet Lindsay (1974-1950), medical practitioners, Clara Puella (1877-1957), tutor, Grata Flos Matilda (1880-1958) barrister and solicitor, and Stella Fida (1889-1913), law graduate.</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">9</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090105b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000887.htm">
+<relationEntry localType="published">Book: This Mad Folly: The History of Australia's Women Doctors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hutton Neve, M</name>
+<title render="italic">This Mad Folly: The History of Australia's Women Doctors</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Library of Australian History</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100299.htm">
+<relationEntry localType="published">Resource Section: Greig, Janet Lindsay (Jenny) (1874-1951)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Greig, Janet Lindsay (Jenny) (1874-1951)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090686b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

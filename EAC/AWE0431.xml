@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0431</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-01-17">2003-01-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0431b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Gantner</part>
+<part localType="givenname">Neilma</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Myer, Neilma</part>
+</nameEntry>
+<nameEntry localType="pseudonym"><part>Sidney, Neilma</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1922-11-07">7 November 1922</fromDate>
+<toDate standardDate="2015-06-15">15 June 2015</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>San Francisco, California, United States</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Bermagui, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Writer</term>
+</occupation>
+<occupation>
+<term>Philanthropist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Neilma Gantner, along with her son Carillo and brother Baillieu Myer, established The Gantner Myer Collection of Australian Aboriginal Art. Assembled over a four-year period by curator Jennifer Isaacs, the collection was unvieled in San Francisco in September 1999.
+
+Neilma is the eldest daughter of Sidney and Merlyn (née Baillieu) Myer. Like her three siblings, she was born in San Francisco, California, but raised in Melbourne. Neilma completed her teritary education at the Universities of Melbourne and Stanford. In 1941 she married Vallejo Gantner (later divorced) and they were to have two sons (one deceased).
+
+Neilma Gantner was a member of the Executive of International Social Service, and of the Myer Foundation and the Sidney Myer Fund. She worked as a novelist, poet and short story writer under the pseudonym of Neilma Sidney, and founded the Four Winds Cultural Festival (Bermagui, New South Wales).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0044b.htm">
+<relationEntry localType="Person">
+Myer, Margery (Merlyn) Baillieu (1900 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0430b.htm">
+<relationEntry localType="Person">
+Southey, Marigold Merlyn Baillieu (1928 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-526735">
+<relationEntry>
+Gantner, Neilma (1922-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gantner, Neilma', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gantner, Neilma</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0431b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001682.htm">
+<relationEntry localType="published">Book: Journey to Mourilyan : a coastal pilgrimage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">Journey to Mourilyan : a coastal pilgrimage</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>J.M. Dent</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001681.htm">
+<relationEntry localType="published">Book: The return</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">The return</title>
+<imprint>
+<place>West Melbourne, Vic.</place>
+<publisher>Thomas Nelson (Australia)</publisher>
+<date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001680.htm">
+<relationEntry localType="published">Book: The sweet cool south wind</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">The sweet cool south wind</title>
+<imprint>
+<place>[Bermagui South, N.S.W.]</place>
+<publisher>Barragga Books</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001679.htm">
+<relationEntry localType="published">Book: Journey to Mourilyan : a coastal pilgrimage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">Journey to Mourilyan : a coastal pilgrimage</title>
+<imprint>
+<place>Balmain, N.S.W.</place>
+<publisher>Kerr</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001678.htm">
+<relationEntry localType="published">Book: Beaches</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma and Williams, Margaret (illustrated by)</name>
+<title render="italic">Beaches</title>
+<imprint>
+<place>London ; Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1964</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001677.htm">
+<relationEntry localType="published">Book: Beyond the bay</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">Beyond the bay</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>F. W. Cheshire</publisher>
+<date>1966</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001676.htm">
+<relationEntry localType="published">Book: The Eye of the needle</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">The Eye of the needle</title>
+<imprint>
+<place>[Melbourne]</place>
+<publisher>Lloyd O'Neil</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001675.htm">
+<relationEntry localType="published">Book: Saturday afternoon and other stories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">Saturday afternoon and other stories</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cheshire</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001674.htm">
+<relationEntry localType="published">Book: Sunday evening : stories</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sidney, Neilma</name>
+<title render="italic">Sunday evening : stories</title>
+<imprint>
+<place>Fitzroy, Vic.</place>
+<publisher>McPhee Gribble/Penguin</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001147.htm">
+<relationEntry localType="published">Book: Australian women writers : a bibliographic guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adelaide, Debra</name>
+<title render="italic">Australian women writers : a bibliographic guide</title>
+<imprint>
+<place>London ; Sydney</place>
+<publisher>Pandora Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001970.htm">
+<relationEntry localType="archival">Letters by Gantner, Neilma ('Neilma Sidney')</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Letters by Gantner, Neilma ('Neilma Sidney')</unittitle>
+<unitid>Gantner, Neilma ('Neilma Sidney')</unitid>
+<unitdate>1955 - 1973</unitdate>
+<abstract>Letters from Neilma Gantner  to Clem and Nina Christesen</abstract>
+<physdesc>
+<extent>88 letters</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001067.htm">
+<relationEntry localType="archival">Fitzpatrick, Kathleen Elizabeth</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Fitzpatrick, Kathleen Elizabeth</unittitle>
+<unitid>97/7</unitid>
+<unitdate>1961 - 1990</unitdate>
+<abstract>26 letters to Neilma Gantner from Kathleen Fitzpatrick: 23 May, 8 July, n.d. 1961; 17, 9 September 1963; 10 April 1964; 2 July, 5 August 1965; 12 May, 2 June 1966; 12 January 1967; 24 May, 2 September 1968; 10 July, 15 July, 1 September, 16 October 1970; 6 June 1972; 31 July 1973; 27 April 1983; 25 March, 10 April 1987; 23 June 1988; 2 March 1990; two undated. "Henry James as Reader and Critic", Address by KF to the Friends of the Baillieu Library, 27 March 1968, 11 ts.; her review in the Age of a book on James, n.d.; Photograph of KF by Helmut Newton.</abstract>
+<physdesc>
+<extent>0.02 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000628.htm">
+<relationEntry localType="archival">Letters [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Letters [manuscript]</unittitle>
+<unitid>MS 5266</unitid>
+<unitdate>1958 - 1972</unitdate>
+<abstract>Personal letters by Herbert M. Barker to Neilma Gantner.</abstract>
+<physdesc>
+<extent>0.01 m, 1 folder</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

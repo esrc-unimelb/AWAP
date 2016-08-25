@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0295</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-11-25">2002-11-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0295b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Stones</part>
+<part localType="givenname">Elsie</part>
+<part localType="honorific title">AM, MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-08-28">28 August 1920</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Colac, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Margaret Stones is one of Australia's foremost botanical artists. She undertook professional art training at Swinburne Technical College and the National Gallery of Victoria Art School in the 1940s. At the invitation of John Stewart Turner, Stones attended lectures and demonstrations in the School of Botany at the University of Melbourne, and joined their summer expeditions to the Bogong High Plains, 1948-1950. In 1951 she left Australia for London to further her botanical knowledge, working independently for the Royal Botanic Gardens Kew and other botanical institutions for more than 30 years. From 1958 she was the principal contributing artist to <span style="font-style:italic">Curtis's Botanical Magazine</span>, producing more than 400 watercolours. Her most important project during the 1960s and 1970s was the illustrations for <span style="font-style:italic">The Endemic Flora of Tasmania</span>, and from 1975 her work on the Flora of Louisiana project. Commenting on Margaret Stones's botanical knowledge and experience, Tasmanian botanist Dr Winifrid Curtis 'recalled that Stones never needed to be told, but invariably knew, which sections to draw in order to facilitate correct taxonomical classification'. A genus has been named after her, <span style="font-style:italic">Stonesia</span> and a Tasmanian species, <span style="font-style:italic">Stonesiella</span>.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-617975">
+<relationEntry>
+Stones, Elsie (1920-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stones, Elsie (Margaret)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stones, Elsie (Margaret)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0295b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001821.htm">
+<relationEntry localType="published">Resource Section: Stones, Elsie Margaret (Margaret) (1920 - ), Biographical Entry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Stones, Elsie Margaret (Margaret) (1920 - ), Biographical Entry</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P004310b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001820.htm">
+<relationEntry localType="published">Resource Section: Stonesiella</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Crisp, Mike</name>
+<title render="quoted">Stonesiella</title>
+<imprint>
+<publisher>Australian National University</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.anu.edu.au/BoZo/Crisp/Mirbelieae/Stonesiella.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001819.htm">
+<relationEntry localType="published">Resource Section: Stones, Elsie Margaret (1920-), Australian National Botanic Gardens - Biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Stones, Elsie Margaret (1920-), Australian National Botanic Gardens - Biography</title>
+<extptr linktype="simple" href="http://www.anbg.gov.au/biography/stones-margaret.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001818.htm">
+<relationEntry localType="published">Book: Beauty in Truth: the Botanical Art of Margaret Stones</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Zdanowicz, Irena</name>
+<title render="italic">Beauty in Truth: the Botanical Art of Margaret Stones</title>
+<imprint>
+<place>Victoria</place>
+<publisher>National Gallery of Victoria</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000708.htm">
+<relationEntry localType="archival">Papers of Margaret Stones</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Margaret Stones</unittitle>
+<unitid>MS 7476</unitid>
+<unitdate>1952 - 1984</unitdate>
+<abstract>Box 1. Letters from: Lord Talbot de Malahide to Margaret Stones, Arnold Hinson, H.J. King, Frank Ludlow, George Sherriff to Margaret Stones. Letter from Stones to Muriel Gossman. Box 2. Letters from Winifred Curtis to Stones and from Stones to Winifred. Tasmania collection notes (1969-1975). Notes for "Endemic flora of Tasmania" (EFT); financial material for EFT; photograph and press clippings of Stones; appendix on cultivation by Lord Talbot; press cuttings on the death of Lord Talbot, Frank Ludlow and Major G. Sherriff.</abstract>
+<physdesc>
+<extent>0.28 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00088.htm">
+<relationEntry localType="digitalObject">Margaret Stones</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>AWAP Collection</repository>
+<unittitle>Margaret Stones</unittitle>
+<unitdate>13 March 2003</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

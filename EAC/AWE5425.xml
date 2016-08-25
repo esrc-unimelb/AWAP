@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5425</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-10-05">2015-10-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5425b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Holmes</part>
+<part localType="givenname">Catherine</part>
+<part localType="honorific title">Chief Justice, The Honorable</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Brisbane, Queensland, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Barrister</term>
+</occupation>
+<occupation>
+<term>Senior Counsel</term>
+</occupation>
+<occupation>
+<term>Judge</term>
+</occupation>
+<occupation>
+<term>Chief Justice</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catherine Ena "Cate" Holmes assumed the office of Chief Justice of the Supreme Court of Queensland on 11 September 2015.She holds the degrees of B.Econ (ANU), B.A. (Hons), LLB, LLM (Advanced) (UQ).
+
+Holmes was admitted as a solicitor in 1982 and as a barrister in 1984, taking silk in 1999. While in practice, Justice Holmes was at various times a part time member of the Anti-Discrimination Tribunal, Deputy President of the Queensland Community Corrections Board and, during 1998 and 1999, Counsel assisting the Forde Commission of Inquiry into Child Abuse. Her Honour was appointed to the Supreme Court of Queensland in March 2000. She was the judge overseeing the Court's criminal list for some years, and was the judge constituting the Mental Health Court from February 2005 until May 2006, when she was appointed to the Court of Appeal. From 16 January 2011 until 16 March 2012, Justice Holmes was the Commissioner of the Commission of Inquiry into the Queensland Floods 2010-2011.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666021">
+<relationEntry>
+Holmes, Catherine (1956-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Holmes, Catherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Holmes, Catherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5425b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005746.htm">
+<relationEntry localType="published">Article: Who is Catherine Holmes, Queensland's first female chief justice?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Agius, Kim</name>
+<title render="quoted">Who is Catherine Holmes, Queensland's first female chief justice?</title>
+<imprint>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC News Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/news/2015-09-07/who-is-catherine-holmes/6756168?WT.ac=statenews_qld"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005750.htm">
+<relationEntry localType="published">Edited Book: A Woman's Place: 100 Years of Queensland Women Lawyers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Purdon, Susan and Rahemtula, Aladin</name>
+<title render="italic">A Woman's Place: 100 Years of Queensland Women Lawyers</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Supreme Court of Queensland Library</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

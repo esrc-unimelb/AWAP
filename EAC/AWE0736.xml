@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0736</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-11">2004-02-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-08-07">2014-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0736b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Victorian Woman's Suffrage League</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1894-01-01">1894</fromDate>
+<toDate standardDate="1908-12-31">1908</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>End Place</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<functions>
+<function>
+<term>Women's rights organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Victorian Woman's Suffrage League was founded in 1894 at a meeting organised by Annette Bear Crawford in the Woman's Christian Temperance Union headquarters in Melbourne. Its platform was votes for women on the same terms as men. Its formation was prompted by the belief that the three existing groups working for women's suffrage in Victoria (the Australian Women's Suffrage Society, the Victorian Women's Suffrage Society and the Woman's Christian Temperance Union) were all associated with extremist views. Although initiated by the Woman's Christian Temperance Union, the League had an entirely separate existence, supposedly not linked to the prohibitionist agenda of the Union. The new League was formulated on a Christian, non-party basis. As such, it was an organisation that moderate women could comfortably join and was immediately popular. It ceased in 1908 with the granting of the vote to women in Victoria.</abstract>
+<p>Archival note:<br />
+As of 2003, it appears that there is no specific collection of papers relating to the League. However, its activities are documented in the annual reports of the Woman's Christian Temperance Union of Victoria and other Union records,  Its activities were also  extensively reported in the Melbourne press and women's journals, particularly, for the years 1900-1905, Vida Goldstein's <span style="font-style:italic">The Australian Woman's Sphere</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0735b.htm">
+<relationEntry localType="Corporate Body">
+United Council for Woman Suffrage (1894 - 1908)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0219b.htm">
+<relationEntry localType="Corporate Body">
+The Woman's Christian Temperance Union of Victoria (1885 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-693075">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Victorian Woman's Suffrage League', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Victorian Woman's Suffrage League</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0736b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002483.htm">
+<relationEntry localType="published">Book: The Australian Woman's Sphere</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Australian Woman's Sphere</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Vida Goldstein</publisher>
+<date>1900-1905</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002056.htm">
+<relationEntry localType="published">Book: Woman suffrage in Australia : a gift or a struggle?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Oldfield, Audrey</name>
+<title render="italic">Woman suffrage in Australia : a gift or a struggle?</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cambridge University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002130.htm">
+<relationEntry localType="published">Thesis: The 'Woman Question' in Melbourne, 1880-1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kelly, Farley</name>
+<title render="quoted">The 'Woman Question' in Melbourne, 1880-1914</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Monash University</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002090.htm">
+<relationEntry localType="published">Book: Votes for women : the Australian story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lees, Kirsten.</name>
+<title render="italic">Votes for women : the Australian story</title>
+<imprint>
+<place>St. Leonards, N.S.W.</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001189.htm">
+<relationEntry localType="archival">Petition (Victorian Woman's Suffrage League)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Royal Historical Society of Victoria Inc</repository>
+<unittitle>Petition (Victorian Woman's Suffrage League)</unittitle>
+<unitid>MS 000646; Box 58/15</unitid>
+<unitdate>1898</unitdate>
+<abstract>Petition presented on behalf of the Victorian Woman's Suffrage League to the members of the Legislative Council of Victoria, 7th September, 1898, signed on behalf of the League by G. A. Syme, Anna Howie and Eliz. Jackson. The petition outlines eleven arguments in support of the Bill for the political enfranchisement of women.</abstract>
+<physdesc>
+<extent>1 Item</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

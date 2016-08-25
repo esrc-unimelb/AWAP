@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0052</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-09">2001-02-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Elle Morrell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0052b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Fletcher</part>
+<part localType="givenname">Jane Ada</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-09-18">18 September 1870</fromDate>
+<toDate standardDate="1956-04-15">15 April 1956</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Penshurst, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Eaglehawk Neck, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Ornithologist</term>
+</occupation>
+<occupation>
+<term>Poet</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Fletcher published a number of books on nature and nature study, and broadcast on 7ZL Hobart and 3LO Melbourne. In 1934 she became the first woman to lecture to the Royal Society of Tasmania. She was an outstanding bird observer with a particular interest in crakes and rails.</abstract>
+<p>Jane Fletcher began work on an aunt's farm in Wilmot, north-western Tasmania, from 1892-96. From 1896 she worked as a sewing teacher (initially without pay) at West Kentish Primary School. By 1899 she had qualified as a head teacher and was appointed to set up a school at Upper Wilmot. She later taught at Cleveland (Tasmania), Springfield, Woodbridge and Forcett.</p>
+<p>Fletcher undertook fieldwork for Gregory Mathews (q.v.) until 1936. She was the first woman to deliver a lecture to the Royal Society of Tasmania (in 1934), of which she was a member. She was a foundation member in 1901 - and life member from 1945 - of the Royal Australasian Ornithologists' Union. </p>
+<p>She wrote a number of children's books, including <span style="font-style:italic">Stories from Nature</span> (London, 1915) and <span style="font-style:italic">Little Brown Piccaninnies of Tasmania</span> (Sydney, 1950), her most popular children's book. She also wrote books and articles for adults on Tasmanian history, Aborigines and ornithology, her final book being <span style="font-style:italic">Tasmania's Own Birds</span> (1956).</p>
+<p>On retirement, Fletcher opened part of her house at Eaglehawk Neck as a Youth Hostel.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-632620">
+<relationEntry>
+Fletcher, Jane Ada (1870-1956)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fletcher, Jane Ada', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fletcher, Jane Ada</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0052b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000084.htm">
+<relationEntry localType="published">Resource Section: Fletcher, Jane Ada  (1870-1956)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wall, Leonard</name>
+<title render="quoted">Fletcher, Jane Ada  (1870-1956)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A140198b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000071.htm">
+<relationEntry localType="published">Book: First in Their Field: Women and Australian Anthropology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie; Lepervanche, Marie de; McBryde, Isabel; Prior, Mary Ellen Murray; White, Isobel; Morris, Miranda; O'Gorman, Anne; Marcus, Julie and Cheater, Christine</name>
+<title render="italic">First in Their Field: Women and Australian Anthropology</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000057.htm">
+<relationEntry localType="archival">Jane Ada Fletcher - Records</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>John Oxley Library, Manuscripts and Business Records Collection, State Library of Queensland</repository>
+<unittitle>Jane Ada Fletcher - Records</unittitle>
+<unitid>OM67-2</unitid>
+<unitdate>1870 - 1956</unitdate>
+<abstract>Original and unpublished manuscript of <span style="font-style:italic">'Squid'</span> a tale of adventure of the wild days among the islands of Bass Strait in the early nineteenth century (69 pages); typescript of <span style="font-style:italic">'Memories of nature lover'</span> by J.A. Fletcher, prepared by S.E. Fletcher (79 pages); <span style="font-style:italic">'The Rhyme Book' of J.A. Fletcher'</span>; dates c1915-45 [1 envelope, OM67-2].</abstract>
+<physdesc>
+<extent>1 Envelope</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

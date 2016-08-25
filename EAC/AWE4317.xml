@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4317</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-14">2009-09-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4317b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Praed</part>
+<part localType="givenname">Annie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1873-01-01">c. 1873</fromDate>
+<toDate standardDate="1948-12-26">26 December 1948</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Darling Point, Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Dentist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Annie Praed enrolled in the first dentistry course at the University of Sydney. In 1938 she was the first woman to graduate with a Doctor of Dental Science (DDSc) from the University of Sydney. She was actively involved in the Society of Dental Science and helped to found the New South Wales Branch of the Australian Dental Association.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1899-01-01">c. 1899</fromDate>
+<toDate standardDate="1901-12-31">c. 1901</toDate>
+</dateRange>
+<event>Practised as a dentist</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1901-01-01">1901</fromDate>
+<toDate standardDate="1901-12-31">1901</toDate>
+</dateRange>
+<event>Enrolled in the first dentistry course run by the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="1904-12-31">1904</toDate>
+</dateRange>
+<event>Qualified as a licentiate of Dental Surgery at the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1906-01-01">1906</fromDate>
+<toDate standardDate="1906-12-31">1906</toDate>
+</dateRange>
+<event>Completed her Bachelor of Dental Surgery (BDS) at the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1910-01-01">1910</fromDate>
+<toDate standardDate="1913-12-31">1913</toDate>
+</dateRange>
+<event>Went into partnership with fellow dentistry graduate Margaret Barnes</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+<event>Honorary Dental Surgeon and Clinical Instructor at the United Dental Hospital of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+<event>Ran a sole practice in Sydney, specialising in prosthodontics</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1938-01-01">1938</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+<event>The first woman in Australia to graduate with a Doctor of Dental Science (DDSc) at the University of Sydney</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1940-01-01">1940</fromDate>
+<toDate standardDate="1948-12-31">1948</toDate>
+</dateRange>
+<event>Honorary Demonstrator in operative dentistry at the United Dental Hospital of Sydney</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462236">
+<relationEntry>
+Praed, Annie (1873-1948)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Praed, Annie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Praed, Annie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4317b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004612.htm">
+<relationEntry localType="published">Resource Section: Praed, Annie (1873? - 1948)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smith, Ailie</name>
+<title render="quoted">Praed, Annie (1873? - 1948)</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Bright Sparcs</title>
+<name type="author">The University of Melbourne eScholarship Research Centre</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.asap.unimelb.edu.au/bsparcs/biogs/P004444b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100435.htm">
+<relationEntry localType="published">Resource Section: Praed, Annie (1873-1948)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Watson, A. O.</name>
+<title render="quoted">Praed, Annie (1873-1948)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A110281b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002335.htm">
+<relationEntry localType="archival">Dentistry - Women</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Dentistry - Women</unittitle>
+<unitid>M452</unitid>
+<abstract>Collection includes letters regarding Dr Annie Praed.</abstract>
+<physdesc>
+<extent>2 items</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

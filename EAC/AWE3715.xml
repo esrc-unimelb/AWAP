@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3715</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-03">2008-10-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon and Hollie Aerts</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3715b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lovely</part>
+<part localType="givenname">Louise</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="stage name"><part>Carbasse, Louise</part>
+</nameEntry>
+<nameEntry localType="previous name"><part>Alberti, Louise</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Welch, Louise</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Cowan, Louise</part>
+</nameEntry>
+<nameEntry localType="stage name"><part>Lovely, Louise</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1895-02-28">28 February 1895</fromDate>
+<toDate standardDate="1980-03-19">19 March 1980</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Paddington, Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Hobart, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Actor</term>
+</occupation>
+<occupation>
+<term>Actor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Daughter of the Swiss born Elise Lehmann, Louise Lovely began her stage career at the age of eight, playing Eva in <span style="font-style:italic">Uncle Tom's Cabin</span> at the Lyceum in Sydney. She subsequently appeared in many stage and screen productions. In 1912, Louise moved to Hollywood with her husband Wilton Welch and became a star, cast in at least 24 films for Universal Studios and nearly a dozen western films for Fox Studios. She returned to Australia in 1924.</abstract>
+<p>Louise Lovely was an Australian actress and film maker with a career in both Australia and the United States. Sadly, few of Lovely's films have survived.</p>
+<p>Lovely's career began as an actress in stage melodramas and vaudeville in Australia and America. In 1915, she was signed to Universal Studios. In 1917, Universal established Louise Lovely Productions, however Lovely herself had no control over the productions. In March 1918, she left Universal over contract disputes and shortly after began work with Fox Studios.</p>
+<p>Lovely starred in her final US film in 1921. She then returned to Australia.</p>
+<p>Upon her return to Australia, Lovely began production on her final film <span style="font-style:italic">Jewelled Nights</span> (Lovely and Welch, 1925). While the extent of her contribution to this production is not certain, sources indicate she not only acted, but co-wrote the script, directed scenes, edited the film, and assisted in the design and publicity of the film. The film was produced by her company Louise Lovely Productions. The film was financially unsuccessful and Lovely subsequently retired from the film industry.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1308013">
+<relationEntry>
+Lovely, Louise (-1980)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lovely, Louise', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lovely, Louise</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3715b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002529.htm">
+<relationEntry localType="archival">Lovely, Louise: Interviewed by Ina Bertrand, 1978: Oral History, 23-24 November 1978</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
+<unittitle>Lovely, Louise: Interviewed by Ina Bertrand, 1978: Oral History, 23-24 November 1978</unittitle>
+<unitid>218318</unitid>
+<abstract>Louise Lovely, actor, talks about her career in silent films such as 'Jewelled Nights' and 'Painted Daughters.' (03:00:00) -- General notes: Title derived from tape box, listings on file and in consultation with cataloguers -- The interview was conducted at Lovely's home which is on a busy highway, Tasmania on 23rd &amp; 24th November 1978. There are three hours of interview</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002530.htm">
+<relationEntry localType="archival">Axford, Maisie: Interviewed by David Atfield: Oral History, 2 November 1996</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
+<unittitle>Axford, Maisie: Interviewed by David Atfield: Oral History, 2 November 1996</unittitle>
+<unitid>302265</unitid>
+<abstract>Maisie Axford, who lived with Louise Lovely (Louise Carbasse) and Louise's second husband, Bert Cowen, from 1928 to 1938, as an "adopted" daughter, talks about Louise Lovely. Ms Axford remained in contact with Louise Lovely throughout her life.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002528.htm">
+<relationEntry localType="archival">Lovely, Louise: Interviewed By Ross Cooper: Oral History,</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
+<unittitle>Lovely, Louise: Interviewed By Ross Cooper: Oral History,</unittitle>
+<unitid>227427</unitid>
+<abstract>Louise Lovely, actor, discusses her early days on stage and how she got started in film. She talks about some of the people she worked with and films she performed in, relating relevant stories. During the recording she discusses various other topics, such as the training of people in the film industry and the film industry in America. -- General notes: Information from recording and cassette label. Interview is still in progress when the recording finishes, making the interview incomplete.
+Interview conducted in March 1970</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002527.htm">
+<relationEntry localType="archival">Lovely, Louise: Documentation</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
+<unittitle>Lovely, Louise: Documentation</unittitle>
+<unitid>251325</unitid>
+<unitdate>1920s - 1930s</unitdate>
+<abstract>Photographs, costumes, manuscripts, relating to Louise Lovely's career in the motion picture industry. Includes biographical notes and a filmography.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002526.htm">
+<relationEntry localType="archival">Biographical cuttings on Louise Lovely, actress, containing one or more cuttings from newspapers or journals</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Louise Lovely, actress, containing one or more cuttings from newspapers or journals</unittitle>
+<unitid>BIOG</unitid>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00525.htm">
+<relationEntry localType="digitalObject">Lovely, Louise: Estelle Taylor (L) and Louise Lovely (R) in Hollywood</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Lovely, Louise: Estelle Taylor (L) and Louise Lovely (R) in Hollywood</unittitle>
+<unitdate>1928</unitdate>
+<note label="rights">These digital items are provided for research purposes only and can not be reproduced without the prior consent of the National Film and Sound Archive.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

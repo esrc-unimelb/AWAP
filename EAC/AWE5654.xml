@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5654</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Lyndel Prott</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5654b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Prott</part>
+<part localType="givenname">Lyndel</part>
+<part localType="honorific title">AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Legal academic</term>
+</occupation>
+<occupation>
+<term>Legal practitioner</term>
+</occupation>
+<occupation>
+<term></term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lyndel Prott ( AO (1991), Öst. EKWuK(i) (2000), Hon FAHA; LL.D. (honoris causa) B.A. LL.B. (University of Sydney), Licence spéciale en Droit international (ULB Brussels), Dr. Juris (Tübingen) and member of Gray's Inn, London, is former Director of UNESCO's Division of Cultural Heritage and former Professor of Cultural Heritage Law at the University of Sydney.
+
+She has had a distinguished career in teaching, research and practice.
+
+At UNESCO 1990-2002 she was responsible for the administration of UNESCO's Conventions and standard-setting Recommendations on the protection of cultural heritage and also for the negotiations on the 1999 Protocol to the Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict 1954 and for the Convention on the Protection of the Underwater Cultural Heritage 2001. She contributed as Observer for UNESCO to the negotiations for the UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects 1995.
+
+She has authored, co-authored or edited over 300 books, reports or articles, written in English, French or German and translated into 9 other languages. Currently Honorary Professor at the University of Queensland, she has taught at many universities including long distance learning courses on International Heritage Law.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Prott, Lyndel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Prott, Lyndel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5654b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

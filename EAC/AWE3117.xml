@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3117</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-05-27">2008-05-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3117b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Singleton</part>
+<part localType="givenname">Jane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Singleton, Felicity Jane</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Company director</term>
+</occupation>
+<occupation>
+<term>Public relations professional</term>
+</occupation>
+<occupation>
+<term>Radio journalist</term>
+</occupation>
+<occupation>
+<term>Television journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jane Singleton has enjoyed a long and distinguished career in broadcasting which has spanned public broadcasting and the commercial media in Australia (2GB, ABC and SBS). She has been a Walkley award judge and federal vice president of the Australian Journalists Association. She is currently the CEO of the Australian Reproductive Health Alliance Canberra and a director of her own public affairs consultancy, Jane Singleton Public Affairs, Pty., Ltd.
+
+Career highlights include coordinating Nelson Mandela's visit to Australia before his election as President, being the inaugural compère of ABC TV's 7.30 Report, and working on the Maritime Union's communications during the Patrick waterfront dispute.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">c. 1980</fromDate>
+<toDate standardDate="2000-12-31">c. 2000</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE3114b.htm">
+<relationEntry localType="Cultural Artefact">
+Walkley Awards (1956 - )
+</relationEntry>
+<descriptiveNote>
+<p>Jane Singleton was a Walkley Award judge in the mid 1980s. She has also been a member of the Walkley Advisory Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-559430">
+<relationEntry>
+Singleton, Jane (1947-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Singleton, Jane', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Singleton, Jane</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3117b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004168.htm">
+<relationEntry localType="published">Report: The Media Report: Women in the Media</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Warren, Agnes</name>
+<title render="italic">The Media Report: Women in the Media</title>
+<imprint>
+<publisher>ABC Radio National</publisher>
+<date>1995</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/talks/8.30/mediarpt/mstories/mr161101.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002099.htm">
+<relationEntry localType="archival">Media, Entertainment and Arts Alliance (Australia) - records of the W.G. Walkley Awards, 1956 - 1999</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Media, Entertainment and Arts Alliance (Australia) - records of the W.G. Walkley Awards, 1956 - 1999</unittitle>
+<unitid>MLMSS 6898</unitid>
+<unitdate>1956 - 1999</unitdate>
+<abstract>I. FINALIST AND WINNING ENTRIES, 1982-1998
+II. SCRAP BOOKS, 1956-1979
+III. PRINTED MATERIAL, 1992-1994
+IV. PUBLISHED MATERIAL, 1997-1999
+V. PAPERS OF SIR WILLIAM AND LADY WALKLEY, 1975-1980</abstract>
+<physdesc>
+<extent>22 m, 44 boxes</extent>
+<physfacet>Textual records, Newscuttings, Photographs, Sound recordings, Textual records - (typescript), Textual records - (typescript, photocopy), Moving images - video recordings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

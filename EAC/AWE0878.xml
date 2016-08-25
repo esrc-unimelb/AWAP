@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0878</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-08">2004-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0878b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Ashton</part>
+<part localType="givenname">Carrie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-05-31">31 May 1905</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Woodside, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Jean Ashton was born at Woodside, South Australia. After appointments at Lameroo and Jamestown in South Australia, Jean did infant welfare training in Hobart, Tasmania, while awaiting call-up for the Australian Army Nursing Service. In 1941 she went with the 13th Australian General Hospital to Malaya and was among those who escaped from Singapore just before its capture by the Japanese in February 1942. When the ship 'Vyner Brooke' was sunk in Bangka Strait, Jean and fellow nurses were interned by the Japanese. She was among 24 nurses (from a total of 65) who survived until their release in September 1945.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0569b.htm">
+<relationEntry localType="Cultural Artefact">
+Australian Ex-Prisoners of War Memorial
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-05-27">27 May 1941</fromDate>
+<toDate standardDate="1946-02-25">25 February 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SX13548</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-05-27">27 May 1941</fromDate>
+<toDate standardDate="1946-02-25">25 February 1946</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: SX13548</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775084">
+<relationEntry>
+Ashton, Carrie (1905-2002)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ashton, Carrie (Jean)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ashton, Carrie (Jean)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0878b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002747.htm">
+<relationEntry localType="published">Resource Section: Ashton, Carrie Jean</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">Ashton, Carrie Jean</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=676910"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002100.htm">
+<relationEntry localType="published">Book: A Woman's war : the exceptional life of Wilma Oram Young, AM</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Angell, Barbara</name>
+<title render="italic">A Woman's war : the exceptional life of Wilma Oram Young, AM</title>
+<imprint>
+<place>Sydney</place>
+<publisher>New Holland Publishers (Australia) Pty Ltd</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001452.htm">
+<relationEntry localType="archival">Interview with Jean Ashton [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Jean Ashton [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/5</unitid>
+<unitdate>9 February 1987</unitdate>
+<abstract>History of Nursing in South Australia
+
+Jean Ashton was born at Woodside, South Australia. Later her family lived at Booborowie in the mid-north where she attended primary school. After a ten year career in dressmaking, she began training at the Adelaide Hospital in 1929. This was followed by a course in Infectious Diseases nursing at Northfield, and midwifery at the McBride Hospital. After appointments at Lameroo and Jamestown Jean did infant welfare training in Hobart while awaiting call-up for the Australian Army Nursing Service. In 1941 she went with the 13th Australian General Hospital to Malaya and was among those who escaped from Singapore just before its capture by the Japanese in February 1942. When the ship 'Vyner Brooke' was sunk in Bauka Strait, Jean and fellow nurses were interned by the Japanese. She was among 24 nurses (from a total of 65) who survived until their release in September 1945. After recovery from her wartime experiences Jean resumed infant welfare work.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

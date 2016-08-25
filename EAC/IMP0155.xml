@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0155</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-10-16">2002-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0155b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Meredith</part>
+<part localType="givenname">Gwenyth</part>
+<part localType="honorific title">OBE, MBE, BA</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>Harrison, Gwen</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-11-18">18 November 1907</fromDate>
+<toDate standardDate="2006-12-31">2006</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Orange, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Playwright</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Gwen Meredith was the writer of the Australian Broadcasting Corporation (ABC) radio serial <span style="font-style:italic">Blue Hills.</span> On 10 June 1967 she was appointed a Member of the Order of the British Empire (MBE) for her services to radio entertainment and on the 11 June 1977 an Officer of the Order of the British Empire (OBE) for her services to the Arts.</abstract>
+<p>Daughter of George and Florence Meredith, Gwen completed her secondary education at Sydney Girls High School and her tertiary education at the University of Sydney, graduating with a Bachelor of Arts. From 1932 - 1939 she was the owner of the Chelsea Bookshop (which led to the development of the Chelsea Drama Club) before working as a freelance writer for four years.</p>
+<p>In 1943 Gwen Meredith commenced a 33-year relationship with the Australian Broadcasting Corporation, contracted to write radio plays, serials and documentaries. For five years she wrote for radio serial <span style="font-style:italic">The Lawsons</span>, highlighting the problems of rural Australia in wartime. Her next serial, <span style="font-style:italic">Blue Hills</span>, depicted rural life in the wheat belt, the high country and the red centre, and ran for 5795 episodes over 27 years: 'During the high noon of radio's golden era', claims Richard Begbie in the <span style="font-style:italic">Canberra Times</span>, 'it was estimated that nearly half the Australian radio sets operating on 1pm weekdays were tuned to <span style="font-style:italic">Blue Hills</span>.'</p>
+<p>Gwen Meredith married engineer Ainsworth Harrison on 24 December 1938. She enjoyed gardening and painting, as well as bush-walking and fly-fishing with her husband. Her publications include: <span style="font-style:italic">Wives Have Their Uses</span> (1944); <span style="font-style:italic">Great Inheritance</span> (1946); <span style="font-style:italic">The Lawsons </span>(1948); <span style="font-style:italic">Blue Hills</span> (1950); <span style="font-style:italic">Beyond Blue Hills </span>(1953), <span style="font-style:italic">Inns and Outs </span>(with husband Ainsworth Harrison) (1955) and <span style="font-style:italic">Into the Sun</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-505453">
+<relationEntry>
+Meredith, Gwen (-2006)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Meredith, Gwenyth (Gwen) Valmai', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Meredith, Gwenyth (Gwen) Valmai</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0155b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002347.htm">
+<relationEntry localType="published">Book: Into the sun : a Blue Hills novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">Into the sun : a Blue Hills novel</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1961</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002346.htm">
+<relationEntry localType="published">Book: Inns and outs</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-  and Harrison, Ainsworth</name>
+<title render="italic">Inns and outs</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1955</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002345.htm">
+<relationEntry localType="published">Book: Beyond blue hills : the Ternna-Boolla story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">Beyond blue hills : the Ternna-Boolla story</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus and Robertson</publisher>
+<date>1953</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002344.htm">
+<relationEntry localType="published">Book: Blue Hills</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">Blue Hills</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus and Robertson</publisher>
+<date>1950</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002343.htm">
+<relationEntry localType="published">Book: The Lawsons</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">The Lawsons</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002342.htm">
+<relationEntry localType="published">Book: Great inheritance</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">Great inheritance</title>
+<imprint>
+<place>[Australia]</place>
+<publisher>R.A.A.F. Educational Services</publisher>
+<date>1945</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002341.htm">
+<relationEntry localType="published">Book: Wives have their uses : a comedy in three acts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">Wives have their uses : a comedy in three acts</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Mulga Publications</publisher>
+<date>1944</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001356.htm">
+<relationEntry localType="published">Sound recording: [Conversation with Gwen Meredith] / [interviewer : Hazel de Berg]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Meredith, Gwen, 1907-</name>
+<title render="italic">[Conversation with Gwen Meredith] / [interviewer : Hazel de Berg]</title>
+<imprint>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002348.htm">
+<relationEntry localType="published">Book: Upstaged : Australian women dramatists in the limelight at last</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Arrow, Michelle</name>
+<title render="italic">Upstaged : Australian women dramatists in the limelight at last</title>
+<imprint>
+<place>Strawberry Hills, N.S.W.</place>
+<publisher>Currency Press</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001643.htm">
+<relationEntry localType="published">Book: The golden age of Australian radio drama 1923-1960 : a history through biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lane, Richard</name>
+<title render="italic">The golden age of Australian radio drama 1923-1960 : a history through biography</title>
+<imprint>
+<place>Carlton South, Vic.</place>
+<publisher>Melbourne University Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001147.htm">
+<relationEntry localType="published">Book: Australian women writers : a bibliographic guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adelaide, Debra</name>
+<title render="italic">Australian women writers : a bibliographic guide</title>
+<imprint>
+<place>London ; Sydney</place>
+<publisher>Pandora Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000177.htm">
+<relationEntry localType="published">Edited Book: Monash Biographical Dictionary of 20th Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Arnold, John and Morris, Deirdre</name>
+<title render="italic">Monash Biographical Dictionary of 20th Century Australia</title>
+<imprint>
+<place>Port Melbourne (Vic.)</place>
+<publisher>Reed Reference Publishing</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000483.htm">
+<relationEntry localType="archival">Meredith, Gwen Papers [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Meredith, Gwen Papers [manuscript]</unittitle>
+<unitid>MS 6789</unitid>
+<unitdate>1938 - 1987</unitdate>
+<abstract>Correspondence, personal documents, contracts, cutting books, photographs, radio scripts, and manuscripts of plays, novels and short stories. The correspondence includes letter written by Gwen Meredith to her family on her overseas trips in 1953, 1969 and 1973, letters relating to her research for 'Blue Hills', and papers documenting her long association with the Australian Broadcasting Commission. Correspondents include Ainsworth Harrison, John Blewitt, Gladys Blewitt, Beatrice Davis, W. Cousins, John Douglass, Charles Goldsmith, Sir Charles Moses, Frank Zeppel, James Pratt, F. D. Clewlow and Leslie Rees. There are incomplete sets of scripts of The Lawsons' and Blue Hills'.</abstract>
+<physdesc>
+<extent>4.9 m, 26 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001063.htm">
+<relationEntry localType="archival">[Biographical cuttings on Gwen Meredith, author]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Gwen Meredith, author]</unittitle>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

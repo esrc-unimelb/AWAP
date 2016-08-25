@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0613</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-22">2003-10-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-08">2015-01-08</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0613b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Thornton</part>
+<part localType="givenname">Merle</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1930-01-01">1930</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>Feminist</term>
+</occupation>
+<occupation>
+<term>Author</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>On 31 March 1965 Merle Thornton and Rosalie Bogner chained themselves to the Regatta Hotel bar rail to protest for women's rights. They wanted to liberate public bars from being men-only. The two protestors were both mothers of two and married to university lecturers. They were refused service, the publican faced a fine of £10-£20 if he served them with liquor, but were bought a beer by sympathetic male patrons. Their action became the starting point for women's liberation in Brisbane in the late twentieth century. It is now recognised as one of the defining moments of second wave feminism in Australia.
+
+A post-graduate student in Philosophy at the University of Queensland, Thornton went on to establish the Equal Opportunities for Women Association in April 1965. She also introduced the teaching of Women's Studies in Australia in 1973 and was the special guest of the Queensland Government and speaker at the 70th celebration of International Women's Day in 1999. Besides her academic writing Thornton has also written episodes for the television drama series <span style="font-style:italic">Prisoner</span> and has written and produced documentaries. Her stage play <span style="font-style:italic">Playing Mothers and Fathers</span> had a successful season at the Carlton Courthouse Theatre (Victoria) in 1990. Merle Thornton, the mother of actor Sigrid, returned to the Regatta Hotel, that now has a room named after her, for the launch of her first novel <span style="font-style:italic">After Moonlight</span> in 2004.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765073">
+<relationEntry>
+Thornton, Merle (1930-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Thornton, Merle', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Thornton, Merle</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0613b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002986.htm">
+<relationEntry localType="published">Book: After moonlight</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thornton, Merle, 1930-</name>
+<title render="italic">After moonlight</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Interactive Press</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002985.htm">
+<relationEntry localType="published">Book Section: Sex equality is not enough for feminism</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thornton, Merle</name>
+<title render="quoted">Sex equality is not enough for feminism</title>
+<imprint>
+<date>1986</date>
+</imprint>
+<bibseries>
+<title render="italic">Feminist Challenges: Social and Political Theory</title>
+<name type="author">Pateman, Carole and Gross, Elizabeths</name>
+<num type="pages">77-98</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002984.htm">
+<relationEntry localType="published">Newspaper Article: Here's to pub's history of brave women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wilson, Ashleigh</name>
+<title render="quoted">Here's to pub's history of brave women</title>
+<bibseries>
+<title render="italic">Australian</title>
+<num type="pages">5</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002983.htm">
+<relationEntry localType="published">Newspaper Article: Forty Years Later, No Bar to Women?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mathewson, Catriona</name>
+<title render="quoted">Forty Years Later, No Bar to Women?</title>
+<bibseries>
+<title render="italic">The Courier-Mail</title>
+<num type="pages">8</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001649.htm">
+<relationEntry localType="archival">[Biographical cuttings on Merle Thornton, academic, writer and playwright]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>[Biographical cuttings on Merle Thornton, academic, writer and playwright]</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

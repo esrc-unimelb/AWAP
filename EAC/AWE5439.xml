@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5439</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-10-12">2015-10-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Katherine Sampson</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5439b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sampson</part>
+<part localType="givenname">Katherine</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Board member</term>
+</occupation>
+<occupation>
+<term>Director</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Katherine Sampson is the Managing Director of Mahlab Recruitment (Vic) Pty Ltd. In addition to partner and senior level search, she advises clients on mergers, strategic partner selection, law firm management and legal department structures and often speaks at industry conferences and seminars.
+
+Katherine serves on a number of boards and committees in both legal and non-legal spheres. In May 2014 she was appointed as a trustee director of industry superannuation fund CareSuper.
+
+Other extra curricular roles have included executive committee member of Australian Corporate Lawyers Association (ACLA), board member of Craft Victoria (1995 to 1997), Deputy Chair of the Walter &amp; Eliza Hall Institute Ethics Committee (1991 to 2002), board member of the Melbourne International Arts Festival (1998 to 2004) , Deputy Chair of The Australian Press Council (2002-2011) and, until recently, board member of the Monash Law School Foundation.
+
+Katherine undertook the Williamson Community Leadership program (Leadership Victoria) in 1996. She was a participant in the 2020 Summit, Governance section.
+
+She joined Mahlab Recruitment in 1985 after a career in law at (the then) Corr &amp; Corr. She holds a Bachelor of Arts with Honours and a Bachelor of Laws from Monash University and is a graduate of the Australian Institute of Company Directors (AICD) and the Australian Institute of Superannuation Trustees (AIST).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1666016">
+<relationEntry>
+Sampson, Katherine
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sampson, Katherine', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sampson, Katherine</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5439b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

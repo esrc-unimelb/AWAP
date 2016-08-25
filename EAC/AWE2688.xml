@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2688</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-05-16">2007-05-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2688b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lee</part>
+<part localType="givenname">Debbie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Sportswoman</term>
+</occupation>
+<occupation>
+<term>Sports administrator</term>
+</occupation>
+<occupation>
+<term>Australian Rules Football coach</term>
+</occupation>
+<occupation>
+<term>Australian Rules Football player</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>No Australian Rules football player, male or female, is more decorated than Debbie Lee. Currently (2007) the president of the Victorian Women's Football League, Debbie is an All-Australian, a five time winner of the Helen Lambert medal (the equivalent to the Brownlow medal in the men's game), a premiership captain, the captain of Victoria on four occasions (winning the E.J Whitten medal for best afield in an interstate game on two occasions) and a five time club
+best and fairest winner. As a player and an administrator she has worked hard to promote the women's game off the field.
+
+One of her more public efforts in promoting the game happened in 2002. Given the opportunity to participate in a reality TV show <span style="font-style:italic">The Club</span>, which followed the trials and tribulations of grass roots footy in the Western Region Football League (WRFL), Debbie seized the opportunity to promote women's footy. Over the course of the series, Debbie Lee publicly challenged the rules of the WRFL and Football Victoria by raising the controversial question: 'Should women be able to play against men in Aussie Rules Footy?' The outcome was expected and the possibility of Debbie Lee running onto the field as a Hammerhead was thwarted. Her involvement with the Hammerheads (the team that the show focussed on) continued, however, when the coaching staff appointed her as assistant coach to Carlton Champion David Rhys-Jones. She was actively involved in the decision-making, selections and the match day preparation; she was an integral part of the 'Hammerheads' success in winning the 2002 WRFL Premiership.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE2687b.htm">
+<relationEntry localType="Corporate Body">
+Victorian Women's Football League (1981 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-708126">
+<relationEntry>
+Lee, Debbie
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lee, Debbie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lee, Debbie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2688b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003866.htm">
+<relationEntry localType="published">Videorecording: Game Girls</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cannell, Mirriam</name>
+<title render="italic">Game Girls</title>
+<imprint>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4315</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-14">2009-09-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Isobelle Barrett Meyering</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4315b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Walker</part>
+<part localType="givenname">Alice Ruth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-03-06">6 March 1917</fromDate>
+<toDate standardDate="1986-12-17">17 December 1986</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Lismore, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+<occupation>
+<term>philosopher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Alice Ruth Walker was a student and later academic in the Department of Philosophy at the University of Sydney.
+
+Educated at North Sydney Girls' High School, she matriculated in 1933 and enrolled in a Bachelor of Arts at the University of Sydney. She graduated with First Class Honours and the University Medal in Philosophy in 1937.
+
+She began her academic career soon after whe she was appointed as a part-time correcting assistant in Department of Philosophy in 1937. The following yearshe was promoted to the position of part-time Demonstrator/Tutor
+
+The years later, in 1941 she received her first full time appoitnment at the university, that of full-time Assistant Lecturer. She was appointed lecturer in 1944.
+1944: Appointed Lecturer
+
+In 1952, she ook a year's study leave to work at the University of London and the London School of Economics, where she mixed with the likes of Karl Popper and Alfred Jules Ayer. Two years later, in 1954 she was appointed Senior Lecturer. In 1960 she took a year's study leave, worked at the University of Oxford as a "recognised student".
+
+Alice Walker retired from the University of Sydney in 1972.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462327">
+<relationEntry>
+Walker, Alice Ruth (1917-1986)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Walker, Alice Ruth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Walker, Alice Ruth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4315b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004610.htm">
+<relationEntry localType="published">Finding Aid: University of Sydney Archives Listings for John Anderson: Series 158: Walker Alice Ruth [1917-1986]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Packer, Jim</name>
+<title render="italic">University of Sydney Archives Listings for John Anderson: Series 158: Walker Alice Ruth [1917-1986]</title>
+<extptr linktype="simple" href="http://setis.library.usyd.edu.au/pubotbin/toccer-new?id=archives01.sgm&amp;images=&amp;data=/usr/ot&amp;tag=anderson"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002333.htm">
+<relationEntry localType="archival">Personal archives of Walker, Alice Ruth [1917-1986]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Sydney, Archives</repository>
+<unittitle>Personal archives of Walker, Alice Ruth [1917-1986]</unittitle>
+<unitid>P158</unitid>
+<unitdate>1917 - 1986</unitdate>
+<abstract>Contents include: letters from Walker to Professor John Anderson (1936-1961); letters and miscellanea received by Walker from Anderson and others (1936-1980); lecture notes (1934-1938); essays in philosophy by Walker (1934-1937); notes taken by Walker at Karl Popper's seminars, University of London (1952); notes taken by Walker at seminars and congresses relating to talks given by Anderson (1936-1958); notes relating to lectures and tutorials given by Walker (1951-1963); miscellaneous notes (1938-1955); financial records (1972-1986); miscellaneous type-script notes (1948-1964); miscellaneous political records (1928-1949); printed political publications and pamphlets (1933-1958); photographic prints (no date).</abstract>
+<physdesc>
+<extent>0.7 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

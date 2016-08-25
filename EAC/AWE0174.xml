@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0174</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-11-14">2001-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-23">2015-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0174b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Irwin</part>
+<part localType="givenname">Julia Claire</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1951-11-08">8 November 1951</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Parliamentarian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A member of the Australian Labor Party, Julia Irwin was elected to the Australian Parliament as Member for Fowler, New South Wales, in 1998. She was re-elected in 2001, 2004 and 2007. She was not a candidate in the 2010 federal election.</abstract>
+<p>Born and raised in Western Sydney, Irwin left school at the age of 16 to work in a bank and while studying at night.<br />
+During the early 1970's she worked for a number of Trade Unions and participated in the equal pay campaign. In 1976 she was appointed electorate secretary to NSW Deputy Premier Jack Ferguson.<br />
+From 1989-1998, Irwin worked as an electorate officer for Federal Schools, Vocational Education and Training Minister, Ross Free (1989-1995) and Member for Fowler, Ted Grace (1995-1998).<br />
+Since entering parliament she was Deputy Chair of the House of Representatives Environment and Heritage Committee (1999 &amp; 2000) and a member of the Joint Standing Committee on Migration and the House of Representatives Family and Community Affairs Committee.<br />
+Irwin is also a member of a number of Causcus Committees - Living Standards and Economic Development, National Security and Trade, Social Policy and Community Development and is Secretary of the Status of Women Causus Committee.<br />
+Married to Geoff (Member NSW Parliament 1984-1995), they have two children and her interests are centred on the community and family.</p>
+<p>Sources: <span style="font-style:italic">http://www.juliairwin.org/biography.htm accessed 14/11/01;<br />
+http://www.aph.gov.au/house/members/biography.asp?id+83Z accessed 14/11/01;<br />
+http://www.labor.net.au/emilyslist/candidates/can_irwin.html accessed 14/11/01;<br />
+http://www.alp.org.au/people/people.html?seat+Fowler accessed 14/11/01</span></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0124b.htm">
+<relationEntry localType="Corporate Body">
+EMILY's List Australia (1996 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-720093">
+<relationEntry>
+Irwin, Julia Claire (19511108-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Irwin, Julia Claire', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Irwin, Julia Claire</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0174b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000360.htm">
+<relationEntry localType="published">Resource Section: Julia Irwin, Member and Candidate for Fowler</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Labor Party</name>
+<title render="quoted">Julia Irwin, Member and Candidate for Fowler</title>
+<extptr linktype="simple" href="http://www.alp.org.au/people/people.html?seat+Fowler"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000359.htm">
+<relationEntry localType="published">Resource Section: Julia Irwin: Candidate for Fowler</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Emily's List</name>
+<title render="quoted">Julia Irwin: Candidate for Fowler</title>
+<extptr linktype="simple" href="http://www.labor.net.au/emilyslist/candidates/can_irwin.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000358.htm">
+<relationEntry localType="published">Resource Section: Mrs Julia Irwin MP, Member for Fowler (NSW)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Parliament House</name>
+<title render="quoted">Mrs Julia Irwin MP, Member for Fowler (NSW)</title>
+<extptr linktype="simple" href="http://www.aph.gov.au/house/members/biography.asp?id+83Z"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000324.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 2002</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Herd, Margaret</name>
+<title render="italic">Who's Who in Australia 2002</title>
+<edition>38</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Crown Content</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

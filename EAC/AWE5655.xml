@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5655</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Judge Kathryn Kings</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-12">2016-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5655b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Kings</part>
+<part localType="givenname">Kathryn</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Solicitor</term>
+</occupation>
+<occupation>
+<term>Judge</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Judge Kathryn Kings is a judge of the County Court of Victoria, a position she has occupied since 2009. As of January 2015 Kathy became the judge in charge of the Court's Family Property List which includes cases relating to deceased estates. She takes an active role in managing the litigation in that List, including mediating settlement conferences. She also undertakes work in the Court's Personal Injury List, which includes cases involving workplace injuries, transport accidents and medical negligence, trial being by judge alone or by jury.
+
+Before coming to the County Court, Kathy was an Associate Judge, formerly known as a Master and Listing Master of the Supreme Court of Victoria from 1993 to 2008. She was the first female judicial officer appointed to the Supreme Court of Victoria. In that Court she was actively involved in the management of civil proceedings, including acting as a mediator and sat on numerous committees in relation to civil procedure.
+
+Prior to being appointed as a judicial officer, Kathy practised as a litigation lawyer both in city and country law firms. Immediately prior to her appointment to the Supreme Court she was an Associate at Mallesons Stephen Jaques (now KingWood Mallesons) from 1987 to 1992. She graduated from the University of Melbourne (LLB in 1974 and later LLM in 1984).
+
+Outside of the law, Kathy is a passionate advocate for educational institutions that provide opportunities for young women. She is currently a member of the school board of Korowa Anglican Girls' School in Glen Iris. Kathy was also a board member of Wesley College and MLC. Kathy was also the Chair of the Human Research Ethics Committee of the Royal Women's Hospital from 2004 to 2006, and a director of the Nurses Memorial Centre from 2005 to 2009.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kings, Kathryn', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kings, Kathryn</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5655b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

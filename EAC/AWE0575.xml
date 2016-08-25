@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0575</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-01">2003-10-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0575b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Baker</part>
+<part localType="givenname">Edith Clarice</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="married name"><part>McGlaughlin, Edith</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1944-04-29">29 April 1944</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1899-07-13">13 July 1899</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Port Wakefield, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Matron</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Edith Baker undertook her nursing training at Memorial Hospital, Adelaide and then worked in South Africa and England before being appointed to the Royal Australian Air Force Nursing Service (RAAFNS) in 1941. Baker rose to the position of area matron before being discharged on 8 May 1944.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1925-12-31">1925</toDate>
+</dateRange>
+<event>Training at the Memorial Hospital, Adelaide</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<event>Nursing experience in South Africa and England</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1941-01-01">Janurary 1941</fromDate>
+<toDate standardDate="1941-01-01">Janurary 1941</toDate>
+</dateRange>
+<event>Appointed to the Royal Australian Air Force Nursing Service (RAAFNS)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1942-01-01">January 1942</fromDate>
+</dateRange>
+<event>Promoted to Senior Sister, RAAFNS</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1943-03-01">March 1943</fromDate>
+<toDate standardDate="1943-03-31">March 1943</toDate>
+</dateRange>
+<event>Promoted to Matron, RAAFNS</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1943-11-01">November 1943</fromDate>
+<toDate standardDate="1943-11-30">November 1943</toDate>
+</dateRange>
+<event>Promoted to Area Matron, RAAFNS</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1944-04-29">29 April 1944</fromDate>
+<toDate standardDate="1944-04-29">29 April 1944</toDate>
+</dateRange>
+<event>Married Eric G McGlaughlin</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1944-05-08">8 May 1944</fromDate>
+<toDate standardDate="1944-05-08">8 May 1944</toDate>
+</dateRange>
+<event>Discharged from the RAAFNS</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0573b.htm">
+<relationEntry localType="Corporate Body">
+Royal Australian Air Force Nursing Service (RAAFNS) (1940 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-01-01">January 1941</fromDate>
+<toDate standardDate="1944-05-08">8 May 1944</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: 503049</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-759070">
+<relationEntry>
+Baker, Edith Clarice (1899-1983)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baker, Edith Clarice', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baker, Edith Clarice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0575b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002103.htm">
+<relationEntry localType="published">Resource Section: BAKER, EDITH CLARICE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">BAKER, EDITH CLARICE</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1068876"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002552.htm">
+<relationEntry localType="published">Book: Story of the RAAF nursing service : 1940-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Halstead, Gay.</name>
+<title render="italic">Story of the RAAF nursing service : 1940-1990</title>
+<imprint>
+<place>Metung, Vic.</place>
+<publisher>Nungurner Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002143.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia, 1947</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chisholm, Alec H</name>
+<title render="italic">Who's Who in Australia, 1947</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald and Weekly Times</publisher>
+<date>1947</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000894.htm">
+<relationEntry localType="published">Edited Book: Who's Who in Australia 1950</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Joseph A</name>
+<title render="italic">Who's Who in Australia 1950</title>
+<edition>14th</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Herald</publisher>
+<date>1950</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

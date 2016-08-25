@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0742</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-16">2004-02-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0742b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Munro Ferguson</part>
+<part localType="givenname">Helen Hermione</part>
+<part localType="honorific title">Lady, GBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Blackwood, Lady Helen</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1865-01-01">1865</fromDate>
+<toDate standardDate="1889-08-31">31 August 1889</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1865-01-01">1865</fromDate>
+<toDate standardDate="1941-04-09">9 April 1941</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Lady Helen Munro Ferguson, daughter of the viceroy, the Marquess of Dufferin and Ava, was president and founder of the Australian Branch of the British Red Cross Society. The wife of Sir Ronald Munro Ferguson (1860-1934), Governor-General of Australia 1914-1920, she established the Australian Branch of the British Red Cross Society on 13 August 1914. During World War I the ballroom of Melbourne's Government House was taken over by Lady Munro Ferguson's work for the Society. In 1918 she was appointed Dame Grand Cross of the Order of the British Empire (GBE) for her work during World War I. Following the end of her husband's term as Governor-General, on 6 October 1920, the Munro Fergusons returned to Scotland.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0715b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross (1914 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1920-08-31">August 1920</toDate>
+</dateRange>
+<descriptiveNote>
+<p>President and founder of the Australian Branch of the British Red Cross Society</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0721b.htm">
+<relationEntry localType="Corporate Body">
+International Humanitarian Law, Australian Red Cross
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766055">
+<relationEntry>
+Munro Ferguson, Helen Hermione (1865-1941)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Munro Ferguson, Helen Hermione', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Munro Ferguson, Helen Hermione</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0742b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001918.htm">
+<relationEntry localType="published">Journal Article: 'The Best P.M. for the Empire'? Lady Helen Munro Ferguson and the Australian Red Cross Society, 1914-1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Oppenheimer, Melanie</name>
+<title render="quoted">'The Best P.M. for the Empire'? Lady Helen Munro Ferguson and the Australian Red Cross Society, 1914-1920</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Historical Studies</title>
+<num type="volume">119</num>
+<num type="issue">April</num>
+<num type="pages">108-124</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001213.htm">
+<relationEntry localType="archival">Ladies of Voluntary Aid Detachments</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Ladies of Voluntary Aid Detachments</unittitle>
+<unitid>H11580</unitid>
+<unitdate>c. 1915</unitdate>
+<abstract>Ladies of Voluntary Aid Detachments marching past Lady Helen Munro Ferguson, wife of the Governor General, in front of Government House. Sydney, NSW. c. 1915. (Donor Sydney Mail)</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photograph</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001212.htm">
+<relationEntry localType="archival">Pharo, F. M. Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Pharo, F. M. Papers</unittitle>
+<unitid>MS 6669</unitid>
+<unitdate>c. 1900 - c. 1922</unitdate>
+<abstract>A small collection of letters and photographs relating to Miss Pharo's services to Lady Munro-Ferguson: Letters from Lady Munro Ferguson, Captain the Hon Bede Clifford later Earl of Chudleigh and others to Miss Pharo for the period 1900 to 1921. Most of these acknowledgements for Miss Pharo's services and farewell notes on Miss Pharo's departure from Government House. There is also a small group of subject files of copies of "out letters" from the Governor General's office. These consist of official letters to various organizations: The Society for Welfare of Mothers and Babies; The Friendly Union of Soldiers' Wives; The Imperial War Relief Fund and the soldiers' Welfare Committee. The photographs in this collection are of Lady Munro Ferguson, Captain Clifford and Miss Pharo. Miss Pharo served as secretary to Lady Helen Munro-Ferguson, later Lady Novar.</abstract>
+<physdesc>
+<extent>0.09 m, 3 folders</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001207.htm">
+<relationEntry localType="archival">Red Cross House Badge</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Red Cross House Badge</unittitle>
+<unitid>EXDOC048</unitid>
+<abstract>Original badge designed for Australian Red Cross Society, signed by Helen Munro Ferguson while President of Australian Red Ross Society.</abstract>
+<physdesc>
+<extent>1 item</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

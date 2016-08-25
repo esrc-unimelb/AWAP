@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0884</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-15">2004-04-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0884b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Uren</part>
+<part localType="givenname">Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-07-28">28 July 1909</fromDate>
+<toDate standardDate="1991-11-12">12 November 1991</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Maylands, South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Elizabeth (Bette) Uren was born at Maylands, South Australia. She was called up to the Australian Army Nursing Service (AANS) and embarked for overseas in May 1940. After ten months at the 2/3 Austalian General Hospital (AGH) in Surrey the nurses transferred to the Middle East and staffed the 2/11 AGH in Alexandria. On return to Australia Bette Uren served in Toowoomba and Warwick. In 1943 she was appointed Sister-in-Charge of a Casualty Clearing Station which in January 1945 was posted to the Solomon Islands. Bette's final experience in the AANS was at the military hospital at Daws Road.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-05-13">13 May 1940</fromDate>
+<toDate standardDate="1947-01-23">23 January 1947</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Service no: 41004F (SX3062)</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-756063">
+<relationEntry>
+Uren, Elizabeth (1909-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Uren, Elizabeth (Bette) Irene', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Uren, Elizabeth (Bette) Irene</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0884b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002755.htm">
+<relationEntry localType="published">Resource Section: UREN, ELIZABETH IRENE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">UREN, ELIZABETH IRENE</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=A&amp;VeteranID=845000"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001460.htm">
+<relationEntry localType="archival">Interview with Elizabeth Uren [sound recording] Interviewer: Joan Durdin</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Elizabeth Uren [sound recording] Interviewer: Joan Durdin</unittitle>
+<unitid>OH 17/1</unitid>
+<unitdate>29 November 1986</unitdate>
+<abstract>History of Nursing in South Australia 
+
+Elizabeth (Bette) Uren was born at Maylands, South Australia. After gaining her Leaving Certificate she did secretarial work in her father's hardware business. From 1934 to 1937 Bette trained at Royal Adelaide Hospital, and then worked in the Out Patients Department, and later at the Institute of Medical and Veterinary Science. She was called up to the Australian Army Nursing Service and embarked for overseas in May 1940. After ten months at the 2/3 Austalian General Hospital in Surrey the nurses transferred to the Middle East and staffed the 2/11 AGH in Alexandria. On return to Australia Bette Uren served in Toowoomba and Warwick. In 1943 she was appointed Sister-in-Charge of a Casualty Clearing Station which in January 1945 was posted to the Solomon Islands. Bette's final experience in the AANS was at the military hospital at Daws Road. She was discharged in 1947 and returned to the staff of IMVS where she remained until her retirement in 1969.</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

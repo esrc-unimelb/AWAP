@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0768</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-27">2004-02-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Ros Russell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0768b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dabrowski</part>
+<part localType="givenname">Stasia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-01-01">1925?</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Poland</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Stasia Dabrowski has voluntarily run a mobile soup kitchen since 1979, providing hot soup, bread, drinks, clothes and blankets to the homeless and needy of Canberra, and is dedicated to the welfare of young people. For nine years she raised the funds herself to purchase ingredients for the soup kitchen.
+
+She was the 1996 Canberra Citizen of the Year, and the 1999 inaugural Australian Capital Territory (ACT) Senior Australian of the Year.</abstract>
+<p>Stasia Dabrowski arrived in Canberra in 1964 and raised two children. Her second son became addicted to heroin and this led to her commitment to assisting young people in need. One of her son's friends, a recovered drug addict, asked her to help him set up a soup kitchen.</p>
+<p>The mobile kitchen, run from the back of a van, was possibly the first of its kind in Australia. The friend married and left Canberra, and she continued to provide the service with the help of her son.</p>
+<p>Every Friday night since 1979 she has provided hot soup, bread, drinks, clothes and blankets to the homeless and needy of Canberra. On an average Friday night the soup kitchen provides several hundreds of loaves of bread and a similar quantity of soup to over 300 people in need. Dabrowski is particularly concerned with the welfare of young people and the lack of love and security many experience, but does not discriminate as to who she provides assistance to.</p>
+<p>For nine years she raised the funds herself to purchase ingredients for the soup. In recent years she has received some Australian Capital Territory (ACT) Government funding and some businesses provide surplus food. The ACT Government 2000 Budget document, <span style="font-style:italic">Canberra: building social capital</span>, described Dabrowski as 'one particularly strong example' of 'many quiet achievers … volunteering their time and often their money to feed people who are homeless, unemployed or have drug problems'.</p>
+<p>In 1996 Dabrowski was the Canberra Citizen of the Year and featured on the ABC's <span style="font-style:italic">Australian Story</span>. In 1999 she was honoured with the inaugural ACT Senior Australian of the Year, receiving the award for her twenty-year dedication to the homeless and needy on Canberra's streets.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0785b.htm">
+<relationEntry localType="Exhibition">
+Women in the making of Canberra
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-741059">
+<relationEntry>
+Dabrowski, Stasia (1925-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dabrowski, Stasia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dabrowski, Stasia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0768b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002568.htm">
+<relationEntry localType="published">Book: Canberra : building social capital : Australian Capital Territory budget 2000</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Capital Territory Government</name>
+<title render="italic">Canberra : building social capital : Australian Capital Territory budget 2000</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Publishing Services (Deptartment of Urban Services)</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00754.htm">
+<relationEntry localType="digitalObject">Portrait of social worker Stasia Dabrowski at the National Library of Australia, 26 July 2004</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia, vn3673156. Used with permission.</repository>
+<unittitle>Portrait of social worker Stasia Dabrowski at the National Library of Australia, 26 July 2004</unittitle>
+<unitdate>2004</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

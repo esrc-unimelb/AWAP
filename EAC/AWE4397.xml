@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4397</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-01">2009-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary  Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-24">2016-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4397b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Cox</part>
+<part localType="givenname">Eva Maria</part>
+<part localType="honorific title">OA</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Hauser, Eva Maria</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1938-02-21">21 February 1938</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Vienna, Austria</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Women's rights activist</term>
+</occupation>
+<occupation>
+<term>University teacher</term>
+</occupation>
+<occupation>
+<term>Social activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A founding member of the Women's Electoral Lobby, which was established in 1972, Eva Cox has been an advocate for women and is well-known as a social critic. In 1995 she was appointed Officer of the Order of Australia 'for services to women's welfare'. In 1997 the Council of Australian Humanist Societies named her Humanist of the year.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0021b.htm">
+<relationEntry localType="Corporate Body">
+Women's Electoral Lobby (1972 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-463172">
+<relationEntry>
+Cox, Eva (19380221-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cox, Eva Maria', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cox, Eva Maria</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4397b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004660.htm">
+<relationEntry localType="published">Book: Leading women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cox, Eva</name>
+<title render="italic">Leading women</title>
+<imprint>
+<place>Milsons Point, N.S.W.</place>
+<publisher>Random House Australia</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000001.htm">
+<relationEntry localType="published">Edited Book: Australian Feminism: A Companion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Caine, Barbara</name>
+<title render="italic">Australian Feminism: A Companion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002375.htm">
+<relationEntry localType="archival">Eva Cox interviewed by Ann Mari Jordens [sound recording]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Eva Cox interviewed by Ann Mari Jordens [sound recording]</unittitle>
+<unitid>ORAL TRC 4855</unitid>
+<unitdate>2002</unitdate>
+<abstract>4 digital audio tapes (228 min.) Cox speaks of her comfortable middle-class Jewish family in Vienna, Austria; her mother Ruth nee Kantor, a final year medical student, and of her father, Richard Jakob Hauser, a business man; in March 1939 her mother fled with her to England as a refugee, and her father joined the British Army in Palestine; other relatives took refuge in Australia; after a difficult life as refugees in England, she and her mother reunited with her father in Rome in 1945 where he worked with the United Nations Refugee Association (UNRA); and Eva continued her schooling; in 1948 her parents joined her mother's extended family in Sydney; Eva first lived and attended school at Bondi; her parents separated about two years later; after initially failing the Leaving Certificate at Sydney Girls High in 1954 she eventually qualified and attended Sydney University from 1956-57; lived in England and Italy from 1958-1961; when she returned to Australia, she married John Cox in 1962 and had a daughter, Rebecca, in 1964.
+
+Cox speaks of working in market research following her divorce in 1968; then studied sociology at the University of NSW, graduating with honours in 1974; in the early 1970s she joined the Labor Party and became involved in the formation of the Women's Electoral Lobby; after tutoring at the UNSW she became Director of the NSW Council for Social Service from 1977-81; then advisor to Don Grimes, the Shadow Spokesperson on Social Security from 1981-82; between 1989 and 1994 she ran Distaff Associates in association with Helen Leonard; since 1994 she has lectured at the University of Technology, Sydney; in 1995 she was awarded the Order of Australia and delivered the ABC's annual Boyer lectures entitled 'A Truly Civil Society'; her book, Leading Women, was published in 1996.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Audio</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

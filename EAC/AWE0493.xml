@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0493</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-08-12">2003-08-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0493b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">White</part>
+<part localType="givenname">Jessie McHardie</part>
+<part localType="honorific title">MBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Williamson, Jessie McHardie</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1870-07-24">24 July 1870</fromDate>
+<toDate standardDate="1893-09-21">21 September 1893</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-07-24">24 July 1870</fromDate>
+<toDate standardDate="1957-10-26">26 October 1957</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Yarra Flats (Yering), Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>East Hawthorn, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Nurse</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>After her husband's death in 1896 Jessie White commenced general nursing training at the Alfred Hospital in Melbourne, Victoria. She completed her midwifery training at the Women's Hospital (later Royal) in 1901. Five years later she was in charge and running her own private hospital as well as serving as a reservist in the Australian Army Nursing Service.
+
+When war broke out in 1914, she enlisted in the Australian Army Nursing Service, rising through the ranks to be appointed Principal Matron of the Australian Army Nusing Service in December 1915.</abstract>
+<p>After her husband's death in 1896 Jessie White commenced her four year general training at the Alfred Hospital, Melbourne. She completed her midwifery training at the Women's Hospital (later Royal) in 1901. Five years later she was in charge and running her own private hospital as well as serving as a reservist in the Australian Army Nursing Service.</p>
+<p>At the outbreak of World War I White enlisted in the Australian Army Nursing Service. In October 1914 she travelled with the first convoy to Egypt where she was attached to a British Hospital. During the Dardanelles campaign she worked on a hospital ship which carried patients from Gallipoli to the hospitals on Lemnos Island. In December 1915 White was transferred to England where under the re-organization of the Australian Army Medical Corps she was appointed Principal Matron of the Australian Army Nusing Service. On 3 June 1916 White was awarded the Royal Red Cross (1st class) for her services. Due to personal reasons she resigned from the Service and returned to Australia.</p>
+<p>On 5 June 1917 White rejoined the Service and departed for Salonika where she was given the task of staffing four British general hospitals. While ministering to the sick and wounded soldiers the nurses had to contend with terrible living conditions, the extremities in temperatures, fire, snow, mud, malaria, dysentry, typhus, flies, lice, lack of food supplies, marauders and friction from the British medicos.</p>
+<p>In recognition of her service White was mentioned in despatches, awarded the Greek Medal for Military Merit, the Serbian Order of the St Sava and on 7 June 1918 she was appointed a Member of the Order of the British Empire.</p>
+<p>She returned to nursing in civilian life in August 1919 and continued working until she was in her 70s. White was active in the Returned Nurses Association especially the Salonika Sister's Group of which she was President for 25 years.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0408b.htm">
+<relationEntry localType="Corporate Body">
+Australian Army Nursing Service (AANS) (1902 - 1948)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1914-08-01">August 1914</fromDate>
+<toDate standardDate="1919-08-31">August 1919</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775091">
+<relationEntry>
+White, Jessie McHardie (1870-1957)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'White, Jessie McHardie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">White, Jessie McHardie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0493b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001937.htm">
+<relationEntry localType="published">Book: The Shire of Lillydale and its military heritage : the First World War and its effect on the community</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McAleer, A J</name>
+<title render="italic">The Shire of Lillydale and its military heritage : the First World War and its effect on the community</title>
+<imprint>
+<place>Mooroolbark, Vic.</place>
+<publisher>A J McAleer</publisher>
+<date>c1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001924.htm">
+<relationEntry localType="published">Book: Nightingales in the mud : the digger sisters of the Great War 1914 - 1918</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barker, Marianne</name>
+<title render="italic">Nightingales in the mud : the digger sisters of the Great War 1914 - 1918</title>
+<imprint>
+<place>North Sydney</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

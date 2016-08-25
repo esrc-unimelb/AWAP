@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0531</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-09-08">2003-09-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Wilkinson</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-07">2015-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0531b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Oke</part>
+<part localType="givenname">Marjorie</part>
+<part localType="honorific title">OAM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Bennett, Marjorie Elizabeth</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1911-12-18">18 December 1911</fromDate>
+<toDate standardDate="2003-08-14">14 August 2003</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Richmond, Victoria, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Political candidate</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Marj Oke's first job was as a teacher in a one-room school. Upon her marriage in 1942, as was the policy of the time, she was suspended from teaching. Working at the Australian Jam Company, she encountered very poor working conditions. This experience propelled her to join the Food Preservers' Union and become active in the Australian Labor Party. She stood as a candidate for the Australian Labor Party in the Legislative Assembly seat of St Kilda under her maiden name, Bennett, at the Victorian state election, which was held in 1943. In 1950, Oke became a founding and lifelong member of the Union of Australian Women. After returning to teaching in Moe, she campaigned for equal pay for women teachers, the abolition of the marriage bar and access to superannuation. Additionally, Oke formed a branch of the Aboriginal Advancement League and became, in 1992, a founding member of the Network for Older Women. On 10 June 1991 she was awarded an OAM (Medal of the Order of Australia) for service to aged people, particularly women. Oke was included in the Victorian Honour Roll of Women in March 2002.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0106b.htm">
+<relationEntry localType="Corporate Body">
+Union of Australian Women (1950 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0501b.htm">
+<relationEntry localType="Corporate Body">
+National Council of Women of Victoria (1902 - )
+</relationEntry>
+<descriptiveNote>
+<p>In 1991 she was one of three women honoured at the 90th Anniversay dinner</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-768065">
+<relationEntry>
+Oke, Marjorie (1911-2003)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Oke, Marjorie (Marj) Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Oke, Marjorie (Marj) Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0531b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002014.htm">
+<relationEntry localType="published">Journal Article: Marj Oke - Tribute to a foundation member</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Marj Oke - Tribute to a foundation member</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Union of Australian Women, Newsltter</title>
+<num type="issue">September, 2003</num>
+<num type="pages">1</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002273.htm">
+<relationEntry localType="published">Newspaper Article: A life swimming hard for political equality</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Owen, Mary R and Graham, Janet</name>
+<title render="quoted">A life swimming hard for political equality</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The Age</title>
+<num type="issue">Obituaries</num>
+<num type="pages">9</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004269.htm">
+<relationEntry localType="published">Site Exhibition: Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Carrying on the Fight: Women Candidates in Victorian Parliamentary Elections</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cws/home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000106.htm">
+<relationEntry localType="published">Edited Book: A decade of Mary Owen dinners</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Waterfield, Dorothy</name>
+<title render="italic">A decade of Mary Owen dinners</title>
+<imprint>
+<place>Sandingham, Vic.</place>
+<publisher>Mary Owen Dinner Committee</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001311.htm">
+<relationEntry localType="archival">Oke, Marjorie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Oke, Marjorie</unittitle>
+<unitid>100/206</unitid>
+<unitdate>1964 - 1994</unitdate>
+<abstract>Articles; Women and Labour Conference minutes, papers, programs, newsletter, leaflets, monograph; casette tape; National Health Promorion Conference papers; Older Women's Network Annual Conference papers; Women's Suffrage Centenary papers; International Conference of Women from Industrialised Nations on Women and Work program; Women and Housing Workshop conference papers; Women and Technological Change leaflet; newspaper clippings; correspondence; newspaper clippings; diaries; personal papers; mongraphs; periodicals including 'Alive and WEL', 'Freedom to Choose'; 'Consultative Committee of Women on Leisure and Recreation Newsletter'; 'Health Sharing Women Newsletter of the Victorian Women's Health Information Service'; 'Star Victorian Action on Intellectual Disability '; National Council of Women of Victoria Newsletter and Quarterly Bulletin; 'Manipulation'; 'Unity'; 'Northcote Community Health Centre Newsletter'; 'Northcote Hydro Therapy Massage, Self Help Ladies Group'; 'WAC Women's Newsletter'; Women in Focus WAC'; 'Women's Liberation Newsletter'; subject files regarding abortion, arts, health; Australian Council of Women papers; CAPOW papers; Consultative Committee of Women on Leisure and Recreation papers; other major women's organisations.</abstract>
+<physdesc>
+<extent>9 archives boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00308.htm">
+<relationEntry localType="digitalObject">Marjorie Oke</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Marjorie Oke</unittitle>
+<unitdate>1943</unitdate>
+<note label="rights">Please contact Yarra Libraries</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

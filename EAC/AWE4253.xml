@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4253</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-17">2009-08-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4253b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Methodist Deaconess Order in South Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Methodist Order of Deaconesses</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1942-01-01">1942</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Adelaide, South Australia, Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>The Methodist Order of Deaconesses was established in 1942 as a result of the inability of the Methodist Church in Australia to implement the principle affirmed at the General Conference in 1929 that women who believed that they were called by God to a wider (professional) ministry in the Church than was available to them at that time, could offer as candidates for the ministry under the same regulations as men. 
+
+Its establishment led to marked changes in the opportunities available to women in the life of the church. Significantly, it offered structure, support and status for women's ministry by providing a professional pathway. It created opportunities for women's ministry at home, not just in international mission fields. By helping to create a context whereby men and women worked together, it enabled the Methodist Church tocome to the view that women had a place in the ordained ministry.</abstract>
+<p>The idea of establishing a Deaconess Order in South Australia was mooted as early at 1922 by the Revereand John Pearce, superintendent of the the Home Mission Department. The 1935 General Conference decisions to establish such as order found a most enthusastic supporter in Kate Cocks, who was well known in South Australia as an advocate on behalf of women and children's rights and welfare. A study trip to New Zealand to investigate the work of Deaconesses in that country convinced her of the need for a similar organisation in South Australia. Her recommendations were endorsed at the Annual Conference in 1937. Although the outbreak of war delayed further decisions, it also highlighted the need for women's ministry and a training insitute to support it, as women rushed to fill the gaps left by men who went off to fight. But in 1942, the order was established.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE4156b.htm">
+<relationEntry localType="Concept">
+Deaconess Orders
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0298b.htm">
+<relationEntry localType="Person">
+Cocks, Fanny Kate Boadicea (1875 - 1954)
+</relationEntry>
+<descriptiveNote>
+<p>Kate Cocks was a strong advocate of the establishment of a Deaconess order in South Australia</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462412">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Methodist Deaconess Order in South Australia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Methodist Deaconess Order in South Australia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4253b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004588.htm">
+<relationEntry localType="published">Booklet: A History of the Methodist Deaconess oeder in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hancock, Bethany</name>
+<title render="italic">A History of the Methodist Deaconess oeder in South Australia</title>
+<imprint>
+<place>Malvern, SA</place>
+<publisher>Uniting Church Historical Society (S.A.)</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

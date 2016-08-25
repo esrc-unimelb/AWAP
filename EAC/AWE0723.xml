@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0723</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Corporate Body</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-02-10">2004-02-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Penny Robinson</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-17">2015-08-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0723b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Community Services, Australian Red Cross</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Community services were recognised in the first national Constitution of the Australian branch of the British Red Cross Society.</abstract>
+<p>Initially, the Constitution of Community Services, Australian Red cross, focused on supplies and aid for the sick and wounded in war, supplementing medical services, providing first aid and home nursing for home service and assistance in great public disasters, calamity or need. Much home activity occurred at a State level in the early stages, and across States between World War I and World War II, as the Australian Red Cross responded to health crises such as influenza and polio using auxiliaries, welfare committees and Voluntary Aid Detachments. By the 1940s the national Welfare Service catered for sick and disabled ex-service personnel. In 1944, this service inaugurated an Australian Red Cross scholarship scheme for training in social work, while ladies committees became active in home hospitals after World War II – an area in which Lady Vera White became particularly innovative. In the 1960s, the Welfare Service sent top-level representatives to the Australian Council of Social Services, and included the social work service as part of its community services. By the late 1970s, Health and Hospital Services included rest homes and programs in emergency care, beauty therapy, music therapy, library services, a talking book library, and medical equipment loans. At this time the service reported that they were involved in community development, volunteer training, settlement of refugees and migrants, disaster care and work for special needs groups. In the 1990s, the area was known as Community Services. In 2003, Health and Care Services provided 66 local programs including Telecross, meals on wheels, transport, Assistance and Care in Emergency Department in Victoria, Community Jobs and New Friends.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0139b.htm">
+<relationEntry localType="Person">
+White, Vera Deakin (1891 - 1978)
+</relationEntry>
+<descriptiveNote>
+<p>Introduced many Australian Red Cross rehabilitation services for ex-soldiers and hospital patients</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0362b.htm">
+<relationEntry localType="Person">
+Bullwinkel, Vivian (1915 - 2000)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1970-01-01">c. 1970</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Australian Red Cross Honorary Nursing Advisor</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="hierarchical-parent" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0715b.htm">
+<relationEntry localType="Corporate Body">
+Australian Red Cross (1914 - )
+</relationEntry>
+<descriptiveNote>
+<p>National Department, Australian Red Cross</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1480292">
+<relationEntry></relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Community Services, Australian Red Cross', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Community Services, Australian Red Cross</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0723b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001188.htm">
+<relationEntry localType="archival">Minutes and Meeting Papers, Australian Red Cross National Council</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Minutes and Meeting Papers, Australian Red Cross National Council</unittitle>
+<unitid>2015.0028 (NO14)</unitid>
+<unitdate>1914 - 2002</unitdate>
+<abstract>Minutes and other records of the Australian Red Cross National Council and National Executive meetings.</abstract>
+<physdesc>
+<extent>4.37 m, 26 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001187.htm">
+<relationEntry localType="archival">Annual Reports of the Australian Red Cross, National Office</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>Annual Reports of the Australian Red Cross, National Office</unittitle>
+<unitid>2015.0027 (NO13)</unitid>
+<unitdate>1914 - 2009</unitdate>
+<abstract>Publications - Annual Reports of the Australian Red Cross, National Office</abstract>
+<physdesc>
+<extent>0.7 m, 4 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001200.htm">
+<relationEntry localType="archival">Records relating to community services, social work and welfare, and disaster relief provided by the Australian Red Cross</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian Red Cross Research and Information Service</repository>
+<unittitle>Records relating to community services, social work and welfare, and disaster relief provided by the Australian Red Cross</unittitle>
+<unitid>Series NO12</unitid>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

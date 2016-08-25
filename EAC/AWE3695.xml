@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3695</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-01">2008-10-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-19">2016-05-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3695b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hackett</part>
+<part localType="givenname">Deborah Vernon</part>
+<part localType="honorific title">Lady, Dr</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Drake-Brockman, Deborah</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Hackett, Deborah</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Lady Hackett</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Lady Hackett-Moulden</part>
+</nameEntry>
+<nameEntry localType="former married name"><part>Lady Moulden</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Buller-Murphy, Deborah</part>
+</nameEntry>
+<nameEntry localType="married name"><part>Dr Buller Murphy</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1887-06-18">18 June 1887</fromDate>
+<toDate standardDate="1965-04-16">16 April 1965</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Guildford, Western Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Perth, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Entrepreneur</term>
+</occupation>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Deborah Hackett was the wife of Sir John Hackett, and, after his death, she married Sir Frank Moulden. It was Lady Hackett-Moulden who called a meeting in May 1920 to oversee the reestablishment of the South Australian Council of Women. She was also State Commissioner of the Girl Guides Association.
+
+In 1923, Lady Moulden (as she became after her second husband was knighted) joined F.W. Young to form a syndicate to mine tantalite at Wodgina. She became Chairman of Directors of Tantalite Ltd in 1931. She also held interests in wolfram and beryl mines in the Northern Territory, and a partnership in the Minilya Pastoral Company. The University of Western Australia conferred an honorary LLD on Lady Moulden in 1932. In 1936 she married Justice Basil Buller Murphy.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE5669b.htm">
+<relationEntry localType="Person">
+Hackett, Patricia (1908 - 1963)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-754061">
+<relationEntry>
+Hackett, Deborah Vernon (-1958)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hackett, Deborah Vernon', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hackett, Deborah Vernon</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3695b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004094.htm">
+<relationEntry localType="published">Book: The Australian Household Guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buller-Murphy, Deborah (Lady Hackett)</name>
+<title render="italic">The Australian Household Guide</title>
+<imprint>
+<place>Perth</place>
+<publisher>E.S. Wigg &amp; Son Ltd</publisher>
+<date>1916</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004093.htm">
+<relationEntry localType="published">Book: An Attempt to Eat the Moon, and other stories recounted from the Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Buller-Murphy, Deborah</name>
+<title render="italic">An Attempt to Eat the Moon, and other stories recounted from the Aborigines</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Georgian House</publisher>
+<date>1958</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100810.htm">
+<relationEntry localType="published">Resource Section: Hackett, Patricia (1918-1963)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Peoples, Jo</name>
+<title render="quoted">Hackett, Patricia (1918-1963)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/hackett-patricia-10385"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100256.htm">
+<relationEntry localType="published">Resource Section: Hackett, Deborah Vernon (1887-1965)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hasluck, Alexandra</name>
+<title render="quoted">Hackett, Deborah Vernon (1887-1965)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A090142b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

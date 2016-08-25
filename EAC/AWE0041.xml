@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0041</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-02-01">2001-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0041b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Pink</part>
+<part localType="givenname">Olive Muriel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1884-03-17">17 March 1884</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Hobart, Tasmania, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Alice Springs, Northern Teritory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Anthropologist</term>
+</occupation>
+<occupation>
+<term>Botanical artist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Olive Pink was a botanical artist and anthropologist who campaigned for the rights of Aboriginal people. She was one of few women anthropologists working in a male dominated field in the 1930s and 1940s. Pink positioned herself as an expert on Aboriginal people and campaigned from this basis in her criticism of government officials, missionaries and pastoralists.</abstract>
+<p>Educated in art at Hobart Technical College. Pink worked at the Public Works Department and later the Railways Commission of New South Wales. She studied anthropology at Sydney University with the Workers' Educational Association and became secretary to the Anthropological Society of NSW. In 1926 &amp; 1927 she travelled to Ooldea on the Transcontinental Line, SA. There she created many of her early drawings of desert flora. </p>
+<p>Pink spent much time in the Northern Territory, living first with Arrernte and Warlpiri people and settling eventually in Alice Springs. She was a prolific correspondent, writing many letters to government departments and the press, particularly to represent her beliefs about Aboriginal people and her views on their better treatment by the government. Historian Julie Marcus suggests that Pink eventually lost faith in the potential of Anthropology to assist Aboriginal people, and abandoned the discipline later in life.</p>
+<p>In 1955 she applied for the reservation of an area of land on the eastern bank of the Todd River as a flora reserve. In 1956 the Australian Arid Regions Flora Reserve of 20 hectares was gazetted. Pink and her gardener Johnny Jambijimba Yannarilyi developed the garden, where Pink lived until her death. The garden was then renamed the Olive Pink Flora Reserve, and now contains over 300 of Central Australia's plant species.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0254b.htm">
+<relationEntry localType="Place">
+Olive Pink Botanic Garden (1956 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0188b.htm">
+<relationEntry localType="Corporate Body">
+Olive Pink Society (1988 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1988-01-01">1988</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-473797">
+<relationEntry>
+Pink, Olive M (1884-1975)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pink, Olive Muriel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pink, Olive Muriel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0041b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000397.htm">
+<relationEntry localType="published">Journal Article: Spirit Ancestors in a Northern Aranda Horde Country</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Olive Pink</name>
+<title render="quoted">Spirit Ancestors in a Northern Aranda Horde Country</title>
+<imprint>
+<date>1933</date>
+</imprint>
+<bibseries>
+<title render="italic">Oceania</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000136.htm">
+<relationEntry localType="published">Resource: Significant Tasmanian Women: Olive Pink (1884-1975), Early Anthropologist, Aboriginal Rights Activist and Botanical Artist</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Women Tasmania</name>
+<title render="italic">Significant Tasmanian Women: Olive Pink (1884-1975), Early Anthropologist, Aboriginal Rights Activist and Botanical Artist</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.women.tas.gov.au/significantwomen/search/olivepink.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000396.htm">
+<relationEntry localType="published">Journal Article: The Landowners in the Northern Division of the Aranda Tribe</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Olive Pink</name>
+<title render="quoted">The Landowners in the Northern Division of the Aranda Tribe</title>
+<imprint>
+<date>1936</date>
+</imprint>
+<bibseries>
+<title render="italic">Oceania</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001604.htm">
+<relationEntry localType="published">Resource Section: Pink, Olive Muriel (1884-1975)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="quoted">Pink, Olive Muriel (1884-1975)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A160004b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000401.htm">
+<relationEntry localType="published">Book: Talkin' up to the white woman : Aboriginal women and feminism</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moreton-Robinson, Aileen</name>
+<title render="italic">Talkin' up to the white woman : Aboriginal women and feminism</title>
+<imprint>
+<place>St Lucia</place>
+<publisher>University of Queensland Press</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000400.htm">
+<relationEntry localType="published">Book: The Indomitable Miss Pink: A Life in Anthropology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="italic">The Indomitable Miss Pink: A Life in Anthropology</title>
+<imprint>
+<publisher>UNSW Press</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000399.htm">
+<relationEntry localType="published">Book: Yours truly, Olive M. Pink</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="italic">Yours truly, Olive M. Pink</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Olive Pink Society</publisher>
+<date>1991c</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000412.htm">
+<relationEntry localType="published">Journal: Bulletin of the Olive Pink Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Olive Pink Society and Research Centre for Women's Studies, University of Adelaide</name>
+<title render="italic">Bulletin of the Olive Pink Society</title>
+<imprint>
+<date>1989-1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000395.htm">
+<relationEntry localType="published">Resource: Papers of Sir Paul Hasluck (1905- )</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="italic">Papers of Sir Paul Hasluck (1905- )</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/ms/findaids/5274.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000394.htm">
+<relationEntry localType="published">Resource: Papers of E.W.P. (Ernest William Pearson) Chinnery (1887-1972)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Library of Australia</name>
+<title render="italic">Papers of E.W.P. (Ernest William Pearson) Chinnery (1887-1972)</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/ms/findaids/0766.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000393.htm">
+<relationEntry localType="published">Book Section: The Beauty, Simplicity and Honour of Truth: Olive Pink in the 1940s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie</name>
+<title render="quoted">The Beauty, Simplicity and Honour of Truth: Olive Pink in the 1940s</title>
+<imprint>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">First in Their Field: Women and Australian Anthropology</title>
+<name type="author">Marcus, Julie</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002002.htm">
+<relationEntry localType="published">Site Exhibition: Where are the Women in Australian science?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Science and Technology Heritage Centre</name>
+<title render="italic">Where are the Women in Australian science?</title>
+<imprint>
+<publisher>Australian Science and Technology Heritage Centre</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austehc.unimelb.edu.au/wisa/wisa.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000072.htm">
+<relationEntry localType="published">Resource Section: Guide to the Norman B. Tindale Archives:</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">South Australian Museum</name>
+<title render="quoted">Guide to the Norman B. Tindale Archives:</title>
+<imprint>
+<publisher>South Australian Museum</publisher>
+<date>2000</date>
+</imprint>
+<bibseries>
+<title render="italic">Series 338/4 - Copies of Journals</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.samuseum.sa.gov.au/tindale/HDMS/338-4.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000071.htm">
+<relationEntry localType="published">Book: First in Their Field: Women and Australian Anthropology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Marcus, Julie; Lepervanche, Marie de; McBryde, Isabel; Prior, Mary Ellen Murray; White, Isobel; Morris, Miranda; O'Gorman, Anne; Marcus, Julie and Cheater, Christine</name>
+<title render="italic">First in Their Field: Women and Australian Anthropology</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000398.htm">
+<relationEntry localType="published">Book: Imagined destinies : Aboriginal Australians and the doomed race theory, 1880-1939</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Russell McGregor</name>
+<title render="italic">Imagined destinies : Aboriginal Australians and the doomed race theory, 1880-1939</title>
+<imprint>
+<place>Carlton, Vic</place>
+<publisher>Melbourne University Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002238.htm">
+<relationEntry localType="archival">Miss Olive Pink. Application for permit to enter Aboriginal Reserves General Correspondence with</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Miss Olive Pink. Application for permit to enter Aboriginal Reserves General Correspondence with</unittitle>
+<unitid>1941/53</unitid>
+<unitdate>1940 - 1941</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000041.htm">
+<relationEntry localType="archival">Pink,Olive Muriel botanical drawings</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>University of Tasmania Library, Special/Rare Collection</repository>
+<unittitle>Pink,Olive Muriel botanical drawings</unittitle>
+<unitid>P.6</unitid>
+<unitdate>1930 - 1960</unitdate>
+<abstract>Sketches,in pencil and crayon, of the flora of the arid regions of South Australia and around Alice Springs c1930 and 1957-60 [64 items, P.6].</abstract>
+<physdesc>
+<extent>64 sketches</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000040.htm">
+<relationEntry localType="archival">Correspondence between Pink and T.D. Campbell,</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>South Australian Museum Archives</repository>
+<unittitle>Correspondence between Pink and T.D. Campbell,</unittitle>
+<unitid>A.D. 15</unitid>
+<unitdate>1935 - 1938</unitdate>
+<abstract>Correspondence c1938 between Pink and T.D. Campbell, a member of the Board for Anthropological Research, University of Adelaide; correspondence c1937-9 between Pink and J.B. Cleland, University of Adelaide; correspondence c1935-7 between Pink and J.B. Cleland concerning a controversy over research in Western Australia and Tasmania; also held is a wooden tjuringa [A.D. 15].</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Objects</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000146.htm">
+<relationEntry localType="archival">Native Flora Reserve Olive Pink</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Native Flora Reserve Olive Pink</unittitle>
+<unitid>1971/139</unitid>
+<unitdate>1970 - 1978</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000144.htm">
+<relationEntry localType="archival">Records of Olive Pink</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Records of Olive Pink</unittitle>
+<unitid>19</unitid>
+<unitdate>1946 - 1955</unitdate>
+<abstract>Microfilm copies of personal and subject files (CRS A6119 and CRS A6122) - ASIO Files</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000145.htm">
+<relationEntry localType="archival">Flora and Fauna Reserve. Alice Springs (Miss Olive Pink - General correspondence)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Flora and Fauna Reserve. Alice Springs (Miss Olive Pink - General correspondence)</unittitle>
+<unitid>1969/1967</unitid>
+<unitdate>1965 - 1978</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000143.htm">
+<relationEntry localType="archival">Miss Olive Pink /secular Sanctuary Granites Tanami District</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Miss Olive Pink /secular Sanctuary Granites Tanami District</unittitle>
+<unitid>8/30/0</unitid>
+<unitdate>1935 - 1945</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000142.htm">
+<relationEntry localType="archival">Alice Springs Native Flora Reserve Olive Pink</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Alice Springs Native Flora Reserve Olive Pink</unittitle>
+<unitid>1958/204</unitid>
+<unitdate>1958 - 1970</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000141.htm">
+<relationEntry localType="archival">Flora and fauna reserve Alice Springs - Miss Olive PINK - General correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Northern Territory Office</repository>
+<unittitle>Flora and fauna reserve Alice Springs - Miss Olive PINK - General correspondence</unittitle>
+<unitid>1959/328</unitid>
+<unitdate>1958 - 1961</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000136.htm">
+<relationEntry localType="archival">Olive Pink Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Northern Territory Archives Service, Darwin Branch</repository>
+<unittitle>Olive Pink Papers</unittitle>
+<unitid>NTRS 3</unitid>
+<unitdate>1942 - 1972</unitdate>
+<abstract>Correspondence sent to Wallis Foggarty and Co., 1942, NTRS 1862; letter card sent to Senator B. Kilgariff, and diary notes, 1972, NTRS 880.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Correspondence</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000140.htm">
+<relationEntry localType="archival">Papers of Mary Wright 1903-1990</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Noel Butlin Archives Centre, ANU Archives Program</repository>
+<unittitle>Papers of Mary Wright 1903-1990</unittitle>
+<unitid>held</unitid>
+<unitdate>1886 - 1985</unitdate>
+<abstract>Mary Wright's correspondence, files, pamphlets and memorabilia relating to the Union of Australian Women; photographs and a poster. Records of the anthropologist, Olive Pink. Minute book of the Board of Delegates on the St Marys (building) Project, 1956. Also family papers and diaries.</abstract>
+<physdesc>
+<extent>13.45 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000139.htm">
+<relationEntry localType="archival">Olive Pink - Correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Olive Pink - Correspondence</unittitle>
+<unitid>MS 5274</unitid>
+<unitdate>1925 - 1989</unitdate>
+<abstract>1. Curtin constituency correspondence files, 1950-1969. 2. Pamphlets, reports, speeches, leaflets, statements and printed ephemera relating to Australian politics, economics, post War planning and reconstruction, religion, defence and regional security, foreign relations and international affairs, immigration, education, law, the media, public health, geography, aviation and history. 3. Collection of historical source documents on Australian Aboriginal welfare and the Northern Territory, 1945-1963. These include: reports; conference papers; press statements; development plans; Ministerial notes; correspondence with Charles Duguid, Olive Pink and Lionel Rose; and publications on agriculture, animal industries, mining and other subjects. 4. Ten bound volumes of articles, speeches and broadcasts by Hasluck on foreign affairs, the United Nations, politics and government, the Northern Territory, Aboriginal welfare and other subjects, 1925-1989. The speeches include diplomatic, political, Ministerial and Vice-Regal orations and addresses.</abstract>
+<physdesc>
+<extent>6.1 m, 40 Boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000138.htm">
+<relationEntry localType="archival">Olive Pink - Correspondence</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Olive Pink - Correspondence</unittitle>
+<unitid>MS 766</unitid>
+<unitdate>1897 - 1971</unitdate>
+<abstract>Papers comprise official, personal &amp; academic correspondence, diaries, photos, patrol reports, field notebooks, conference papers, lectures, broadcasts, articles, anthropological writings &amp; research material, administration handbooks &amp; ordinances, publications on anthropology, language, education &amp; United Nations. Papers relate to Chinnery's career in Papua &amp; New Guinea as Patrol Officer, Government Anthropologist, Director Dept of District Services &amp; Native Affairs, Director Native Affairs &amp; Commonwealth Adviser on Native Affairs in Aust. Papers relating to Chinnery's association with Far Eastern Liaison Office during World War II, South Seas Commission Conference 1947, United Nations missions to Africa &amp; aspects of PNG including history, exploration, anthropology, genealogy, language, education, health, missions, crimes &amp; discipline, native rights, mining, trade &amp; pre-war wartime &amp; post-war administration. Correspondents include: Staniforth Smith, John Taylor, C.L.A. Abbott, Bill Harney, A.P. Elkin, Theodor Strehlow, Camilla Wedgwood, Olive Pink, Baldwin Spencer, A.C. Haddon, Margaret Mead.</abstract>
+<physdesc>
+<extent>8.43 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000137.htm">
+<relationEntry localType="archival">T. D. (Thomas Draper) Campbell 1893-1967 Papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>South Australian Museum Archives</repository>
+<unittitle>T. D. (Thomas Draper) Campbell 1893-1967 Papers</unittitle>
+<unitid>AA52</unitid>
+<unitdate>c. 1920 - c. 1960</unitdate>
+<abstract>Correspondence, documents, photographs, tracings, cine film, sound recordings, and notes, concerning
+Aborigines of Central Australia, particularly aspects of material culture and physical anthropology. Includes some reference to Olive Pink.</abstract>
+<physdesc>
+<extent>3 m</extent>
+<physfacet>Correspondence, Photographs, Tape Reels, Papers, Notes</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

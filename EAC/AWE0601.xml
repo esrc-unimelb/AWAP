@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0601</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-15">2003-10-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0601b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Dow</part>
+<part localType="givenname">Gwyneth Maude</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<occupations>
+<occupation>
+<term>Academic</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Gwyneth Dow was appointed as a Lecturer in the Education Faculty at the University of Melbourne in 1958, a Senior Lecturer in 1963 and Reader in 1970. She was an inaugural member of the Steering Committee of the Curriculum Advisory Board in Victoria, and fostered pilot schemes to introduce curriculum and organisational changes in secondary schools. She published several reports relating to these schemes. She introduced a Diploma of Education Course "Systems of Education" and was instrumental in introducing an alternative Diploma of Education Course, Course B, which concentrated on method and practical teaching in the first year. Gwyneth Dow, a descendant of the early colonial Terry family, began researching the family history in 1965 after writing an article on Samuel and Rosetta for the 'Australian Dictionary of Biography'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0506b.htm">
+<relationEntry localType="Corporate Body">
+Temporary Teachers' Club, Victorian Teachers' Union (1955 - 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-461009">
+<relationEntry>
+Dow, Gwyneth M
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dow, Gwyneth Maude', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dow, Gwyneth Maude</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0601b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002163.htm">
+<relationEntry localType="published">Book: Learning to teach, teaching to learn</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dow, Gwyneth</name>
+<title render="italic">Learning to teach, teaching to learn</title>
+<imprint>
+<place>London</place>
+<publisher>Routledge &amp; K. Paul</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002162.htm">
+<relationEntry localType="published">Book: Samuel Terry :the Botany Bay Rothschild</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dow, Gwyneth M</name>
+<title render="italic">Samuel Terry :the Botany Bay Rothschild</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Sydney University Press</publisher>
+<date>1974</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002161.htm">
+<relationEntry localType="published">Resource Section: Terry, Samuel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dow, Gwyneth M</name>
+<title render="quoted">Terry, Samuel</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+<num type="volume">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A020468b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000993.htm">
+<relationEntry localType="archival">DOW, GWYNNETH</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>DOW, GWYNNETH</unittitle>
+<unitid>90/164</unitid>
+<unitdate>1963 - 1978</unitdate>
+<abstract>Background material and correspondence concerning her research into the history of childhood; reviews; correspondence, research and material regarding 'Learning and Teaching'; correspondence, articles, research, notes; photographs; replies to newspaper enquiries regarding Terry family research; correspondence with Hume Dow; correspondence with Ian Maxwell; additional research; transcripts; reviews.</abstract>
+<physdesc>
+<extent>13 archives boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000994.htm">
+<relationEntry localType="archival">DOW FAMILY</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The University of Melbourne Archives</repository>
+<unittitle>DOW FAMILY</unittitle>
+<unitid>99/2</unitid>
+<unitdate>1934 - 1980</unitdate>
+<abstract>David McKenzie Dow report on a history of the Optical Munitions panel, papers relating to court action by Sir Robert Menzies against the Herald and Weekly Times. Correspondence to Hume and Gwyneth Dow, 1934- 1980s. Material relating to University affairs and Faculty of Education course changes. Research notes and drafts ofpublications including _Landfall in Van Dieman's Land, the Steel's quest for greener pastures_</abstract>
+<physdesc>
+<extent>29 archive boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

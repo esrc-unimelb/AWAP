@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4839</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-12-03">2012-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Patricia Clarke</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4839b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Allan</part>
+<part localType="givenname">Frances Elizabeth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Allan, Betty</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-07-11">11 July 1905</fromDate>
+<toDate standardDate="1952-08-06">6 August 1952</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>St Kilda, Victoria</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Canberra, Australian Capital Territory</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Statistician</term>
+</occupation>
+<occupation>
+<term>Biometrician</term>
+</occupation>
+<occupation>
+<term>University lecturer</term>
+</occupation>
+<occupation>
+<term>Community activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>A brilliant, prize-winning student in mathematics at the University of Melbourne, Betty Allan won a scholarship to carry out postgraduate studies in mathematics, applied biology, statistics and agriculture at Cambridge University where she studied at Newnham College. In Canberra in 1930 she was appointed to the Council for Scientific and Industrial Research's Division of Plant Industry, as its first biometrician. During the 1930s she also lectured in Statistical Theory and Pure Mathematics at Canberra University College and in Agriculture at the Australian Forestry School. In 1940 following her marriage in April to Dr Patrick Calvert, an assistant research officer at the Division of Plant Industry, she was a victim of the marriage bar in the Public Service which prevented the employment of married women but was able to gain government approval to work until the end of the year. During the war she continued to lecture part-time at the Forestry School and to do part-time work for the Bureau of Census and Statistics. Following the birth of her son, Allan, in 1941 she was active in Canberra community organisations supporting mothers and children. She was secretary of the Canberra Nursery Kindergarten Society (1943-1944) and president of the Canberra Mothercraft Society (1944-1946). She died at the age of 47.</abstract>
+<p>Frances Elizabeth Allan was born in the Melbourne suburb of St Kilda on 11 July 1905, the third of four daughters of Edwin Frank Allan and Stella May Allan (nee Henderson). Her mother was the well-known journalist 'Vesta', who was editor of the <span style="font-style:italic">Argus</span>'s women's section for nearly 30 years, after beginning her career as the first female member of the press gallery in Wellington, New Zealand. Her father, a leader writer on the <span style="font-style:italic">Argus</span>, had previously been a prominent journalist in New Zealand after resigning from the British Foreign Service.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1598783">
+<relationEntry>
+Allan, Frances Elizabeth (19050711-19520806)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Allan, Frances Elizabeth', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Allan, Frances Elizabeth</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4839b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005050.htm">
+<relationEntry localType="published">Resource Section: Allan, Frances Elizabeth (Betty) (1905-1952)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCarthy, G.J</name>
+<title render="quoted">Allan, Frances Elizabeth (Betty) (1905-1952)</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">Encyclopaedia of Australian Science</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.eoas.info/biogs/P001468b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005049.htm">
+<relationEntry localType="published">Book Section: Allan, Frances Elizabeth (1905-1952)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heyde, C. C</name>
+<title render="quoted">Allan, Frances Elizabeth (1905-1952)</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography</title>
+<num type="volume">13</num>
+<num type="pages">26-27</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005365.htm">
+<relationEntry localType="published">Site Exhibition: From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">From Lady Denman to Katy Gallagher: A Century of Women's Contributions to Canberra</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/ldkg"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

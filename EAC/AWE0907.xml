@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0907</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-19">2004-04-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0907b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hone</part>
+<part localType="givenname">Maisie</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Mitcham</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>Maisie Hone was born in 1897 in Mitcham. Her family moved to London when she was three so her father could study medicine. On their return he bought a motor car which was driven by a chauffeur. She went to school at Mitcham, Miss Thornber's and MLC and studied at Adelaide University. She organised annual concerts for women only. In 1923 she married Ray Hone and they went to England on a cargo ship as Ray was the ship's doctor. They returned in 1924 and her daughter Mary was born. Hone joined the Lyceum Club when it was still on North Terrace and was involved in the luncheons and the circles. Ray was away for 3 1/2 years during the war. She started a looking after children on Friday mornings to help mothers on their own and continued this for 20 years.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763090">
+<relationEntry>
+Hone, Maisie (1897-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hone, Maisie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hone, Maisie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0907b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001489.htm">
+<relationEntry localType="archival">Interview with Maisie Hone [sound recording] Interviewer: Yvonne Abbott</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Maisie Hone [sound recording] Interviewer: Yvonne Abbott</unittitle>
+<unitid>SRG 438/29/33</unitid>
+<unitdate>c. 1983</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Maisie Hone was born in 1897 in Mitcham. Her family moved to London when she was three so her father could study medicine. On their return he bought a motor car which was driven by a chauffeur. She went to school at Mitcham, Miss Thornber's and MLC and studied at Adelaide University. She organised annual concerts for women only. In 1923 she married Ray Hone and they went to England on a cargo ship as Ray was the ship's doctor. They returned in 1924 and her daughter Mary was born. Maisie joined the Lyceum Club when it was still on North Terrace and was involved in the luncheons and the circles. Ray was away for 3 1/2 years during the war. She started a looking after children on Friday mornings to help mothers on their own and continued this for 20 years. Maisie was involved in various circles in the Lyceum Club and found it a great support.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

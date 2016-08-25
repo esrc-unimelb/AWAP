@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0105</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2001-08-01">2001-08-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Clare Land</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0105b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Lyons</part>
+<part localType="givenname">Enid Muriel</part>
+<part localType="honorific title">Dame, AD, GBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Duck River, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Politician</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Dame Enid Lyons AD GBE was the first woman elected to the Australian federal Parliament, in 1943. She was also the first woman in federal Cabinet. She was appointed as a Dame Grand Cross of the Order of the British Empire (Civil) on 11 May 1957 for her public services to Australia and as a Dame of the Order of Australia (AD) on 26 January 1980.</abstract>
+<p>Originally a teacher,  Enid had a long-held interest in politics. In 1915 she married Joseph Lyons, who became Prime Minister of Australia in 1931. The couple had 12 children.</p>
+<p>In 1943 Enid Lyons was elected to the House of Representatives for the seat of Darwin (in Tasmania) as a candidate for the United Australia party, where she demonstrated her concern with issues surrounding maternity care, child endowment, women's representation in parliament and discrimination in employment.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0925b.htm">
+<relationEntry localType="Corporate Body">
+St Joan's International Alliance (1936 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-500895">
+<relationEntry>
+Lyons, Enid Muriel (18970709-19810902)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lyons, Enid Muriel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lyons, Enid Muriel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0105b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001137.htm">
+<relationEntry localType="published">Resource Section: Primary description of person CP 928; Hon Dame Enid Muriel Lyons AD, DBE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="quoted">Primary description of person CP 928; Hon Dame Enid Muriel Lyons AD, DBE</title>
+<extptr linktype="simple" href="http://naa12.naa.gov.au/scripts/SearchOld.asp?Number=CP+928"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000135.htm">
+<relationEntry localType="published">Resource: Significant Tasmanian Women: Dame Enid Lyons AO (1897-1981), First woman to be elected to the Commonwealth Parliament</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Women Tasmania</name>
+<title render="italic">Significant Tasmanian Women: Dame Enid Lyons AO (1897-1981), First woman to be elected to the Commonwealth Parliament</title>
+<imprint>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.women.tas.gov.au/significantwomen/search/enidlyons.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002085.htm">
+<relationEntry localType="published">Resource Section: Dame Enid Lyons</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Dame Enid Lyons</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">George Negus Tonight</title>
+<name type="author">Australian Broadcasting Commission</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/gnt/history/Transcripts/s951058.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004737.htm">
+<relationEntry localType="published">Book: So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">So Many Firsts: Liberal Women from Enid Lyons to the Turnbull Era</title>
+<imprint>
+<place>Leichhardt, NSW</place>
+<publisher>The Federation Press</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004577.htm">
+<relationEntry localType="published">Book: No ordinary lives: pioneering women in Australian politics</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jenkins, Cathy</name>
+<title render="italic">No ordinary lives: pioneering women in Australian politics</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002132.htm">
+<relationEntry localType="published">Book: Liberal women : Federation to 1949</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fitzherbert, Margaret</name>
+<title render="italic">Liberal women : Federation to 1949</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Federation Press</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002094.htm">
+<relationEntry localType="published">Book: Uphill all the way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Kay</name>
+<title render="italic">Uphill all the way</title>
+<imprint>
+<place>St Lucia, Qld</place>
+<publisher>University of Queensland Press</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001147.htm">
+<relationEntry localType="published">Book: Australian women writers : a bibliographic guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adelaide, Debra</name>
+<title render="italic">Australian women writers : a bibliographic guide</title>
+<imprint>
+<place>London ; Sydney</place>
+<publisher>Pandora Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001008.htm">
+<relationEntry localType="published">Resource Section: DAME ENID LYONS</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">DAME ENID LYONS</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">Australians</title>
+<name type="author">Behind the News, Australian Broadcasting Corporation</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/btn/australians/elyons.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000833.htm">
+<relationEntry localType="published">Resource Section: List of Electoral Divisions Named After Women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Electoral Commission</name>
+<title render="quoted">List of Electoral Divisions Named After Women</title>
+<extptr linktype="simple" href="http://www.aec.gov.au/history/women/women3.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000040.htm">
+<relationEntry localType="published">Edited Book: 200 Australian Women: A Redress Anthology</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="italic">200 Australian Women: A Redress Anthology</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Women's Redress Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000086.htm">
+<relationEntry localType="archival">Papers of Dame Enid Muriel Lyons</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Dame Enid Muriel Lyons</unittitle>
+<unitid>MS 4852</unitid>
+<unitdate>1931 - 1974</unitdate>
+<abstract>Correspondence, as well as some photographs, newspaper cuttings, speeches, broadcasts, invitations and programs. Includes manuscripts of Dame Enid's books 'So we take comfort,' 'The old haggis' and 'Among the carrion crows.' Correspondence is largely condolence letters from individuals and organisations following her husband J.A. Lyon's death in 1939. The remaining letters are from politicians, Tasmanian friends, and numerous organisations - mainly women's groups, religious organisations, and the Liberal Party. The material covers topics including infant welfare, social services and abortion law reform.</abstract>
+<physdesc>
+<extent>2.55 m</extent>
+<physfacet>Drafts of books, Photographs, Correspondence, Press cuttings, Printed material</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000089.htm">
+<relationEntry localType="archival">[Interview with Dame Enid Lyons] [soundrecording] / [interviewer : Mel Pratt]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>[Interview with Dame Enid Lyons] [soundrecording] / [interviewer : Mel Pratt]</unittitle>
+<unitid>ORAL TRC 121/30</unitid>
+<unitdate>1972</unitdate>
+<abstract>Dame Enid comments on her husband's schooling, interests and persuasiveness; George Pearce; Joe's "illiteracy"; his character; myth of support of Victorian establishment; his relationship with Casey; his qualifications for political eminence ; her conversion to Catholicism; accusation of her dominating Joe; conscription; Father O'Donnell; her early life in Tasmania; King O'Malley; educational changes in Tasmania; Mr Neale; honeymoon at the Premiers' Conference; Mrs Holman; the Labor Party and class consciousness; interest in politics; Blackburn interpretation; problems faced by Joe as Premier; relationship with trade unions; Lyons entry into Federal government; difference between Federal and Tasmanian Labor Parties; Lyons as Acting Treasurer; break with Labor Party; standards of values in politics; Theodore; Albert Ogilvie; conversion of loan campaign; Nationalist Party; relations between UAP and Country Party; Frank Green; Catholic education; Australian Women's National League and United Australia party; preparing Australia for war; Lyons' relationship with Menzies; Menzies and Murdoch; Menzies and Mussolini; Munich Crisis; Germany and Czechoslovakia; Chamberlain; Lyons' death; the Baldwins; her running for Parliament; opposition from the Labor party; Dorothy Tangney; attitude of colleagues to women in parliament; Calwell and immigration; her relationship with Menzies; Menzies' attacks on Curtin; her maiden speech; workload as a politician; endowment for first child; inclusion in Cabinet; Henry Gullet; leakages from Cabinet; retirement from politics; experiences in journalism; Australian Broadcasting Commission; Boyer; being made Dame Grand Cross of the Order of the British Empire.
+
+2 tape reels : 1 7/8 ips, mono. ; 5 in.</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000088.htm">
+<relationEntry localType="archival">Dame Enid Lyons - a tribute</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Oral History Collection</repository>
+<unittitle>Dame Enid Lyons - a tribute</unittitle>
+<unitid>ORAL TRC 1113</unitid>
+<unitdate>1981?</unitdate>
+<abstract>Compilation of interviews with Dame Enid Lyons by the Australian Broadcasting Commission on various topics, around 60 minutes long.
+
+1 sound cassette (ca. 60 min.) : analog, mono.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Tape Reels</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001728.htm">
+<relationEntry localType="archival">[Personal Papers of Prime Minister Gorton]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>[Personal Papers of Prime Minister Gorton]</unittitle>
+<unitid>4029449</unitid>
+<unitdate>17 September 1969 - 1970</unitdate>
+<abstract>[Personal Papers of Prime Minister Gorton] Correspondence with the Hon L H E Bury (Treasurer) [re overseas investment, Commonwealth-State financial relations, pensions payable to former Prime Ministers wives (Dame Enid Lyons, Mrs Elsie Curtin), nuclear development, Commonwealth expenditure etc]</abstract>
+<physdesc>
+<extent>0.03 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000389.htm">
+<relationEntry localType="archival">Papers of Jack Horner</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Jack Horner</unittitle>
+<unitid>MS 9503</unitid>
+<unitdate>1974 - 1980</unitdate>
+<abstract>The bulk of the collection comprises papers relating to both published and unpublished works by Jack Horner, most of which concern Aboriginal rights issues. They include correspondence, research material and edited drafts. There are papers relating to the involvement of Horner and his wife with the Australian Council of Churches Commission on Aboriginal Development. They include agenda, minutes of meetings and related documentation. A small amount of correspondence is included in the papers, most of which relates to research for and publication of works by Jack Horner. Correspondents include Faith Bandler, Rev. F.G. Engel, Bill Gammage, Lex Grey and Dame Edith Lyons.</abstract>
+<physdesc>
+<extent>1.7 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000183.htm">
+<relationEntry localType="archival">Papers of various Australian women</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of various Australian women</unittitle>
+<unitid>MS 842</unitid>
+<abstract>Manuscript drafts of biographical papers on the following: Anderson, Mary (11 p.); Brennan, Jennie (7 p.); Couchman, Dame Elizabeth May Ramsay (13 p.); Deakin's daughters, Brookes and Ivy Deakin; Rivett, Stella (Deakin) Lady; White, Vera (Deakin) Lady (14 p.); Goldstein, Vida (21 p.); Holman, May (16 p.); James, Britomarte (23 p.); Lyons, Dame Enid (17 p.); Rich, Ruby (19 p.); Rischbieth, Bessie Mabel (36 p.); Sweet, Georgina (22 p.); Waterworth, Edith (16 p.); Woinarski, Gertrude Zichy- (10 p.); Young, Jeanne (10 p.).</abstract>
+<physdesc>
+<extent>267 pages</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00317.htm">
+<relationEntry localType="digitalObject">Portrait of Dame Enid Lyons with Lady Gullet and Dame Mary Hughes at Parliament House, Canberra, ca. 1955</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Portrait of Dame Enid Lyons with Lady Gullet and Dame Mary Hughes at Parliament House, Canberra, ca. 1955</unittitle>
+<unitdate>c. 1955</unitdate>
+<note label="rights">You may save or print this image for research and study. If you wish to use it for any other purposes, you must contact the National Library of Australia to request permission.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00297.htm">
+<relationEntry localType="digitalObject">Dame Enid Lyons, Devenport, Tasmania</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Dame Enid Lyons, Devenport, Tasmania</unittitle>
+<unitdate>c. 1941</unitdate>
+<note label="rights">Reproduction rights owned by the State Library of Victoria. See catalogue record for details.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

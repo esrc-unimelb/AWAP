@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0903</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-04-19">2004-04-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood and Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0903b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Crompton</part>
+<part localType="givenname">Phyllis Owen</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1906-01-01">1906</fromDate>
+<toDate standardDate="2000-12-31">2000?</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Malvern, South Australia, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>South Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Red Cross Worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Phyllis Crompton's grandfather came to South Australia on the ship 'Fatima' and lived at Stonyfell. Her father worked for him in the business which sold skins, wool and olives. Crompton and her sister were born in her parents house at Malvern and after her brothers were born they moved to Parkside. She attended Creveen School at North Adelaide and caught the tram to school. Crompton and her sister went to London and attended the Queensgate boarding school for a term, followed by a year at a school in Paris and then the Sorbonne. Returning to Adelaide Crompton went to Adelaide University and studied history. She became honorary secretary of the Junior Red Cross and joined the Lyceum Club in 1928.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0826b.htm">
+<relationEntry localType="Corporate Body">
+Lyceum Club (Adelaide) Incorporated (1922 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1928-01-01">1928</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765092">
+<relationEntry>
+Crompton, Phyllis Owen (1906-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Crompton, Phyllis Owen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Crompton, Phyllis Owen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0903b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001485.htm">
+<relationEntry localType="archival">Interview with Phyllis Crompton [sound recording] Interviewer: Necia Gilbert</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Phyllis Crompton [sound recording] Interviewer: Necia Gilbert</unittitle>
+<unitid>SRG 438/29/27</unitid>
+<unitdate>24 May 1989</unitdate>
+<abstract>Adelaide Lyceum Club Oral History
+
+Phyllis Crompton talks about her family. Her grandfather came to SA on the ship 'Fatima' and lived at Stonyfell. Her father worked for him in the business which sold skins, wool and olives. She and her sister were born in her parents house at Malvern and after her brothers were born they moved to Parkside. She attended Creveen school at North Adelaide and caught the tram to school. Father died of a ruptured appendix. Phyllis and her sister went to London and attended the Queensgate boarding school for a term, then for a year to a school in Paris and then the Sorbonne. Went to Adelaide University and studied history. Became honorary secretary of the Junior Red Cross and joined the Lyceum Club in 1928.</abstract>
+<physdesc>
+<extent>1 cassette</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

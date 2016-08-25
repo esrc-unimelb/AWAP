@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE5384</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-06-01">2015-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE5384b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bennett</part>
+<part localType="givenname">Annabelle</part>
+<part localType="honorific title">The Honourable Justice; AO</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Judge</term>
+</occupation>
+<occupation>
+<term>Senior Counsel</term>
+</occupation>
+<occupation>
+<term>Tribunal member</term>
+</occupation>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The Honourable Justice Annabelle Bennett AO was appointed a Judge of the Federal Court of Australia in 2003. She is also an additional judge of the Supreme Court of the ACT. Prior to joining the bench of the Federal Court, she was a barrister and then Senior Counsel specialising in intellectual property law. She was appointed an Officer of the Order of Australia in 2005. In July 2011 her Honour was awarded the honorary degree of Doctor of the University by the ANU.
+
+Justice Bennett completed her BSc (Hons) and PhD in Biochemistry (the latter in the Faculty of Vet Science) at Sydney University and later obtained her law degree at the University of New South Wales. Her interest in biological sciences has led to membership of the Genetic Manipulation Advisory Committee, the Biotechnology Task Force, the Pharmacy Board of New South Wales and the Eastern Sydney Area Health Service. She is a member of several other boards and tribunals, as listed in the details section.</abstract>
+<p>Justice Bennett is President of the Copyright Tribunal of Australia, Chair of the National Health and Medical Research Council, a Presidential Member of the Administrative Appeals Tribunal; Arbitrator of the Court of Arbitration for Sport; member of Chief Executive Women; member of the Australian Academy of Forensic Sciences; and member of the Advisory Board of the Faculty of Law at The Chinese University of Hong Kong.</p>
+<p><br />
+Her Honour has also served as Pro-Chancellor of the Australian National University for 13 years. In addition she has been a member of the Gene Patenting Advisory Committee of the Australian Law Reform Commission; member of the Advisory Group for the Dean of Medicine at The University of Sydney; Trustee of the Centennial Park and Moore Park Trust; Director of the Sydney Children's Hospital Foundation; President of the Australian Academy of Forensic Sciences; President of Chief Executive Women; as well as a member of the Reference Group for the APEC Women Leaders' Network Meeting 2007 and the Head of Delegation to the APEC Women Leaders' Network Meeting 2008 in Peru.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1665970">
+<relationEntry>
+Bennett, Annabelle
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bennett, Annabelle', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bennett, Annabelle</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE5384b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005620.htm">
+<relationEntry localType="published">Resource: The Hon Annabelle Claire Bennett AO</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Federal Court of Australia</name>
+<title render="italic">The Hon Annabelle Claire Bennett AO</title>
+<imprint>
+<publisher>Federal Court of Australia</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.fedcourt.gov.au/about/judges/current-judges-appointment/current-judges/bennett-j"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

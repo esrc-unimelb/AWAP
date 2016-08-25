@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0940</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-05-03">2004-05-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0940b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part>'Sonia'</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Rzew, Russia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>'Sonia' was born in Rzew in Russia and spent the first nine years of her life on the family farm. After her father's death her mother moved the family to a city where she and her daughters worked in a factory. In 1941 Sonia was forced to go to Germany to work in a labour camp. At the end of the war she was alone, with a new name, and searching for a way out of Germany when she met her future husband, a Ukrainian. They married and decided to emigrate together with their young son on the 'Jenny Rose Stewart.' Following their stay at the Bonegilla Migrant Reception Centre in Victoria, the family remained in that state, moving to Mildura where Sonia worked as a farm labourer. They subsequently moved to Woodside in South Australia for one and a half years where Sonia's daughter was born. The family then bought a block of land and built their own home. Sonia worked at the Royal Adelaide Hospital as a domestic, a position she retained for 30 years.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-772055">
+<relationEntry>
+'Sonia'
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">''Sonia'', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">'Sonia'</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0940b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001531.htm">
+<relationEntry localType="archival">Interview with 'Sonia' [sound recording] Interviewer: Karobi Mukherjee</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with 'Sonia' [sound recording] Interviewer: Karobi Mukherjee</unittitle>
+<unitid>OH 18/3</unitid>
+<abstract>Lives of Older Women of Non-English Speaking Background and their Adaption to and Contribution to Life in South Australia  
+
+'Sonia' was born in Rzew in Russia and spent the first nine years of her life on the family farm. After her father's death her mother moved the family to a city where she and her daughters worked in a factory. In 1941 Sonia was forced to go to Germany to work in a labour camp. At the end of the war she was alone, with a new name, and searching for a way out of Germany when she met her future husband, a Ukrainian, and they married and decided to emigrate together with their young son. Sonia describes the voyage in the 'Jenny Rose Stewart' and their stay at the Bonegilla Migrant Reception Centre in Victoria. The family was shifted to Mildura in South Australia, where Sonia worked as a farm labourer, and then to Woodside for one an a half years where Sonia's daughter was born. The family then bought a block of land and built their own home. Sonia describes getting herself a job at the Royal Adelaide Hospital as a domestic, which she remained in for 30 years. Sonia made no contact with local ethnic clubs and concludes by describing her family's development.
+
+Recorded on 16 and 27 March 1988. 1 hour 35 minutes</abstract>
+<physdesc>
+<extent>2 cassettes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

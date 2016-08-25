@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0680</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-01-30">2004-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Robin Secomb</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0680b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Preston</part>
+<part localType="givenname">Betty</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-01-01">1905</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>London, England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Councillor</term>
+</occupation>
+<occupation>
+<term>Community activist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Betty Preston was born in London, England. On leaving school she was apprenticed as a shop assistant. An organiser for the Conservative Party in the 1940s her political activism was sparked by joining the protest about the slow demobilisation of World War II soldiers, her husband Austin being included in their number. In 1952 the family migrated to South Australia and settled in Northfield, in suburban Adelaide, South Australia. In 1955 she was the first woman elected to the Enfield Council. Betty was also an active member of the Liberal Party and unsuccessfully nominated for the Legislative Council after moving to Brighton. Disenchanted with the political alternatives, Betty campaigned as an independent and on behalf of non-party organisations during the 1970s and 80s. She became a member of Grey Power, helping to form the Brighton Branch and accepting nomination as State President in 1991.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-763088">
+<relationEntry>
+Preston, Betty (1905-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Preston, Betty', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Preston, Betty</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0680b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001153.htm">
+<relationEntry localType="archival">Interview with Betty Preston [sound recording] Interviewer: June Donovan</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia, Mortlock Library of South Australiana</repository>
+<unittitle>Interview with Betty Preston [sound recording] Interviewer: June Donovan</unittitle>
+<unitid>OH 250/4</unitid>
+<abstract>Betty Preston was born in London, England. On leaving school she was apprenticed as a shop assistant. Betty describes how her activism was sparked by joining the protest about the slow demobilisation of Second World War soldiers, including her husband Austin. Betty became an organiser for the Conservative Party in the late 1940s. In 1952 the family migrated to South Australia and settled in Northfield. In 1955 she was the first woman elected to the Enfield Council. Betty was also an active member of the Liberal Party and unsuccessfully nominated for the Legislative Council after moving to Brighton. Disenchanted with the political alternatives, Betty campaigned as an independent and on behalf of non-party organisations during the 1970s and 80s. She became a member of Grey Power, helping to form the Brighton Branch and accepting nomination as State President in 1991. She describes its aims and the practical results of its lobbying on behalf of older people.
+
+Recorded on 21 January 1994, 2 hours 27 minutes.</abstract>
+<physdesc>
+<extent>3 tapes</extent>
+<physfacet>Sound cassette</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

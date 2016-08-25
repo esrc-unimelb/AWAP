@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4436</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-01-21">2010-01-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-21">2015-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4436b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Bryant</part>
+<part localType="givenname">Mary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="birth name"><part>Broad, Mary</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Braund, Mary</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1765-01-01">1765</fromDate>
+<toDate standardDate="1794-12-31">1794</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>England</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Convict</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Mary Bryant was a Cornish-born daughter of a fisherman who became involved in petty theft after moving to Plymouth. In 1787 she was convicted for stealing a silk bonnet, jewellery, and a few coins and sentenced to seven years transportation to Australia. In May 1787 she was sent as a prisoner with the First Fleet aboard the ship <span style="font-style:italic">Charlotte</span>.
+
+In transit, Mary became pregnant and gave birth to a daughter whom she named Charlotte, after the ship they sailed on. She met convict William Bryant on the way to Australia, and the two were married on 10 February 1788, just after arrival in the colony. They later had a son together, Emmanuel.
+
+It was only a matter of months before Mary, William and several other men decided to attempt an escape. Conditions were harsh and desperate measures were taken. On 28 March 1791, they stole a boat from the Governor and set out for Timor, north of Australia, where there were many Dutch colonial settlements were.
+
+In an extraordinary tale of survival, all the escapees (including Mary's two small children) made it to Coupang on Timor Island, arriving there on June 5, 1791, a distance of over 5000 difficult and dangerous kilometres.
+
+For a short while, the group was able to convince the Dutch authorities that they were survivors from a shipwreck, but once the truth was known they were locked up and sent to Batavia (current day Jakarta). Emmanuel and William died after contracting a disease, along with three other escapees. Mary and her daughter Charlotte were sent back to England, but Charlotte died on the long voyage.
+
+After arriving back in England in June 1792, Mary was sent to Newgate Prison to await trial for her crimes. She expected that she would be sentenced to death, but instead, Mary's story captured the attention of the media of the time. She became a celebrity and was officially pardoned and discharged in May 1793. She then returned to her family in Cornwall.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-1462073">
+<relationEntry>
+Bryant, Mary (1765-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bryant, Mary', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bryant, Mary</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4436b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004703.htm">
+<relationEntry localType="published">Book: Boswell and the girl from Botany Bay</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pottle, Frederick A</name>
+<title render="italic">Boswell and the girl from Botany Bay</title>
+<imprint>
+<publisher>Viking</publisher>
+<date>1938</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004702.htm">
+<relationEntry localType="published">Resource: First Fleet Online</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wills, Sandra and Bunnett, Adair</name>
+<title render="italic">First Fleet Online</title>
+<imprint>
+<publisher>University of Woolongong</publisher>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://firstfleet.uow.edu.au/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004701.htm">
+<relationEntry localType="published">Book: The Transportation, Escape and Pardoning of Mary Bryant</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Currey, C.H.</name>
+<title render="italic">The Transportation, Escape and Pardoning of Mary Bryant</title>
+<imprint>
+<place>Sydney</place>
+<date>1963</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB100001.htm">
+<relationEntry localType="published">Resource Section: Bryant, Mary (b.1765)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Currey, C. H.</name>
+<title render="quoted">Bryant, Mary (b.1765)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A010157b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000540.htm">
+<relationEntry localType="published">Book: Damned Whores and God's Police: The Colonization of Women in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Summers, Anne</name>
+<title render="italic">Damned Whores and God's Police: The Colonization of Women in Australia</title>
+<imprint>
+<place>Ringwood, Vic.</place>
+<publisher>Penguin Books</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

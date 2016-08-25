@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2714</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-06-28">2007-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-19">2015-03-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2714b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Davidson</part>
+<part localType="givenname">Eileen</part>
+<part localType="honorific title">AM, Papal Cross</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+<toDate standardDate="2007-12-31">2007</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Perth, Western Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Perth, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Social worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Catholic social worker Eileen Davidson worked for the United Nations Relief and Rehabilitation Administration's child search operation, and for the International Refugee Organisation, after the Second World War. She raised ₤70,000 for the United Nations International Children's Emergency Fund.</abstract>
+<p>Born in Perth to Robert Alexander and Mary Ellen (née McBreen) Davidson, Mary Eileen Davidson was the eldest of six children. She completed a Bachelor of Arts at the University of Western Australia in 1931, before winning a scholarship to study Social Work at the Catholic University of American in Washington. She graduated in 1935 with a Master of Arts and Diploma in Social Services, and took on work at a children's aid society in Baltimore and at the New York Foundling Hospital. In 1936 she travelled to England, where she completed an almoner's certificate and worked at St Thomas' Hospital, London.</p>
+<p>Back home in 1937, Davidson set up a Department of Social Work at Lewisham Hospital. One of Australia's first qualified social workers, she guided the development of the profession in this country and helped to establish the Catholic Trained Social Workers Association in Sydney in 1940. She later taught at St Vincent's and Royal Prince Alfred Hospitals in Sydney, and was the inaugural secretary of the NSW Association for Mental Health.</p>
+<p>In 1945 Davidson was recruited to join the United Nations Relief and Rehabilitation Administration's child search operation, helping children of Eastern occupied territories who were displaced, orphaned or had survived concentration camps, to find their families. On her return to Australia she raised ₤70,000 for the United Nations International Children's Fund with public speeches about postwar European children. She later worked for the World Health Organisation in Germany and Thailand.</p>
+<p>Davidson was awarded a Papal Cross in 1992, and became a Member in the Order of Australia (AM) in 2001. Never married, she outlived her five siblings and died at the age of 97 in Perth.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-767096">
+<relationEntry>
+Davidson, Eileen (1909-2007)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Davidson, Eileen', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Davidson, Eileen</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2714b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP005590.htm">
+<relationEntry localType="published">Site Exhibition: The Encyclopedia of Women and Leadership in Twentieth-Century Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Smart, Judith and Swain, Shurlee (eds)</name>
+<title render="italic">The Encyclopedia of Women and Leadership in Twentieth-Century Australia</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/leaders"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004275.htm">
+<relationEntry localType="published">Thesis: The Professionalisation of Australian Catholic Social Welfare, 1920-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gleeson, Damian John</name>
+<title render="quoted">The Professionalisation of Australian Catholic Social Welfare, 1920-1985</title>
+<imprint>
+<place>NSW</place>
+<publisher>University of New South Wales</publisher>
+<date>2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003863.htm">
+<relationEntry localType="published">Article: A voice for lost children of war: Eileen Davidson, 1909-2007</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sankey, Mary</name>
+<title render="quoted">A voice for lost children of war: Eileen Davidson, 1909-2007</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/news/obituaries/a-voice-for-lost-children-of-war/2007/06/25/1182623818041.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003862.htm">
+<relationEntry localType="published">Article: Chronological History of the Medical Benevolent Association of N.S.W.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pope, D., and M. Doughty</name>
+<title render="quoted">Chronological History of the Medical Benevolent Association of N.S.W.</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.mbansw.org.au/mba/history.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH002085.htm">
+<relationEntry localType="archival">Seven social workers from Asia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, National Office</repository>
+<unittitle>Seven social workers from Asia</unittitle>
+<unitid>A1501:Photographic negatives, single number series with 'A' [Asian] prefix; image number A1501:A286/2</unitid>
+<unitdate>1956</unitdate>
+<abstract>(1 photographic negative: b&amp;w, acetate) Seven social workers from Asia who have completed a special one year course in Australia under the Colombo Plan, were recently presented with certificates by the Vice-Cancellor of Sydney University, Professor S H Roberts, in a ceremony in the Senate Room of the University. Three of the students are from Indonesia, two from Burma and one each from Thailand and the Philippines - Maung Sann (left) and Maung Hla Aung, both from Burma with the guest speaker at the presentation ceremony, Miss Eileen Davidson, who until recently was the Social Welfare Officer with the United Nations Technical Assistance Administration in Bangkok</abstract>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

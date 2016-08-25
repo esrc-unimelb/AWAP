@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1144</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2004-12-22">2004-12-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Jane Carey</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-11">2016-05-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1144b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Smith</part>
+<part localType="givenname">Addie Viola</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1893-01-01">1893</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Lawyer</term>
+</occupation>
+<occupation>
+<term>Feminist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Addie Viola Smith, lawyer and feminist, held various offices with the Australian Federation of Women Voters and the League of Women Voters (New South Wales) from the late 1950s until her death in 1975. She was Liaison Representative for the International Federation of Women Lawyers to the United Nations, 1952-1966. She was a member of the Australian delegation that attended the International Alliance of Women Congresses in Dublin, 1961, and Trieste, 1964. She served as Vice-President, 1968-1970, and was made an honorary life member in 1972, of the Australian Local Government Women's Association.</abstract>
+<p>Addie Viola Smith (1893-1975) was born in Stockton, California, U.S.A.. After graduating from the Washington College of Law, Washington, D.C., in 1920, she embarked on a career in in the U.S. Civil and Foreign Service. From 1920 to 1948 she held postings in economic and trade promotion in China, and from 1949 to 1951 she served with E.C.A.F.E.. From 1952 to 1966 she was representative to the U.N. for the International Federation of Women Lawyers and a member of its Executive Committee. A Vice-President of the Australian Local Government Women's Association from 1968 to 1970, she published, in 1975, Women in Australian Parliaments, Past and Present : A Survey. In 1957 she had made her retirement home with Eleanor Hinder at Neutral Bay in Sydney. She assisted and significantly augmented Eleanor's genealogical researches. Among Smith's duties as executrix of Eleanor Hinder's estate, were the arranging and annotating of her friend's papers for deposit in the Mitchell Library, tasks that she faithfully and diligently executed over the rest of her life.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0117b.htm">
+<relationEntry localType="Corporate Body">
+Australian Federation of Women Voters (1921 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1041b.htm">
+<relationEntry localType="Person">
+Hinder, Eleanor Mary (1893 - 1963)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE1141b.htm">
+<relationEntry localType="Corporate Body">
+Australian Local Government Women's Association - New South Wales Branch (1952 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775070">
+<relationEntry>
+Smith, Addie Viola (1893-1975)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Smith, Addie Viola', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Smith, Addie Viola</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1144b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/ADB101036.htm">
+<relationEntry localType="published">Resource Section: Smith, Addie Viola (1893-1975)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barker, Heather</name>
+<title render="quoted">Smith, Addie Viola (1893-1975)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A160316b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001788.htm">
+<relationEntry localType="archival">Eleanor M. Hinder - papers, 1837-1963, together with the papers of A. Viola Smith, ca. 1850-1975</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>Eleanor M. Hinder - papers, 1837-1963, together with the papers of A. Viola Smith, ca. 1850-1975</unittitle>
+<unitid>MLMSS 770</unitid>
+<unitdate>1850 - 1975</unitdate>
+<abstract>Contents  : I. PERSONAL CORRESPONDENCE, 1923-1963
+II. PROFESSIONAL FILES, ca. 1919-1963
+A. Farmer and Company, ca. 1919-1926
+B. Young Women's Christian Association of China, 1896, 1927-1937
+C. Pan-Pacific Women's Conference, Honolulu, Hawaii (1928), 1928-1929
+D. Employers' Federation of Shanghai, 1931-1945
+E. Shanghai (China). Municipal Council, 1933-1954
+F. International Labour Office, 1942-1948
+G. United Nations Relief and Rehabilitation Administration, 1934-1952
+H. Great Britain. Foreign Office, 1944-1954
+I. Board of Trustees and Rehabilitation Affairs, 1947-1950
+J. United Nations, 1937, 1949-1963
+
+III. SUBJECT FILES, 1918-1975
+A. Individuals, 1924-1963
+B. Organisations, 1951-1971
+C. Miscellaneous, 1918-1975
+
+IV. WRITINGS, 1927-1963
+A. Autobiography and related papers, 1957-1963
+B. Other writings, 1927, 1945, 1952-1959
+
+V. GENEALOGICAL PAPERS, 1837-1970
+A. Hinder family, 1837-1970
+B. Tuckerman family, 1952-1966
+
+VI. MISCELLANEOUS PAPERS, 1914-1974
+
+VII. PAPERS OF AND CONCERNING AGATHA HARRISON, 1916-1962
+
+VIII. PRINTED BOOKS, 1837-1970
+
+IX. PHOTOGRAPHS AND REALIA, 1916-1968
+
+X. PAPERS OF A. VIOLA SMITH, ca. 1850-1975
+A. Hinder family genealogy and chronology
+B. Correspondence concerning Hinder family genealogy
+C. Genealogical subject files - Hinder family - Paternal line
+D. Genealogical subject files - Hinder family - Maternal line
+E. Genealogical subject files - Tuckerman family
+F. Subject files - Organisations
+G. Subject files concerning Eleanor Hinder's immediate family
+H. Miscellaneous personal papers
+I. Papers concerning the estate of Eleanor Hinder</abstract>
+<physdesc>
+<extent>4.8 m, 34 boxes</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH001931.htm">
+<relationEntry localType="archival">A. Viola Smith - further papers</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Mitchell and Dixson Libraries Manuscripts Collection, State Library of New South Wales</repository>
+<unittitle>A. Viola Smith - further papers</unittitle>
+<unitid>MLMSS 7032</unitid>
+<unitdate>1957 - 1975</unitdate>
+<abstract>1964-1973; Papers concerning the International Alliance of Women's 'Study on Women's Use of the Vote'
+1967-1973; 'Women's Use of the Vote...Reply to International Alliance Women Questionnaire ...Work Copy'
+1964-1975; 'Voting Methods', including circulars from Alderman Marjorie Propsting (Lane Cove), President of the Australian Local Government Women's Association
+1968-1975; Papers concerning activities as Liaison Representative for the International Federation of Women Lawyers to the United Nations
+1957-1973; 'Australian Federation of Women Voters Constitution; Correspondence; Board Meeting Minutes'
+1960-1973; 'Dawn [:] Journal of AFWVoters', being mainly notes for correspondence concerning The Dawn newsletter
+1960-1975; 'League of Women Voters New South Wales'</abstract>
+<physdesc>
+<extent>0.17 m, 1 box</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

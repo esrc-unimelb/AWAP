@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0496</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-08-19">2003-08-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0496b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Craig</part>
+<part localType="givenname">Audrey Beatrice</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="maiden name"><part>Herring, Audrey</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1910-01-28">28 January 1910</fromDate>
+<toDate standardDate="1948-03-31">March 1948</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-28">28 January 1910</fromDate>
+<toDate standardDate="1994-05-11">11 May 1994</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>On 17 March 1946, Wing Officer Audrey Herring was appointed to the position of Staff Officer in the Directorate of Personal Services Women's Auxiliary Australian Airforce (WAAAF). Previously the Deputy Director WAAAF since 17 November 1943, in this new appointment Herring became responsible for all WAAAF matters.
+
+Prior to joining the WAAAF, Herring worked as a journalist at the <span style="font-style:italic">Courier Mail</span> in Brisbane and also wrote for <span style="font-style:italic">Women's Weekly</span> before she worked on Fleet Street, London, in 1937. Following the outbreak of the World War II she returned to Brisbane and became a Red Cross volunteer, at times cooking breakfasts for servicemen on leave.
+
+After joining the WAAAF, Herring completed the No 1 administrative course at Methodist Ladies College, Kew. During her time in the Service she was promoted through the ranks and before being discharged was effectively in charge of the organisation.
+
+In 1947 Herring was recruited by Sir Keith Murdoch to become the women's editor for the <span style="font-style:italic">Herald and Weekly Times.</span> She left the company in March 1948 to marry Dr John Craig and the couple moved to Western Australia.
+
+In Perth Audrey Craig became involved with community services. She was a member of the Western Australian branch of the Save the Children Fund and sponsored children from destitute backgrounds for 35 years. Also she was a board member of the Western Australian Hospital Benefits Fund for 15 years as well as being a friend of the Royal Perth Hospital for 25 years and a financial supporter of the Bible Society of Australia.
+
+Audrey Craig died on 11 May 1994 in Western Australia.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1930-01-01">c. 1930</fromDate>
+<toDate standardDate="1940-12-31">c. 1940</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0400b.htm">
+<relationEntry localType="Corporate Body">
+Women's Auxiliary Australian Air Force (WAAAF) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1946-10-07">7 October 1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-766050">
+<relationEntry>
+Craig, Audrey Beatrice (1910-1994)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Craig, Audrey Beatrice', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Craig, Audrey Beatrice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0496b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001950.htm">
+<relationEntry localType="published">Resource Section: HERRING, AUDREY BEATRICE</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">HERRING, AUDREY BEATRICE</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<bibseries>
+<title render="italic">World War 2 Nominal Roll</title>
+<name type="author">Department of Veterans' Affairs</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1069835"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001949.htm">
+<relationEntry localType="published">Newspaper Article: High-flyer in print and volunteer work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">High-flyer in print and volunteer work</title>
+<imprint>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">Herald Sun</title>
+<num type="issue">Obituaries</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001837.htm">
+<relationEntry localType="published">Book: The WAAAF in Wartime Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thomson, Joyce A</name>
+<title render="italic">The WAAAF in Wartime Australia</title>
+<imprint>
+<place>Carlton, Vic.</place>
+<publisher>Melbourne University Press</publisher>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00143.htm">
+<relationEntry localType="digitalObject">Wing Officer (Wing Off) Audrey Herring WAAAF</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Wing Officer (Wing Off) Audrey Herring WAAAF</unittitle>
+<unitid>VIC1487</unitid>
+<unitdate>March 1946</unitdate>
+<abstract>Portrait of Wing Officer (Wing Off) Audrey Herring WAAAF, Staff Officer in the Directorate of Personal Services, Air Force Headquarters (AFHQ), Victoria Barracks. Wing Off Herring had been Deputy Director WAAAF since 1943-11-17 and in this appointment became responsible for all WAAAF matters following the demobilization of Group Officer Stevenson, Director WAAAF, on 1946-03-19.</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/objects/D00142.htm">
+<relationEntry localType="digitalObject">Wing Commander J. R. Gordon with members of the WAAAF.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>Wing Commander J. R. Gordon with members of the WAAAF.</unittitle>
+<unitid>P00048.052</unitid>
+<unitdate>18 March 1943</unitdate>
+<abstract>Wing Commander J. R. Gordon with members of the WAAAF. Left to right: Group Officer Clare Stevenson, Director, WAAAF; Squadron Officer Audrey Herring and Assistant Section Officer B. Dow, Women's Auxiliary Australian Air Force (WAAAF), Public Relations. (DONOR - B. GORDON).</abstract>
+<physdesc>Black &amp; white<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

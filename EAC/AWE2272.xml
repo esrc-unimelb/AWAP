@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE2272</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2007-01-31">2007-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE2272b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Rolton</part>
+<part localType="givenname">Gillian</part>
+<part localType="honorific title">AM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<occupations>
+<occupation>
+<term>Equestrienne</term>
+</occupation>
+<occupation>
+<term>Olympian</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Gillian Rolton is Australia's first female equestrian gold-medallist. She has won or placed at the Olympic Games, the World Championships, the Trans-Tasman's and international competitions in Europe and Australia.</abstract>
+<p>A schoolteacher from Adelaide, Gillian Rolton was a Show and Dressage rider from the age of ten until her early twenties. She began Eventing and Showjumping at twenty-one, and has been competing at an international level since 1984. Rolton was long-listed for the Olympic Games at Los Angeles and Seoul, but missed out on both due to injury (to the horse in the first instance, and to herself in the second). In 1992 she was a late inclusion the Australian equestrian team competing at the Barcelona Olympic Games after she beat all male members of the team in the final selection trial at Savernake, England. Competing alongside Matt Ryan and Andrew Hoy, Rolton rode an excellent round on <span style="font-style:italic">Peppermint Grove</span> on the final day of competition, and became the first Australian female equestrian to win a gold medal.</p>
+<p>Rolton achieved even greater notoriety after the Olympic Games in Atlanta in 1996. Thrown twice from <span style="font-style:italic">Peppermint Grove</span> in the cross-country section, Rolton remounted and finished the course despite a broken collar-bone and two broken ribs. The Australian team, comprised of Andrew Hoy, Wendy Schaeffer, Phillip Dutton and Rolton, won gold.</p>
+<p>Since 2003, Rolton has been coordinating and coaching the EFA National Young Eventing Rider Squad. She is an FEI International Eventing judge and is on the Board of Adelaide International Horse Trials.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1992-12-31">1992</toDate>
+</dateRange>
+<event>Gold Medalist at the Barcelona Olympic Games - Equestrian - Three day Event (Team)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1996-01-01">1996</fromDate>
+<toDate standardDate="1996-12-31">1996</toDate>
+</dateRange>
+<event>Gold Medalist at the Atlanta Olympic Games - Equestrian - Three Day Event (Team)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-715071">
+<relationEntry>
+Rolton, Gillian (1956-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rolton, Gillian', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rolton, Gillian</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE2272b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003804.htm">
+<relationEntry localType="published">Book: Free Rein</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rolton, Gillian</name>
+<title render="italic">Free Rein</title>
+<imprint>
+<place>Pymble, NSW</place>
+<publisher>Harper Collins</publisher>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The autobiography of an olympic heroin</title>
+<num type="pages">323</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003847.htm">
+<relationEntry localType="published">Resource: Australia at the Games</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Olympic Committee</name>
+<title render="italic">Australia at the Games</title>
+<imprint>
+<publisher>Australian Olympic Committee</publisher>
+<date>2006</date>
+</imprint>
+<extptr linktype="simple" href="http://corporate.olympics.com.au/index.cfm?p=25"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004263.htm">
+<relationEntry localType="published">Site Exhibition: She's Game: Women Making Australian Sporting History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">She's Game: Women Making Australian Sporting History</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/sg/sport-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003727.htm">
+<relationEntry localType="published">Edited Book: The Oxford Companion to Australian Sport</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vamplew, Vray; Moore, Katharine; O'Hara, John; Cashman, Richard; Jobling, Ian</name>
+<title render="italic">The Oxford Companion to Australian Sport</title>
+<edition>Revised Second</edition>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

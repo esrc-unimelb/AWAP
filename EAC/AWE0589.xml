@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE0589</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2003-10-07">2003-10-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Anne Heywood</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE0589b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Backhouse</part>
+<part localType="givenname">Enid</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-05-21">21 May 1917</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Northam, Western Australia, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Novelist</term>
+</occupation>
+<occupation>
+<term>Servicewoman</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>After serving with the Women's Auxiliary Air Force (WAAAF) during the Second World War, Elizabeth Backhouse worked as a scriptwriter with Korda Films in England. Backhouse returned to Australia in 1951. She is a writer of novels, children's stories, plays, filmscripts, a ballet and a musical.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0400b.htm">
+<relationEntry localType="Corporate Body">
+Women's Auxiliary Australian Air Force (WAAAF) (1941 - 1947)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1942-02-18">18 February 1942</fromDate>
+<toDate standardDate="1946-03-12">12 March 1946</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-743092">
+<relationEntry>
+Backhouse, Enid (1917-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Backhouse, Enid (Elizabeth)', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Backhouse, Enid (Elizabeth)</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0589b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002142.htm">
+<relationEntry localType="published">Resource Section: BACKHOUSE, ENID ELIZABETH</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Veterans' Affairs</name>
+<title render="quoted">BACKHOUSE, ENID ELIZABETH</title>
+<imprint>
+<publisher>Department of Veterans' Affairs</publisher>
+<date>2002</date>
+</imprint>
+<extptr linktype="simple" href="http://www.ww2roll.gov.au/script/veteran.asp?ServiceID=R&amp;VeteranID=1069518"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004440.htm">
+<relationEntry localType="published">Resource: AustLit: The Australian Literature Resource</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">AustLit: The Australian Literature Resource</title>
+<imprint>
+<date>2002</date>
+</imprint>
+<extptr linktype="simple" href="http://www.austlit.edu.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001147.htm">
+<relationEntry localType="published">Book: Australian women writers : a bibliographic guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Adelaide, Debra</name>
+<title render="italic">Australian women writers : a bibliographic guide</title>
+<imprint>
+<place>London ; Sydney</place>
+<publisher>Pandora Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000987.htm">
+<relationEntry localType="archival">Backhouse, Elizabeth Papers [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>JS Battye Library of West Australian History, State Library of Western Australia</repository>
+<unittitle>Backhouse, Elizabeth Papers [manuscript]</unittitle>
+<unitid>ACC 4546A</unitid>
+<unitdate>1933 - 1993</unitdate>
+<abstract>Mss. of "Against time and place", "Windmill in the sky", "The beckoning", "Hay St. East", and "Childrens of the winds and the sea"; film scripts and scripts for stage plays; budget controls and filming schedule for "Crying of the gulls" (1976) and "Do you remember Sally?" (1977); correspondence re "The olive tree" (1976-1979); production files for "The mirage"; 1st ed. of "Jarrah leaves", a literary journal (1933); watercolours and mezzotints, illustrations for children's books; photographs of Irene Carter; programme for "The thin line" (1968)</abstract>
+<physdesc>
+<extent>1.12 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000986.htm">
+<relationEntry localType="archival">Interview with Elizabeth Backhouse, writer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Interview with Elizabeth Backhouse, writer</unittitle>
+<unitdate> - 1993</unitdate>
+<abstract>Backhouse speaks of her life and achievements as a writer of novels, children's stories, plays, filmscripts, a ballet and a musical. She describes her family background; attempted rape; early writing; mother's inability to show affection; secretarial studies; writing poetry; enlisting in WAAAF; writing Against Time and Place; ideas for books; having books published; The Iron Horse; Enone and Quentin; reviews; themes; In Our Hands; C.H. Pitman; living in England in 1940s; encouragement to write detective novels; working at Korda Films with Paul Vincent Carroll, Leslie Arliss; working for American film-maker Slessor; European travels; writing thrillers, methodology, characterisation; book covers; nursing ill father; living with her mother after his death; rejected novels; The Fourth Picture; The Thin Line; Mirage, and its adaption to film; working as a co-producer; Freemasonry; writing for radio; Kal; Rosie Fishman; Dickens' Magic; A History of Masonry; Windmill in the Sky; writing and clarity; unpublished works; aborted film Cry of the Gulls; Sparrows in the Square; The Fishbowl; Tune on a Samisen; The Young Vagabonds; musical composition; sponsoring children; painting; relationships with men; Muriel Wenborne-Haynes; her clothing shops; writing income.</abstract>
+<physdesc>
+<extent>29 </extent>
+<physfacet>Tape Reels</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

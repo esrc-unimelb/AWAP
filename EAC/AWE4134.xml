@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE4134</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-05">2009-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Nikki Henningham</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE4134b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Hobbs</part>
+<part localType="givenname">Constance Ella</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="preferred name"><part>Hobbs, Connie</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-01-01">1907</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Sydney, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Canberra, Australian Capital Territory, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Actor</term>
+</occupation>
+<occupation>
+<term>Actor</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>The youngest of four children, Connie Hobbs was born in Sydney, educated at St Benedict's School, Broadway but destined for a life on the stage. She left school early, probably at age 11 to tour and train with J.C. Williamson's company. Her last role was at the age of 93 in the television medical drama <span style="font-style:italic">All Saints.</span> In between times, she packed a lot of acting, across a variety of media and forms. She entertained troops during World War II, played Dolly Levi in <span style="font-style:italic">The Matchmaker</span>, the stage play that became the musical <span style="font-style:italic">Hello Dolly</span> and appeared in numerous radio plays and television programs, including <span style="font-style:italic">Bellbird, A Country Practice, Father Dear Father</span> and <span style="font-style:italic">Brides Of Christ.</span> Perhaps one of her best known rolls was that of Madge Allsop, Dame Edna Everage's long-suffering bridesmaid in the film <span style="font-style:italic"> Les Patterson Saves The World</span>.
+
+According to Tony Stephens, who wrote her obituary for the <span style="font-style:italic">Sydney Morning Herald,</span> 'Hobbs was diminutive, beautiful, rebellious and fiercely independent. She could not be persuaded to reveal her true age until she was 90.' S
+
+Hobbss is survived by her daughter, Marilyn, and three grandchildren, John, Alexander and Elizabeth.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/IMP0184b.htm">
+<relationEntry localType="Person">
+Plumb, Gwendoline Jean (Gwen) (1912 - 2002)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Connie Hobbs and Gwen Plumb performed together in a production of <span style="font-style:italic">The Bed Before Yesterday</span></p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-765053">
+<relationEntry>
+Hobbs, Constance Ella (1907-2009)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hobbs, Constance Ella', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hobbs, Constance Ella</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE4134b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

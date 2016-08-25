@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1192</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-05-25">2005-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-16">2013-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1192b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Sculthorpe-Randriamahefa</part>
+<part localType="givenname">Kerry</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1947-01-01">1947</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Farm at Nicholls Rivulet near Oyster Cove?, Tasmania, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal administrator</term>
+</occupation>
+<occupation>
+<term>Public servant</term>
+</occupation>
+<occupation>
+<term>Researcher</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Kerry Sculthorpe-Randriamahefa grew up on a farm at Nicholls Rivulet near Oyster Cove in southern Tasmania. After leaving school at 16 and working at a number of jobs, including secretarial work, waitressing and labouring, she travelled overseas. She received a Diploma in Natural Healing in Stockholm, Sweden, in 1972, and completed bilingual studies in Business and Commercial Practice in 1975. She lived in France and Madagascar before returning to Tasmania in 1977.
+
+In 1981 she received her Bachelor of Arts (Social Work) degree from the University of Tasmania, and in 1987 completed a Graduate Diploma in Public Policy at the Australian National University in Canberra. She worked at the Australian Institute of Aboriginal Studies in the research and administration sections before joining the Australian Public Service in 1987. Since 1990 she has been the manager of the Aboriginal and Torres Strait Islander Commission in Tasmania. She has participated in national forums on indigenous education, health, land rights and legislation, and published a number of papers and reports on Aboriginal issues.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.womenaustralia.info/biogs/AWE0964b.htm">
+<relationEntry localType="Corporate Body">
+Australian Institute of Aboriginal and Torres Strait Islander Studies (1961 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1987-01-01">1987</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-726086">
+<relationEntry>
+Sculthorpe-Randriamahefa, Kerry (1947-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sculthorpe-Randriamahefa, Kerry', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sculthorpe-Randriamahefa, Kerry</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1192b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003492.htm">
+<relationEntry localType="published">Report: Aboriginal consulate</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Randriamahefa, Kerry</name>
+<title render="italic">Aboriginal consulate</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Pugganna News</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003491.htm">
+<relationEntry localType="published">Report: Aborigines and Tasmanian Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Randriamahefa, Kerry</name>
+<title render="italic">Aborigines and Tasmanian Schools</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Education Dept.</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003494.htm">
+<relationEntry localType="published">Picture: Land claim meetings and demonstrations in Tasmania</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maynard, Ricky</name>
+<title render="italic">Land claim meetings and demonstrations in Tasmania</title>
+<bibseries>
+<title render="italic">Ken Colbung and Kerry Randriamahefa</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003493.htm">
+<relationEntry localType="published">Sound recording: AIATSIS Seminar Series 1996: Identity rights, Part 1</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">AIATSIS Seminar Series 1996: Identity rights, Part 1</title>
+<imprint>
+<place>Tasmania</place>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

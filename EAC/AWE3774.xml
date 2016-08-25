@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE3774</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2008-10-20">2008-10-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-02">2016-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE3774b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Tennant</part>
+<part localType="givenname">Kylie</part>
+<part localType="honorific title">OM</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1988-12-31">1988</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Manly, New South Wales, Australia</placeEntry>
+</place>
+<place>
+<placeRole>Place of Death</placeRole>
+<placeEntry>Blue Mountains, New South Wales</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Author</term>
+</occupation>
+<occupation>
+<term>Journalist</term>
+</occupation>
+<occupation>
+<term>Print journalist</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>As a young woman, Kylie Tennant worked as an assisant producer for ABC radio before returning to study at Sydney University. She cut short her studies to travel and write, and in 1932 married a former fellow-student, Lewis Rodd. They had two children.
+
+Tennant's journalistic career began with several articles and short stories published in <span style="font-style:italic">Smith's Weekly</span> and <span style="font-style:italic">The Bulletin</span>. She worked variously as a novelist, playwright, short-story writer, critic, biographer and historian. Two of her novels were made into television mini-series.
+
+Kylie Tennant's bibliography is extensive. A selection of publications are listed below.
+
+For more information, see also http://www.burnetsbooks.com.au/bibliographies/tennant.htm</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1930-01-01">c. 1930</fromDate>
+<toDate standardDate="1950-12-31">c. 1950</toDate>
+</dateRange>
+<event>Career in journalism active</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-534189">
+<relationEntry>
+Tennant, Kylie (-1988)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tennant, Kylie', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tennant, Kylie</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE3774b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004232.htm">
+<relationEntry localType="published">Book: The Missing Heir: The Autobiography of Kylie Tennant</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Missing Heir: The Autobiography of Kylie Tennant</title>
+<imprint>
+<place>South Melbourne</place>
+<publisher>Macmillan</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004223.htm">
+<relationEntry localType="published">Book: Australia, Her Story: Notes on a Nation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Australia, Her Story: Notes on a Nation</title>
+<imprint>
+<place>London</place>
+<publisher>Macmillan</publisher>
+<date>1953</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004224.htm">
+<relationEntry localType="published">Book: The Battlers</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Battlers</title>
+<imprint>
+<place>London</place>
+<publisher>Gollancz</publisher>
+<date>1941</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004225.htm">
+<relationEntry localType="published">Book: The Bushrangers' Christmas Eve and Other Plays</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Bushrangers' Christmas Eve and Other Plays</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Macmillan</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004226.htm">
+<relationEntry localType="published">Lecture: The Development of the Australian Novel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Development of the Australian Novel</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Canberra University College</publisher>
+<date>1959</date>
+</imprint>
+<bibseries>
+<title render="italic">Commonwealth Literary Fund Lectures</title>
+<num type="pages">14</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004227.htm">
+<relationEntry localType="published">Book: Evatt: Politics and Justice</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Evatt: Politics and Justice</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004228.htm">
+<relationEntry localType="published">Book: Foveaux</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Foveaux</title>
+<imprint>
+<place>London</place>
+<publisher>Gollancz</publisher>
+<date>1939</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004229.htm">
+<relationEntry localType="published">Book: The Honey Flow</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Honey Flow</title>
+<imprint>
+<place>London</place>
+<publisher>Macmillan</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004231.htm">
+<relationEntry localType="published">Book: Lost Haven</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Lost Haven</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Macmillan</publisher>
+<date>1946</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004233.htm">
+<relationEntry localType="published">Book: Ride On Stranger</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Ride On Stranger</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1943</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004234.htm">
+<relationEntry localType="published">Book: Speak You So Gently</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Speak You So Gently</title>
+<imprint>
+<place>London</place>
+<publisher>Gollanos</publisher>
+<date>1959</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004235.htm">
+<relationEntry localType="published">Book: Tantavallon</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Tantavallon</title>
+<imprint>
+<place>South Melbourne</place>
+<publisher>Macmillan</publisher>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004236.htm">
+<relationEntry localType="published">Book: Tell Morning This</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Tell Morning This</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus &amp; Robertson</publisher>
+<date>1967</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004237.htm">
+<relationEntry localType="published">Book: Tether a Dragon</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Tether a Dragon</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Associated General Publications</publisher>
+<date>1952</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004238.htm">
+<relationEntry localType="published">Book: Tiburon</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Tiburon</title>
+<imprint>
+<place>Sydney</place>
+<publisher>The Bulletin</publisher>
+<date>1935</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004239.htm">
+<relationEntry localType="published">Book: Time Enough Later</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">Time Enough Later</title>
+<imprint>
+<place>London</place>
+<publisher>Macmillan</publisher>
+<date>1945</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004230.htm">
+<relationEntry localType="published">Book: The Joyful Condemned</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tennant, Kylie</name>
+<title render="italic">The Joyful Condemned</title>
+<imprint>
+<place>London</place>
+<publisher>Macmillan</publisher>
+<date>1953</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004018.htm">
+<relationEntry localType="published">Book: The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">De Vries, Susanna</name>
+<title render="italic">The Complete Book of Great Australian Women: Thirty-six women who changed the course of Australia</title>
+<imprint>
+<place>Sydney</place>
+<publisher>HarperCollins</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP004262.htm">
+<relationEntry localType="published">Site Exhibition: The Women's Pages: Australian Women and Journalism since 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">The Women's Pages: Australian Women and Journalism since 1850</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/cal/cal-home.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000117.htm">
+<relationEntry localType="archival">Papers of Eleanor Dark</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Manuscript Collection</repository>
+<unittitle>Papers of Eleanor Dark</unittitle>
+<unitid>MS 4998</unitid>
+<unitdate>1923 - 1974</unitdate>
+<abstract>The collection consists of newspaper clippings (1936-1954) mainly reviews of Eleanor Dark's                   novels, and letters (1923-1974) from a number of the prominent Australian literary figures of the period. The correspondents include Manning Clark, Kate Baker, Jean Devaney, Flora Eldershaw, Mary Gilmore, Vance and Nettie Palmer, Miles Franklin, Eric Lowe, Marjorie Barnard, Ethel Turner, Xavier Herbert, Frank Dalby Davison, Brian Fitzpatrick, Alec Chisholm, Kylie Tennant, Meta Mackan, Ruth Park, Ethel Curlewis, C.B. Christesen.</abstract>
+<physdesc>
+<extent>0.1 m</extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

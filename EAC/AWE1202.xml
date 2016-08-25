@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AWE1202</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2005-06-01">2005-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Leonarda Kovacic and Barbara Lemon</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-13">2013-09-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/AWE1202b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Torres</part>
+<part localType="givenname">Patricia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Broome, Western Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Aboriginal artist</term>
+</occupation>
+<occupation>
+<term>Community worker</term>
+</occupation>
+<occupation>
+<term>Health worker</term>
+</occupation>
+<occupation>
+<term>Educator</term>
+</occupation>
+<occupation>
+<term>Aboriginal administrator</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Patricia Torres, of Yawuru, Nyikina, Bardi, Punuba and Walmatjarri descent, was born in Broome, Western Australia. She completed a secretarial training course, a Bachelor of Arts degree and a Diploma of Education.
+
+Torres became a health worker with the national Aboriginal trachoma program in Western Australia. In 1978 she became a Legal Aid Field Officer with the Tasmanian Aboriginal Centre, where she designed and conducted a statewide socioeconomic survey of Aboriginal families. She was a Curriculum Development Officer with the state Education Department in Hobart during 1981. Upon her return to Western Australia, she was appointed Secretary to the Kimberley Land Council at Derby. From 1982 to 1989 she worked for the federal Department of Education and Youth Affairs, serving in Broome, Darwin and Canberra.
+
+Since then, Torres has concentrated on writing, art and community work. She has recorded Kimberley oral history, published a couple of bilingual children's books which she also illustrated, created posters for national events and recordings of stories. She has worked with many Kimberley community organisations, including the Yawuru Aboriginal Corporation, Winarn Aboriginal Arts and Crafts, Magabala Books and the Broome Aboriginal Media Association.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-725070">
+<relationEntry>
+Torres, Patricia (1956-)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Torres, Patricia', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Torres, Patricia</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE1202b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003524.htm">
+<relationEntry localType="published">Book: Do not go around the edges</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Utemorrah, Daisy (illustrated by Pat Torres)</name>
+<title render="italic">Do not go around the edges</title>
+<imprint>
+<place>Broome, WA</place>
+<publisher>Magabala Books</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003523.htm">
+<relationEntry localType="published">Journal Article: Aborigines and archaeologists</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Torres, Patricia</name>
+<title render="quoted">Aborigines and archaeologists</title>
+<imprint>
+<date>1980</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Archaeology</title>
+<num type="volume">10</num>
+<num type="pages">9-10</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP003522.htm">
+<relationEntry localType="published">Book Section: Writing for children: interview with Pat Torres</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Torres, Patricia</name>
+<title render="quoted">Writing for children: interview with Pat Torres</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Dangaroo Press</publisher>
+<date>1988</date>
+</imprint>
+<bibseries>
+<title render="italic">Aboriginal culture today</title>
+<name type="author">Rutherford, Anna</name>
+<num type="pages">191-197</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001014.htm">
+<relationEntry localType="published">Book: Murawina : Australian women of high achievement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Roberta Sykes ; photography by Sandy Edwards</name>
+<title render="italic">Murawina : Australian women of high achievement</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001003.htm">
+<relationEntry localType="published">Edited Book: The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Horton, David</name>
+<title render="italic">The Encyclopaedia of Aboriginal Australia : Aboriginal and Torres Strait Islander history, society and culture</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Aboriginal Studies Press for AIATSIS</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

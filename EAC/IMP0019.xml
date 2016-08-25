@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>IMP0019</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:AWR</agencyCode>
+<agencyName>The  Australian Women's Register</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Person</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2002-04-24">2002-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-30">2014-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.womenaustralia.info/biogs/IMP0019b.htm</entityId>
+<entityType>person</entityType>
+<nameEntry><part localType="familyname">Chisholm</part>
+<part localType="givenname">Alice Isabel</part>
+<part localType="honorific title">Dame, DBE, OBE</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1856-07-03">3 July 1856</fromDate>
+<toDate standardDate="1954-05-31">31 May 1954</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Place of Birth</placeRole>
+<placeEntry>Goulburn, New South Wales, Australia</placeEntry>
+</place>
+</places>
+<occupations>
+<occupation>
+<term>Superintendent</term>
+</occupation>
+<occupation>
+<term>Charity worker</term>
+</occupation>
+</occupations>
+<biogHist>
+<abstract>Alice Chisholm, who was born in country New South Wales, was known for the provision of canteen services for soldiers in the middle east during World War I. On travelling to Egypt to be near her son who was wounded at Gallipoli, she was concerned at the inadequate amenities for soldiers in Cairo and subsequently, using mainly her own resources, established canteens in Heliopolis, an outer suburb of Cairo, and at Kantara, on the west bank of the Suez Canal. Ably assisted by Verania McPhillamy and Miss Rout, they developed Kantara into a soldiers' club. Known as 'Mother Chisholm's', it provided hot showers and competent, caring service to the thousands of soldiers who spent their leave there. At the end of the war the women insisted that the profits from the canteens be used to provide canteen facilities on the troop ships which were carrying the men home. In recognition of her work in Egypt, Alice Chisholm was appointed Officer of the Order of the British Empire in 1918 and Dame Commander of the Order of the British Empire on 3 March 1920 for organisation of canteens for the troops. Her later work included the presidency of the Cumberland branch of the Country Women's Association from 1923-1927, and a commitment to the Royal Society for the Prevention of Cruelty to Animals.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="identity" xlink:type="simple" xlink:href="http://nla.gov.au/nla.party-775067">
+<relationEntry>
+Chisholm, Alice Isabel (1856-1954)
+</relationEntry>
+<descriptiveNote><p>Trove</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Chisholm, Alice Isabel', in <span style="font-style:italic">The  Australian Women's Register</span>, National Foundation for Australian Women and The University of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Chisholm, Alice Isabel</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+</imprint>
+<bibseries>
+<title render="italic">The  Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0019b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001216.htm">
+<relationEntry localType="published">Resource Section: Chisholm, Dame Alice Isabel (1856-1954)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hill, A J</name>
+<title render="quoted">Chisholm, Dame Alice Isabel (1856-1954)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adb.online.anu.edu.au/biogs/A070652b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP000786.htm">
+<relationEntry localType="published">Book: Lady of Kantara : a biography of Dame Alice Chisholm, 1856-1954</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Champion, Janet Maxwell</name>
+<title render="italic">Lady of Kantara : a biography of Dame Alice Chisholm, 1856-1954</title>
+<imprint>
+<place>Turramurra, N.S.W</place>
+<publisher>J.M. Champion</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP002590.htm">
+<relationEntry localType="published">Site Exhibition: Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Women's Archives Project</name>
+<title render="italic">Faith, Hope and Charity Australian Women and Imperial Honours: 1901-1989</title>
+<imprint>
+<publisher>Australian Women's Archives Project</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://www.womenaustralia.info/exhib/honours/honours.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.womenaustralia.info/bib/AWP001217.htm">
+<relationEntry localType="published">Book Section: Chisholm, Alice Isabel 1856-1954, DBE, WW1 canteen operator</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Chisholm, Alice Isabel 1856-1954, DBE, WW1 canteen operator</title>
+<imprint>
+<place>Port Melbourne, Victoria</place>
+<publisher>Reed Reference Australia</publisher>
+<date>1994</date>
+</imprint>
+<bibseries>
+<title render="italic">Monash biographical dictionary of 20th century Australia</title>
+<name type="author">John Arnold and Deidre Morris</name>
+<num type="pages">106</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="creatorOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000427.htm">
+<relationEntry localType="archival">Biographical cuttings on Dame Alice Chisholm, known as the Canteen lady of World War 1</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia Newspaper Microcopy Reading Room</repository>
+<unittitle>Biographical cuttings on Dame Alice Chisholm, known as the Canteen lady of World War 1</unittitle>
+<physdesc>
+<extent></extent>
+<physfacet>Press cuttings</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000621.htm">
+<relationEntry localType="archival">Dame Alice Chisholm interviewed by Ida Elizabeth Jenkins</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia, Sydney Office</repository>
+<unittitle>Dame Alice Chisholm interviewed by Ida Elizabeth Jenkins</unittitle>
+<unitid>C102</unitid>
+<unitdate>1952</unitdate>
+<physdesc>
+<extent></extent>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000426.htm">
+<relationEntry localType="archival">Informal portrait of Mrs Chisholm sitting at a table in her room at the canteen which she organised and supervised.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Informal portrait of Mrs Chisholm sitting at a table in her room at the canteen which she organised and supervised.</unittitle>
+<unitid>B00646</unitid>
+<unitdate>1918</unitdate>
+<abstract>Black and white photo taken by J P Campbell at Kantara, November 1918. The caption under the photo reads: 'Informal portrait of Mrs Chisholm sitting at a table in her room at the canteen which she organised and supervised. Opposite her sits an unidentified British staff officer.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000425.htm">
+<relationEntry localType="archival">Portrait of Mrs Chisholm sitting near a building with a cat.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Portrait of Mrs Chisholm sitting near a building with a cat.</unittitle>
+<unitid>B00640</unitid>
+<unitdate>1918</unitdate>
+<abstract>Black and white photo, taken by J P Campbell, Kantara, November 1918. The caption under the photo states; 'Portrait of Mrs Chisholm sitting near a building with a cat. Mrs Chisholm organised and supervised the canteen'.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000424.htm">
+<relationEntry localType="archival">Port Said, Egypt c1916. Mrs Alice Chisholm and her daughter, both of Woollahra and Pennant Hills, NSW</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>Port Said, Egypt c1916. Mrs Alice Chisholm and her daughter, both of Woollahra and Pennant Hills, NSW</unittitle>
+<unitid>P00859.019</unitid>
+<unitdate>1916</unitdate>
+<abstract>One black and white photo, taken by J M Beith at Port Said, 1916. The summary under the photo reads: 'Mrs Alice Chisholm (left) and her daughter, both of Woollahra and Pennant Hills, NSW, standing in front of the canteen that they established for the benefit of Australian, New Zealand and British soldiers on leave from active service in Egypt. The sign reads "Empire Club for Naval and Military" '.</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="subjectOf" xlink:type="simple" xlink:href="http://www.womenaustralia.info/archives/AWH000423.htm">
+<relationEntry localType="archival">A general view of Mrs Chisholm's canteen</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial Research Centre</repository>
+<unittitle>A general view of Mrs Chisholm's canteen</unittitle>
+<unitid>BOO 639</unitid>
+<unitdate>1918</unitdate>
+<abstract>One black and white photo, taken by J P Campbell at Kantara, November 1918.  The caption under the photo reads. ' A greatly appreciated canteen conducted by two Australian ladies, ( Mrs Alice Chisholm and Miss K McPhillamy,) afforded the nearest home comforts available to the troops in Sinai and Palestine. This canteen was originally founded by Miss Rout, a New Zealander, who was forced through illness, to relinquish it.'</abstract>
+<physdesc>
+<extent></extent>
+<physfacet>Photographs</physfacet>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
